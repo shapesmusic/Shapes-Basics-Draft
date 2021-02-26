@@ -1,0 +1,9 @@
+### Pre-instrument Reflection
+
+This is a good point to pause and take notice of where we are.
+
+The groups of notes are not derived from the songs (although i'd imagine something like the same groups of notes would result, if not in the same larger organization...) but they are set out with a purpose (they're teleological), which is that they will connect us to a lot of concepts. These notes aren't keys, scales, modes, keys, key signatures, etc., but they have the potential to become those things, or to become other things. the instrument diagram is **a symbol, in the shape of an instrument, but not yet an instrument**. the notes don't have names, except for the dots or the keys you'd press to play them, or the regions that represent those keys. [and yet, even without a name, these are concrete ideas that you can grab onto and use. you're improvising with any song you hear. that's incredible when you stop to think about it. getting to this point though smaller ingredients, building things up from scratch, would have made it much more difficult. the process of seeing the larger and smaller pictures is not a linear progression in either direction, but involves a lot of jumping around, a play of context and specifics, yet another form of the opposition of tradition and newness]
+
+i'm pausing to mention this is a marker we can always come back to, to reconnect to something earlier whenever we're making sense of something down the road. it's a kind of source, and we'll find that we can dismantle even this source into smaller ingredients that give us insights into the ways still different approaches developed.  
+
+once again, the goal is to look for the trends, the things that are similar, and to be playful with those things. the most "legit" music concept emerged in this way, and it's also not necessarily so self-aware, or even a distinct concept (take the dorian mode discussion). you get it.

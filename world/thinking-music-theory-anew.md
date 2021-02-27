@@ -1,10 +1,19 @@
-### Intro: *Thinking Music Theory Anew*
+### Thinking Music Theory Anew
 
-#### What's "music theory"?
+<br>
 
-the first thing you'd want is to address what "music theory" means.
+Most of us who are interested in music have a sense that we ought to know something about *music theory*. But what exactly does that mean? Probably that we should be able to name notes, to know our scales and key signatures, to identify chords and chord progressions, to understand song structure, arrangement, and melodic structure, and ideally, to be able to read music.
 
-do so with a simple illustration the approach at large: the easiest way to think of it is, we're handed these concepts that are presented as the elements, the building blocks--what's the simplest thing you can think of--a note name--"This is C"--but C is not a note name, it's a position within a context. it tells you something more than just which note you're playing, because if it were only the name of a note, you wouldn't have situations where different notes are called "C something." So you can decompose even that simplest idea, "C", into smaller ideas, you can open it up, and you can recompose it into different ideas, that you can use in different ways, for different purposes, and to describe different experiences. the whole of the musical system is contained right there in that supposedly smallest building block, and when you start thinking this way, you're no longer learning the system, but you're stepping inside and participating in thinking that system anew, in bringing it to life, in allowing it to evolve.
+All these ideas are handed to us as the elements, the basics, the building blocks of music. They're tools we can use, and they explain how and why music works the way it does.
+
+But hold on a moment. Let's rewind and take a closer look at these building blocks. And let's try to pick the simplest one possible--the first note name most people learn--the note "C".
+
+Leaving aside the question of why the first note most people learn isn't called "A", there's the much stranger matter that "C" isn't necessarily a note name at all. "C" means something more than just which note you're playing, because if its only job were to describe that one note, we wouldn't have situations where the very same note is called, for example, "B sharp" or "D double flat." The name "C", then, might describe something more like a position within a larger context--it suggests more than just that one note. Beyond that, this system of naming notes offers absolutely no way to name a note *without* adding this extra layer of meaning.
+
+This implies something extraordinary, and we might not have even noticed--that it's possible to open up even that simplest idea, "C", into its own set of elements, with the potential to recompose it into different ideas, to use in different ways, for different purposes, and to describe different experiences. The blueprint for a whole musical system is contained right there in that supposedly smallest building block, and when you start thinking this way, you're no longer learning the ideas that are handed down to you, but you're stepping inside and participating in thinking those ideas anew, in bringing them to life, in allowing them to evolve.
+
+Here, we're maybe getting closer to what *music theory* might mean.
+
 
 #### Noticing hidden theories
 
@@ -16,11 +25,19 @@ i think what's interesting also is how strangely linked these things are. if you
 
 now, the defining attribute of a music theorist, the thing that gets you in the door, is something like reflectiveness. you have turned around and looked at what you're doing, seen it in a new way, as something strange and unknown, and began to inquire into it. by the way, this is an aspirational quality of a person in general, and some would say, the truest purpose of education.
 
+  the attitude of a theorist: the point here is to avoid explaining anything. except, perhaps, explaining an ingredient that's composed, in order to compose it, and to allow it to be recomposed. the subtext otherwise is that "this is the way it is." it closes it down rather than opens it up. it makes the idea have power over you, rather than vice versa.
+
+  I also need an argument for why this way of thinking makes the theory more useful, practical, applicable. To a person making music and musical things, not just thinking about it.
+
 and that's where the tricky notion of tradition comes in. tradition, that thing we feel we want to be plugged in to, but that seems somehow not to describe our current experiences. the opposition of tradition and newness. i think this has fallen out of balance, in general, perhaps, but here with respect to music, because of this rift you see in so many forms: "i can improvise but i can't read," "i'm a producer but i don't really know what i'm doing because i don't know theory," i'm design software, so why would i care about xyz..." (flesh that out).
 
 #### Where to begin
 
-i could start at any point in this wide field, from sound design, from music's relationship to mathematics, or from music's relationship to language... and make the argument. but i'm choosing to start with this strange topic we seem to call the "basics" of music theory. these things we think we have to know, these things that seem to come from a far off tradition, perhaps even a tradition that's not been so good to us. because to me, that seems like starting at the extremes--now, and then--and the project is to develop a way to turn static poles into a living, churning, evolving practice where we can move freely across the vast expanse of this terrain and continue to use the inventiveness that springs by its own accord from our own intuition--from our own living in our world--to tend to the body of living skills, tools, concepts, knowledge, and extraordinary artifacts of human imagination that we're going to carry forward.
+i could start at any point in this wide field, from sound design, from music's relationship to mathematics, or from music's relationship to language... and make the argument. but i'm choosing to start with this strange topic we seem to call the "basics" of music theory. these things we think we have to know, these things that seem to come from a far off tradition, perhaps even a tradition that's not been so good to us.
+
+  theory's implied status as the entry into tradition. not that it's the only entry into tradition, but because it has that status. it's the strange thing we think we need to know, that feels strangely outside the immediacy of the tools we use every day. that's the reason we seem to look to it--because *we're looking for a connection to something bigger*. looking into that tension, the opposition that underlies that status.
+
+because to me, that seems like starting at the extremes--now, and then--and the project is to develop a way to turn static poles into a living, churning, evolving practice where we can move freely across the vast expanse of this terrain and continue to use the inventiveness that springs by its own accord from our own intuition--from our own living in our world--to tend to the body of living skills, tools, concepts, knowledge, and extraordinary artifacts of human imagination that we're going to carry forward.
 
 pause on the idea of thinking anew: this is not thinking new thoughts, but thinking thoughts anew (thinking things anew rather than thinking new things). this means a connection of the thoughts that came before, and a reimagining of them in our current lives. it means the thoughts that came immediately before, and of trying to reach further back, as far back as we can. to hold that connection in tension with newness, so that things emerge from it.
 

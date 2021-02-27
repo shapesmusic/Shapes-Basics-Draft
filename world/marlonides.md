@@ -389,10 +389,3 @@ or, will we construct a new matrix of musical models within our own minds that w
 **Marlonides**: when the rules align with the truth, the prison IS liberation
 
 **Iordanes**: This conversation makes me nostalgic for the old days.
-
-
-...
-
-Then review https://workflowy.com/#/0f18bcea81a7
-
-  the point here is to avoid explaining anything. except, perhaps, explaining an ingredient that's composed, in order to compose it, and to allow it to be recomposed. the subtext otherwise is that "this is the way it is." it closes it down rather than opens it up. it makes the idea have power over you, rather than vice versa.

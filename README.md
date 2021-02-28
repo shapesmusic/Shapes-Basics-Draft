@@ -13,8 +13,8 @@ The following path is not the only path through this world, nor is it the shorte
 - Shape Fingerings
 - The Anchor Note
 - Structured Invention
-- Capturing Music
-- A Regular Pulse
+- Matching a Shape
+- Capturing Events in Time
 - When Things Change
 - The Feeling of Fluency
 - Imagination as an Instrument
@@ -64,29 +64,39 @@ The Anchor Note
 
 > this is time to introduce the idea of the anchor note. it's also a kind of tacit knowledge, but not necessarily as clearly as the grouping was. it's something that you can draw out, and develop with the help of an instrument. (and remember here that an instrument is no longer separable from a symbol, a constructed idea).
 
+> the goal here is to introduce the anchor by demonstration--but guessing at it first could be interesting. different people will have different "right" answers, much moreso than for shapes. this is the beginning of *training* ourselves to hear anchors in a more consistent way, which will evolve indirectly by way of training tensions, all of which relies on a very specific theoretical construction of these ideas. this, at least, is a reason to emphasize "anchor" as a theoretical ingredient distinct from "shape."
+
 &#8674; Imagination  
 Structured Invention
 
 > this could be like app lesson 4, imagined structures, pre-notation, focused by the anchor. i like that. in a strange way, it's a precursor to the structured "anchor-higher-lower" entry into a tonescape, and the way that moves into structured movement around a tonescape, and then gradually less structured movement--or rather, that the structuring becomes gradually more internalized. So there's a sort of opposition being set up here, on one hand, a sort of rational structuring, and on the other, an imaginitive unstructuring.
 
+> extend this also to introduce changing bass notes. they are structured around the anchor, but then they provide the structure for imagined voicings. this is the idea of a chord (not to mention the very beginning of the idea of function, a higher order relationship of bass notes to the song's anchor note). playing any voicings of the shape, along with the changing bass notes, begins to sound distinctively like the song, though not in the usual melodic sense.
+
 > this also suggests some other ways to read the regions of overlap. "Instruments-Imagination" can mean, as it does here at first, instruments to aid the imagination, but later, it can also become the imagination as an instrument. also, overlaps are spatially opposite to the center of a region--can you say, for example, that the overlap of Symbols and Instruments is polar to the land of Imagination proper?
 
 &#8674; Imagination-Symbols  
-Capturing Music
+Matching a Shape
+
+> matching a single shape can start by using the diagram as a matching tool (symbol), and evolve to a note-by-note approach (imagination) that only references the idea of the grouping.
+
+&#8674; Symbols  
+Capturing Events in Time
 
 > here will be the place to introduce positional shape notation--a way to capture those structures from imagination-symbols, but only in terms of a succession of events.
 
-&#8674; Symbols  
-A Regular Pulse
+> then add abstracted time, the idea of a regular pulse. think about how different this is from the actual events taking place in the music, why it belongs squarely in the land of symbols, and what that suggests about symbols more generally.
 
-> add abstracted time, the idea of a regular pulse. think about how different this is from the actual events taking place in the music, why it belongs squarely in the land of symbols, and what that suggests about symbols more generally.
+> does notation require a notion of time, and what different approaches to and representations of time are possible? think of a scrolling display versus symbolic rhythmic notation.
 
 &#8674; Symbols-Instruments  
 When Things Change
 
-> notation as an instrument for capturing events in time. like changing shapes and anchors. which complicates the matter of exactly when they change--on the pulse or the event? does notation require a notion of time, and what different approaches to and representations of time are possible? think of a scrolling display versus symbolic rhythmic notation.
+> introduce changing shapes and anchors (as distinct from, but indicated by changing note events), and how changes like these are more general (abstract?), and yet sometimes more accessible, than note-level changes. illustrated by the matter of exactly when they change--on the pulse or the event?
 
 > and what about changes in the events themselves, for example, on a second listening once the context has changed. that's heavy. but the practical take-away is really something like beginning a foundation for ideas like harmonic rhythm, and song structure, and chords changes... spotting when things change, points of articulation, with notation as the "instrument" to do that.
+
+> could we apply these same questions back to the note level? for example, that the note symbol is an abstraction of the sound, it's "onset," etc.
 
 &#8674; Instruments  
 The Feeling of Fluency

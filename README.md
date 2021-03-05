@@ -1,10 +1,10 @@
 # Shapes
-*Thinking Music Theory Anew*
+*Reimagine Musical Basics*
 
 ![shapes world map](map/map.png)
 
 ### A Suggested Path
-The following path is not the only path through this world, nor is it the shortest path. It winds its way again and again through the lands of Symbols, of Instruments, and of Imagination, where, if followed dilligently, it falls clear off the edge of this world, so that you will have to go and discover another. Thus forewarned, you may wish to follow your own path, in which case, you've come to the right world.
+The following path is not the only path through this world, nor is it the shortest path. It winds its way again and again through the lands of Symbols, of Instruments, and of Imagination, where if followed dilligently, it falls clear off the edge of this world, so that you will have to go and discover another. Thus forewarned, you may wish to follow your own path, in which case, you've come to the right world.
 
 - [Thinking Music Theory Anew](world/thinking-music-theory-anew.md)  
 - Playing With the World
@@ -105,6 +105,8 @@ The Feeling of Fluency
 
 > here, since we have shape, anchor, and pulse established, could also be a digression on harmonic mixing in a DJ set. That requires pulse, although pulse wouldn't be the focus.
 
+> go through anchor, two higher, two lower. which will include a thumb pivot.
+
 &#8674; Instruments-Imagination  
 Imagination as an Instrument
 
@@ -117,28 +119,82 @@ Playing Your Mind's Ear
 
 > active anchor-higher-lower. this is actually, concretely starting to play your imagination as an instrument by directing your attention. a precursor to playing your mind's ear. trippy.
 
+> add two higher, two lower, passive and then active.
+
 &#8674; Imagination-Symbols  
 Reading Without an Instrument
 
-> the sight reading activity, but using active tonescapes instead of a physical instrument.
+> switch the naming model to anchor, 2nd, 3rd; anchor, 7th, 6th. a new mental model, symbol system.
+
+> the sight reading activity, but using active tonescapes instead of a physical instrument. anchor, two higher and two lower.
 
 &#8674; Symbols  
 ...
 
-> maybe back to this question of what generalizes across the groups? half and whole steps as an abstraction? the tonal version of the abstraction set up by time in the last pass through Symbols.
+> introduce mood names: "neutral, single light, single heavy" (this and the numbers are transposable, relative symbol systems).
 
-> and/or a way to start getting into context names, or even note names.
+> show that you retain your tonescape tensions in these different moods
+
+> also hear these different moods in some example songs, and name note events in a song as tensions in a mood. all this is about things that generalize: the tonal version of the abstraction set up by time in the last pass through Symbols.
 
 &#8674; Symbols-Instruments  
+
+> introduce indepsol names (things that don't transpose), as the symbol equivalent of a distinctive key on the keyboard.
+
 &#8674; Instruments  
+
+> add 4ths and 5ths to the tactile reading, so now you're working with all tensions in a mood.
+
+> also move into different shapes: top, 5s, 4s. play with all these songs.
+
 &#8674; Instruments-Imagination  
+
+> add 4th and 5th passive tonescapes. hearing all tensions in a mood. then bring in single light and single heavy in addition to neutral.
+
 &#8674; Imagination  
 
+> all tensions active in a neutral tonescape. then free play in a tonescape: neutral, single light, single heavy.
+
 &#8674; Imagination-Symbols  
+
+> all tensions and free play, add double light and double heavy
+
+> pick some structures out of songs, like changing bass notes, or some melodies.
+
 &#8674; Symbols  
 &#8674; Symbols-Instruments  
 &#8674; Instruments  
 &#8674; Instruments-Imagination  
 &#8674; Imagination   
 
+&#8674; Imagination-Symbols  
+&#8674; Symbols  
+&#8674; Symbols-Instruments  
+&#8674; Instruments  
+&#8674; Instruments-Imagination  
+&#8674; Imagination
+
 ...
+
+
+### Threads
+
+- Group &#8674; Shape &#8674; Anchor &#8674; Matching &#8674; Change
+- CK &#8674; Fingering &#8674; SR Notation &#8674; [tactile sequence] &#8674; []
+- Anchor &#8674; Tension &#8674; Mode &#8674; Chord
+- Tension &#8674; Notation &#8674; Time
+
+|Chords|Notation|Imagery|&#10003;|
+|---|---|---|---|
+|||||
+|||||
+||Tension Number Names (Imagination-Symbols)||&#10003;|
+||Independent Solfege (Symbols-Instruments)|||
+|||||
+|||||
+|2nd-4th group shapes|||
+|||||
+|||||
+|||||
+|||||
+|||||

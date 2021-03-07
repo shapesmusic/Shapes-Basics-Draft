@@ -3,8 +3,8 @@
 
 ![shapes world map](map/map.png)
 
-### Welcome, traveler
-The following path is not the only path through this world, nor is it the shortest path. It winds its way again and again through the lands of Symbols, of Instruments, and of Imagination, where, if followed dilligently, it falls clear off the edge of this world, so that you will have to go and discover another. Thus forewarned, you may wish to follow your own path, in which case, you've come to the right world.
+### Welcome
+The following is a suggested path&mdash;it is not the only path through this world, nor is it the shortest path. It winds its way again and again through the lands of Symbols, of Instruments, and of Imagination, where, if followed dilligently, it falls clear off the edge of this world, so that you will have to go and discover another. Thus forewarned, you may wish to follow your own path, in which case, you've come to the right world.
 
 - [Thinking Music Theory Anew](world/thinking-music-theory-anew.md)  
 - Playing With the World

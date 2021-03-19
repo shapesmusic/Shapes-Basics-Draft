@@ -12,7 +12,7 @@ Start &#8674;
 
 
 &#8674; Imagination-Symbols  
-#### Playing With the World
+#### Notes that Fit
 
 > The notion of a group of notes fitting with a song. "fit" and "don't fit," as floating dots. Also the matters of the songs as the world, and the "fit" as a kind of tacit knowledge to leverage.
 
@@ -46,7 +46,7 @@ Start &#8674;
 
 |Reflection|Shapes|Moods|Tactile|Events|Notation|Imagery|
 |---|---|---|---|---|---|---|
-||||||||
+|&#10003;set up potentials|||||||
 
 
 &#8674; Instruments  

@@ -32,4 +32,7 @@ The following is a suggested path&mdash;it is not the only path through this wor
 
 ### Newsletter
 
--
+- Copyright / MIR
+- Products / Musical Toys
+- Songs of Interest
+- Technical Tangents

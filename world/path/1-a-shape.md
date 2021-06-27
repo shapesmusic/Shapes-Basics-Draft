@@ -25,4 +25,4 @@ The temp player:
 ```bash
 python3 -m http.server
 ```
-[http://localhost:8000/desktop/player_1/add5.html](http://localhost:8000/david_local/development_local/Method-Sketch/media/temp_player/a_shape.html)
+[http://localhost:8000/desktop/player_1/a_shape.html](http://localhost:8000/david_local/development_local/Method-Sketch/media/temp_player/a_shape.html)

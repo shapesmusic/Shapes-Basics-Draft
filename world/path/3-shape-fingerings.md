@@ -40,7 +40,11 @@ Steps:
 2. add in thumbs. make it really distinct: "thumbs, 1, 2, 3, thumbs, 1, 2"
 3. move into the 5s, etc.
 
-take a break (regularly) and play around, too. don't just do scales.
+Start each session with playing, then move into working on the fingerings, and end with playing. This starts to introduce some more technique-like stuff than the previous two lessons, so bookend it with playing. You'll probably notice some of the technique stuff working its way into your playing. I also like how this inverts the usual "warm up, then play" routine of practicing scales.
+
+thinking about these as scales, going all the way up and down, versus as being more local, practicing the fingering, picking up the beat, allowing fingering changes, mistakes, letting it become a guide. less as an exercise, but as a way of feeling more comfortable with the keyboard. that should be the "when am i done" goal.
+
+At first, the feeling that it has to be right, to the feeling that it's not about rightness at all.
 
 [A Shape plist]
 [Add5 plist]
@@ -60,6 +64,7 @@ then back to [a_group] plist to add the rest.
 notes:
 - maybe demo what you're going to be able to do first. then it's more tolerable to go through the rote steps, or to listen to stuff about hands fitting keys, etc.
 - you'll still get auditory feedback if you play a note that's outside the shape
+- reiterate that it's the same fingering for each new shape you add. start with the fingering for the previous shape you know, and then adjust one finger for the next shape. That's a different way to think of it than "start with the basic fingering and move into the shape." Both are good, but different.
 
 ## Resources
 
@@ -69,4 +74,4 @@ The temp player:
 ```bash
 python3 -m http.server
 ```
-[http://localhost:8000/desktop/player_1/add5.html](http://localhost:8000/david_local/development_local/Method-Sketch/media/temp_player/a_shape.html)
+[http://localhost:8000/desktop/player_1/add5.html](http://localhost:8000/david_local/development_local/Method-Sketch/media/temp_player/add5.html)

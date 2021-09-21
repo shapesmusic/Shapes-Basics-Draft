@@ -1,5 +1,14 @@
 ### Path Outline
 
+1. A Shape  
+2. A Group of Shapes
+3. Shape Fingerings
+4. The Anchor Note
+5. Playing With the Anchor
+6. Bass Notes
+7. Matching A Shape
+8. Writing Notes in Time
+
 
 #### Thinking Music Theory Anew
 

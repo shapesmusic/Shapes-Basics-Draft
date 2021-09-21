@@ -18,3 +18,17 @@ For Shape Fingerings:
 	Then add 3L and 3R (/add3.html)
 
 	Then throw ‘em all back in (/a_group.html)
+
+
+For Anchors:
+
+	/add4_anchors.html
+	/add3_anchors.html
+	/anchors.html (all the shapes)
+
+
+For matching shapes:
+
+	/matching.html (doesn't require http.server)
+
+	

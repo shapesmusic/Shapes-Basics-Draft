@@ -2,7 +2,7 @@
 
 ## Summary
 
-
+Use a shape to play along with a playlist of songs. Hear when notes fit and don't fit. Start to follow your musical instincts.
 
 ## The Lesson
 
@@ -14,6 +14,19 @@ And here's how to read a shape.
 
 
 ## Things To Think About
+
+### Songs as the world
+A hyper-real snapshot of the present moment, perhaps with one foot in the future.
+
+### Notes that Fit  
+The notion of a group of notes fitting with a song, and the "fit" as a kind of tacit knowledge to leverage.
+
+
+### One of infinite aspects
+Interesting to think what it means to draw out this particular aspect of a tacit relationship with the world, and to be able to play around with it. this both separates us from the world, and brings us closer. it's a sort of scientific discovery, a potential to modify the world, or to inquire into it...
+
+### Is this real music?
+preempt questions like "where are the note names?" or "aren't you just drawing scales on the piano..." etc.
 
 
 

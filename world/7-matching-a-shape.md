@@ -1,5 +1,7 @@
 # Matching A Shape
 
+matching a single shape can start by using the diagram as a matching tool (symbol), and evolve to a note-by-note approach (imagination) that only references the idea of the grouping.
+
 ## Summary
 
 

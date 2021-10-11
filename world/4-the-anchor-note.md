@@ -1,5 +1,9 @@
 # The Anchor Note
 
+this is time to introduce the idea of the anchor note. it's also a kind of tacit knowledge, but not necessarily as clearly as the grouping was. it's something that you can draw out, and develop with the help of an instrument. (and remember here that an instrument is no longer separable from a symbol, a constructed idea).
+
+the goal here is to introduce the anchor by demonstration--but guessing at it first could be interesting. different people will have different "right" answers, much moreso than for shapes. this is the beginning of training ourselves to hear anchors in a more consistent way, which will evolve indirectly by way of training tensions, all of which relies on a very specific theoretical construction of these ideas. this, at least, is a reason to emphasize "anchor" as a theoretical ingredient distinct from "shape."
+
 ## Summary
 
 

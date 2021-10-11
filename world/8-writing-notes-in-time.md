@@ -1,5 +1,11 @@
 # Writing Notes in Time
 
+here will be the place to introduce positional shape notation--a way to capture those structures from imagination-symbols, but only in terms of a succession of events.
+
+then add abstracted time, the idea of a regular pulse. think about how different this is from the actual events taking place in the music, why it belongs squarely in the land of symbols, and what that suggests about symbols more generally.
+
+does notation require a notion of time, and what different approaches to and representations of time are possible? think of a scrolling display versus symbolic rhythmic notation.
+
 ## Summary
 
 

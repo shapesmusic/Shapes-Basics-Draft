@@ -1,5 +1,7 @@
 # Shape Fingerings
 
+and now we're into Instrument territory. why not introduce the physical correspondence, symmetry, and basic shape fingering? you can start on any note, and use the same fingering for any shape. show the top shape fingering and the rule, but suggest branching outward gradually. touch on what this accomplishes in terms of connecting your body to the instrument. and also what it represents (the interface-body relationship) that you could apply to thinking about other instruments--to instruments generally. not to mention diagrams.
+
 ## Summary
 
 How hands match the keyboard, and how to play hands together in any shape, beginning on any note, using only one fingering pattern.

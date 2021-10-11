@@ -1,5 +1,5 @@
 # Shapes
-*Reimagine Musical Basics*
+*A Music Method for the Expert Beginner*
 
 ![shapes world map](map/map.png)
 

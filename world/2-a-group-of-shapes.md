@@ -56,13 +56,17 @@ i'm pausing to mention this is a marker we can always come back to, to reconnect
 
 once again, the goal is to look for the trends, the things that are similar, and to be playful with those things. the most "legit" music concept emerged in this way, and it's also not necessarily so self-aware, or even a distinct concept (take the dorian mode discussion). you get it.
 
+### Some Notes
+- the direction can also (may better be) the direction of the stroke, starting from the bottom. that's more cohesive than thinking of individual top keys.
+- the experience of playing without boundaries (knowing the structure of the group / names of the shapes) is nice to have for a little while. Not just the experience of playing without names, but of playing without worrying about bounded structure.
+- curate by playing. That's different than curating without playing. Need something like a "good to play with" tag. Can I reappropriate "featured" for that and derive what to feature from other fields? I think "featured" was originally "good4shapes" or something like that.
+- also that while you're playing, you're not really thinking in terms of whether you like the song or not. You're focused on a different experience.
+- the broader value of engaging with things you don't like. or that aren't the things you like. also this populates a field. also it maybe requires some kind of neutral approach to populating the playlist. it's not charged in any direction--it's a representation of what you might come across in the world.
+- Some songs are easier to get in to. Why? because they rely less on specific structures? What makes a good intro shapes song?
+- after introducing names, name each new shape as you play.
+- talk about the natural instrument technique in the shape fingerings lesson meta-level.
+
 
 ## Resources
 
 - 13.1.27 lesson 2 script
-
-The temp player:
-```bash
-python3 -m http.server
-```
-[http://localhost:8000/desktop/player_1/a_group.html](http://localhost:8000/david_local/development_local/Method-Sketch/media/temp_player/a_group.html)

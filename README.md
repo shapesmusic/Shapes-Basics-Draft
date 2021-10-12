@@ -30,6 +30,40 @@ The following path is not the only path through this world, nor is it the shorte
 20. All Moods and Tensions  
 ...
 
+### Shorter Paths  
+
+#### Playing
+1. A Shape
+2. A Group of Shapes
+4. The Anchor Note
+5. Playing With the Anchor
+6. Bass Notes
+7. Matching A Shape
+9. All Groups
+10. Changes
+--> Context symbols
+
+#### Tactile --> Instrument SR
+3. Shape Fingerings
+11. The Feeling of Fluency (Part 1)
+17. The Feeling of Fluency (Part 2)
+
+#### Notation --> Context Symbols
+15. Moods
+16. Independent Solfege
+
+#### Imagery / Tonescapes
+4. The Anchor Note
+12. Imagination as an Instrument (Part 1)
+13. Playing Your Mind's Ear (Part 1)
+18. Imagination as an Instrument (Part 2)
+19. Playing Your Mind's Ear (Part 2)
+20. All Moods and Tensions
+--> Paradigm structures   
+--> Gateway of Independence
+
+
+
 ### Playing With Shapes Series
 - Portrait of Rain
 

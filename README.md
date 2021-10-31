@@ -19,15 +19,36 @@ The following path is not the only path through this world, nor is it the shorte
 9. All Groups
 10. Changes
 11. The Feeling of Fluency (Part 1)
+  - Begin SR Tactile sequence through anchor, two higher, two lower. which will include a thumb pivot.
 12. Imagination as an Instrument (Part 1)
+  - Introduce a tonescape and get into passive tensions (anchor-higher-lower)
 13. Playing Your Mind's Ear (Part 1)
+  - Active anchor-higher-lower
+  - then add two higher, two lower, active and then passive.
 14. Reading Without an Instrument
+  - Begin SR Imagery sequence with anchor, two higher and two lower.
+  - and switch the tensions naming model to 2nd, 3rd, 7th, 6th.
 15. Moods
+  - Introduce single light and single heavy moods
+  - introduce "light/heavy" mood names for these moods
+  - *introduce "light/heavy" tension names for 3rds and 6ths within these moods (passive)*
 16. Independent Solfege
+  - Introduce independent solfege names & distinguish from relative names.
 17. The Feeling of Fluency (Part 2)
+  - Add 4th and 5th to the SR tactile sequence (all tensions)
+  - move into 5L/R and 4L/R shapes.
 18. Imagination as an Instrument (Part 2)
+  - Add 4th and 5th to passive tonescapes.
+  - all tensions *"light/heavy" names* in neutral, single light, and single heavy moods (picks up from lesson 15)
 19. Playing Your Mind's Ear (Part 2)
+  - all tensions passive in neutral, single light, and single heavy moods
+  - add double light and double heavy moods
+  - *use "light/heavy" tension names for 3rds, 6ths, 2nds, 7ths*
 20. All Moods and Tensions  
+  - add triple light and triple heavy moods
+  - *use "light/heavy" names for all tensions*
+  - free play in all moods 
+
 ...
 
 ### Shorter Paths  

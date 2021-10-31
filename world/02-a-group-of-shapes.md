@@ -22,6 +22,7 @@ See the shapes as a system, and name them.
 
 Now, name each new shape when you start to play with it.
 
+This is my favorite lesson, because if you do only this, you could figure everything out on your own. 
 
 ## Things To Think About
 

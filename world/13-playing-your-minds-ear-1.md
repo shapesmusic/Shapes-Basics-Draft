@@ -2,7 +2,7 @@
 
 active anchor-higher-lower. this is actually, concretely starting to play your imagination as an instrument by directing your attention. a precursor to playing your mind's ear. trippy.
 
-add two higher, two lower, passive and then active.
+add two higher, two lower, active and then passive.
 
 ## Summary
 

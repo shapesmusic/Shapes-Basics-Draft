@@ -33,9 +33,13 @@ active: maybe notate some of the things from Lesson 5 (playing with the anchor)
 
 ## Resources
 
+in `/media`
+
 - `11.7.23 blank 4 with shape.pdf` aka `blank_4_line_with_shape.pdf`
 - `11.7.23 blank 5.pdf` aka `blank_5_line.pdf`
 
 (both printed from `11.7.23 blank 4or5.ai`)
 
-- `21.10.18 5-line with kybd.ai`
+- `21.10.18 5-line with kybd.ai` aka `5-line with kybd.ai`
+
+(printed from `21.10.18 5-line with kybd.ai`)

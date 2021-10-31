@@ -1,6 +1,10 @@
 # All Moods and Tensions
 
-all tensions and free play, add double light and double heavy
+add triple light and triple heavy moods.
+
+use "light/heavy" names for all tensions (except "neutral" 4th and 5th. will need to explain this)
+
+free play in all moods. think of "6th" as a generalization of "light/heavy" 6ths.
 
 pick some structures out of songs, like changing bass notes, or some melodies.
 

@@ -6,6 +6,8 @@ and what about changes in the events themselves, for example, on a second listen
 
 could we apply these same questions back to the note level? for example, that the note symbol is an abstraction of the sound, it's "onset," etc.
 
+*Importantly* This has to distinguish changes at the key and chord levels. anchors at the key level happen in 4, and anchor changes at the chord level happen in 6 (bass notes), although they're considered as tensions to the anchor. So the synthesis has to happen here. a point of articulation can have a shape change, or an anchor change, or both, and can take place at the chord level, or at the key level.
+
 ## Summary
 
 

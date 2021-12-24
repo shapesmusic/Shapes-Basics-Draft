@@ -8,97 +8,163 @@ The following path is not the only path through this world, nor is it the shorte
 
 ### Shapes Basics Series
 
-1. A Shape  
-2. A Group of Shapes
-3. Shape Fingerings
-4. The Anchor Note
-5. Playing With the Anchor
-6. Bass Notes
-7. Matching A Shape
-8. Writing Notes in Time
-9. All Groups
-10. Changes
-11. The Feeling of Fluency (Part 1)
-  - Begin SR Tactile sequence through anchor, two higher, two lower. which will include a thumb pivot.
-12. Imagination as an Instrument (Part 1)
-  - Introduce a tonescape and get into passive tensions (anchor-higher-lower)
-13. Playing Your Mind's Ear (Part 1)
-  - Active anchor-higher-lower
-  - then add two higher, two lower, active and then passive.
-14. Reading Without an Instrument
-  - Begin SR Imagery sequence with anchor, two higher and two lower.
-  - and switch the tensions naming model to 2nd, 3rd, 7th, 6th.
-15. Moods
-  - Introduce single light and single heavy moods
-  - introduce "light/heavy" mood names for these moods
-  - *introduce "light/heavy" tension names for 3rds and 6ths within these moods (passive)*
-16. Independent Solfege
-  - Introduce independent solfege names & distinguish from relative names.
-17. The Feeling of Fluency (Part 2)
-  - Add 4th and 5th to the SR tactile sequence (all tensions)
-  - move into 5L/R and 4L/R shapes.
-18. Imagination as an Instrument (Part 2)
-  - Add 4th and 5th to passive tonescapes.
-  - all tensions *"light/heavy" names* in neutral, single light, and single heavy moods (picks up from lesson 15)
-19. Playing Your Mind's Ear (Part 2)
-  - all tensions passive in neutral, single light, and single heavy moods
-  - add double light and double heavy moods
-  - *use "light/heavy" tension names for 3rds, 6ths, 2nds, 7ths*
-20. All Moods and Tensions  
-  - add triple light and triple heavy moods
-  - *use "light/heavy" names for all tensions*
-  - free play in all moods 
+#### 1. A Shape  
 
-...
+- Use a shape to play along with a playlist of songs. Hear when notes fit and don't fit. Start to follow your musical instincts.
 
-### Shorter Paths  
+#### 2. A Group of Shapes
 
-#### Playing
-1. A Shape
-2. A Group of Shapes
-4. The Anchor Note
-5. Playing With the Anchor
-6. Bass Notes
-7. Matching A Shape
-9. All Groups
-10. Changes
---> Context symbols
+- Part 1: Expand to a full group of shapes and continue playing with songs.
+- Part 2: See the group as a system and add a way to name the shapes.
 
-#### Tactile --> Instrument SR
-3. Shape Fingerings
-11. The Feeling of Fluency (Part 1)
-17. The Feeling of Fluency (Part 2)
+#### 3. Shape Fingerings
 
-#### Notation --> Context Symbols
-15. Moods
-16. Independent Solfege
+- How hands match the keyboard, and how to play hands together in any shape, beginning on any note, using only one fingering pattern.
 
-#### Imagery / Tonescapes
-4. The Anchor Note
-12. Imagination as an Instrument (Part 1)
-13. Playing Your Mind's Ear (Part 1)
-18. Imagination as an Instrument (Part 2)
-19. Playing Your Mind's Ear (Part 2)
-20. All Moods and Tensions
---> Paradigm structures   
---> Gateway of Independence
+#### 4. The Anchor Note
 
+- Introduce the anchor, hear the pull, start to recognize it in songs.
 
+#### 5. Playing With the Anchor
 
-### Playing With Shapes Series
-- Portrait of Rain
+- Use the anchor note to focus your playing. Balance structure and play.
 
-### Workshops  
+#### 6. Bass Notes
 
-- Demystefying (and Remystefying) the Keyboard
-- Playing the Mind's Ear: Musical Imagery as Ear Training
-- Reading Music Like an Improviser
-- Harmonic Mixing for DJs
-- Extending Extended Harmony
+- Introduce bass notes around the anchor. Hear them structuring the song. Use them to create additional structures.
 
-### Newsletter
+#### 7. Matching A Shape
 
-- Copyright / MIR
-- Products / Musical Toys
-- Songs of Interest
-- Technical Tangents
+- Match a song with a shape on your own. Start by using a diagram, then use adjacent notes to fill in the shape.
+
+#### 8. Writing Notes in Time
+
+- Represent bass notes relative to the anchor using a staff instead of the keyboard. Then add a way to represent time.
+
+#### 9. All Groups
+
+- Introduce three other groups of shapes and listen to their qualities. Relate the groups through their common shape names.
+
+#### 10. Changes
+
+- Introduce changing shapes and anchors. Distinguish changes at the key and chord levels.
+
+#### 11. The Feeling of Fluency Part 1
+
+- Begin SR Tactile sequence through anchor, two higher, two lower. which will include a thumb pivot.
+
+#### 12. Imagination as an Instrument (Part 1)
+
+- Introduce a tonescape and get into **passive** tensions (anchor-higher-lower)
+
+#### 13.
+
+- Anchor-higher-lower **active**
+
+#### 14. (Follows from 12)
+
+- Add two higher and two lower tensions **passive**
+
+#### 15.
+
+- Begin SR Imagery sequence in the netural mood.
+- Anchor, two higher, and two lower **active**
+
+#### 16.
+
+- Switch the tensions naming model to 2nd, 3rd, 7th, 6th.
+
+#### 17. (Follows from 11)
+
+- Add 5L and 5R shapes to SR tactile sequence.
+- Continue with anchor, one and two higher, one and two lower.
+
+#### 18. Moods (Follows from 14)
+
+- changing shapes on a single anchor introduces the idea of moods, and their spectrum of lightness/heaviness.
+- add the single light and single heavy tonescapes
+- anchor, 2nd, 3rd, 7th, 6th in neutral, single light & single heavy tonescapes **passive**
+
+#### 19. (Follows from 15)
+
+- SR Imagery sequence in neutral, single light, and single heavy moods
+- anchor, 2nd, 3rd, 7th, 6th.
+
+#### 20. Light & Heavy Tension names
+
+- Introduce "light/heavy" tension names as a more specific way to name tensions that vary in different moods.
+- The light/heavy mood names are a sum of their light/heavy tensions
+- the tension number becomes something abstracted from the specific tension, which is how letter names (& traditional solfege) will work. This sets up IPs.
+
+#### 21. Independent Solfege
+
+- Introduce independent solfege names & distinguish from relative names.
+
+#### 22. (Follows from 17)
+
+- Introduce 4th and 5th to the SR tactile sequence (all tensions)
+- Then add 4L and 4R shapes.
+
+#### 23. (Follows from 18)
+
+- Add 4th and 5th (all diatonic tensions)
+- begin using light/heavy names for all tensions
+- all diatonic tensions in neutral, single light & single heavy tonescapes **passive**
+
+#### 24.
+
+- Add double light & double heavy tonescapes, shuffle all.
+
+#### 25. (Follows from 19)
+
+- SR Imagery sequence through double light & heavy moods
+- All diatonic tensions
+
+#### 26. Incidentals
+
+- Introduce incidentals as a way of notating tensions outside of the shape.
+
+#### 27. Rhythmic notation
+
+- Introduce rhythmic note symbols as subdivisions
+- Align different subdivisions with pulse dots, what looks best?
+- Now possible to remove pulse dots (abstracts away from regular note spacing)
+
+#### 28. (Follows from 22)
+
+- Add 3L and 3R shapes to the SR tactile sequence.
+- Continue all tensions, bring in some rhythmic note symbols.
+- Any changing songs that use these shapes?
+
+#### 29. (Follows from 23/24)
+
+- Add triple light & triple heavy tonescapes (all moods), shuffle all.
+- Bring all tensions so far into the neutral tonescape. Relate to incidentals.
+
+#### 30. (Follows from 25)
+
+- SR Imagery sequence all moods
+- All diatonic tensions
+- Bring in some rhythmic note symbols
+
+#### 31. Mood Names
+
+- Introduce standard(ish) mood names in place of light/heavy names.
+- Also name 2nd, 3rd, 4th group moods and relate their light/heavy positions.
+
+#### 32. (Follows from 28)
+
+- Add remaining (2L/R, 1L/R, B) shapes to the SR tactile sequence.
+- Continue using rhythmic note symbols
+- Play with changing songs
+- Perhaps bring in some incidentals (if that works with songs)
+
+#### 33. No Tonescape (Follows from 29)
+
+- Continue all tensions so far into the neutral tonescape.
+- Then drop the tonescape and stay oriented to the anchor.
+
+#### 34. Active Free Play
+
+- Shuffle all tonescapes, all groups.
+- Name the mood, and free play imagery inside of it.

@@ -4,7 +4,7 @@
 ![shapes world map](map/map.png)
 
 ### Welcome
-The following path is not the only path through this world, nor is it the shortest path. It winds again and again through the lands of Symbols, of Instruments, and of Imagination, where finally it falls clear off the edge of this world, so that you will have to go and discover another. Thus forewarned, you may wish to follow your own path, in which case, you've come to the right world.
+The following is a path into the world of Shapes. It winds again and again through the lands of Symbols, of Instruments, and of Imagination, where finally it falls clear off the edge of this world, so that you will have to go and discover another. As you travel along this path, you will encounter much of what Shapes has to offer, and along the way, you may even find a path of your own.
 
 ### Shapes Basics Series
 
@@ -37,11 +37,11 @@ The following path is not the only path through this world, nor is it the shorte
 
 - Match a song with a shape on your own. Start by using a diagram, then use adjacent notes to fill in the shape.
 
-#### 8. Writing Notes in Time
+#### 8. Notes in Time
 
 - Represent bass notes relative to the anchor using a staff instead of the keyboard. Then add a way to represent time.
 
-#### 9. All Groups
+#### 9. Groups of Shapes
 
 - Introduce three other groups of shapes and listen to their qualities. Relate the groups through their common shape names.
 
@@ -49,32 +49,33 @@ The following path is not the only path through this world, nor is it the shorte
 
 - Introduce changing shapes and anchors. Distinguish changes at the key and chord levels.
 
-#### 11. The Feeling of Fluency Part 1
+#### 11. Reading by Touch
 
 - Begin SR Tactile sequence through anchor, two higher, two lower. which will include a thumb pivot.
 
-#### 12. Imagination as an Instrument (Part 1)
+#### 12. A Tonescape and Tensions
 
 - Introduce a tonescape and get into **passive** tensions (anchor-higher-lower)
 
-#### 13.
+#### 13. Imagination as an Instrument
 
+- Hearing notes inside a tonescape
 - Anchor-higher-lower **active**
 
-#### 14. (Follows from 12)
+#### 14. Tensions Part 2 (Follows from 12)
 
 - Add two higher and two lower tensions **passive**
 
-#### 15.
+#### 15. Reading by Ear
 
 - Begin SR Imagery sequence in the netural mood.
 - Anchor, two higher, and two lower **active**
 
-#### 16.
+#### 16. Naming Tensions
 
 - Switch the tensions naming model to 2nd, 3rd, 7th, 6th.
 
-#### 17. (Follows from 11)
+#### 17. Reading by Touch Part 2 (Follows from 11)
 
 - Add 5L and 5R shapes to SR tactile sequence.
 - Continue with anchor, one and two higher, one and two lower.
@@ -85,12 +86,12 @@ The following path is not the only path through this world, nor is it the shorte
 - add the single light and single heavy tonescapes
 - anchor, 2nd, 3rd, 7th, 6th in neutral, single light & single heavy tonescapes **passive**
 
-#### 19. (Follows from 15)
+#### 19. Reading by Ear Part 2 (Follows from 15)
 
 - SR Imagery sequence in neutral, single light, and single heavy moods
 - anchor, 2nd, 3rd, 7th, 6th.
 
-#### 20. Light & Heavy Tension names
+#### 20. Light & Heavy Tensions
 
 - Introduce "light/heavy" tension names as a more specific way to name tensions that vary in different moods.
 - The light/heavy mood names are a sum of their light/heavy tensions
@@ -100,22 +101,22 @@ The following path is not the only path through this world, nor is it the shorte
 
 - Introduce independent solfege names & distinguish from relative names.
 
-#### 22. (Follows from 17)
+#### 22. Reading by Touch Part 3 (Follows from 17)
 
 - Introduce 4th and 5th to the SR tactile sequence (all tensions)
 - Then add 4L and 4R shapes.
 
-#### 23. (Follows from 18)
+#### 23. Moods and Tensions Together (Follows from 18)
 
 - Add 4th and 5th (all diatonic tensions)
 - begin using light/heavy names for all tensions
 - all diatonic tensions in neutral, single light & single heavy tonescapes **passive**
 
-#### 24.
+#### 24. Getting Inside of Moods
 
 - Add double light & double heavy tonescapes, shuffle all.
 
-#### 25. (Follows from 19)
+#### 25. Reading by Ear Part 3 (Follows from 19)
 
 - SR Imagery sequence through double light & heavy moods
 - All diatonic tensions
@@ -124,24 +125,24 @@ The following path is not the only path through this world, nor is it the shorte
 
 - Introduce incidentals as a way of notating tensions outside of the shape.
 
-#### 27. Rhythmic notation
+#### 27. Making Time Relative
 
 - Introduce rhythmic note symbols as subdivisions
 - Align different subdivisions with pulse dots, what looks best?
 - Now possible to remove pulse dots (abstracts away from regular note spacing)
 
-#### 28. (Follows from 22)
+#### 28. Reading by Touch Part 4 (Follows from 22)
 
 - Add 3L and 3R shapes to the SR tactile sequence.
 - Continue all tensions, bring in some rhythmic note symbols.
 - Any changing songs that use these shapes?
 
-#### 29. (Follows from 23/24)
+#### 29. All Moods and Tensions (Follows from 23/24)
 
 - Add triple light & triple heavy tonescapes (all moods), shuffle all.
 - Bring all tensions so far into the neutral tonescape. Relate to incidentals.
 
-#### 30. (Follows from 25)
+#### 30. Reading by Ear Part 4 (Follows from 25)
 
 - SR Imagery sequence all moods
 - All diatonic tensions
@@ -152,19 +153,20 @@ The following path is not the only path through this world, nor is it the shorte
 - Introduce standard(ish) mood names in place of light/heavy names.
 - Also name 2nd, 3rd, 4th group moods and relate their light/heavy positions.
 
-#### 32. (Follows from 28)
+#### 32. Reading by Touch Part 5 (Follows from 28)
 
 - Add remaining (2L/R, 1L/R, B) shapes to the SR tactile sequence.
 - Continue using rhythmic note symbols
 - Play with changing songs
 - Perhaps bring in some incidentals (if that works with songs)
 
-#### 33. No Tonescape (Follows from 29)
+#### 33. Holding on to the Anchor (Follows from 29)
 
 - Continue all tensions so far into the neutral tonescape.
 - Then drop the tonescape and stay oriented to the anchor.
+- Try this with Indepent Solfege Names, too (gateway to Independent Relationship).
 
-#### 34. Active Free Play
+#### 34. Imagination as an Instrument Part 2
 
 - Shuffle all tonescapes, all groups.
 - Name the mood, and free play imagery inside of it.

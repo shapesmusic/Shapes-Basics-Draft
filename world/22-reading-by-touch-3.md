@@ -1,4 +1,4 @@
-# The Feeling of Fluency (Part 2)
+# Reading by Touch Part 3 
 
 add 4ths and 5ths to the tactile reading, so now you're working with all tensions in a mood.
 

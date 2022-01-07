@@ -1,4 +1,4 @@
-# The Feeling of Fluency (Part 1)
+# Reading by Touch
 
 notation-pulse-fingering (begin the sight reading sequence). this is the matter, and feeling of fluent reading, and there's a physical, instrumental aspect to that.
 

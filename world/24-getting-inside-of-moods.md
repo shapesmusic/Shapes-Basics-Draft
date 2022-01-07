@@ -1,4 +1,4 @@
-# Playing Your Mind's Ear (Part 2)
+# Getting Inside of Moods
 
 all tensions active in a neutral tonescape. then free play in a tonescape:
 

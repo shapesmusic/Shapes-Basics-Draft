@@ -1,4 +1,4 @@
-# Imagination as an Instrument (Part 1)
+# A Tonescape and Tensions
 
 get into passive tonescapes (anchor-higher-lower), as the matter of how to know exactly which notes you're hearing. this is the transition from "instruments to aid the imagination" to "the imagination as an instrument.
 

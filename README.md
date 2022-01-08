@@ -4,13 +4,14 @@
 ![shapes world map](map/map.png)
 
 ### Welcome
-The following is a path into the world of Shapes. It winds again and again through the lands of Symbols, of Instruments, and of Imagination, where finally it falls clear off the edge of this world, so that you will have to go and discover another. As you travel along this path, you will encounter much of what Shapes has to offer, and along the way, you may even find a path of your own.
+The following is a path into the world of Shapes. It winds again and again through the lands of Symbols, of Instruments, and of Imagination, where finally it falls clear off the edge of this world, so that you will have to go and discover another. Along the way, you'll get a good sense of what Shapes has to offer, and you may even come across a path of your own.
+
 
 ### Shapes Basics Series
 
 #### 1. A Shape  
 
-- Use a shape to play along with a playlist of songs. Hear when notes fit and don't fit. Start to follow your musical instincts.
+Use a single shape to play along with a playlist of songs. Hear when notes fit or don't fit, and start to follow your musical intuition.
 
 #### 2. A Group of Shapes
 

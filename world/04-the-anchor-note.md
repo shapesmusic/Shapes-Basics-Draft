@@ -25,6 +25,7 @@ The goal is to become familiar with this sound of pulling toward the anchor note
 ## Resources
 
 - 13.1.27 lesson 3 script
+- 2021-10-12 JG Lesson 4 Anchors (video)
 
 The temp player:
 ```bash

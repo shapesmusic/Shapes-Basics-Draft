@@ -22,7 +22,7 @@ See the shapes as a system, and name them.
 
 Now, name each new shape when you start to play with it.
 
-This is my favorite lesson, because if you do only this, you could figure everything out on your own. 
+This is my favorite lesson, because if you do only this, you could figure everything out on your own.
 
 ## Things To Think About
 
@@ -71,3 +71,4 @@ once again, the goal is to look for the trends, the things that are similar, and
 ## Resources
 
 - 13.1.27 lesson 2 script
+- 2021-10-05 JG Shapes Lessons 1 & 2 (Video) start 37:12

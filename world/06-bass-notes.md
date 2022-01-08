@@ -25,6 +25,8 @@ when you listen to music, you can start to listen for this aspect, for the bass 
 
 ## Resources
 
+- 2021-09-21 Lesson 8 Bass Notes Review & Notes in Time w/Nora (Video)
+
 
 Some good bass note songs:
   - I Like It, Enrique Iglesias
@@ -32,3 +34,7 @@ Some good bass note songs:
   - Counting Stars, One Republic (4 notes)
   - New order
   - El Perdedor Enrique Iglesias (2 sections with a connecting section--really good)
+
+## Notes
+
+- Look at Lesson 8 Notation alongside this one. They're related.

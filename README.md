@@ -15,8 +15,7 @@ Use a single shape to play along with a playlist of songs. Hear when notes fit o
 
 #### 2. A Group of Shapes
 
-- Part 1: Expand to a full group of shapes and continue playing with songs.
-- Part 2: See the group as a system and add a way to name the shapes.
+Expand to a full group of shapes and continue playing with songs. Then see the group as a system and add a way to name the shapes.
 
 #### 3. Shape Fingerings
 

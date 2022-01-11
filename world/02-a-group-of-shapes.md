@@ -1,74 +1,141 @@
 # A Group of Shapes
 
-## Summary
 
-Part 1: Expand to a full group of shapes and continue playing with songs.
+## Lesson Script
 
-Part 2: See the group as a system and add a way to name the shapes.
+[front cam]  
+So now I want to take you to a new version of the playlist, and it's linked in the resources for this lesson.
 
-## The Lesson
+[show the playlist]
 
-**Part A**
+In this playlist, when you switch songs, you're going to get some different shapes.
 
-Move to the full playlist, play with different shapes. Every shape works the same as the shape you know.
+[flip through, land on a 2 or 5 shape, 2R or 5L ideally]
 
-Get to know the new shapes by playing with them. When you start to feel like you've seen each shape that pops up before, go on to Part B.
+All of these shapes work just like the shape you already played with. Except, of course, they're made up of different notes.
 
-**Part B**
+So the notes in *this* shape are  
+[outline the shape and play with one finger]
 
-See the shapes as a system, and name them.
+If I choose a different one  
+[switch song]
 
-![group of shapes](/media/15.3.6_ultralite.png)
+here, the notes are
+[outline and play with one finger]
 
-Now, name each new shape when you start to play with it.
+So try a couple of these yourself. Find a song you like that has a new shape, then get the notes down and try playing along with the song.
 
-This is my favorite lesson, because if you do only this, you could figure everything out on your own.
+[try it]
 
-## Things To Think About
+[front cam]
+The idea is that you can remember the shape pretty much right away, and then you can think of the *shape* rather than having to remember each individual note one by one.
 
-### The keyboard as a diagram
-The matter of that same group fitting with lots of songs, then reconfiguring the in/out groups to fit with any (single-group) song. so here we can see, for one, how lots of apps etc work. we can also get the sense that there's something common to all these groups, at least that in each case, seven notes seem to fit and five don't, but we *can't see the pattern with this kind of diagram*. so we can invent a different way to represent this idea.
+So go ahead and pause me, and play around with this a little bit. You'll get to know the different shapes just by playing with them, so when each new shape that pops up starts to feel like it's familiar, that's when you're ready to come back for the rest of this lesson.
 
-mapping dots to a shape on the keyboard. here you can still see which notes "fit" and "don't fit," and the group now has a distinctive contour. from there we can look at a system of shapes--to answer the question, "so how many groupings are there?" and this gives us a much different feeling of orientation. we're not in the weeds of the floating dots anymore, but standing back and able to reflect on something much larger.
+[pause]
 
-### The purpose of names
-the shape itself can be a symbol for the grouping, and then at a higher level of abstraction, a verbal description of the symbol, which, in theory, you could also use to describe the pre-shape grouping of notes. and these all depend on each other, and assist each other--the names, for example, describe the shape spatially and numerically, which makes it easier to remember, and to describe as a system.
 
-### This is high level music making
-it's not just a cool insight, but now you can improvise with any of these songs. it connects you (your intuition) via a symbol (the shape) to the musical world around you. To a community, both now, and in the past. that ought to feel profound.
+So while you're playing, you start to see some familiar shapes. It's like ok, I've already played with this one, or I've seen that one, and you also start to notice similarities between some of the shapes.
 
-### Why these groups of notes?
+one question that comes up when you're doing this is, how many shapes are there? Are there, like, a hundred different shapes, or is this something I can actually wrap my head around?
 
-The groups of notes are not derived from the songs (although i'd imagine something like the same groups of notes would result, if not in the same larger organization...) but they are set out with a purpose (they're teleological), which is that they will connect us to a lot of concepts. These notes aren't keys, scales, modes, keys, key signatures, etc., but they have the potential to become those things, or to become other things.
+So here's an image of a whole group of shapes all at once.
 
-### In-between instruments and names
+[ultralite diagram]
 
-the instrument diagram is **a symbol, in the shape of an instrument**. but not yet an instrument, and not yet an abstract name. the individual notes don't have names, except for the dots or the keys you'd press to play them, or the regions that represent those keys. the shape names are perhaps a first step in this direction, but they are still descriptions of the shape on the instrument.
+These are all of the shapes you're going to see in the playlist.
 
-### Up and down the ladder of abstraction
+And the way you read this is: if a pair of these groups are right next to each other, like these,
+[point to a couple grouping examples]
+then they get to be a shape.
 
-and yet, even without a name, these are concrete ideas that you can grab onto and use. you're improvising with any song you hear. that's incredible when you stop to think about it.
+But if they're not right next to each other, like these,
+[point to a couple examples]
+then they don't get to be a shape.
 
-getting to this point by building the concepts up from smaller ingredients, would have made it much more difficult. but the process of seeing the larger and smaller pictures is not a linear progression in either direction--it involves a lot of jumping around, a play of larger context and specifics, another form of the opposition of tradition and newness.
+So the first shape we played with was this pair in the middle
 
-### Keep the concepts fluid
+[point to the TOP shape]
 
-i'm pausing to mention this is a marker we can always come back to, to reconnect to something earlier whenever we're making sense of something down the road. it's a kind of source, and we'll find that we can dismantle even this source into smaller ingredients that give us insights into the ways still different approaches developed.  
+And shape for the song that's playing right now is here
 
-once again, the goal is to look for the trends, the things that are similar, and to be playful with those things. the most "legit" music concept emerged in this way, and it's also not necessarily so self-aware, or even a distinct concept (take the dorian mode discussion). you get it.
+[point to that shape]
 
-### Some Notes
-- the direction can also (may better be) the direction of the stroke, starting from the bottom. that's more cohesive than thinking of individual top keys.
-- the experience of playing without boundaries (knowing the structure of the group / names of the shapes) is nice to have for a little while. Not just the experience of playing without names, but of playing without worrying about bounded structure.
-- curate by playing. That's different than curating without playing. Need something like a "good to play with" tag. Can I reappropriate "featured" for that and derive what to feature from other fields? I think "featured" was originally "good4shapes" or something like that.
-- also that while you're playing, you're not really thinking in terms of whether you like the song or not. You're focused on a different experience.
-- the broader value of engaging with things you don't like. or that aren't the things you like. also this populates a field. also it maybe requires some kind of neutral approach to populating the playlist. it's not charged in any direction--it's a representation of what you might come across in the world.
-- Some songs are easier to get in to. Why? because they rely less on specific structures? What makes a good intro shapes song?
-- after introducing names, name each new shape as you play.
-- talk about the natural instrument technique in the shape fingerings lesson meta-level.
+Also you can see that the whole group is symmetrical, so each shape on one side has a shape that's its mirror image on the other side.
+
+[point]
+
+And that symmetry makes it easier to remember, because if you know one shape, you can think of its mirror image and then you know two shapes.
+
+[front cam]
+Now, I think it's pretty cool to be able to play with these shapes without necessarily having to name them, or having to name any of the notes that make them up.
+
+Because in a way, the shape itself, it's contour, or a physical key on the keyboard, already gives you a really clear way to represent that sound. What note is it?
+
+[keyboard view]
+It's *this* note [point]. What shape is it? Well, it's the shape that goes like this
+
+[draw the stroke on the keyboard with your finger].
+
+But when it comes to a group of shapes, names can actually help you remember the shapes even more easily, and they also make the shapes feel more organized as a system.
+
+Here's how it works. There are the keys that stick up, called the "top" keys, and keys that don't stick up, called the "bottom" keys.
+
+You can name a shape by the number of top keys, and whether they're on the right or left side of the shape.
+
+[point to 1R]
+
+So this pair right here, it has one top key [point], and it's on the right side of the shape, so it's called "1 to the Right."
+
+And then this pair over here, its opposite, would be "1 to the Left."
+
+[point to 2L]
+
+Then this pair over here, it has one, *two* top keys, and they're on the left of the shape, so it's called "2 to the Left."
+
+So there's 1, 2, 3, 4, and 5 to the left [point], and 1, 2, 3, 4, 5 to the right [point]
+
+And then the shape in the middle is called the "TOP" shape [point], centered on the top keys, and the one on either end is the "bottom" shape, because it uses all the bottom keys [point]. And the bottom shape repeats on both ends because the whole group sort of wraps around on itself.
+
+So if I go back to the playlist and look at the shape that's playing, let's see, it has how many top keys?
+
+[count, (3)]
+
+And they're on the (right), so it's "(3 to the right)."
+
+[switch songs, name a few more shapes].
+
+So give this a try yourself. Play along with some different songs, just like you were doing before, but now when a new shape comes up, name it for yourself first. Like, oh this is "2 to the Left," and then play with it.
+
+Pay attention to how each name describes the contour of the shape itself, and it also tells you the shape's position within the larger group. So you start to get a feeling for how the shape are related to one another.
+
+Just like before, don't be afraid to play with songs you don't know. And also keep in mind that you don't need to try to memorize the shapes. You'll get to know them gradually, just by playing with them.
+
+So see what you come up with, and when you feel comfortable naming and playing with each new shape that shows up, that's when you're ready to come back for more.
 
 
 ## Resources
 
+The playlist:
+https://www.shapesmusic.com/a-group
+
+The group of shapes:  
+![group of shapes](/media/15.3.6_ultralite.png)
+
+
+## Some More to Think About
+
+...
+
+
+## References
+
 - 13.1.27 lesson 2 script
+- 15.10.25 videos 1 & 2 (archived in iMovie?)
 - 2021-10-05 JG Shapes Lessons 1 & 2 (Video) start 37:12
+
+
+### Notes
+
+- do I have SVG versions of those old shape animations I could incorporate into the player, so if you touch the shape it shows which notes are in the shape? (or make new ones)
+- the direction can also (may better be) the direction of the stroke, starting from the bottom. that's more cohesive than thinking of individual top keys. but also corresponds less clearly with the numbers.

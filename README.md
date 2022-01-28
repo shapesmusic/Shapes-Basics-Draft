@@ -3,10 +3,6 @@
 
 ![shapes world map](map/map.png)
 
-### Welcome
-The following is a path into the world of Shapes. It winds again and again through the lands of Symbols, of Instruments, and of Imagination, where finally it falls clear off the edge of this world, so that you will have to go and discover another. Along the way, you'll get a good sense of what Shapes has to offer, and you may even come across a path of your own.
-
-
 ### Shapes Basics Series
 
 #### 1. A Shape  

@@ -1,21 +1,22 @@
 # Shapes
-*A Music Method for the Expert Beginner*
+
+_A Music Method for the Expert Beginner_
 
 ![shapes world map](map/map.png)
 
 ### Shapes Basics Series
 
-#### 1. A Shape  
+#### 1. A Shape
 
 Use a single shape to play along with a playlist of songs. Hear when notes fit or don't fit, and start to follow your musical intuition.
 
 #### 2. Different Shapes
 
-Expand to a full group of shapes and continue playing with songs.
+Add some different shapes and continue playing along with songs.
 
 #### 3. A Group of Shapes
 
-Then see the group as a system and add a way to name the shapes.
+See the shapes as a group, and add a way to name the shapes.
 
 #### 4. Shape Fingerings
 

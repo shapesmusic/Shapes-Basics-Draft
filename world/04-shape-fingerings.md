@@ -1,40 +1,36 @@
 # Shape Fingerings
 
-and now we're into Instrument territory. why not introduce the physical correspondence, symmetry, and basic shape fingering? you can start on any note, and use the same fingering for any shape. show the top shape fingering and the rule, but suggest branching outward gradually. touch on what this accomplishes in terms of connecting your body to the instrument. and also what it represents (the interface-body relationship) that you could apply to thinking about other instruments--to instruments generally. not to mention diagrams.
+## Lesson Script
 
-## Summary
+**Shapes Basics No. 4 - Shape Fingerings**
 
-How hands match the keyboard, and how to play hands together in any shape, beginning on any note, using only one fingering pattern.
+---
 
-This helps develop a natural technique and a tactile reference for playing without looking at the keyboard.
+Now, when you're playing, you can use any fingers you like. But the keyboard actually _matches_ your hands, and this can really help you out.
 
-## The Lesson
+Our hands are mirror images of one another, and from the right perspective [press middle Re], one side of the keyboard is also a mirror image of the other.
 
-[start with a demo of what we're gonna do and a little bit of why. think about what of the explanation below is meta-level stuff].
+Our pointer, middle, and ring fingers stick up above our thumbs and pinkies, and the keyboard also has keys that stick up above the others.
 
-This is too rote:
+When you place your fingers that stick up on the keys that stick up, suddenly the whole keyboard becomes a repeating pattern of hand-shaped groups of keys [play symm opposite groups].
 
-  There's a relationship between our bodies, and the design of our instruments.
+This means you can navigate the keyboard by _touch_, rather than always having to look at your hands. And this gives you a very natural keyboard technique, because when your hands have to _feel_ their way around the keys, they find ways to move very efficiently.
 
-  Look at your hands, they are mirror images of one another.
+- fingers on the top groups. grab, play only those
+- add in thumbs. so thumbs & blocks
+- then thumbs, 123. top shape
+- then move into different shapes.
 
-  from a certain perspective, one side of the keyboard is also a mirror image of the other.
+So here's how it works. you can play in any shape, starting on any note, using just one fingering principle:
 
-  ![symm kybd](/media/08.2.14%20symm%20kybd.png)
+you can play in any shape using only one fingering principle
+playing this way causes you to develop
 
-  Our pointer, middle, and ring fingers stick up above our thumbs and pinkies. The keyboard also has keys that stick up above the others.
+---
 
-  What's more, the keyboard is a repeating pattern of hand-shaped groups of keys.
+The central rule of Shape Fingerings is to align our fingers that stick up (pointer, middle, and ring fingers) with the keys that stick up (groups of 2 and 3 top keys), and then to move our fingers into each shape beginning from this position.
 
-  ![groups symm](/media/09.9.28%20groups%20symm.png)
-
-  By placing our fingers that stick up on the keys that stick up, we can feel how closely the contour of the keyboard matches the contour of our hands.
-
-  ![handsBS](/media/11.2.10%20handsBS.png)
-
-  This is the starting point for Shape Fingerings. Shape Fingerings are a guideline to help develop a natural finger technique and a tactile reference for playing without looking at the keyboard.
-
-  The central rule of Shape Fingerings is to align our fingers that stick up (pointer, middle, and ring fingers) with the keys that stick up (groups of 2 and 3 top keys), and then to move our fingers into each shape beginning from this position.
+- maybe demo what you're going to be able to do first. then it's more tolerable to go through the rote steps, or to listen to stuff about hands fitting keys, etc.
 
 Steps:
 
@@ -48,37 +44,35 @@ thinking about these as scales, going all the way up and down, versus as being m
 
 At first, the feeling that it has to be right, to the feeling that it's not about rightness at all.
 
-[A Shape plist]
-[Add5 plist]
-[Add4 plist]
-[Add3 plist]
-
-then back to [a_group] plist to add the rest.
-
 in the future, if you keep doing this:
 try playing contrary, opposite directions.
 then try playing contrary starting on different (unmatched) fingers.
 to transition from up/down to contrary, you can make the transition with the same fingerings if it's on a symmetrical note (Pe, Re). But if from any other note, the fingerings diverge, which is a good challenge.
 
-
-
-## Things To Think About
-
-- Reversible keyboard polarity
-- Future: absolute tactile sense, etc.
-- Meta: the design of instruments also reflect the design of musical concepts and theoretical systems.
-
-notes:
-- maybe demo what you're going to be able to do first. then it's more tolerable to go through the rote steps, or to listen to stuff about hands fitting keys, etc.
 - you'll still get auditory feedback if you play a note that's outside the shape
 - reiterate that it's the same fingering for each new shape you add. start with the fingering for the previous shape you know, and then adjust one finger for the next shape. That's a different way to think of it than "start with the basic fingering and move into the shape." Both are good, but different.
 
 ## Resources
 
+Top Shape:
+https://www.shapesmusic.com/a-shape
+
+Add 5s:
+https://www.shapesmusic.com/add-5
+
+Add 4s:
+https://www.shapesmusic.com/add-4
+
+Add 3s:
+https://www.shapesmusic.com/add-3
+
+All Shapes:
+https://www.shapesmusic.com/a-group
+
+## References
+
 - 11.3.3 Provisional pp. 17-21, "Centered Keyboard" and "Shape Fingerings"
 
-The temp player:
-```bash
-python3 -m http.server
-```
-[http://localhost:8000/desktop/player_1/add5.html](http://localhost:8000/david_local/development_local/Method-Sketch/media/temp_player/add5.html)
+## Notes
+
+-

@@ -6,59 +6,62 @@ _A Music Method for the Expert Beginner_
 
 ### Shapes Basics Series
 
-#### 1. A Shape
+#### [1. A Shape](world/01-a-shape.md)
+[Video Draft](https://www.youtube.com/watch?v=J1Ks_ve2h1I)
 
 Use a single shape to play along with a playlist of songs. Hear when notes fit or don't fit, and start to follow your musical intuition.
 
-#### 2. Different Shapes
+#### [2. Different Shapes](world/02-different-shapes.md)
+[Video Draft](https://www.youtube.com/watch?v=rvDND8zNJfw)
 
 Add some different shapes and continue playing along with songs.
 
-#### 3. A Group of Shapes
+#### [3. A Group of Shapes](world/03-a-group.md)
+[Video Draft](https://www.youtube.com/watch?v=d7obs-3YdOo)
 
 See the shapes as a group, and add a way to name the shapes.
 
-#### 4. Shape Fingerings
+#### [4. Shape Fingerings](world/04-shape-fingerings.md)
 
 - How hands match the keyboard, and how to play hands together in any shape, beginning on any note, using only one fingering pattern.
 
-#### 5. The Anchor Note
+#### [5. The Anchor Note](world/05-the-anchor-note.md)
 
 - Introduce the anchor, hear the pull, start to recognize it in songs.
 
-#### 6. Playing With the Anchor
+#### [6. Playing With the Anchor](world/06-playing-with-the-anchor.md)
 
 - Use the anchor note to focus your playing. Balance structure and play.
 
-#### 7. Bass Notes
+#### [7. Bass Notes](world/07-bass-notes.md)
 
 - Introduce bass notes around the anchor. Hear them structuring the song. Use them to create additional structures.
 
-#### 8. Matching A Shape
+#### [8. Matching A Shape](world/08-matching-a-shape.md)
 
 - Match a song with a shape on your own. Start by using a diagram, then use adjacent notes to fill in the shape.
 
-#### 9. Notes in Time
+#### [9. Notes in Time](world/09-notes-in-time.md)
 
 - Represent bass notes relative to the anchor using a staff instead of the keyboard. Then add a way to represent time.
 
-#### 10. Changes
+#### [10. Changes](world/10-changes.md)
 
 - Introduce changing shapes and anchors. Distinguish changes at the key and chord levels.
 
-#### 11. Groups of Shapes
+#### [11. Groups of Shapes](world/11-groups-of-shapes.md)
 
 - Introduce three other groups of shapes and listen to their qualities. Relate the groups through their common shape names.
 
-#### 12. Reading by Touch
+#### [12. Reading by Touch](world/12-reading-by-touch.md)
 
 - Begin SR Tactile sequence through anchor, two higher, two lower. which will include a thumb pivot.
 
-#### 13. A Tonescape and Tensions
+#### [13. A Tonescape and Tensions](world/13-a-tonescape-and-tensions.md)
 
 - Introduce a tonescape and get into **passive** tensions (anchor-higher-lower)
 
-#### 14. Imagination as an Instrument
+#### [14. Imagination as an Instrument](world/14-imagination-as-an-instrument.md)
 
 - Hearing notes inside a tonescape
 - Anchor-higher-lower **active**
@@ -67,7 +70,7 @@ See the shapes as a group, and add a way to name the shapes.
 
 - Add two higher and two lower tensions **passive**
 
-#### 16. Reading by Ear
+#### [16. Reading by Ear](world/16-reading-by-ear.md)
 
 - Begin SR Imagery sequence in the netural mood.
 - Anchor, two higher, and two lower **active**
@@ -81,7 +84,7 @@ See the shapes as a group, and add a way to name the shapes.
 - Add 5L and 5R shapes to SR tactile sequence.
 - Continue with anchor, one and two higher, one and two lower.
 
-#### 19. Moods (Follows from 14)
+#### [19. Moods](world/19-moods.md) (Follows from 14)
 
 - changing shapes on a single anchor introduces the idea of moods, and their spectrum of lightness/heaviness.
 - add the single light and single heavy tonescapes
@@ -98,22 +101,22 @@ See the shapes as a group, and add a way to name the shapes.
 - The light/heavy mood names are a sum of their light/heavy tensions
 - the tension number becomes something abstracted from the specific tension, which is how letter names (& traditional solfege) will work. This sets up IPs.
 
-#### 22. Independent Solfege
+#### [22. Independent Solfege](world/22-independent-solfege.md)
 
 - Introduce independent solfege names & distinguish from relative names.
 
-#### 23. Reading by Touch Part 3 (Follows from 17)
+#### [23. Reading by Touch Part 3](world/23-reading-by-touch-3.md) (Follows from 17)
 
 - Introduce 4th and 5th to the SR tactile sequence (all tensions)
 - Then add 4L and 4R shapes.
 
-#### 24. Moods and Tensions Together (Follows from 18)
+#### [24. Moods and Tensions Together](world/24-moods-and-tensions-together.md) (Follows from 18)
 
 - Add 4th and 5th (all diatonic tensions)
 - begin using light/heavy names for all tensions
 - all diatonic tensions in neutral, single light & single heavy tonescapes **passive**
 
-#### 25. Getting Inside of Moods
+#### [25. Getting Inside of Moods](world/25-getting-inside-of-moods.md)
 
 - Add double light & double heavy tonescapes, shuffle all.
 
@@ -138,7 +141,7 @@ See the shapes as a group, and add a way to name the shapes.
 - Continue all tensions, bring in some rhythmic note symbols.
 - Any changing songs that use these shapes?
 
-#### 30. All Moods and Tensions (Follows from 23/24)
+#### [30. All Moods and Tensions](world/30-all-moods-and-tensions.md) (Follows from 23/24)
 
 - Add triple light & triple heavy tonescapes (all moods), shuffle all.
 - Bring all tensions so far into the neutral tonescape. Relate to incidentals.

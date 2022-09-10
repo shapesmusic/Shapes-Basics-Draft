@@ -66,7 +66,7 @@ See the shapes as a group, and add a way to name the shapes.
 - Hearing notes inside a tonescape
 - Anchor-higher-lower **active**
 
-#### 15. Tensions Part 2 (Follows from 12)
+#### 15. Tensions Part 2 (Follows from 13)
 
 - Add two higher and two lower tensions **passive**
 
@@ -79,18 +79,18 @@ See the shapes as a group, and add a way to name the shapes.
 
 - Switch the tensions naming model to 2nd, 3rd, 7th, 6th.
 
-#### 18. Reading by Touch Part 2 (Follows from 11)
+#### 18. Reading by Touch Part 2 (Follows from 12)
 
 - Add 5L and 5R shapes to SR tactile sequence.
 - Continue with anchor, one and two higher, one and two lower.
 
-#### [19. Moods](world/19-moods.md) (Follows from 14)
+#### [19. Moods](world/19-moods.md) (Follows from 15)
 
 - changing shapes on a single anchor introduces the idea of moods, and their spectrum of lightness/heaviness.
 - add the single light and single heavy tonescapes
 - anchor, 2nd, 3rd, 7th, 6th in neutral, single light & single heavy tonescapes **passive**
 
-#### 20. Reading by Ear Part 2 (Follows from 15)
+#### 20. Reading by Ear Part 2 (Follows from 16)
 
 - SR Imagery sequence in neutral, single light, and single heavy moods
 - anchor, 2nd, 3rd, 7th, 6th.
@@ -105,12 +105,12 @@ See the shapes as a group, and add a way to name the shapes.
 
 - Introduce independent solfege names & distinguish from relative names.
 
-#### [23. Reading by Touch Part 3](world/23-reading-by-touch-3.md) (Follows from 17)
+#### [23. Reading by Touch Part 3](world/23-reading-by-touch-3.md) (Follows from 18)
 
 - Introduce 4th and 5th to the SR tactile sequence (all tensions)
 - Then add 4L and 4R shapes.
 
-#### [24. Moods and Tensions Together](world/24-moods-and-tensions-together.md) (Follows from 18)
+#### [24. Moods and Tensions Together](world/24-moods-and-tensions-together.md) (Follows from 19)
 
 - Add 4th and 5th (all diatonic tensions)
 - begin using light/heavy names for all tensions
@@ -120,7 +120,7 @@ See the shapes as a group, and add a way to name the shapes.
 
 - Add double light & double heavy tonescapes, shuffle all.
 
-#### 26. Reading by Ear Part 3 (Follows from 19)
+#### 26. Reading by Ear Part 3 (Follows from 20)
 
 - SR Imagery sequence through double light & heavy moods
 - All diatonic tensions
@@ -135,18 +135,18 @@ See the shapes as a group, and add a way to name the shapes.
 - Align different subdivisions with pulse dots, what looks best?
 - Now possible to remove pulse dots (abstracts away from regular note spacing)
 
-#### 29. Reading by Touch Part 4 (Follows from 22)
+#### 29. Reading by Touch Part 4 (Follows from 23)
 
 - Add 3L and 3R shapes to the SR tactile sequence.
 - Continue all tensions, bring in some rhythmic note symbols.
 - Any changing songs that use these shapes?
 
-#### [30. All Moods and Tensions](world/30-all-moods-and-tensions.md) (Follows from 23/24)
+#### [30. All Moods and Tensions](world/30-all-moods-and-tensions.md) (Follows from 24/25)
 
 - Add triple light & triple heavy tonescapes (all moods), shuffle all.
 - Bring all tensions so far into the neutral tonescape. Relate to incidentals.
 
-#### 31. Reading by Ear Part 4 (Follows from 25)
+#### 31. Reading by Ear Part 4 (Follows from 26)
 
 - SR Imagery sequence all moods
 - All diatonic tensions
@@ -157,14 +157,14 @@ See the shapes as a group, and add a way to name the shapes.
 - Introduce standard(ish) mood names in place of light/heavy names.
 - Also name 2nd, 3rd, 4th group moods and relate their light/heavy positions.
 
-#### 33. Reading by Touch Part 5 (Follows from 28)
+#### 33. Reading by Touch Part 5 (Follows from 29)
 
 - Add remaining (2L/R, 1L/R, B) shapes to the SR tactile sequence.
 - Continue using rhythmic note symbols
 - Play with changing songs
 - Perhaps bring in some incidentals (if that works with songs)
 
-#### 34. Holding on to the Anchor (Follows from 29)
+#### 34. Holding on to the Anchor (Follows from 30)
 
 - Continue all tensions so far into the neutral tonescape.
 - Then drop the tonescape and stay oriented to the anchor.

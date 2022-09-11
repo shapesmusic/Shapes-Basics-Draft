@@ -11,43 +11,66 @@ _A Music Method for the Expert Beginner_
 
 Use a single shape to play along with a playlist of songs. Hear when notes fit or don't fit, and start to follow your musical intuition.
 
+![wireframe](wireframes/1.1.png)
+![wireframe](wireframes/1.2.png)
+
 #### [2. Different Shapes](world/02-different-shapes.md)
 [Video Draft](https://www.youtube.com/watch?v=rvDND8zNJfw)
 
 Add some different shapes and continue playing along with songs.
+
+![wireframe](wireframes/2.1.png)
 
 #### [3. A Group of Shapes](world/03-a-group.md)
 [Video Draft](https://www.youtube.com/watch?v=d7obs-3YdOo)
 
 See the shapes as a group, and add a way to name the shapes.
 
+![wireframe](wireframes/3.1.png)
+
+![wireframe](wireframes/3.2.png)
+
 #### [4. Shape Fingerings](world/04-shape-fingerings.md)
 
 - How hands match the keyboard, and how to play hands together in any shape, beginning on any note, using only one fingering pattern.
+
+![wireframe](wireframes/4.1.png)
 
 #### [5. The Anchor Note](world/05-the-anchor-note.md)
 
 - Introduce the anchor, hear the pull, start to recognize it in songs.
 
+![wireframe](wireframes/5.1.png)
+
 #### [6. Playing With the Anchor](world/06-playing-with-the-anchor.md)
 
 - Use the anchor note to focus your playing. Balance structure and play.
+
+![wireframe](wireframes/6.1.png)
 
 #### [7. Bass Notes](world/07-bass-notes.md)
 
 - Introduce bass notes around the anchor. Hear them structuring the song. Use them to create additional structures.
 
+![wireframe](wireframes/7.1.png)
+
 #### [8. Matching A Shape](world/08-matching-a-shape.md)
 
 - Match a song with a shape on your own. Start by using a diagram, then use adjacent notes to fill in the shape.
+
+![wireframe](wireframes/8.1.png)
 
 #### [9. Notes in Time](world/09-notes-in-time.md)
 
 - Represent bass notes relative to the anchor using a staff instead of the keyboard. Then add a way to represent time.
 
+![wireframe](wireframes/9.1.png)
+
 #### [10. Changes](world/10-changes.md)
 
 - Introduce changing shapes and anchors. Distinguish changes at the key and chord levels.
+
+![wireframe](wireframes/10.1.png)
 
 #### [11. Groups of Shapes](world/11-groups-of-shapes.md)
 
@@ -55,7 +78,9 @@ See the shapes as a group, and add a way to name the shapes.
 
 #### [12. Reading by Touch](world/12-reading-by-touch.md)
 
-- Begin SR Tactile sequence through anchor, two higher, two lower. which will include a thumb pivot.
+- Begin SR Tactile sequence through anchor, two higher, two lower, TOP shape only, Pe anchor. which will include a thumb pivot.
+
+![wireframe](wireframes/12.1.png)
 
 #### [13. A Tonescape and Tensions](world/13-a-tonescape-and-tensions.md)
 
@@ -84,6 +109,8 @@ See the shapes as a group, and add a way to name the shapes.
 - Add 5L and 5R shapes to SR tactile sequence.
 - Continue with anchor, one and two higher, one and two lower.
 
+![wireframe](wireframes/18.1.png)
+
 #### [19. Moods](world/19-moods.md) (Follows from 15)
 
 - changing shapes on a single anchor introduces the idea of moods, and their spectrum of lightness/heaviness.
@@ -110,6 +137,8 @@ See the shapes as a group, and add a way to name the shapes.
 - Introduce 4th and 5th to the SR tactile sequence (all tensions)
 - Then add 4L and 4R shapes.
 
+![wireframe](wireframes/23.1.png)
+
 #### [24. Moods and Tensions Together](world/24-moods-and-tensions-together.md) (Follows from 19)
 
 - Add 4th and 5th (all diatonic tensions)
@@ -135,11 +164,15 @@ See the shapes as a group, and add a way to name the shapes.
 - Align different subdivisions with pulse dots, what looks best?
 - Now possible to remove pulse dots (abstracts away from regular note spacing)
 
+![wireframe](wireframes/28.1.png)
+
 #### 29. Reading by Touch Part 4 (Follows from 23)
 
 - Add 3L and 3R shapes to the SR tactile sequence.
 - Continue all tensions, bring in some rhythmic note symbols.
 - Any changing songs that use these shapes?
+
+![wireframe](wireframes/29.1.png)
 
 #### [30. All Moods and Tensions](world/30-all-moods-and-tensions.md) (Follows from 24/25)
 
@@ -163,6 +196,8 @@ See the shapes as a group, and add a way to name the shapes.
 - Continue using rhythmic note symbols
 - Play with changing songs
 - Perhaps bring in some incidentals (if that works with songs)
+
+![wireframe](wireframes/33.1.png)
 
 #### 34. Holding on to the Anchor (Follows from 30)
 

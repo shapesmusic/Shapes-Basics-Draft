@@ -6,7 +6,7 @@ _A Music Method for the Expert Beginner_
 
 ### Shapes Basics Series
 
-#### [1. A Shape](world/01-a-shape.md)
+#### [1. A Shape](lessons/01-a-shape.md)
 [Video Draft](https://www.youtube.com/watch?v=J1Ks_ve2h1I)
 
 Use a single shape to play along with a playlist of songs. Hear when notes fit or don't fit, and start to follow your musical intuition.
@@ -14,14 +14,14 @@ Use a single shape to play along with a playlist of songs. Hear when notes fit o
 ![wireframe](wireframes/1.1.png)
 ![wireframe](wireframes/1.2.png)
 
-#### [2. Different Shapes](world/02-different-shapes.md)
+#### [2. Different Shapes](lessons/02-different-shapes.md)
 [Video Draft](https://www.youtube.com/watch?v=rvDND8zNJfw)
 
 Add some different shapes and continue playing along with songs.
 
 ![wireframe](wireframes/2.1.png)
 
-#### [3. A Group of Shapes](world/03-a-group.md)
+#### [3. A Group of Shapes](lessons/03-a-group.md)
 [Video Draft](https://www.youtube.com/watch?v=d7obs-3YdOo)
 
 See the shapes as a group, and add a way to name the shapes.
@@ -30,63 +30,63 @@ See the shapes as a group, and add a way to name the shapes.
 
 ![wireframe](wireframes/3.2.png)
 
-#### [4. Shape Fingerings](world/04-shape-fingerings.md)
+#### [4. Shape Fingerings](lessons/04-shape-fingerings.md)
 
 - How hands match the keyboard, and how to play hands together in any shape, beginning on any note, using only one fingering pattern.
 
 ![wireframe](wireframes/4.1.png)
 
-#### [5. The Anchor Note](world/05-the-anchor-note.md)
+#### [5. The Anchor Note](lessons/05-the-anchor-note.md)
 
 - Introduce the anchor, hear the pull, start to recognize it in songs.
 
 ![wireframe](wireframes/5.1.png)
 
-#### [6. Playing With the Anchor](world/06-playing-with-the-anchor.md)
+#### [6. Playing With the Anchor](lessons/06-playing-with-the-anchor.md)
 
 - Use the anchor note to focus your playing. Balance structure and play.
 
 ![wireframe](wireframes/6.1.png)
 
-#### [7. Bass Notes](world/07-bass-notes.md)
+#### [7. Bass Notes](lessons/07-bass-notes.md)
 
 - Introduce bass notes around the anchor. Hear them structuring the song. Use them to create additional structures.
 
 ![wireframe](wireframes/7.1.png)
 
-#### [8. Matching A Shape](world/08-matching-a-shape.md)
+#### [8. Matching A Shape](lessons/08-matching-a-shape.md)
 
 - Match a song with a shape on your own. Start by using a diagram, then use adjacent notes to fill in the shape.
 
 ![wireframe](wireframes/8.1.png)
 
-#### [9. Notes in Time](world/09-notes-in-time.md)
+#### [9. Notes in Time](lessons/09-notes-in-time.md)
 
 - Represent bass notes relative to the anchor using a staff instead of the keyboard. Then add a way to represent time.
 
 ![wireframe](wireframes/9.1.png)
 
-#### [10. Changes](world/10-changes.md)
+#### [10. Changes](lessons/10-changes.md)
 
 - Introduce changing shapes and anchors. Distinguish changes at the key and chord levels.
 
 ![wireframe](wireframes/10.1.png)
 
-#### [11. Groups of Shapes](world/11-groups-of-shapes.md)
+#### [11. Groups of Shapes](lessons/11-groups-of-shapes.md)
 
 - Introduce three other groups of shapes and listen to their qualities. Relate the groups through their common shape names.
 
-#### [12. Reading by Touch](world/12-reading-by-touch.md)
+#### [12. Reading by Touch](lessons/12-reading-by-touch.md)
 
 - Begin SR Tactile sequence through anchor, two higher, two lower, TOP shape only, Pe anchor. which will include a thumb pivot.
 
 ![wireframe](wireframes/12.1.png)
 
-#### [13. A Tonescape and Tensions](world/13-a-tonescape-and-tensions.md)
+#### [13. A Tonescape and Tensions](lessons/13-a-tonescape-and-tensions.md)
 
 - Introduce a tonescape and get into **passive** tensions (anchor-higher-lower)
 
-#### [14. Imagination as an Instrument](world/14-imagination-as-an-instrument.md)
+#### [14. Imagination as an Instrument](lessons/14-imagination-as-an-instrument.md)
 
 - Hearing notes inside a tonescape
 - Anchor-higher-lower **active**
@@ -95,7 +95,7 @@ See the shapes as a group, and add a way to name the shapes.
 
 - Add two higher and two lower tensions **passive**
 
-#### [16. Reading by Ear](world/16-reading-by-ear.md)
+#### [16. Reading by Ear](lessons/16-reading-by-ear.md)
 
 - Begin SR Imagery sequence in the netural mood.
 - Anchor, two higher, and two lower **active**
@@ -111,7 +111,7 @@ See the shapes as a group, and add a way to name the shapes.
 
 ![wireframe](wireframes/18.1.png)
 
-#### [19. Moods](world/19-moods.md) (Follows from 15)
+#### [19. Moods](lessons/19-moods.md) (Follows from 15)
 
 - changing shapes on a single anchor introduces the idea of moods, and their spectrum of lightness/heaviness.
 - add the single light and single heavy tonescapes
@@ -128,24 +128,24 @@ See the shapes as a group, and add a way to name the shapes.
 - The light/heavy mood names are a sum of their light/heavy tensions
 - the tension number becomes something abstracted from the specific tension, which is how letter names (& traditional solfege) will work. This sets up IPs.
 
-#### [22. Independent Solfege](world/22-independent-solfege.md)
+#### [22. Independent Solfege](lessons/22-independent-solfege.md)
 
 - Introduce independent solfege names & distinguish from relative names.
 
-#### [23. Reading by Touch Part 3](world/23-reading-by-touch-3.md) (Follows from 18)
+#### [23. Reading by Touch Part 3](lessons/23-reading-by-touch-3.md) (Follows from 18)
 
 - Introduce 4th and 5th to the SR tactile sequence (all tensions)
 - Then add 4L and 4R shapes.
 
 ![wireframe](wireframes/23.1.png)
 
-#### [24. Moods and Tensions Together](world/24-moods-and-tensions-together.md) (Follows from 19)
+#### [24. Moods and Tensions Together](lessons/24-moods-and-tensions-together.md) (Follows from 19)
 
 - Add 4th and 5th (all diatonic tensions)
 - begin using light/heavy names for all tensions
 - all diatonic tensions in neutral, single light & single heavy tonescapes **passive**
 
-#### [25. Getting Inside of Moods](world/25-getting-inside-of-moods.md)
+#### [25. Getting Inside of Moods](lessons/25-getting-inside-of-moods.md)
 
 - Add double light & double heavy tonescapes, shuffle all.
 
@@ -174,7 +174,7 @@ See the shapes as a group, and add a way to name the shapes.
 
 ![wireframe](wireframes/29.1.png)
 
-#### [30. All Moods and Tensions](world/30-all-moods-and-tensions.md) (Follows from 24/25)
+#### [30. All Moods and Tensions](lessons/30-all-moods-and-tensions.md) (Follows from 24/25)
 
 - Add triple light & triple heavy tonescapes (all moods), shuffle all.
 - Bring all tensions so far into the neutral tonescape. Relate to incidentals.

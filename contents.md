@@ -1,16 +1,17 @@
 ### Table of Contents
 
-<u>Front Matter</u>  
+#### Front Matter
 Abstract  
 Acknowledgements  
 
-<u>Shapes</u>  
-Lesson 1: A Shape  
-Lesson Commentary: What Is a Shape?  
-Lesson 2: Different Shapes  
-Method Commentary: Why Music Videos?  
-Lesson 3: A Group of Shapes  
-Lesson 4: Shape Fingerings  
+#### Shapes
+[Lesson 1: A Shape](/lessons/01-a-shape.md)  
+  [Lesson Commentary: What Is a Shape?]()  
+[Lesson 2: Different Shapes](02-different-shapes.md)  
+  [Method Commentary: Why Music Videos?]()  
+[Lesson 3: A Group of Shapes](/lessons/03-a-group.md)  
+  [Lesson Commentary: Is This the Circle of Fifths?]()
+[Lesson 4: Shape Fingerings](/lessons/04-shape-fingerings.md)  
 Lesson 5: The Anchor Note  
 Lesson 6: Playing With the Anchor  
 Lesson 7: Bass Notes  
@@ -19,11 +20,11 @@ Lesson 9: Notes In Time
 Lesson 10: Changes  
 Lesson 11: Groups of Shapes  
 Lesson 12: Reading by Touch  
-Lesson 13: A Tonescape and Tensions  
-Lesson 14: Imagination as an Instrument  
-Lesson 15: Tensions Part 2  
-Lesson 16: Reading by Ear  
-Lesson 17: Naming Tensions  
+[Lesson 13: A Tonescape and Tensions](13-a-tonescape-and-tensions.md)  
+[Lesson 14: Imagination as an Instrument](/lessons/14-imagination-as-an-instrument.md)  
+[Lesson 15: Tensions Part 2]()  
+[Lesson 16: Reading by Ear](/lessons/16-reading-by-ear.md)  
+[Lesson 17: Naming Tensions]()  
 Lesson 18: Reading by Touch Part 2  
 Lesson 19: Moods  
 Lesson 20: Reading by Ear Part 2  
@@ -43,9 +44,10 @@ Lesson 33: Reading by Touch Part 5
 Lesson 34: Holding on to the Anchor  
 Lesson 35: Imagination as an Instrument Part 2  
 
-<u>Back Matter</u>  
-Glossary of Terms  
+#### Back Matter
+Glossary  
 Appencides:  
+
 - Method Map
 - Playlisting Process
 - Data Model

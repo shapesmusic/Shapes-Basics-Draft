@@ -12,6 +12,7 @@ Acknowledgements
 [Lesson 3: A Group of Shapes](/lessons/03-a-group.md)  
   [Lesson Commentary: Is This the Circle of Fifths?]()
 [Lesson 4: Shape Fingerings](/lessons/04-shape-fingerings.md)  
+  Lesson Commentary: The Centered Keyboard  
 Lesson 5: The Anchor Note  
 Lesson 6: Playing With the Anchor  
 Lesson 7: Bass Notes  
@@ -24,7 +25,7 @@ Lesson 12: Reading by Touch
 [Lesson 14: Imagination as an Instrument](/lessons/14-imagination-as-an-instrument.md)  
 [Lesson 15: Tensions Part 2]()  
 [Lesson 16: Reading by Ear](/lessons/16-reading-by-ear.md)  
-[Lesson 17: Naming Tensions]()  
+[Lesson 17: Naming Tensions](/lessons/17-naming-tensions.md)  
 Lesson 18: Reading by Touch Part 2  
 Lesson 19: Moods  
 Lesson 20: Reading by Ear Part 2  

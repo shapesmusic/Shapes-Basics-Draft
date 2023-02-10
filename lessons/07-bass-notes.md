@@ -26,6 +26,7 @@ when you listen to music, you can start to listen for this aspect, for the bass 
 ## Resources
 
 - 2021-09-21 Lesson 8 Bass Notes Review & Notes in Time w/Nora (Video)
+- 2021-10-19 Some Bass Notes (video)
 
 
 Some good bass note songs:

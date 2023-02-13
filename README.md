@@ -4,6 +4,11 @@ _A Music Method for the Expert Beginner_
 
 ![shapes world map](map/map.png)
 
+### Overview
+
+This is a work in progress.  
+Check out the full [Table of Contents](contents.md)
+
 ### Shapes Basics Series
 
 #### [1. A Shape](lessons/01-a-shape.md)

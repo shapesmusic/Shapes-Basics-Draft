@@ -34,15 +34,3 @@ You'll get to know the shapes gradually just by playing with them, so when each 
 
 The playlist:
 https://www.shapesmusic.com/a-group
-
-## References
-
-- 13.1.27 lesson 2 script
-- 15.10.25 videos 1 & 2 (archived in iMovie?)
-- 2021-10-05 JG Shapes Lessons 1 & 2 (Video) start 37:12
-- [2022-03-04 Slides Script](https://docs.google.com/presentation/d/15aEhmjdWSEs0JX3Uc00tF--RLqz0skjsV8oRaXVfQv8/edit?usp=sharing)
-- [2022-03-04 Draft YT Video](https://www.youtube.com/watch?v=rvDND8zNJfw)
-
-### Notes
-
-- Basics 2 & 3 were merged as 2A and 2B prior to 2022-03-04.

@@ -10,7 +10,7 @@ Acknowledgements
 [Lesson 2: Different Shapes](02-different-shapes.md)  
   [Method Commentary: Why Music Videos?]()  
 [Lesson 3: A Group of Shapes](/lessons/03-a-group.md)  
-  [Lesson Commentary: Is This the Circle of Fifths?]()
+  [Lesson Commentary: Is This the Circle of Fifths?]()  
 [Lesson 4: Shape Fingerings](/lessons/04-shape-fingerings.md)  
   Lesson Commentary: The Centered Keyboard  
 Lesson 5: The Anchor Note  

@@ -68,11 +68,3 @@ https://www.shapesmusic.com/add-3
 
 All Shapes:
 https://www.shapesmusic.com/a-group
-
-## References
-
-- 11.3.3 Provisional pp. 17-21, "Centered Keyboard" and "Shape Fingerings"
-
-## Notes
-
--

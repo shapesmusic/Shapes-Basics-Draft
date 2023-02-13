@@ -73,16 +73,4 @@ The playlist:
 https://www.shapesmusic.com/a-shape
 
 Build-a-Shape diagram:
-![dots to shape](/media/21.3.7%20dots_to_shape.png)
-
-## References
-
-- 13.1.27 lesson 1 script
-- 2021-10-05 JG Shapes Lessons 1 & 2 (Video) start 14:27
-- [2022-03-04 Slides Script](https://docs.google.com/presentation/d/1BbXmsq7Bd2WEPrBlTqApyb7zKrS8WmEEjb4qCe1gCv8/edit?usp=sharing)
-- [2022-03-04 Draft YT Video](https://www.youtube.com/watch?v=J1Ks_ve2h1I)
-
-## Notes
-
-- Some good top shape songs:
-  - Johnny & Mary
+![dots to shape](../media/21.3.7%20dots_to_shape.png)

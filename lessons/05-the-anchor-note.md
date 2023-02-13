@@ -4,8 +4,6 @@ this is time to introduce the idea of the anchor note. it's also a kind of tacit
 
 the goal here is to introduce the anchor by demonstration--but guessing at it first could be interesting. different people will have different "right" answers, much moreso than for shapes. this is the beginning of training ourselves to hear anchors in a more consistent way, which will evolve indirectly by way of training tensions, all of which relies on a very specific theoretical construction of these ideas. this, at least, is a reason to emphasize "anchor" as a theoretical ingredient distinct from "shape."
 
-## Summary
-
 
 
 ## The Lesson
@@ -16,21 +14,3 @@ Except mention that the anchor can (and will) be any note of the shape. So it's 
 
 The goal is to become familiar with this sound of pulling toward the anchor note.
 
-
-## Things To Think About
-
-
-
-
-## Resources
-
-- 13.1.27 lesson 3 script
-- 2021-10-12 JG Lesson 4 Anchors (video)
-
-The temp player:
-```bash
-python3 -m http.server
-```
-[http://localhost:8000/desktop/player_1/anchors.html](http://localhost:8000/david_local/development_local/Method-Sketch/media/temp_player/anchors.html)
-
-(uncomment the setAnchor function)

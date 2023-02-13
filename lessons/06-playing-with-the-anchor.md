@@ -2,8 +2,6 @@
 
 this could be like app lesson 4, imagined structures, pre-notation, focused by the anchor. i like that. in a strange way, it's a precursor to the structured "anchor-higher-lower" entry into a tonescape, and the way that moves into structured movement around a tonescape, and then gradually less structured movement--or rather, that the structuring becomes gradually more internalized. So there's a sort of opposition being set up here, on one hand, a sort of rational structuring, and on the other, an imaginitive unstructuring.
 
-## Summary
-
 
 
 ## The Lesson
@@ -32,8 +30,3 @@ try to figure out the melody? i think that's something different. maybe for the 
 - the sense of play is aided by structure.
 
 this also suggests some other ways to read the regions of overlap on the map. "Instruments-Imagination" can mean, as it does here at first, instruments to aid the imagination, but later, it can also become the imagination as an instrument. also, overlaps are spatially opposite to the center of a region--can you say, for example, that the overlap of Symbols and Instruments is polar to the land of Imagination proper?
-
-
-## Resources
-
-- 13.1.27 lesson 4 script

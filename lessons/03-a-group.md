@@ -101,16 +101,4 @@ The playlist:
 https://www.shapesmusic.com/a-group
 
 The group of shapes:  
-![group of shapes](/media/15.3.6_ultralite.png)
-
-## References
-
-- 13.1.27 lesson 2 script
-- 15.10.25 videos 1 & 2 (archived in iMovie?)
-- 2021-10-05 JG Shapes Lessons 1 & 2 (Video) start 37:12
-- [2022-03-04 Slides Script](https://docs.google.com/presentation/d/1tH30ppj7cGPFSrbNQplVbJEUTeWul1R-huAU1FYv3mg/edit?usp=sharing)
-- [2022-03-04 Draft YT Video](https://www.youtube.com/watch?v=d7obs-3YdOo)
-
-### Notes
-
-- Basics 2 & 3 were merged as 2A and 2B prior to 2022-03-04.
+![group of shapes](../media/15.3.6_ultralite.png)

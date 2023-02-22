@@ -6,28 +6,32 @@ Acknowledgements
 
 #### Shapes
 [Lesson 1: A Shape](/lessons/01-a-shape.md)  
-  [Lesson Commentary: What Is a Shape?]()  
+&nbsp;&nbsp;[Commentary: What Is a Shape?]()  
 [Lesson 2: Different Shapes](02-different-shapes.md)  
-  [Method Commentary: Why Music Videos?]()  
+&nbsp;&nbsp;[Commentary: Why Music Videos?]()  
 [Lesson 3: A Group of Shapes](/lessons/03-a-group.md)  
-  [Lesson Commentary: Is This the Circle of Fifths?]()  
+&nbsp;&nbsp;[Commentary: Is This the Circle of Fifths?]()  
 [Lesson 4: Shape Fingerings](/lessons/04-shape-fingerings.md)  
-  Lesson Commentary: The Centered Keyboard  
-Lesson 5: The Anchor Note  
+&nbsp;&nbsp;[Commentary: The Centered Keyboard]()  
+[Lesson 5: The Anchor Note]()  
+&nbsp;&nbsp;[Commentary: What is the Anchor?]()
 Lesson 6: Playing With the Anchor  
 Lesson 7: Bass Notes  
 Lesson 8: Matching A Shape  
 Lesson 9: Notes In Time  
 Lesson 10: Changes  
 Lesson 11: Groups of Shapes  
+&nbsp;&nbsp;[Commentary: Chord-Modes]()  
 Lesson 12: Reading by Touch  
 [Lesson 13: A Tonescape and Tensions](13-a-tonescape-and-tensions.md)  
 [Lesson 14: Imagination as an Instrument](/lessons/14-imagination-as-an-instrument.md)  
 [Lesson 15: Tensions Part 2]()  
+&nbsp;&nbsp;[Commentary: What is a Tonescape?]()  
 [Lesson 16: Reading by Ear](/lessons/16-reading-by-ear.md)  
 [Lesson 17: Naming Tensions](/lessons/17-naming-tensions.md)  
 Lesson 18: Reading by Touch Part 2  
 Lesson 19: Moods  
+&nbsp;&nbsp;[Commentary: Feeling or Thinking?]()  
 Lesson 20: Reading by Ear Part 2  
 Lesson 21: Light and Heavy Tensions  
 Lesson 22: Independent Solfege  
@@ -36,6 +40,7 @@ Lesson 24: Moods and Tensions Together
 Lesson 25: Getting Inside of Moods  
 Lesson 26: Reading by Ear Part 3  
 Lesson 27: Incidentals  
+&nbsp;&nbsp;[Commentary: Shape and Standard Notation]()
 Lesson 28: Making Time Relative  
 Lesson 29: Reading by Touch Part 4  
 Lesson 30: All Moods and Tensions  

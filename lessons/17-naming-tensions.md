@@ -1,3 +1,15 @@
+## Naming Tensions
+
+
+
+### Listen
+
+[Recording Link]
+
+
+
+### Transcript
+
 So far in the tonescape, you've learned to recognize the anchor, one and two higher, and one and two lower. 
 
 So, you have a feeling for each note's distance from the anchor, in terms of how much higher or lower the note is than the anchor.
@@ -47,3 +59,35 @@ Once you can do this with the 2nd and 7th, the next exercise adds the 3rd and 6t
 Before long, you'll start to hear whether each note is an anchor, 2nd, 3rd, 7th, or 6th, regardless of its octave. And you'll also start to recognize the note *without* having to hum it first.
 
 So give it a try. Feel free to experment and come up with your own techniques to help recognize each note you hear. And when you're comfortable naming each note *without* having to hum it first, that's when you're ready to come back for more.
+
+
+
+### Tonescapes Exercises
+
+Anchor, 2nd, 7th
+
+
+
+Anchor, 2nd, 3rd, 7th, 6th
+
+
+
+### More Tips
+
+If you're having trouble, one thing that can help is to be able to play the notes on an instrument, so you have more control over which note you hear, and when, as you try to match the note with your voice.
+
+These are the keys on the keyboard that correspond to the Anchor, 2nd, and 7th:
+
+[image]
+
+You can play these keys in the middle octave at first, match them with your voice, and then play the same keys in the octave higher, and the octave lower.
+
+Along with the [tonescape](https://davidforrest.github.io/FR_Music/resources/tonescapes_0.mp3).
+
+If you don't have access to a keyboard, try [this](https://www.onlinepianist.com/virtual-piano) online piano site
+
+Use I-O-P keys
+
+And B-N-M for the octave higher
+
+Then expand to the 3rd and 6th (another bottom key in either direction)

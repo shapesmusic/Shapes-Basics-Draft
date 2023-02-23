@@ -4,7 +4,7 @@
 
 ### Watch
 
-<iframe src='https://www.youtube.com/watch?v=J1Ks_ve2h1I' frameborder='0' allowfullscreen></iframe>
+<iframe src='https://www.youtube.com/embed/J1Ks_ve2h1I?rel=0' frameborder='0' allowfullscreen></iframe>
 
 
 
@@ -65,5 +65,5 @@ From there, you might decide to keep going, or stop, but ask yourself if you fee
 
 ### Playlist
 
-Lesson 1 Playlist:
+Lesson 1 Playlist:  
 https://www.shapesmusic.com/a-shape

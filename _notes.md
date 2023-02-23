@@ -134,6 +134,28 @@
 
 **Notes**
 
+- This is a way of using the anchor to focus what we play, balancing structured ideas with openness, listening, randomness.
+
+
+
+### Commentary: Where Does Structure Come From?
+
+**References**
+
+- 6.EMP - Playing With the Anchor
+
+**Notes**
+
+- imagined structures, pre-notation, focused by the anchor.
+- in a strange way, it's a precursor to the structured "anchor-higher-lower" entry into a tonescape, and the way that moves into structured movement around a tonescape, and then gradually less structured movement--or rather, that the structuring becomes gradually more internalized.
+- So there's a sort of opposition being set up here, on one hand, a sort of rational structuring, and on the other, an imaginitive unstructuring.
+- originally, this included trying to figure out the melody. but that seems like a very different activity: figuring out a particular structure, versus focusing on the principles behind a particular structure that results.
+- people will start to bring their ideas (like chords) onto this lesson.
+- it also sounds more structured. which raises the question of how much of the structure comes from the concept.
+- the sense of play is aided by structure.
+- this also suggests some other ways to read the regions of overlap on the map. "Instruments-Imagination" can mean, as it does here at first, instruments to aid the imagination, but later, it can also become the imagination as itself an instrument. 
+- also, overlaps are spatially opposite to the center of a region--can you say, for example, that the overlap of Symbols and Instruments is somehow polar to the land of Imagination proper?
+
 
 
 ### Lesson 7 - Bass Notes

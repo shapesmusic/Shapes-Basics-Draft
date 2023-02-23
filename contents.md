@@ -14,8 +14,8 @@ Acknowledgements
 [Lesson 4: Shape Fingerings](/lessons/04-shape-fingerings.md)  
 &nbsp;&nbsp;[Commentary: The Centered Keyboard]()  
 [Lesson 5: The Anchor Note]()  
-&nbsp;&nbsp;[Commentary: What is the Anchor?]()
-Lesson 6: Playing With the Anchor  
+&nbsp;&nbsp;[Commentary: What is the Anchor?]()  
+[Lesson 6: Playing With the Anchor]()  
 &nbsp;&nbsp;[Commentary: Where Does Structure Come From?]()  
 Lesson 7: Bass Notes  
 Lesson 8: Matching A Shape  

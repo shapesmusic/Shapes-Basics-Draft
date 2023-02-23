@@ -4,30 +4,31 @@ _A Music Method for the Expert Beginner_
 
 ![shapes world map](map/map.png)
 
+
+
 ### Overview
 
 This is a work in progress.  
 Check out the full [Table of Contents](contents.md)
 
+
+
 ### Shapes Basics Series
 
-#### [1. A Shape](lessons/01-a-shape.md)
-[Video Draft](https://www.youtube.com/watch?v=J1Ks_ve2h1I)
+#### [1. A Shape](lessons/01-a-shape.html)
 
 Use a single shape to play along with a playlist of songs. Hear when notes fit or don't fit, and start to follow your musical intuition.
 
 ![wireframe](wireframes/1.1.png)
 ![wireframe](wireframes/1.2.png)
 
-#### [2. Different Shapes](lessons/02-different-shapes.md)
-[Video Draft](https://www.youtube.com/watch?v=rvDND8zNJfw)
+#### [2. Different Shapes](lessons/02-different-shapes.html)
 
 Add some different shapes and continue playing along with songs.
 
 ![wireframe](wireframes/2.1.png)
 
-#### [3. A Group of Shapes](lessons/03-a-group.md)
-[Video Draft](https://www.youtube.com/watch?v=d7obs-3YdOo)
+#### [3. A Group of Shapes](lessons/03-a-group.html)
 
 See the shapes as a group, and add a way to name the shapes.
 

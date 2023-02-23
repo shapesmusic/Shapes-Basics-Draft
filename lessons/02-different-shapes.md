@@ -51,5 +51,5 @@ You'll get to know the shapes gradually just by playing with them, so when each 
 
 ### Playlist
 
-Lesson 2 Playlist: 
+Lesson 2 Playlist:  
 https://www.shapesmusic.com/a-group

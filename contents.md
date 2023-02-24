@@ -4,9 +4,9 @@
 Abstract  
 Acknowledgements  
 
-#### Shapes
+#### Shapes Basics
 [Lesson 1: A Shape](/lessons/01-a-shape.md)  
-&nbsp;&nbsp;[Commentary: What Is a Shape?]()  
+&nbsp;&nbsp;[Commentary: What Is a Shape?](/writing/01-what-is-a-shape.md)  
 [Lesson 2: Different Shapes](02-different-shapes.md)  
 &nbsp;&nbsp;[Commentary: Why Music Videos?]()  
 [Lesson 3: A Group of Shapes](/lessons/03-a-group.md)  

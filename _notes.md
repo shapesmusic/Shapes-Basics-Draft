@@ -29,6 +29,9 @@
 
 **References**
 
+- 2023-Spring 4.SO_Mus notes
+- 2023-Spring 2.EMP notes
+
 **Notes**
 
 
@@ -52,6 +55,8 @@
 ### Commentary: Why Music Videos?
 
 **References**
+
+- 2023-Spring 4.SO_Mus notes
 
 **Notes**
 
@@ -100,6 +105,8 @@
 
 **References**
 
+- 2023-Spring 4.SO_Mus notes
+
 - 2011-03-03 Provisional pp. 17-21, "Centered Keyboard" and "Shape Fingerings"
 - 2008-09-30 centered keyboard.doc
 
@@ -122,6 +129,8 @@
 
 **References**
 
+- 2023-Spring 4.SO_Mus notes
+
 **Notes**
 
 
@@ -142,7 +151,7 @@
 
 **References**
 
-- 6.EMP - Playing With the Anchor
+- 2023-Spring 6.EMP - Playing With the Anchor
 
 **Notes**
 
@@ -472,5 +481,15 @@
 ### Lesson 35
 
 **References**
+
+**Notes**
+
+
+
+### Commentary: Software as a Medium
+
+**References**
+
+- 2023-Spring 2.EMP notes
 
 **Notes**

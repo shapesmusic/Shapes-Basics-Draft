@@ -52,10 +52,14 @@ Lesson 34: Holding on to the Anchor
 Lesson 35: Imagination as an Instrument Part 2  
 
 #### Back Matter
-Glossary  
-Appencides:  
+[Commentary: Software as a Medium]()  
 
-- Method Map
-- Playlisting Process
-- Data Model
-- DevJournal
+Appendix 1: Method Map
+Appendix 2: Playlisting Process
+Appendix 3: Data Model
+Appendix 4: Backend Code Repository
+Appendix 5: Frontend Code Repository
+Appendix 6: Song Scraper Repository
+Appendix 7: devJournal
+
+Glossary

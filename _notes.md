@@ -5,6 +5,7 @@
 **Notes**
 
 - this is a snapshot in a long project
+- also a first way of introducing the software side of the project
 
 
 
@@ -252,6 +253,7 @@
 
 **References**
 
+- 2023-Spring 6.3 (telling exactly what notes are in the tonescape seemed helpful&mdash;another question of feeling v logos that comes up in 19 - Moods)
 - 2022-03-06_nora_basics_13_tonescapes.wav
 - 2020-11-06_mgf_first_tonescapes.mp3
 - 2009-10 lesson sketch - a tonescape
@@ -324,6 +326,8 @@
 
 **Notes**
 
+- Also account for my funny capitalization practices: "Lydian, Major, Dominant, dorian, minor, phrygian, locrian," based on a supercategory of "Majorness"-as-general-lightness and "minorness"-as-general-heaviness.
+
 
 
 ### Commentary: Feeling or Thinking?
@@ -350,11 +354,16 @@
 
 
 
-### Lesson 21
+### Lesson 21 - Light and Heavy Tensions
 
 **References**
 
+- 2023-Spring 7.2
+- 2023-Spring 6.3 (possibly helpful here, we got ahead and talked about tension names, the 3rd and 6th changing)
+
 **Notes**
+
+- So now, if it's a 3rd or 6th, you have to distinguish if it's light or heavy. When we bring all the tensions into the tonescape (with light/heavy names for the 3rd and 6th), you'll also be able to hear if the tension is "in" or "out" of the tonescape (or if it sounds different from the 3rd or 6th you've been naming so far), which will help distinguish the light/heavy tensions at first. 
 
 
 

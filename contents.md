@@ -54,12 +54,12 @@ Lesson 35: Imagination as an Instrument Part 2
 #### Back Matter
 [Commentary: Software as a Medium]()  
 
-Appendix 1: Method Map
-Appendix 2: Playlisting Process
-Appendix 3: Data Model
-Appendix 4: Backend Code Repository
-Appendix 5: Frontend Code Repository
-Appendix 6: Song Scraper Repository
+[Appendix 1: Method Map](./)
+[Appendix 2: Playlisting Procedure](https://github.com/shapesmusic/shapes-backend/blob/main/db/playlisting_procedure.md)
+[Appendix 3: Data Model](https://github.com/shapesmusic/shapes-backend/blob/main/db/data-model.md)
+[Appendix 4: Backend Code Repository](https://github.com/shapesmusic/shapes-backend)
+[Appendix 5: Frontend Code Repository](https://github.com/shapesmusic/shapes-client)
+[Appendix 6: Song Scraper Repository](https://github.com/shapesmusic/song-scraper)
 Appendix 7: devJournal
 
-Glossary
+[Glossary](/writing/glossary.md)

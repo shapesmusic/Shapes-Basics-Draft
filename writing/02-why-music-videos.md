@@ -7,4 +7,3 @@ this also makes the interesting point that these sorts of contexts, these worlds
 
 and those are patterns that persist (in certain ways) through all music of all people of all time.
 
-

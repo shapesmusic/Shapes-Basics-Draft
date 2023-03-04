@@ -26,12 +26,12 @@
 
 
 
-### Commentary: What Is a Shape?
+### Commentary: Why Music Videos?
 
 **References**
 
+- (/writing/01-why-music-videos.md)
 - 2023-Spring 4.SO_Mus notes
-- 2023-Spring 2.EMP notes
 
 **Notes**
 
@@ -53,11 +53,13 @@
 
 
 
-### Commentary: Why Music Videos?
+### Commentary: What Is a Shape?
 
 **References**
 
+- (/writing/02-what-is-a-shape.md)
 - 2023-Spring 4.SO_Mus notes
+- 2023-Spring 2.EMP notes
 
 **Notes**
 
@@ -91,7 +93,7 @@
 ### Lesson 4 - Shape Fingerings
 
 **References**
-
+- (/lessons/04-shape-fingerings.md)
 - 2011-03-03 Provisional pp. 17-21, "Centered Keyboard" and "Shape Fingerings"
 - 2009-10 lesson sketch - the centered keyboard
 - 2009-10 lesson sketch - samurai sword
@@ -106,8 +108,8 @@
 
 **References**
 
+- (/writing/04-the-centered-keyboard.md)
 - 2023-Spring 4.SO_Mus notes
-
 - 2011-03-03 Provisional pp. 17-21, "Centered Keyboard" and "Shape Fingerings"
 - 2008-09-30 centered keyboard.doc
 
@@ -130,6 +132,7 @@
 
 **References**
 
+- (/writing/05-what-is-the-anchor.md)
 - 2023-Spring 4.SO_Mus notes
 
 **Notes**
@@ -253,6 +256,7 @@
 
 **References**
 
+- (/lessons/13-a-tonescape-and-tensions.md)
 - 2023-Spring 6.3 (telling exactly what notes are in the tonescape seemed helpful&mdash;another question of feeling v logos that comes up in 19 - Moods)
 - 2022-03-06_nora_basics_13_tonescapes.wav
 - 2020-11-06_mgf_first_tonescapes.mp3
@@ -266,6 +270,7 @@
 
 **References**
 
+- (/lessons/14-imagination-as-an-instrument.md)
 - 2022-03-15_nora_basics_14_tonescapes.wav
 
 **Notes**
@@ -297,6 +302,7 @@
 ### Lesson 16
 
 **References**
+- (/lessons/16-reading-by-ear.md)
 
 **Notes**
 
@@ -499,6 +505,17 @@
 
 **References**
 
+- (/writing/software-as-a-medium.md)
 - 2023-Spring 2.EMP notes
+
+**Notes**
+
+
+
+### Glossary
+
+**References**
+
+- (/writing/glossary.md)
 
 **Notes**

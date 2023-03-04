@@ -10,6 +10,7 @@ _A Music Method for the Expert Beginner_
 
 This is a work in progress.  
 Check out the full [Table of Contents](contents.md)
+And [notes](_notes.md) on each section
 
 
 

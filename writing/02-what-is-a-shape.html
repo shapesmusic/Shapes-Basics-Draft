@@ -1,0 +1,599 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+
+<link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
+.mac-os-11 { --title-bar-height: 28px; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+h1, h2, h3, h4, h5 { white-space: pre-wrap; }
+body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857143; overflow-x: hidden; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; tab-size: 4; background-position: inherit; background-repeat: inherit; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; word-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) { 
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+thead, tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right-width: 0px; background-color: inherit; }
+.CodeMirror-linenumber { -webkit-user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; position: relative !important; background-position: inherit; background-repeat: inherit; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+svg { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; background-position: 0px 0px; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print { 
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; border-color: transparent !important; padding-top: 0px !important; padding-bottom: 0px !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+  #write > p:nth-child(1) { margin-top: 0px; }
+  .typora-export-show-outline .typora-export-sidebar { display: none; }
+  figure { overflow-x: visible; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background-color: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+.MathJax_ref { fill: currentcolor; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) { 
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.reversefootnote { font-family: ui-monospace, sans-serif; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background-color: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.6; font-family: var(--monospace); }
+code { text-align: left; }
+a.md-print-anchor { white-space: pre !important; border: none !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; text-shadow: initial !important; background-position: 0px 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom-width: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+mark { background-color: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
+@media print { 
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; background-position: inherit; background-repeat: inherit; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex: 2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
+@media screen and (max-width: 1024px) { 
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
+}
+@media screen and (max-width: 800px) { 
+  .typora-export-sidebar { display: none; }
+}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.428571429rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ''; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ''; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left-width: 28px; border-left-style: solid; border-left-color: transparent; border-right-width: 28px; border-right-style: solid; border-right-color: transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ''; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right-width: 8px; border-right-style: solid; border-right-color: transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: '−'; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
+.md-inline-math-container mjx-container { zoom: 0.95; }
+mjx-container { break-inside: avoid; }
+
+
+:root {
+    --side-bar-bg-color: #fafafa;
+    --control-text-color: #777;
+}
+
+@include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+
+/* open-sans-regular - latin-ext_latin */
+  /* open-sans-italic - latin-ext_latin */
+    /* open-sans-700 - latin-ext_latin */
+    /* open-sans-700italic - latin-ext_latin */
+  html {
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.6;
+}
+
+#write {
+    max-width: 860px;
+  	margin: 0 auto;
+  	padding: 30px;
+    padding-bottom: 100px;
+}
+
+@media only screen and (min-width: 1400px) {
+	#write {
+		max-width: 1024px;
+	}
+}
+
+@media only screen and (min-width: 1800px) {
+	#write {
+		max-width: 1200px;
+	}
+}
+
+#write > ul:first-child,
+#write > ol:first-child{
+    margin-top: 30px;
+}
+
+a {
+    color: #4183C4;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    cursor: text;
+}
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+    text-decoration: none;
+}
+h1 tt,
+h1 code {
+    font-size: inherit;
+}
+h2 tt,
+h2 code {
+    font-size: inherit;
+}
+h3 tt,
+h3 code {
+    font-size: inherit;
+}
+h4 tt,
+h4 code {
+    font-size: inherit;
+}
+h5 tt,
+h5 code {
+    font-size: inherit;
+}
+h6 tt,
+h6 code {
+    font-size: inherit;
+}
+h1 {
+    font-size: 2.25em;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+}
+h2 {
+    font-size: 1.75em;
+    line-height: 1.225;
+    border-bottom: 1px solid #eee;
+}
+
+/*@media print {
+    .typora-export h1,
+    .typora-export h2 {
+        border-bottom: none;
+        padding-bottom: initial;
+    }
+
+    .typora-export h1::after,
+    .typora-export h2::after {
+        content: "";
+        display: block;
+        height: 100px;
+        margin-top: -96px;
+        border-top: 1px solid #eee;
+    }
+}*/
+
+h3 {
+    font-size: 1.5em;
+    line-height: 1.43;
+}
+h4 {
+    font-size: 1.25em;
+}
+h5 {
+    font-size: 1em;
+}
+h6 {
+   font-size: 1em;
+    color: #777;
+}
+p,
+blockquote,
+ul,
+ol,
+dl,
+table{
+    margin: 0.8em 0;
+}
+li>ol,
+li>ul {
+    margin: 0 0;
+}
+hr {
+    height: 2px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: #e7e7e7;
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+
+li p.first {
+    display: inline-block;
+}
+ul,
+ol {
+    padding-left: 30px;
+}
+ul:first-child,
+ol:first-child {
+    margin-top: 0;
+}
+ul:last-child,
+ol:last-child {
+    margin-bottom: 0;
+}
+blockquote {
+    border-left: 4px solid #dfe2e5;
+    padding: 0 15px;
+    color: #777777;
+}
+blockquote blockquote {
+    padding-right: 0;
+}
+table {
+    padding: 0;
+    word-break: initial;
+}
+table tr {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 0;
+}
+table tr:nth-child(2n),
+thead {
+    background-color: #f8f8f8;
+}
+table th {
+    font-weight: bold;
+    border: 1px solid #dfe2e5;
+    border-bottom: 0;
+    margin: 0;
+    padding: 6px 13px;
+}
+table td {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 6px 13px;
+}
+table th:first-child,
+table td:first-child {
+    margin-top: 0;
+}
+table th:last-child,
+table td:last-child {
+    margin-bottom: 0;
+}
+
+.CodeMirror-lines {
+    padding-left: 4px;
+}
+
+.code-tooltip {
+    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
+    border-top: 1px solid #eef2f2;
+}
+
+.md-fences,
+code,
+tt {
+    border: 1px solid #e7eaed;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 0;
+    padding: 2px 4px 0px 4px;
+    font-size: 0.9em;
+}
+
+code {
+    background-color: #f3f4f4;
+    padding: 0 2px 0 2px;
+}
+
+.md-fences {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 6px;
+}
+
+
+.md-task-list-item > input {
+  margin-left: -1.3em;
+}
+
+@media print {
+    html {
+        font-size: 13px;
+    }
+    pre {
+        page-break-inside: avoid;
+        word-wrap: break-word;
+    }
+}
+
+.md-fences {
+	background-color: #f8f8f8;
+}
+#write pre.md-meta-block {
+	padding: 1rem;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f7f7f7;
+    border: 0;
+    border-radius: 3px;
+    color: #777777;
+    margin-top: 0 !important;
+}
+
+.mathjax-block>.code-tooltip {
+	bottom: .375rem;
+}
+
+.md-mathjax-midline {
+    background: #fafafa;
+}
+
+#write>h3.md-focus:before{
+	left: -1.5625rem;
+	top: .375rem;
+}
+#write>h4.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h5.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h6.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+.md-image>.md-meta {
+    /*border: 1px solid #ddd;*/
+    border-radius: 3px;
+    padding: 2px 0px 0px 4px;
+    font-size: 0.9em;
+    color: inherit;
+}
+
+.md-tag {
+    color: #a7a7a7;
+    opacity: 1;
+}
+
+.md-toc { 
+    margin-top:20px;
+    padding-bottom:20px;
+}
+
+.sidebar-tabs {
+    border-bottom: none;
+}
+
+#typora-quick-open {
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+}
+
+#typora-quick-open-item {
+    background-color: #FAFAFA;
+    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/** focus mode */
+.on-focus-mode blockquote {
+    border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+header, .context-menu, .megamenu-content, footer{
+    font-family: "Segoe UI", "Arial", sans-serif;
+}
+
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state{
+    visibility: visible;
+}
+
+.mac-seamless-mode #typora-sidebar {
+    background-color: #fafafa;
+    background-color: var(--side-bar-bg-color);
+}
+
+.md-lang {
+    color: #b4654d;
+}
+
+/*.html-for-mac {
+    --item-hover-bg-color: #E6F0FE;
+}*/
+
+#md-notification .btn {
+    border: 0;
+}
+
+.dropdown-menu .divider {
+    border-color: #e5e5e5;
+    opacity: 0.4;
+}
+
+.ty-preferences .window-content {
+    background-color: #fafafa;
+}
+
+.ty-preferences .nav-group-item.active {
+    color: white;
+    background: #999;
+}
+
+.menu-item-container a.menu-style-btn {
+    background-color: #f5f8fa;
+    background-image: linear-gradient( 180deg , hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0)); 
+}
+
+
+ @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}
+</style><title>02-what-is-a-shape</title>
+</head>
+<body class='typora-export'><div class='typora-export-content'>
+<div id='write'  class=''><h2 id='what-is-a-shape'><span>What Is a Shape?</span></h2><p>&nbsp;</p><h4 id='standard-musical-ideas'><span>Standard Musical Ideas</span></h4><p><span>People who already have some experience studying music often ask, &quot;isn&#39;t the shape just a scale?&quot; Or maybe it&#39;s the song&#39;s key? Or maybe a mode? </span></p><p><span>These are all ways of asking: how can we relate Shapes to standard musical ideas? How can we connect this experience with the terms we&#39;ve already learned, and that other musicians will understand?</span></p><p><span>To begin making this connection, it helps to think of a shape as a way of zooming out to a broad idea that has the potential to become any, or all, or none, of these more familiar ideas. As a vantage point from which we can see and experience familiar musical concepts a little differently.</span></p><p><span>The standard idea most closely related to a shape, perhaps, is a key signature. What a key signature does is to say, okay, the musical staff is mapped to the key of &quot;no sharps and no flats&quot; (or all the white notes of the piano), but I&#39;m going to modify these notes so they contain, for example, a &quot;B-flat&quot; instead of a &quot;B,&quot; and the collection of notes will now more closely match the music I&#39;m describing.</span></p><p><span>The notes of a key signature will give you one of the shapes. So the first shape you played with would be the key signature of six flats (or six sharps). </span></p><p><span>[Image]</span></p><p><span>But this isn&#39;t quite how a shape works, because the shape doesn&#39;t reference the key signature of &quot;no sharps and no flats.&quot; Instead, each shape gets to be its own starting point, it&#39;s own key signature of no sharps and no flats. And there&#39;s something very different in the way of thinking when the basis for your collection of notes isn&#39;t the white notes of the piano that are then modified, but rather, it&#39;s just </span><em><span>this collection of notes</span></em>&mdash;<span>the shape. </span></p><p><span>This means you can take any note of the shape, say the middle note in the bottom group, and you could decide to play one note higher, to modify it, a note &quot;up&quot; from that note. </span></p><p><span>[Image]</span></p><p><span>Thinking in standard terms, you would begin with an A</span><strong><span>♭</span></strong><span> or G</span><strong><span>♯</span></strong><span> that&#39;s part of the key signature, then modify that note &quot;up&quot; to, effectively, an A</span><strong><span>♭</span></strong><span>-sharp, or G</span><strong><span>♯</span></strong><span>-sharp, which you would then call &quot;A-natural,&quot; or &quot;G-double sharp&quot;</span>&mdash;<span>a modified version of a note that&#39;s </span><em><span>already</span></em><span> modified from the white notes of the piano.</span></p><p><span>So when you&#39;re thinking in terms of key signature, you&#39;re referencing a theoretical collection of notes</span>&mdash;<span>the key of no sharps and no flats</span>&mdash;<span>that doesn&#39;t necessarily describe the sound and experience of the music you&#39;re playing with. That theoretical collection matters, because it describes the relationships between notes that are common to all the key signatures. But a shape lets you step back and work with these relationships more broadly, without having to reference all of them in terms of any particular one of them.</span></p><p>&nbsp;</p><h4 id='a-scale-or-mode'><span>A Scale or Mode?</span></h4><p><span>Now, if you choose one of the notes in the shape, say the first top key in the bottom group, and play all the notes of the shape in order starting from that note, you&#39;ll get a scale.</span></p><p><span>[Image]</span></p><p><span>And starting from this particular note, you get a </span><em><span>Major</span></em><span> scale, which is also a way of expressing the Major mode. Or you could choose to start from any other note of the shape, and you&#39;d get a different scale and mode: the minor, dorian, or Lydian, and so forth.</span></p><p><span>But a shape doesn&#39;t tell you which note to start or end on. And it also doesn&#39;t tell you in which order to play the notes. It&#39;s just a collection of notes that you can play in </span><em><span>any</span></em><span> order or combination. So while a shape has all the ingredients to become a scale or a mode, it </span><em><span>isn&#39;t</span></em><span> one, yet, until you</span>&mdash;<span>or a song you&#39;re playing with</span>&mdash;<span>turns it into one.</span></p><p><span>In fact, as you&#39;re playing, you&#39;ll come across different songs that fit with different scales or modes, but that are all still in the same shape. Or individual songs that change midway from one scale or mode to another, but that nonetheless remain in the same shape. This means that scales can change, modes can change, chords can change, and in some cases, even key signatures can change (to their enharmonic equivalents), and yet you can still remain in the same shape. </span></p><p><span>And really, one purpose of a shape is to let you zoom out and think in terms of something broader than any of these concepts. You&#39;re taking all the notes that fit with the song on one hand, and the note they&#39;re organized around on the other, and allowing them to remain separate. So you can focus on just the broad grouping of notes that fits with the song throughout. </span></p><p><span>Then your intuitions about what sounds good can begin to take over and fill in the details. You begin to do less thinking, and more experimenting, more interacting with what&#39;s happening in the song. You begin to focus more on the sound, experience, and feeling of playing, rather than on the specific concepts that may describe the song, like scales or modes.</span></p><p>&nbsp;</p><h4 id='the-songs-key'><span>The Song&#39;s Key?</span></h4><p><span>When a musician asks, &quot;what key is this song in?&quot; they usually mean two separate things: first, what&#39;s the overall collection of notes that fits with the song</span>&mdash;<span>the key signature</span>&mdash;<span>and second, what&#39;s the note that all the other notes are pulling toward</span>&mdash;<span> the </span><em><span>key note</span></em><span>, tonal center, or tonic.</span></p><p><span>By this way of thinking, the idea of key is very closely related to mode. Key is like a mode that&#39;s applied to the whole song, at the most general level, so that it describes the sound of the song overall. And as with mode, a shape lets you begin by separating these two aspects of key from one another, and to play, at first, with just the collection of notes that fit with the song.</span></p><p><span>Because to hear that a shape fits with a song is a very different perception, way of listening, than to hear which particular note is the tonal center. Most people can hear this fit very easily, intuitively, for the same reasons that you can have the experience of hearing when a musician plays a &quot;wrong&quot; note during a performance, even if you have no musical training whatsoever. But to have a feeling for the tonal center requires a much more specific kind of listening, and different people will have this experience more or less intuitively at first. Yet both of these experiences</span>&mdash;<span>the collection of notes and the note they&#39;re pulling toward</span>&mdash;<span>are aspects of the song&#39;s key. So one way to think of a shape is as half of a key, and before it becomes a key.</span></p><p><span>Stepping into slightly more theoretical territory, it also helps to make a distinction between &quot;Major&quot; and &quot;Minor&quot; as they are often used to describe keys in functional tonality, and the Major and minor modes themselves. Many of the songs you&#39;ll come across fit with a shape and tonal center that give you a different mode than the Major or minor modes. This is because any note in the shape has the potential to be the tonal center in a song, and the Major and minor modes are only two of seven possibilities.</span></p><p><span>In functional tonality, which has a strong influence on many of our standard musical ideas, key is most often described as being either Major or Minor. But this means these terms have been abstracted from the modes themselves, and are instead describing more general </span><em><span>categories</span></em><span> of modes: the Lydian, Major, and Mixolydian (or Dominant) modes would all be absorbed into the &quot;Major&quot; category, and the dorian, minor, phrygian, and locrian modes would be absorbed into the &quot;Minor&quot; category. These categories aren&#39;t a result of thinking in terms of modes, but of thinking in terms of triadic chord structures, and in particular, of the quality of the </span><em><span>third</span></em><span> in the chord, as being Major or Minor. A key, then, becomes a broad category within which each chord has a function. These broad categories can be described by scales, or modes, but it is the Major and minor modes in particular that contain the notes most significant to tonal </span><em><span>function</span></em><span>, and so in functional tonality, all the other modes become modifications of these two, paradigmatic modes. </span></p><p><span>Now, if all this about function made no sense whatsoever, don&#39;t worry, you&#39;re hardly alone. The point, perhaps, is that thinking of keys as being strictly Major or Minor will leave you with a whole lot of songs that don&#39;t quite fit with the shape you&#39;re using to describe them. If you&#39;ve ever heard a DJ set on the radio, or at a party, where the DJ mixes one song into another, and the beat matches, but the notes of the two songs don&#39;t quite match, you&#39;ve had an experience of this very problem. Most DJ software is programmed to detect only Major and Minor keys, and (assuming the detection algorithm works correctly), all the different modes will be grouped together under only these two categories, so that, say, a song in the phrygian mode and a song in the dorian mode will both be described as &quot;Minor,&quot; and will be mixed together, and everyone will stop dancing to inwardly cringe for a moment.</span></p><p><span>But if you allow yourself to think, as we did at first, of </span><em><span>key</span></em><span> as being a mode that&#39;s applied to the whole song, you won&#39;t run into any of these sorts of problems. And moreover, you&#39;ll always stay grounded in the intuitive experience of the notes that fit</span>&mdash;<span>the shape, and the note they&#39;re pulling toward</span>&mdash;<span>the tonal center. This will be the basis from which you can also begin to understand musical ideas that are slightly abstracted from this more concrete experience</span>&mdash;<span>ideas like the Major and Minor keys in functional tonality.</span></p><p>&nbsp;</p><h4 id='the-songs-chords'><span>The Song&#39;s Chords?</span></h4><p><span>So, one note of the shape can become the tonal center of a song, and the combination of the shape and tonal center will describe the song&#39;s key overall. But more locally, one note of the shape can also become the </span><em><span>root note</span></em><span> of a chord, and the combination of the shape and root note will also fully describe that chord.</span></p><p><span>If you begin from the root note and skip every other note of the shape, you&#39;ll get a chord, and in particular, a </span><em><span>triad</span></em><span>. And if you continue skipping every other note until you return to the root note an octave higher, you will have played all the notes of the shape, and you will have extended your triad all the way up to a 13th chord.</span></p><p><span>Perhaps a little less traditionally, if you play </span><em><span>any</span></em><span> combination of the notes in the shape, organized in relation to the root note, you will have also played a chord, although not necessarily a triadic chord. </span></p><p><span>And even less traditionally, you could play just a single note, and that note can organize all the other notes of the shape that are already implied in the song more broadly, into a change at the chord level, and thus, into a chord.</span></p><p><span>In all of these cases, the shape is a way of describing the song&#39;s chords. If chord roots change within a single shape, that same shape will describe multiple different chords. And further, if the whole song is also in the same shape, then the shape will describe both an aspect of the song&#39;s key, </span><em><span>and</span></em><span> of its changing chords, at the same time. It&#39;s a single idea that gives you a way into these different theoretical layers and musical aspects of the song, all at once.</span></p><p>&nbsp;</p><h4 id='a-shape-as-an-idea'><span>A Shape as an Idea</span></h4><p><span>What, then, would it mean to think of a shape as a musical idea in its own right, rather than thinking in terms of standard concepts? What are a shape&#39;s qualities, and what does it allow you to do?</span></p><p><span>On one hand, a shape uses an instrument</span>&mdash;<span>the keyboard</span>&mdash;<span>as a diagram. So there&#39;s no separation between the concept you&#39;re using to think about music, and your means of making music. </span></p><p><span>Moreover, that diagram is a mnemonic device, a very efficient way to help you remember complex ideas quickly. If you&#39;ve ever tried a keyboard tutorial that lights up the notes you&#39;re supposed to play, or that scrolls the notes like Guitar Hero does, you&#39;ve had an experience that forces you to think purely in terms of individual notes, from one note to the next. It&#39;s a little like playing a game of whack-a-mole. And this is often how reading music, or learning a song, feels to a beginner. </span></p><p><span>But rather than lighting up the individual notes on the keyboard, a shape represents a broader collection of notes by connecting them with a stroke. It allows you to grasp the whole idea at once, as a single symbol, a gesture, without having to think about each of the parts that make it up. So in addition to representing ideas directly on an instrument, and in a way that&#39;s easy to remember, the shape also emphasizes musical contexts over specific musical structures, like melodies or chord voicings. It shifts the focus from which notes to play, to which notes are </span><em><span>possible</span></em><span> to play. And this means that you become a part of the concept as well, since what it represents is the place where your intuitions meet a particular moment of music.</span></p><p><span>So is the shape an idea that&#39;s specific to the keyboard, or does it apply to other instruments as well? </span></p><p><span>Guitarists often think in terms of shapes, too. But these tend to describe the shapes that particular chord structures or scales make on the fretboard, that you can then move around to different positions. So while guitar shapes are also a way of using the instrument as a diagram, they tend to focus on specific musical structures more than on contexts.</span></p><p><span>Of course, nothing prevents a guitarist from understanding a scale shape as a broader collection of notes that doesn&#39;t necessarily start or end on any particular note, or from understanding chord shapes as particular expressions of that collection at a more local level of the song. These are the very same distinctions that we&#39;ve already made between a shape and a scale, mode, or chord. It&#39;s the difference between thinking of the shape of some particular musical structure, versus as an idea that filters the entire fretboard into a collection of notes that will fit with the song. </span></p><p><span>The physical layout of a shape is different on the guitar, too, because while the fretboard itself is structurally similar to the keyboard</span>&mdash;<span>in that both divide a continuous pitch spectrum into the same sequence of relationships between individual notes</span>&mdash;<span>you access those relationships through several strings that are each tuned differently. So the guitar is like several keyboards side-by-side, and staggered according to how the strings are tuned. This means the guitar has its own set of diagrammatic constraints that are different from those of the keyboard.</span></p><p><span>The keyboard emphasizes the relationships of the diatonic order</span>&mdash;<span>the key of no sharps and no flats</span>&mdash;<span>in a way that the guitar doesn&#39;t, through its layout of bottom, &quot;white&quot; keys and top, &quot;black&quot; keys. The position of the two semitones within the diatonic order has the effect of suggesting two distinct groupings of keys on the keyboard, one with two top and three bottom keys, and the other with three top and four bottom keys. These groupings repeat in a continuous pattern across the keyboard, and they offer a simple, convenient unit for diagramming a shape. But they also organize the overall sequence of notes on the keyboard according to the relationships of the diatonic order. This leads to a diagrammatic inconsistency based on the constraints, or priorities, of the instrument, similar to the inconsistencies in how guitar shapes move across different strings.</span></p><p><span>So there are instrumental and diagrammatic aspects of a shape that are closely linked. And this relationship allows the instrument itself to become a musical symbol, a means of representing musical ideas. But then, the shape also represents a broad collection of notes that fit with a song, and while you can access this collection in different ways on different instruments, it is an idea that is not specific to any particular instrument, or even, necessarily, to instruments at all.</span></p><p>&nbsp;</p><h4 id='so-what-is-a-shape'><span>So, What </span><em><span>is</span></em><span> a Shape?</span></h4><p><span>[these are notes from this point forward...]</span></p><p><span>Okay, a shape is an idea, a concept, sure. But it&#39;s a concept that represents </span><em><span>potential</span></em>&mdash;<span>the potential for what you might play, based on where your intuitions meet the song, and also the potential for different concepts you might draw on, standard and nonstandard, but that might not yet be fully articulated or disentangled from one another.</span></p><p><span>It&#39;s a world that you can step into and play around within. Both musically and conceptually. </span></p><p><span>It&#39;s a place from which you can connect to a very concrete experience of playing with songs, and to which you can connect a constellation of other musical concepts to that experience.</span></p><p>&nbsp;</p><p><span>[ but the shape as a concept that represents what you </span><em><span>might</span></em><span> play ] </span></p><p><em><span>because it&#39;s paired with a song</span></em><span>. this emerges from the combination of the shape and the song, in the world.</span></p><p><span>since the shape gives you all of the notes that fit in the world of this song, the intuition you have kind of takes over, so you need to rely on, well, what could i play that feels like it&#39;s going to blend, to add something... it&#39;s not a thinking rule, it&#39;s based on your experience of music in your life. the shape is almost a way of accessing that intuition, of giving yourself a way to play with it.</span></p><p><span>and it&#39;s not that </span><em><span>anything</span></em><span> will sound good-- but anything you play is likely to sound good. it&#39;s that it gives you just enough so that you will start to play things that sound good intuitively. You already have a lot of musical intuitions just from listening to music throughout your life that you can start to use here.</span></p><p>&nbsp;</p><p><span>[compositional devices?]</span></p><p><span>you can think of any music theoretical concept as a little instrument that you can play with, or a little world that you can go in to, that gives you some constraints, some ideas, some things that you can work with. </span></p><p><span>And it&#39;s a nice, creative way to think of any concept, like key signature. To say, okay, what can i do with this? how to I put myself </span><em><span>in</span></em><span> this concept and what does it afford me? </span></p><p><span>Like a compositional device. And you develop a kind of toolset of these concepts. Not that you rely on them entirely, but they&#39;re there, and you rely on them sometimes for different purposes. Just like any instrument. You have a different kind of telescope when you want to try to look at Pluto, than when you want to see sun spots. </span></p><p><span>Or dance styles, or different kinds of rhythms (swing, bossa nova...) those are like concpetual overlays over the movement, and the movement is intuitive, but you think of the overlay and you have a template for how to move, and then you can play with that template.</span></p><p>&nbsp;</p><p><span>[Intuition as access]</span></p><p><span>This is efficient. Also, you&#39;re doing a theory/concept thing, a listening thing, and you&#39;re also doing something physical. There&#39;s a way in which this device corresponds to the shape of your hands. Which will be Level 4.  </span></p><p>&nbsp;</p><p><span>it builds a lot of stuff, playing with this. you start making connections. you get that foundation of playing. it never feels too easy, you have a shape and a song, and it&#39;s kind of infinite. you just get in there and play.</span></p><p><span>and it&#39;s not that you&#39;re limited to the shape. at the beginning, we say play the shape, bu it&#39;s more a framework. </span></p><p>&nbsp;</p><p><span>[the process of learning]</span></p><p><span>Often, there&#39;s a promise implied in beginning music lessons. Do this really repetitive, rote thing, and do it so much that eventually it will fall away and you won&#39;t need it anymore. And you&#39;re like, okay, i kind of trust you. And then you stop taking lesson before that ever happens.</span></p><p><span>So here, there no transition where you stop thinking of notes and start doing something more intuitive. </span></p><p><span>If you&#39;re playing with a song, moving between the notes of the shape, following your ear, you&#39;re already working in that intuitive way. You&#39;re not thinking, &quot;I&#39;m now going to play a G, I&#39;m now going to play an A-flat, where&#39;s the A-flat on the keyboard, oh, it&#39;s the middle of the three black notes...&quot; instead you play a sound, and maybe have a feeling for which direction you should go next, or you may jump to some other note and listen to what it sound like, then have a sense of whether you should play the next note higher or lower... </span></p><p><span>So you&#39;re working in this more intuitive way, following contours of melody, and event the contour of the instrument.</span></p><p>&nbsp;</p><p><span>[How to deal with traditional theory?] (&quot;standard musical ideas&quot;)</span></p><p><span>and be sensitive to this-- it&#39;s never making alternative theory. It has to  </span><em><span>be</span></em><span> the tradition of theory, it&#39;s accessing the foundations. You get a lot of beginner methods: music lerning is hard, therefore we&#39;ve thrown all that away and are starting with something totally different. But no, you want something that&#39;s hugging the traidiontal theory, trying to find ways into it, if it&#39;s relevant.</span></p><p><span>if it&#39;s relevant. In this context, it&#39;s not really helpful or relevant to think in terms of scales or note names.  </span></p><p><span>You don&#39;t have to do that. You can let go of all that theoretical stuff. You can turn that on if you want, but you can also turn it off, and just play with the shape.</span></p><p><span>[how to relate shapes and tradition throughout. in the commentary, keep separated.]</span></p><p>&nbsp;</p><p><strong><span>and thinking in terms of the instrument is different from thinking in terms of concepts built up intellectually.</span></strong></p><p><span>You&#39;re not building the shape by focusing on each note individually, you don&#39;t have to name the notes, you just see the stroke, you can remember it, and you can play with it.</span></p><p><span>Which is also a version of bypassing [intellectual steps] at first, of coming from the top down, rather than from the bottom up.</span></p><p>&nbsp;</p><p><span>[kybd v diatonic relationships as basis?]</span></p><p><span>But this is starting with the keyboard as a visual device as the basis. So in a way, you don&#39;t have to think in terms of the seven letter names and modify them, but instead, any of these groupings of keys can become their own version of the white notes of the piano, or the seven letters, and so a note that would be an E-flat can just be its own note, without having to be a version or modification of any other note.</span></p><p><span>(versus the way I described this up in key sigs: the relationships of no-sharps-no-flats abstracted from that particular key signature. how do these differ?)</span></p><p>&nbsp;</p><p><strong><span>and why? because it allows you to have the experience of an advanced musician.</span></strong></p><p>&nbsp;</p><p><span>And why do this? Is it a way to help us start improvising without first having to construct all these ideas intellectualy? This is another way to think about what a shape is. </span></p><p><span>So in a way, it&#39;s bypassing all the intellectual stuff, like learning what a scale is so that you can improvise with it, but you can also think of it as what happens </span><em><span>after</span></em><span> you&#39;ve learned that stuff, and then you&#39;re not thinking about it anymore. </span></p><p><span>Because when your&#39;e a very experienced musician, and you&#39;re improvising, the experience is very much like this. You&#39;re not necessarily thinking, &quot;this is a G,&quot; or &quot;that&#39;s a major scale&quot; and so forth, although you could certainly turn on that analytical layer if you wanted to. You&#39;re just in a context, you&#39;re reacting to the music, you&#39;re using your intuition to move through it in a way that sounds good to you, and then you might turn on your intellectual layer afterward and ask, what did I do? and what should I do next?</span></p><p><span>So without having ever played before, at all, you can jump into something of the experience of what a really experienced musician does when they&#39;re improvising, and that&#39;s really cool. </span></p></div></div>
+</body>
+</html>

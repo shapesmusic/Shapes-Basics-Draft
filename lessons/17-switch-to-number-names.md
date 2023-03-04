@@ -4,7 +4,13 @@
 
 ### Listen
 
-[Recording Link]
+
+
+<audio
+    controls
+    src="../media/switch_to_number_names.mp3">
+        <a href="../media/switch_to_number_names.mp3"></a>
+</audio>
 
 
 
@@ -65,10 +71,20 @@ So give it a try. Feel free to experment and come up with your own techniques to
 ### Tonescapes Exercises
 
 Anchor, 2nd, 7th
+<audio
+    controls
+    src="../media/tonescapes_4.mp3">
+        <a href="../media/tonescapes_4.mp3"></a>
+</audio>
 
 
 
 Anchor, 2nd, 3rd, 7th, 6th
+<audio
+    controls
+    src="../media/tonescapes_5.mp3">
+        <a href="../media/tonescapes_5.mp3"></a>
+</audio>
 
 
 
@@ -82,7 +98,7 @@ These are the keys on the keyboard that correspond to the Anchor, 2nd, and 7th:
 
 You can play these keys in the middle octave at first, match them with your voice, and then play the same keys in the octave higher, and the octave lower.
 
-Along with the [tonescape](https://davidforrest.github.io/FR_Music/resources/tonescapes_0.mp3).
+Along with the [tonescape](../media/tonescapes_0.mp3).
 
 If you don't have access to a keyboard, try [this](https://www.onlinepianist.com/virtual-piano) online piano site
 

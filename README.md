@@ -107,7 +107,7 @@ See the shapes as a group, and add a way to name the shapes.
 - Begin SR Imagery sequence in the netural mood.
 - Anchor, two higher, and two lower **active**
 
-#### 17. Naming Tensions
+#### [17. Switch To Number Names](/lessons/17-switch-to-number-names.md)
 
 - Switch the tensions naming model to 2nd, 3rd, 7th, 6th.
 

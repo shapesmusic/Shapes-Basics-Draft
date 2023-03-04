@@ -308,13 +308,15 @@
 
 
 
-### Lesson 17 - Naming Tensions
+### Lesson 17 - Switch To Number Names
 
 **References**
 
+- (/lessons/17-switch-to-number-names.md)
 - 2023-02-11_Lesson_17_audio
 
 **Notes**
+- there's a "more tips" section at the end of the .md file that's not (yet) incorporated into the .html export
 
 
 

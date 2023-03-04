@@ -29,7 +29,7 @@ Lesson 14: Imagination as an Instrument
 Lesson 15: Tensions Part 2  
 &nbsp;&nbsp;Commentary: What is a Tonescape?  
 Lesson 16: Reading by Ear  
-[Lesson 17: Naming Tensions](/lessons/17-naming-tensions.md)  
+[Lesson 17: Switch To Number Names](/lessons/17-switch-to-number-names.md)  
 Lesson 18: Reading by Touch Part 2  
 Lesson 19: Moods  
 &nbsp;&nbsp;Commentary: Feeling or Thinking?  

@@ -106,96 +106,60 @@ So there are instrumental and diagrammatic aspects of a shape that are closely l
 
 [these are notes from this point forward...]
 
-Okay, a shape is an idea, a concept, sure. But it's a concept that represents *potential*&mdash;the potential for what you might play, based on where your intuitions meet the song, and also the potential for different concepts you might draw on, standard and nonstandard, but that might not yet be fully articulated or disentangled from one another.
+
+
+**it's a concept that represents potential. not the notes to play, but what you might play when you encounter a moment of music.**
+
+The Shape is a concept that represents potential—the potential for what you might play, based on where your intuitions meet the song, and also the potential for different concepts you might draw on, standard and nonstandard, but that might not yet be fully articulated or disentangled from one another.
+
+because it's paired with a song. this emerges from the combination of the shape and the song, in the world.
+
+
+
+**your intuitions take over, and the concept becomes a world to play in. it allows you a kind of access to something withing yourself.**
+
+so you need to rely on, well, what could i play that feels like it's going to blend, to add something... it's not a thinking rule, it's based on your experience of music in your life.
+
+and it's not that anything will sound good-- but anything you play is likely to sound good. it's that it gives you just enough so that you will start to play things that sound good intuitively. You already have a lot of musical intuitions just from listening to music throughout your life
 
 It's a world that you can step into and play around within. Both musically and conceptually. 
 
+
+
+**and a potential to connect other concepts to that core experience.**
+
 It's a place from which you can connect to a very concrete experience of playing with songs, and to which you can connect a constellation of other musical concepts to that experience.
 
-
-
-[ but the shape as a concept that represents what you *might* play ] 
-
-*because it's paired with a song*. this emerges from the combination of the shape and the song, in the world.
-
-since the shape gives you all of the notes that fit in the world of this song, the intuition you have kind of takes over, so you need to rely on, well, what could i play that feels like it's going to blend, to add something... it's not a thinking rule, it's based on your experience of music in your life. the shape is almost a way of accessing that intuition, of giving yourself a way to play with it.
-
-and it's not that *anything* will sound good-- but anything you play is likely to sound good. it's that it gives you just enough so that you will start to play things that sound good intuitively. You already have a lot of musical intuitions just from listening to music throughout your life that you can start to use here.
+not an alternative theory, but a way into the tradition of theory. Not "music learning is hard so we've thrown all that away and are starting with something totally different... 
 
 
 
-[compositional devices?]
+**so it includes traditional concepts. but in terms of this connection to intuition.**
 
 you can think of any music theoretical concept as a little instrument that you can play with, or a little world that you can go in to, that gives you some constraints, some ideas, some things that you can work with. 
 
-And it's a nice, creative way to think of any concept, like key signature. To say, okay, what can i do with this? how to I put myself *in* this concept and what does it afford me? 
+it's a creative way to think of any concept, like key signature. To say, okay, what can i do with this? how to I put myself in this concept and what does it afford me? 
 
-Like a compositional device. And you develop a kind of toolset of these concepts. Not that you rely on them entirely, but they're there, and you rely on them sometimes for different purposes. Just like any instrument. You have a different kind of telescope when you want to try to look at Pluto, than when you want to see sun spots. 
+you develop a kind of toolset of these concepts. Not that you rely on them entirely, but they're there, and you rely on them sometimes for different purposes.
 
-Or dance styles, or different kinds of rhythms (swing, bossa nova...) those are like concpetual overlays over the movement, and the movement is intuitive, but you think of the overlay and you have a template for how to move, and then you can play with that template.
-
-
-
-[Intuition as access]
-
-This is efficient. Also, you're doing a theory/concept thing, a listening thing, and you're also doing something physical. There's a way in which this device corresponds to the shape of your hands. Which will be Level 4.  
+if it's relevant. You can use those concepts if you want, or you can not, and just play with the shape.
 
 
 
-it builds a lot of stuff, playing with this. you start making connections. you get that foundation of playing. it never feels too easy, you have a shape and a song, and it's kind of infinite. you just get in there and play.
+**letting the details come later gives you an experience very much like an expert.**
 
-and it's not that you're limited to the shape. at the beginning, we say play the shape, bu it's more a framework. 
+So in a way, it's bypassing all the intellectual stuff, like learning what a scale is so that you can improvise with it, but you can also think of it as what happens after you've learned that stuff, and then you're not thinking about it anymore.
 
+Because when you're a very experienced musician, and you're improvising, the experience is very much like this. You're not necessarily thinking, "this is a G," or "that's a major scale" and so forth, although you could certainly turn on that analytical layer if you wanted to. You're just in a context, you're reacting to the music, you're using your intuition to move through it in a way that sounds good to you, and then you might turn on your intellectual layer afterward and ask, what did I do? and what should I do next?
 
-
-[the process of learning]
-
-Often, there's a promise implied in beginning music lessons. Do this really repetitive, rote thing, and do it so much that eventually it will fall away and you won't need it anymore. And you're like, okay, i kind of trust you. And then you stop taking lesson before that ever happens.
-
-So here, there no transition where you stop thinking of notes and start doing something more intuitive. 
-
-If you're playing with a song, moving between the notes of the shape, following your ear, you're already working in that intuitive way. You're not thinking, "I'm now going to play a G, I'm now going to play an A-flat, where's the A-flat on the keyboard, oh, it's the middle of the three black notes..." instead you play a sound, and maybe have a feeling for which direction you should go next, or you may jump to some other note and listen to what it sound like, then have a sense of whether you should play the next note higher or lower... 
-
-So you're working in this more intuitive way, following contours of melody, and event the contour of the instrument.
+So without having ever played before, at all, you can jump into something of the experience of what a really experienced musician does when they're improvising, and that's really cool.
 
 
 
-[How to deal with traditional theory?] ("standard musical ideas")
+**and you learn in an efficient way, top down, rather than hoping the intuition comes later.**
 
-and be sensitive to this-- it's never making alternative theory. It has to  *be* the tradition of theory, it's accessing the foundations. You get a lot of beginner methods: music lerning is hard, therefore we've thrown all that away and are starting with something totally different. But no, you want something that's hugging the traidiontal theory, trying to find ways into it, if it's relevant.
+there's often a promise implied in beginning music lessons: Do this really repetitive, rote thing, and do it so much that eventually it will fall away and you won't need it anymore. And you're like, okay, i kind of trust you. And then you stop taking lesson before that ever happens.
 
-if it's relevant. In this context, it's not really helpful or relevant to think in terms of scales or note names.  
+If you're playing with a song, moving between the notes of the shape, following your ear, you're already working in that intuitive way. You're not thinking, "I'm now going to play a G, I'm now going to play an A-flat, where's the A-flat on the keyboard, oh, it's the middle of the three black notes..." instead you play a sound, and maybe have a feeling for which direction you should go next, or you may jump to some other note and listen to what it sound like, then have a sense of whether you should play the next note higher or lower...
 
-You don't have to do that. You can let go of all that theoretical stuff. You can turn that on if you want, but you can also turn it off, and just play with the shape.
-
-[how to relate shapes and tradition throughout. in the commentary, keep separated.]
-
-
-
-**and thinking in terms of the instrument is different from thinking in terms of concepts built up intellectually.**
-
-You're not building the shape by focusing on each note individually, you don't have to name the notes, you just see the stroke, you can remember it, and you can play with it.
-
-Which is also a version of bypassing [intellectual steps] at first, of coming from the top down, rather than from the bottom up.
-
-
-
-[kybd v diatonic relationships as basis?]
-
-But this is starting with the keyboard as a visual device as the basis. So in a way, you don't have to think in terms of the seven letter names and modify them, but instead, any of these groupings of keys can become their own version of the white notes of the piano, or the seven letters, and so a note that would be an E-flat can just be its own note, without having to be a version or modification of any other note.
-
-(versus the way I described this up in key sigs: the relationships of no-sharps-no-flats abstracted from that particular key signature. how do these differ?)
-
-
-
-**and why? because it allows you to have the experience of an advanced musician.**
-
-
-
-And why do this? Is it a way to help us start improvising without first having to construct all these ideas intellectualy? This is another way to think about what a shape is. 
-
-So in a way, it's bypassing all the intellectual stuff, like learning what a scale is so that you can improvise with it, but you can also think of it as what happens *after* you've learned that stuff, and then you're not thinking about it anymore. 
-
-Because when your'e a very experienced musician, and you're improvising, the experience is very much like this. You're not necessarily thinking, "this is a G," or "that's a major scale" and so forth, although you could certainly turn on that analytical layer if you wanted to. You're just in a context, you're reacting to the music, you're using your intuition to move through it in a way that sounds good to you, and then you might turn on your intellectual layer afterward and ask, what did I do? and what should I do next?
-
-So without having ever played before, at all, you can jump into something of the experience of what a really experienced musician does when they're improvising, and that's really cool. 
+So you're working in this more intuitive way, following contours of melody, and event the contour of the instrument. and there no transition where you stop thinking of notes and start doing something more intuitive.

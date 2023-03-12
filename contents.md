@@ -18,6 +18,7 @@ Lesson 5: The Anchor Note
 Lesson 6: Playing With the Anchor  
 &nbsp;&nbsp;Commentary: Where Does Structure Come From?  
 Lesson 7: Bass Notes  
+&nbsp;&nbsp;Commentary: Key and Chord Levels  
 Lesson 8: Matching A Shape  
 Lesson 9: Notes In Time  
 Lesson 10: Changes  

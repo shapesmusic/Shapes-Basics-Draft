@@ -1,5 +1,7 @@
 ### Acknowledgements
 
+**Location*
+
 **References**
 
 **Notes**
@@ -10,6 +12,10 @@
 
 
 ### Lesson 1 - A Shape
+
+**Location**
+
+- [01-a-shape.md](lessons/01-a-shape.md)
 
 **References**
 
@@ -28,16 +34,26 @@
 
 ### Commentary: Why Music Videos?
 
+**Location**
+
+- [01-why-music-videos.md](writing/01-why-music-videos.md)
+
 **References**
 
-- (/writing/01-why-music-videos.md)
-- 2023-Spring 4.SO_Mus notes
+- 2023-Spring 4.SO_Mus notes (Intuition)
+- [notebook/2022-07-23-Rereading-my-application-essay.md](notebook/2022-07-23-Rereading-my-application-essay.md)
+- [notebook/2022-07-18-about-intro.md](https://github.com/davidforrest/notebook/blob/f56c2f3cd0a9c558c6c3b34a020d78f5632a24cf/2022-07-18-about-intro.md)
+- [devJournal/Shapes-API/2020-11-07 Start playlisting again.md](devJournal/Shapes-API/2020-11-07 Start playlisting again.md)
 
 **Notes**
 
 
 
 ### Lesson 2 - Different Shapes
+
+**Location**
+
+- [02-different-shapes.md](lessons/02-different-shapes.md)
 
 **References**
 
@@ -55,17 +71,27 @@
 
 ### Commentary: What Is a Shape?
 
+**Location**
+
+- [02-what-is-a-shape.md](writing/02-what-is-a-shape.md)
+
 **References**
 
-- (/writing/02-what-is-a-shape.md)
 - 2023-Spring 4.SO_Mus notes
 - 2023-Spring 2.EMP notes
 
 **Notes**
 
+- the last section "What *Is* a Shape?" feels a little long and a little repetitive. At some point, see if you can improve that?
+- based on the commentary after Lesson 7 (bass notes), a shape is also distinguished from a key signature in that it always describes the chord level (!) and not the key level, except by coincidence if all the chords are described by the same shape. Which means key signature, like Major or Minor key in functional tonality, is an abstraction from the core experience of playing with shapes. And so the experience is a way of understanding, feeling that distance.
+
 
 
 ### Lesson 3 - A Group of Shapes
+
+**Location**
+
+- [03-a-group.md](lessons/03-a-group.md)
 
 **References**
 
@@ -84,6 +110,8 @@
 
 ### Commentary: Is This the Circle of Fifths?
 
+**Location**
+
 **References**
 
 **Notes**
@@ -92,8 +120,11 @@
 
 ### Lesson 4 - Shape Fingerings
 
+**Location**
+
+- [04-shape-fingerings.md](lessons/04-shape-fingerings.md)
+
 **References**
-- (/lessons/04-shape-fingerings.md)
 - 2011-03-03 Provisional pp. 17-21, "Centered Keyboard" and "Shape Fingerings"
 - 2009-10 lesson sketch - the centered keyboard
 - 2009-10 lesson sketch - samurai sword
@@ -106,9 +137,12 @@
 
 ### Commentary: The Centered Keyboard
 
+**Location**
+
+- [04-the-centered-keyboard.md](writing/04-the-centered-keyboard.md)
+
 **References**
 
-- (/writing/04-the-centered-keyboard.md)
 - 2023-Spring 4.SO_Mus notes
 - 2011-03-03 Provisional pp. 17-21, "Centered Keyboard" and "Shape Fingerings"
 - 2008-09-30 centered keyboard.doc
@@ -118,6 +152,10 @@
 
 
 ### Lesson 5 - The Anchor Note
+
+**Location**
+
+- [05-the-anchor-note.md](lessons/05-the-anchor-note.md)
 
 **References**
 
@@ -130,9 +168,13 @@
 
 ### Commentary: What is the Anchor?
 
+**Location**
+
+- [05-what-is-the-anchor.md](writing/05-what-is-the-anchor.md)
+
 **References**
 
-- (/writing/05-what-is-the-anchor.md)
+- (writing/05-what-is-the-anchor.md)
 - 2023-Spring 4.SO_Mus notes
 
 **Notes**
@@ -140,6 +182,10 @@
 
 
 ### Lesson 6 - Playing With the Anchor
+
+**Location**
+
+- [06-playing-with-the-anchor.md](lessons/06-playing-with-the-anchor.md)
 
 **References**
 
@@ -153,9 +199,11 @@
 
 ### Commentary: Where Does Structure Come From?
 
+**Location**
+
 **References**
 
-- 2023-Spring 6.EMP - Playing With the Anchor
+- 2023-Spring 6.EMP notes - Playing With the Anchor
 
 **Notes**
 
@@ -172,6 +220,10 @@
 
 
 ### Lesson 7 - Bass Notes
+
+**Location**
+
+- [07-bass-notes.md](lessons/07-bass-notes.md)
 
 **References**
 
@@ -191,7 +243,27 @@
 
 
 
+### Commentary: Key and Chord Levels
+
+**Location**
+
+**References**
+
+- devjournal [2022-11-24-Simplify-shape-anchor-bass-note-structure.md](https://github.com/davidforrest/devJournal/blob/main/shapes-backend/2022-11-24-Simplify-shape-anchor-bass-note-structure.md)
+  - Shapes is always at the chord level. If you're not at the chord level, you're not really "in" (inside, playing in) a Shape.
+  - Shapes is working with chord-level shapes, but key-level anchors. And bass notes, chord notes are tensions. 
+  - that's why shape and anchor needed to be separated. Tonal context and tonal center. Because if they weren't, we wouldn't be able to have this global idea, "Shape," that we can play with outside of these more local concerns.
+  - ...
+
+**Notes**
+
+
+
 ### Lesson 8 - Matching A Shape
+
+**Location**
+
+- [08-matching-a-shape.md](lessons/08-matching-a-shape.md)
 
 **References**
 
@@ -201,11 +273,24 @@
 
 ### Lesson 9 - Notes in Time
 
+**Location**
+
+- [09-notes-in-time.md](lessons/09-notes-in-time.md)
+
+**References**
 - 2021-09-21 Bass Notes Review & Notes in Time w/Nora (Video)
+
+**Notes**
+
+- The wireframe for this lesson has a waveform underlying the notation. This is impossible if the dots are to be evenly spaced. It highlights that the concept of regular pulse, at least as a step en route to notation, is already an abstraction from the sounding events (in real time) that create pulse in the music. This is foreshadowed in Lesson 7 by the question of whether Bass Note events, as markers of change at the chord level, can (or should) be abstracted from the actual moment when they sound in the music, if that moment isn't exactly aligned with a beat.
 
 
 
 ### Lesson 10 - Changes
+
+**Location**
+
+- [10-changes.md](lessons/10-changes.md)
 
 **References**
 
@@ -214,6 +299,10 @@
 
 
 ### Lesson 11 - Groups of Shapes
+
+**Location**
+
+- [11-groups-of-shapes.md](lessons/11-groups-of-shapes.md)
 
 **References**
 
@@ -228,6 +317,8 @@
 
 ### Commentary: Chord-Modes
 
+**Location**
+
 **References**
 
 **Notes**
@@ -237,6 +328,10 @@
 
 
 ### Lesson 12 - Reading by Touch
+
+**Location**
+
+- [12-reading-by-touch.md](lessons/12-reading-by-touch.md)
 
 **References**
 
@@ -254,23 +349,31 @@
 
 ### Lesson 13 - A Tonescape and Tensions
 
+**Location**
+
+- [13-a-tonescape-and-tensions.md](lessons/13-a-tonescape-and-tensions.md)
+
 **References**
 
-- (/lessons/13-a-tonescape-and-tensions.md)
-- 2023-Spring 6.3 (telling exactly what notes are in the tonescape seemed helpful&mdash;another question of feeling v logos that comes up in 19 - Moods)
+- 2023-Spring 6.3 notes (telling exactly what notes are in the tonescape seemed helpful&mdash;another question of feeling v logos that comes up in 19 - Moods)
 - 2022-03-06_nora_basics_13_tonescapes.wav
 - 2020-11-06_mgf_first_tonescapes.mp3
 - 2009-10 lesson sketch - a tonescape
 
 **Notes**
 
+- the difference between hearing the middle tone as the anchor, rather than the lowest tone (D, rather than CDE) and dorian nudging us outside the engrained major CDE context
+
 
 
 ### Lesson 14 - Imagination as an Instrument
 
+**Location**
+
+- [14-imagination-as-an-instrument.md](lessons/14-imagination-as-an-instrument.md)
+
 **References**
 
-- (/lessons/14-imagination-as-an-instrument.md)
 - 2022-03-15_nora_basics_14_tonescapes.wav
 
 **Notes**
@@ -281,6 +384,8 @@
 
 ### Lesson 15
 
+**Location**
+
 **References**
 
 **Notes**
@@ -288,6 +393,8 @@
 
 
 ### Commentary: What is a Tonescape?
+
+**Location**
 
 **References**
 - 2020-11-06_mgf_first_tonescapes.mp3
@@ -301,8 +408,11 @@
 
 ### Lesson 16
 
+**Location**
+
+- [16-reading-by-ear.md](lessons/16-reading-by-ear.md)
+
 **References**
-- (/lessons/16-reading-by-ear.md)
 
 **Notes**
 
@@ -310,9 +420,12 @@
 
 ### Lesson 17 - Switch To Number Names
 
+**Location**
+
+- [17-switch-to-number-names.md](lessons/17-switch-to-number-names.md)
+
 **References**
 
-- (/lessons/17-switch-to-number-names.md)
 - 2023-02-11_Lesson_17_audio
 
 **Notes**
@@ -322,6 +435,8 @@
 
 ### Lesson 18
 
+**Location**
+
 **References**
 
 **Notes**
@@ -329,6 +444,10 @@
 
 
 ### Lesson 19 - Moods
+
+**Location**
+
+- [19-moods.md](lessons/19-moods.md)
 
 **References**
 
@@ -339,6 +458,8 @@
 
 
 ### Commentary: Feeling or Thinking?
+
+**Location**
 
 **References**
 
@@ -356,6 +477,8 @@
 
 ### Lesson 20
 
+**Location**
+
 **References**
 
 **Notes**
@@ -364,10 +487,12 @@
 
 ### Lesson 21 - Light and Heavy Tensions
 
+**Location**
+
 **References**
 
-- 2023-Spring 7.2
-- 2023-Spring 6.3 (possibly helpful here, we got ahead and talked about tension names, the 3rd and 6th changing)
+- 2023-Spring 7.2 notes
+- 2023-Spring 6.3 notes (possibly helpful here, we got ahead and talked about tension names, the 3rd and 6th changing)
 
 **Notes**
 
@@ -376,6 +501,10 @@
 
 
 ### Lesson 22 - Independent Solfege
+
+**Location**
+
+- [22-independent-solfege.md](lessons/22-independent-solfege.md)
 
 **References**
 
@@ -386,6 +515,10 @@
 
 ### Lesson 23
 
+**Location**
+
+- [23-reading-by-touch-3.md](lessons/23-reading-by-touch-3.md)
+
 **References**
 
 **Notes**
@@ -393,6 +526,10 @@
 
 
 ### Lesson 24
+
+**Location**
+
+- [24-moods-and-tensions-together.md](lessons/24-moods-and-tensions-together.md)
 
 **References**
 
@@ -402,6 +539,10 @@
 
 ### Lesson 25
 
+**Location**
+
+- [25-getting-inside-of-moods.md](lessons/25-getting-inside-of-moods.md)
+
 **References**
 
 **Notes**
@@ -409,6 +550,8 @@
 
 
 ### Lesson 26
+
+**Location**
 
 **References**
 
@@ -418,6 +561,8 @@
 
 ### Lesson 27
 
+**Location**
+
 **References**
 
 **Notes**
@@ -425,6 +570,8 @@
 
 
 ### Commentary: Shape and Standard Notation
+
+**Location**
 
 **References**
 
@@ -441,6 +588,8 @@
 
 ### Lesson 28
 
+**Location**
+
 **References**
 
 **Notes**
@@ -448,6 +597,8 @@
 
 
 ### Lesson 29
+
+**Location**
 
 **References**
 
@@ -457,6 +608,10 @@
 
 ### Lesson 30
 
+**Location**
+
+- [30-all-moods-and-tensions.md](lessons/30-all-moods-and-tensions.md)
+
 **References**
 
 **Notes**
@@ -464,6 +619,8 @@
 
 
 ### Lesson 31
+
+**Location**
 
 **References**
 
@@ -481,6 +638,8 @@
 
 ### Lesson 33
 
+**Location**
+
 **References**
 
 **Notes**
@@ -488,6 +647,8 @@
 
 
 ### Lesson 34
+
+**Location**
 
 **References**
 
@@ -497,6 +658,8 @@
 
 ### Lesson 35
 
+**Location**
+
 **References**
 
 **Notes**
@@ -505,9 +668,12 @@
 
 ### Commentary: Software as a Medium
 
+**Location**
+
+- [software-as-a-medium.md](writing/software-as-a-medium.md)
+
 **References**
 
-- (/writing/software-as-a-medium.md)
 - 2023-Spring 2.EMP notes
 
 **Notes**
@@ -516,8 +682,10 @@
 
 ### Glossary
 
-**References**
+**Location**
 
-- (/writing/glossary.md)
+- [glossary.md](writing/glossary.md)
+
+**References**
 
 **Notes**

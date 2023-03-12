@@ -1,6 +1,6 @@
 ### Acknowledgements
 
-**Location*
+**Location**
 
 **References**
 
@@ -12,6 +12,8 @@
 
 
 ### Lesson 1 - A Shape
+
+Use a single shape to play along with a playlist of songs. Hear when notes fit or don't fit, and start to follow your musical intuition.
 
 **Location**
 
@@ -32,7 +34,7 @@
 
 
 
-### Commentary: Why Music Videos?
+### Commentary - Why Music Videos?
 
 **Location**
 
@@ -50,6 +52,8 @@
 
 
 ### Lesson 2 - Different Shapes
+
+Add some different shapes and continue playing along with songs.
 
 **Location**
 
@@ -69,7 +73,7 @@
 
 
 
-### Commentary: What Is a Shape?
+### Commentary - What Is a Shape?
 
 **Location**
 
@@ -88,6 +92,8 @@
 
 
 ### Lesson 3 - A Group of Shapes
+
+See the shapes as a group, and add a way to name the shapes.
 
 **Location**
 
@@ -108,7 +114,7 @@
 
 
 
-### Commentary: Is This the Circle of Fifths?
+### Commentary - Is This the Circle of Fifths?
 
 **Location**
 
@@ -119,6 +125,8 @@
 
 
 ### Lesson 4 - Shape Fingerings
+
+Learn how your hands match the keyboard, and how to play hands together in any shape, beginning on any note, using only one fingering pattern.
 
 **Location**
 
@@ -132,10 +140,11 @@
 **Notes**
 
 - Need filters for T, 5s, 4s... and tempo (see wireframe)
+- this lesson only has to cover the TOP shape, because the rest of the reading sequence fills in the other shapes.
 
 
 
-### Commentary: The Centered Keyboard
+### Commentary - The Centered Keyboard
 
 **Location**
 
@@ -153,6 +162,8 @@
 
 ### Lesson 5 - The Anchor Note
 
+Hear the one note all the others are pulling toward.
+
 **Location**
 
 - [05-the-anchor-note.md](lessons/05-the-anchor-note.md)
@@ -164,9 +175,11 @@
 
 **Notes**
 
+- Introduce the anchor, hear the pull, start to recognize it in songs.
 
 
-### Commentary: What is the Anchor?
+
+### Commentary - What is the Anchor?
 
 **Location**
 
@@ -183,6 +196,8 @@
 
 ### Lesson 6 - Playing With the Anchor
 
+Use the anchor note to come up with some ideas for playing.
+
 **Location**
 
 - [06-playing-with-the-anchor.md](lessons/06-playing-with-the-anchor.md)
@@ -197,7 +212,7 @@
 
 
 
-### Commentary: Where Does Structure Come From?
+### Commentary - Where Does Structure Come From?
 
 **Location**
 
@@ -221,6 +236,8 @@
 
 ### Lesson 7 - Bass Notes
 
+Hear the notes that give structure to a song.
+
 **Location**
 
 - [07-bass-notes.md](lessons/07-bass-notes.md)
@@ -232,6 +249,7 @@
 
 **Notes**
 
+- Introduce bass notes around the anchor. Hear them structuring the song. Use them to create additional structures.
 - Look at Lesson 8 Notation alongside this one. They're related.
 - Some good bass note songs:
 
@@ -243,7 +261,7 @@
 
 
 
-### Commentary: Key and Chord Levels
+### Commentary - Key and Chord Levels
 
 **Location**
 
@@ -261,6 +279,8 @@
 
 ### Lesson 8 - Matching A Shape
 
+Learn to match a shape with a song on your own.
+
 **Location**
 
 - [08-matching-a-shape.md](lessons/08-matching-a-shape.md)
@@ -269,9 +289,15 @@
 
 - 2009-10 lesson sketch - fitting songs with shapes
 
+**Notes**
+
+- Match a song with a shape on your own. Start by using a diagram, then use adjacent notes to fill in the shape.
+
 
 
 ### Lesson 9 - Notes in Time
+
+Learn to represent bass notes using music notation.
 
 **Location**
 
@@ -282,11 +308,17 @@
 
 **Notes**
 
+- Represent bass notes relative to the anchor using a staff instead of the keyboard. Then add a way to represent time.
+- Follows from 6, really
+- i'm making an argument to privilege sound--not "warping" the waveform to the grid.
+- see Lesson 28: after this notation, in theory, pulse dots would become regularly spaced (generalized away from the sound). Then rhythmic note symbols generalize even further to relationships.
 - The wireframe for this lesson has a waveform underlying the notation. This is impossible if the dots are to be evenly spaced. It highlights that the concept of regular pulse, at least as a step en route to notation, is already an abstraction from the sounding events (in real time) that create pulse in the music. This is foreshadowed in Lesson 7 by the question of whether Bass Note events, as markers of change at the chord level, can (or should) be abstracted from the actual moment when they sound in the music, if that moment isn't exactly aligned with a beat.
 
 
 
 ### Lesson 10 - Changes
+
+Play with changing bass notes, anchors, *and* shapes.
 
 **Location**
 
@@ -296,9 +328,18 @@
 
 **Notes**
 
+- Introduce changing shapes and anchors. Distinguish changes at the key and chord levels.
+- how exactly to do this graphically? two kinds of anchor arrows? the Lesson 10 wireframe is too complicated.
+- note: shapes stays at the chord level, but shows how a key level is implied once shapes start changing. 
+- compare to how this works in single shape w/ changing bass notes (the notation in Level 9, with a single anchor).
+- also: how notation shows us both of these levels.
+- probably a separate (T)heory writing that relates 9 and 10, and how bass notes can feel like both tensions at a key level and anchors at a chord level.
+
 
 
 ### Lesson 11 - Groups of Shapes
+
+Get to know three additional groups of shapes.
 
 **Location**
 
@@ -310,12 +351,14 @@
 
 **Notes**
 
+- Marked as (T)heory
+- Introduce three other groups of shapes and listen to their qualities. Relate the groups through their common shape names.
 - Similar to Lesson 19, where you want to get to know the broader feeling of a group, rather than getting inside it and thinking about its parts. 
 - Could shuffle all modes and try to hear if it's a 1st, 2nd, 3rd, 4th group mood.
 
 
 
-### Commentary: Chord-Modes
+### Commentary - Chord-Modes
 
 **Location**
 
@@ -329,6 +372,8 @@
 
 ### Lesson 12 - Reading by Touch
 
+Begin to sight read music notation at the keyboard.
+
 **Location**
 
 - [12-reading-by-touch.md](lessons/12-reading-by-touch.md)
@@ -341,6 +386,8 @@
 
 **Notes**
 
+- Begin SR Tactile sequence through anchor, two higher, two lower, TOP shape only, Pe anchor. which will include a thumb pivot.
+- also: this is the first time we use notation for melodies, or for vocab other than bass notes.
 - for notation sheets, see:
   - 13.9.12 SR notation levels
   - and 16.12.29 SR notation levels rebuild
@@ -348,6 +395,8 @@
 
 
 ### Lesson 13 - A Tonescape and Tensions
+
+Begin to recognize the sounds of individual notes in a tonescape.
 
 **Location**
 
@@ -362,11 +411,14 @@
 
 **Notes**
 
+- Introduce a tonescape and get into **passive** tensions (anchor-higher-lower)
 - the difference between hearing the middle tone as the anchor, rather than the lowest tone (D, rather than CDE) and dorian nudging us outside the engrained major CDE context
 
 
 
 ### Lesson 14 - Imagination as an Instrument
+
+Begin to draw individual notes out of the tonescape.
 
 **Location**
 
@@ -378,11 +430,15 @@
 
 **Notes**
 
+- Hearing notes inside a tonescape
+- Anchor-higher-lower **active**
 - And speaking of developing control of what we hear, our next tonescapes is to hear the note *inside* the tonescape. Start by listening to the static sound changing. Then demo the "inside a tonescape," then try the Tonescapes 3 recording. Once you've got that, the two higher and two lower is a sheet of notation, with an anchor clef, that you can flip upside down.
 
 
 
-### Lesson 15
+### Lesson 15 - Tensions Part 2
+
+Add two more notes to recognize in a tonescape.
 
 **Location**
 
@@ -390,9 +446,11 @@
 
 **Notes**
 
+- Add two higher and two lower tensions **passive**
 
 
-### Commentary: What is a Tonescape?
+
+### Commentary - What is a Tonescape?
 
 **Location**
 
@@ -406,7 +464,9 @@
 
 
 
-### Lesson 16
+### Lesson 16 - Reading by Ear
+
+Using notation, add two additional notes to draw out of the tonescape.
 
 **Location**
 
@@ -416,9 +476,14 @@
 
 **Notes**
 
+- Begin SR Imagery sequence in the netural mood.
+- Anchor, two higher, and two lower **active**
+
 
 
 ### Lesson 17 - Switch To Number Names
+
+Begin to hear notes in any octave as tensions to the anchor.
 
 **Location**
 
@@ -429,11 +494,15 @@
 - 2023-02-11_Lesson_17_audio
 
 **Notes**
+- Switch the tensions naming model to 2nd, 3rd, 7th, 6th. Requires octave equivalence.
+- Marked as (T)heory, but perhaps not so (T) after all, because equalizing octaves is a skill...
 - there's a "more tips" section at the end of the .md file that's not (yet) incorporated into the .html export
 
 
 
-### Lesson 18
+### Lesson 18 - Reading by Touch Part 2
+
+Incorporate two additional shapes into your reading at the keyboard.
 
 **Location**
 
@@ -441,9 +510,14 @@
 
 **Notes**
 
+- Add 5L and 5R shapes to SR tactile sequence.
+- Continue with anchor, one and two higher, one and two lower.
+
 
 
 ### Lesson 19 - Moods
+
+Begin to recognize the different feelings of different tonescapes.
 
 **Location**
 
@@ -453,11 +527,15 @@
 
 **Notes**
 
+- changing shapes on a single anchor introduces the idea of moods, and their spectrum of lightness/heaviness.
+- add the single light and single heavy tonescapes
+- anchor, 2nd, 3rd, 7th, 6th in neutral, single light & single heavy tonescapes **passive**
+- not differentiating the light/heavy names yet places the focus on the overall feeling of the mood, the big-picture sense.
 - Also account for my funny capitalization practices: "Lydian, Major, Dominant, dorian, minor, phrygian, locrian," based on a supercategory of "Majorness"-as-general-lightness and "minorness"-as-general-heaviness.
 
 
 
-### Commentary: Feeling or Thinking?
+### Commentary - Feeling or Thinking?
 
 **Location**
 
@@ -475,7 +553,9 @@
 
 
 
-### Lesson 20
+### Lesson 20 - Reading by Ear Part 2
+
+Draw notes out of two additional tonescapes.
 
 **Location**
 
@@ -483,9 +563,14 @@
 
 **Notes**
 
+- SR Imagery sequence in neutral, single light, and single heavy moods
+- anchor, 2nd, 3rd, 7th, 6th.
+
 
 
 ### Lesson 21 - Light and Heavy Tensions
+
+Listen to the tensions that make one mood feel different from another.
 
 **Location**
 
@@ -496,11 +581,21 @@
 
 **Notes**
 
+- Marked as (T)heory
+- Introduce "light/heavy" tension names as a more specific way to name tensions that vary in different moods.
+- *But only use light/heavy names for the tensions that are changing-- the 3rd and 6th. Will add the rest of the names in lesson 24.
+- The light/heavy mood names are a sum of their light/heavy tensions
+- this means getting inside the individual tensions of the mode, rather than hearing the mode as a whole (may invite analysis of the asymmetry of notes within a mode)
+- the tension number becomes something abstracted from the specific tension, which is how letter names (& traditional solfege) will work. This sets up IPs.
+- perhaps the names help us focus on the differences between the moods, kind of like the shape names helped us?
+- also bring all the tensions into the neutral tonescape. I wasn't going  to do this until lesson 30 (once we have all the modes), but it makes more sense, I think, to build it up gradually. So there are two exercises: shuffling the different modes and naming within them, and naming all the tensions together.
 - So now, if it's a 3rd or 6th, you have to distinguish if it's light or heavy. When we bring all the tensions into the tonescape (with light/heavy names for the 3rd and 6th), you'll also be able to hear if the tension is "in" or "out" of the tonescape (or if it sounds different from the 3rd or 6th you've been naming so far), which will help distinguish the light/heavy tensions at first. 
 
 
 
 ### Lesson 22 - Independent Solfege
+
+Learn to name a note without having to reference any other note.
 
 **Location**
 
@@ -511,9 +606,17 @@
 - 2021-12-23 shape solfege experiment (each shape has diatonic names)
 - 2011-03-03 Provisional pp. 27-31 Independent Solfege
 
+**Notes**
+
+- Marked as (T)heory
+- Introduce independent solfege names & distinguish from relative names.
+- names that work kinda the way pointing to a key on the keyboard does.
 
 
-### Lesson 23
+
+### Lesson 23 - Reading by Touch Part 3
+
+Sight read all tensions and two additional shapes at the keyboard.
 
 **Location**
 
@@ -523,9 +626,14 @@
 
 **Notes**
 
+- Introduce 4th and 5th to the SR tactile sequence (all tensions)
+- Then add 4L and 4R shapes.
 
 
-### Lesson 24
+
+### Lesson 24 - Moods and Tensions Together
+
+Add the remaining tensions in three moods.
 
 **Location**
 
@@ -535,9 +643,15 @@
 
 **Notes**
 
+- Add 4th and 5th (all diatonic tensions)
+- continue using light/heavy names only for tensions in moods thus far (3rds and 6ths)
+- bring all tensions & names thus far together in the neutral tonescape.
 
 
-### Lesson 25
+
+### Lesson 25 - Getting Inside of Moods
+
+Add two additional moods along with their tensions.
 
 **Location**
 
@@ -547,19 +661,15 @@
 
 **Notes**
 
-
-
-### Lesson 26
-
-**Location**
-
-**References**
-
-**Notes**
+- Add double light & double heavy tonescapes, shuffle all.
+- Add light 7th and heavy 2nd
+- bring all tensions & names thus far together in the neutral tonescape.
 
 
 
-### Lesson 27
+### Lesson 26 - Reading by Ear Part 3
+
+Draw all the tensions out of the tonescape, and add two additional moods.
 
 **Location**
 
@@ -567,9 +677,28 @@
 
 **Notes**
 
+- SR Imagery sequence through double light & heavy moods
+- All diatonic tensions
 
 
-### Commentary: Shape and Standard Notation
+
+### Lesson 27 - Incidentals
+
+Learn how to notate tensions outside of the shape.
+
+**Location**
+
+**References**
+
+**Notes**
+
+- Marked as (T)heory
+- Introduce incidentals as a way of notating tensions outside of the shape (or mood?).
+- "light / heavy" or "up, down, return-to" names are a way of abstracting the function of accidentals from a particular diatonic context. in this way, they pair with independent solfege.
+
+
+
+### Commentary - Shape and Standard Notation
 
 **Location**
 
@@ -586,7 +715,9 @@
 
 
 
-### Lesson 28
+### Lesson 28 - Making Time Relative
+
+Add rhythmic note values to your reading at the keyboard.
 
 **Location**
 
@@ -594,9 +725,15 @@
 
 **Notes**
 
+- Marked as (T)heory
+- Introduce rhythmic note symbols as subdivisions
+- Align different subdivisions with pulse dots, what looks best?
 
 
-### Lesson 29
+
+### Lesson 29 - Reading by Touch Part 4
+
+Incorporate two additional shapes into your reading at the keyboard.
 
 **Location**
 
@@ -604,9 +741,16 @@
 
 **Notes**
 
+- Add 3L and 3R shapes to the SR tactile sequence.
+- Continue all tensions, with rhythmic note symbols.
+- Now possible to remove pulse dots (abstracts away from regular note spacing)
+- Any changing songs that use these shapes?
 
 
-### Lesson 30
+
+### Lesson 30 - All Moods and Tensions
+
+Add two remaining moods along with their tensions.
 
 **Location**
 
@@ -616,27 +760,15 @@
 
 **Notes**
 
-
-
-### Lesson 31
-
-**Location**
-
-**References**
-
-**Notes**
+- Add triple light & triple heavy tonescapes (all moods), shuffle all.
+- Add light fourth / heavy fifth
+- Bring all tensions so far into the neutral tonescape. Relate to incidentals.
 
 
 
-### Lesson 32
+### Lesson 31 - Reading by Ear Part 4
 
-**References**
-
-**Notes**
-
-
-
-### Lesson 33
+Draw all the tensions out of all moods.
 
 **Location**
 
@@ -644,19 +776,15 @@
 
 **Notes**
 
-
-
-### Lesson 34
-
-**Location**
-
-**References**
-
-**Notes**
+- SR Imagery sequence all moods
+- All diatonic tensions
+- Bring in some rhythmic note symbols
 
 
 
-### Lesson 35
+### Lesson 32 - Mood Names
+
+Learn the standard names for the moods.
 
 **Location**
 
@@ -664,9 +792,62 @@
 
 **Notes**
 
+- Introduce standard(ish) mood names in place of light/heavy names.
+- Also name 2nd, 3rd, 4th group moods and relate their light/heavy positions.
+- *how does this relate to the chord-mode commentary following Lesson 11? and do i want to keep all standard terminology/concepts in the commentary, not the lessons?
 
 
-### Commentary: Software as a Medium
+
+### Lesson 33 - Reading by Touch Part 5
+
+Incorporate all the shapes into your reading at the keyboard.
+
+**Location**
+
+**References**
+
+**Notes**
+
+- Add remaining (2L/R, 1L/R, B) shapes to the SR tactile sequence.
+- Continue using rhythmic note symbols
+- Play with changing songs
+- Perhaps bring in some incidentals (if that works with songs)
+
+
+
+### Lesson 34 - Holding on to the Anchor
+
+Recognize all the tensions without a tonescape.
+
+**Location**
+
+**References**
+
+**Notes**
+
+- Continue all tensions so far into the neutral tonescape.
+- Then drop the tonescape and stay oriented to the anchor.
+- Try this with Indepent Solfege Names, too (gateway to Independent Relationship).
+
+
+
+### Lesson 35 - Imagination as an Instrument Part 2
+
+Recognize any mood and free play inside it.
+
+**Location**
+
+**References**
+
+**Notes**
+
+- Shuffle all tonescapes, all groups.
+- Name the mood, and free play imagery inside of it.
+- not SR, but still imagery
+
+
+
+### Commentary - Software as a Medium
 
 **Location**
 

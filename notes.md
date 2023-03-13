@@ -631,6 +631,23 @@ Sight read all tensions and two additional shapes at the keyboard.
 
 
 
+### [Inserted] - Reading by Ear Part 3
+
+Draw all the tensions out of three tonescapes.
+
+**Location**
+
+**References**
+
+**Notes**
+
+- Continue SR Imagery sequence in neutral, single light, and single heavy moods
+- Add 4th and 5th
+
+- Added this lesson to introduce the 4th and 5th actively rather than passively. This is how it happened in FR_Mus Spring 2023. Also then there are 5 parts each of Reading by Ear and Reading by Touch, and separate active lessons for single light/heavy and double light/heavy moods.
+
+
+
 ### Lesson 24 - Moods and Tensions Together
 
 Add the remaining tensions in three moods.
@@ -664,10 +681,11 @@ Add two additional moods along with their tensions.
 - Add double light & double heavy tonescapes, shuffle all.
 - Add light 7th and heavy 2nd
 - bring all tensions & names thus far together in the neutral tonescape.
+- **Consider switching Lessons 25 & 26**
 
 
 
-### Lesson 26 - Reading by Ear Part 3
+### Lesson 26 - Reading by Ear Part 4
 
 Draw all the tensions out of the tonescape, and add two additional moods.
 
@@ -677,7 +695,7 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 **Notes**
 
-- SR Imagery sequence through double light & heavy moods
+- SR Imagery sequence, add double light & heavy moods
 - All diatonic tensions
 
 
@@ -766,7 +784,7 @@ Add two remaining moods along with their tensions.
 
 
 
-### Lesson 31 - Reading by Ear Part 4
+### Lesson 31 - Reading by Ear Part 5
 
 Draw all the tensions out of all moods.
 

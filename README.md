@@ -183,6 +183,12 @@ Sight read all tensions and two additional shapes at the keyboard.
 
 
 
+#### [Inserted] - Reading by Ear Part 3
+
+Draw all the tensions out of three tonescapes.
+
+
+
 #### [Lesson 24 - Moods and Tensions Together](lessons/24-moods-and-tensions-together.md)
 
 Add the remaining tensions in three moods.
@@ -195,7 +201,7 @@ Add two additional moods along with their tensions.
 
 
 
-#### Lesson 26 - Reading by Ear Part 3
+#### Lesson 26 - Reading by Ear Part 4
 
 Draw all the tensions out of the tonescape, and add two additional moods.
 
@@ -229,7 +235,7 @@ Add two remaining moods along with their tensions.
 
 
 
-#### Lesson 31 - Reading by Ear Part 4
+#### Lesson 31 - Reading by Ear Part 5
 
 Draw all the tensions out of all moods.
 

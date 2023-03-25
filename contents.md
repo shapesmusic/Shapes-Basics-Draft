@@ -38,19 +38,20 @@ Lesson 20: Reading by Ear Part 2
 Lesson 21: Light and Heavy Tensions  
 Lesson 22: Independent Solfege  
 Lesson 23: Reading by Touch Part 3  
-Lesson 24: Moods and Tensions Together  
-Lesson 25: Getting Inside of Moods  
-Lesson 26: Reading by Ear Part 3  
-Lesson 27: Incidentals  
+Lesson 24: Reading by Ear Part 3  
+Lesson 25: Moods and Tensions Together  
+Lesson 26: Getting Inside of Moods  
+Lesson 27: Reading by Ear Part 3  
+Lesson 28: Incidentals  
 &nbsp;&nbsp;Commentary: Shape and Standard Notation  
-Lesson 28: Making Time Relative  
-Lesson 29: Reading by Touch Part 4  
-Lesson 30: All Moods and Tensions  
-Lesson 31 Reading by Ear Part 4  
-Lesson 32: Mood Names  
-Lesson 33: Reading by Touch Part 5  
-Lesson 34: Holding on to the Anchor  
-Lesson 35: Imagination as an Instrument Part 2  
+Lesson 29: Making Time Relative  
+Lesson 30: Reading by Touch Part 4  
+Lesson 31: All Moods and Tensions  
+Lesson 32 Reading by Ear Part 4  
+Lesson 33: Mood Names  
+Lesson 34: Reading by Touch Part 5  
+Lesson 35: Holding on to the Anchor  
+Lesson 36: Imagination as an Instrument Part 2  
 
 #### Back Matter
 Commentary: Software as a Medium  

@@ -631,7 +631,7 @@ Sight read all tensions and two additional shapes at the keyboard.
 
 
 
-### [Inserted] - Reading by Ear Part 3
+### Lesson 24 - Reading by Ear Part 3
 
 Draw all the tensions out of three tonescapes.
 
@@ -641,6 +641,7 @@ Draw all the tensions out of three tonescapes.
 
 **Notes**
 
+- This lesson was inserted, became Lesson 24, and all lessons previously 24+ got increased a number.
 - Continue SR Imagery sequence in neutral, single light, and single heavy moods
 - Add 4th and 5th
 
@@ -648,7 +649,7 @@ Draw all the tensions out of three tonescapes.
 
 
 
-### Lesson 24 - Moods and Tensions Together
+### Lesson 25 - Moods and Tensions Together
 
 Add the remaining tensions in three moods.
 
@@ -666,7 +667,7 @@ Add the remaining tensions in three moods.
 
 
 
-### Lesson 25 - Getting Inside of Moods
+### Lesson 26 - Getting Inside of Moods
 
 Add two additional moods along with their tensions.
 
@@ -681,11 +682,10 @@ Add two additional moods along with their tensions.
 - Add double light & double heavy tonescapes, shuffle all.
 - Add light 7th and heavy 2nd
 - bring all tensions & names thus far together in the neutral tonescape.
-- **Consider switching Lessons 25 & 26**
 
 
 
-### Lesson 26 - Reading by Ear Part 4
+### Lesson 27 - Reading by Ear Part 4
 
 Draw all the tensions out of the tonescape, and add two additional moods.
 
@@ -700,7 +700,7 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 
 
-### Lesson 27 - Incidentals
+### Lesson 28 - Incidentals
 
 Learn how to notate tensions outside of the shape.
 
@@ -733,7 +733,7 @@ Learn how to notate tensions outside of the shape.
 
 
 
-### Lesson 28 - Making Time Relative
+### Lesson 29 - Making Time Relative
 
 Add rhythmic note values to your reading at the keyboard.
 
@@ -749,7 +749,7 @@ Add rhythmic note values to your reading at the keyboard.
 
 
 
-### Lesson 29 - Reading by Touch Part 4
+### Lesson 30 - Reading by Touch Part 4
 
 Incorporate two additional shapes into your reading at the keyboard.
 
@@ -766,7 +766,7 @@ Incorporate two additional shapes into your reading at the keyboard.
 
 
 
-### Lesson 30 - All Moods and Tensions
+### Lesson 31 - All Moods and Tensions
 
 Add two remaining moods along with their tensions.
 
@@ -784,7 +784,7 @@ Add two remaining moods along with their tensions.
 
 
 
-### Lesson 31 - Reading by Ear Part 5
+### Lesson 32 - Reading by Ear Part 5
 
 Draw all the tensions out of all moods.
 
@@ -800,7 +800,7 @@ Draw all the tensions out of all moods.
 
 
 
-### Lesson 32 - Mood Names
+### Lesson 33 - Mood Names
 
 Learn the standard names for the moods.
 
@@ -816,7 +816,7 @@ Learn the standard names for the moods.
 
 
 
-### Lesson 33 - Reading by Touch Part 5
+### Lesson 34 - Reading by Touch Part 5
 
 Incorporate all the shapes into your reading at the keyboard.
 
@@ -833,7 +833,7 @@ Incorporate all the shapes into your reading at the keyboard.
 
 
 
-### Lesson 34 - Holding on to the Anchor
+### Lesson 35 - Holding on to the Anchor
 
 Recognize all the tensions without a tonescape.
 
@@ -849,7 +849,7 @@ Recognize all the tensions without a tonescape.
 
 
 
-### Lesson 35 - Imagination as an Instrument Part 2
+### Lesson 36 - Imagination as an Instrument Part 2
 
 Recognize any mood and free play inside it.
 

@@ -1,42 +1,12 @@
-## A Shape
+[front cam] So a great way to get started with Shapes is with a playlist of songs, and a single shape.
 
-
-
-### Watch
-
-<style>
-.embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-  iframe{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>
-<div class='embed-container'>
-  <iframe src='https://www.youtube.com/embed/J1Ks_ve2h1I?rel=0' frameborder='0' allowfullscreen></iframe>
-</div>
-
-
-
-### Transcript
-
-So a great way to get started with Shapes is with a playlist of songs, and a single shape.
-
-The Shapes Playlist is a kind of fun, random mix of songs that you might come across just by being a person living in the world right now.
+[playlist, flip thru] The Shapes Playlist is a kind of fun, random mix of songs that you might come across just by being a person living in the world right now.
 
 And the thing in the middle is a shape. It's two little strokes drawn over a keyboard.
 
 So here's how to read a shape.
 
-![dots to shape](../media/21.3.7%20dots_to_shape.png)
+[dots to shape]
 
 Imagine you have a bunch of notes floating in the air.  
 And then you map those notes onto keys of the keyboard.  
@@ -49,15 +19,15 @@ The point of a shape is that you can remember it really quickly [on diagram]: th
 If I play it on the keyboard, it's these two notes [play]  
 and then the rainbow. [play]
 
-You can play the notes of the shape in any order, or any combination, anywhere on the keyboard, and they're going to sound like they fit with the song. [play] You can also use any fingers you like. You can even use just one finger. [play]
+You can play the notes of the shape in any order, or any combination, anywhere on the keyboard, and they're going to sound like they fit with the song. [play] You can also use any fingers you like. You can even use just one finger. [play, just one finger]
 
 Now, if you play any notes that _aren't_ in the shape, they sound pretty different, like they really _don't_ fit. [play]
 
 But the notes in the shape do, in any order, and any combination. [play]
 
-So give it a shot. Try using the shape to play some notes along with a song. And if you don't like the song that's playing, keep skipping forward until you get a song that catches your interest.
+So give it a shot. Try using the shape to play some notes along with a song. And if you don't like the song that's playing, keep skipping forward until you get a song that catches your interest. [unmute, skip, mute]
 
-Playing with a shape is very open-ended, but you'll find that you have some intuition about what to play just because of all the music you already listen to.
+[front cam, h’phones off] Playing with a shape is very open-ended, but you'll find that you have some intuition about what to play just because of all the music you already listen to.
 
 A really good guideline is to try playing as though you're adding a new layer to the song, something that sounds good to _you_.
 
@@ -78,10 +48,3 @@ And finally, how do you know you've "got it" and are ready to move on?
 I'd say at the very least, try finding 3 different songs in the playlist that you like, play through the length of the whole song, and really let yourself get into it.
 
 From there, you might decide to keep going, or stop, but ask yourself if you feel comfortable playing with the shape, and when you mostly do, that's when you're ready to move on.
-
-
-
-### Playlist
-
-Lesson 1 Playlist:  
-https://www.shapesmusic.com/a-shape

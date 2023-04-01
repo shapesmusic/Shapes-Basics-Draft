@@ -14,13 +14,13 @@ The standard idea most closely related to a shape, perhaps, is a key signature. 
 
 The notes of a key signature will give you one of the shapes. So the first shape you played with would be the key signature of six flats (or six sharps). 
 
-[Image]
+<img src="../media/top_shape.png" alt="Image" align: center style="width: 12%;">
 
 But this isn't quite how a shape works, because the shape doesn't reference the key signature of "no sharps and no flats." Instead, each shape gets to be its own starting point, its own key signature of no sharps and no flats. And there's something very different in the way of thinking when the basis for your collection of notes isn't the white notes of the piano that are then modified, but rather, it's just *this collection of notes*&mdash;the shape. 
 
 This means you can take any note of the shape, say the middle note in the bottom group, and you could decide to play one note higher, to modify it, a note "up" from that note. 
 
-[Image]
+<img src="../media/top_shape_L.png" alt="Image" align: center style="width: 12%;">
 
 Thinking in standard terms, you would begin with an A**♭** or G**♯** that's part of the key signature, then modify that note "up" to, effectively, an A**♭**-sharp, or G**♯**-sharp, which you would then call "A-natural," or "G-double sharp"&mdash;a modified version of a note that's *already* modified from the white notes of the piano.
 
@@ -32,7 +32,7 @@ So when you're thinking in terms of key signature, you're referencing a theoreti
 
 Now, if you choose one of the notes in the shape, say the first top key in the bottom group, and play all the notes of the shape in order starting from that note, you'll get a scale.
 
-[Image]
+<img src="../media/top_shape_V.png" alt="Image" align: center style="width: 12%;">
 
 And starting from this particular note, you get a *Major* scale, which is also a way of expressing the Major mode. Or you could choose to start from any other note of the shape, and you'd get a different scale and mode: the minor, dorian, or Lydian, and so forth.
 
@@ -96,9 +96,9 @@ Of course, nothing prevents a guitarist from understanding a scale shape as a br
 
 The physical layout of a shape is different on the guitar, too, because while the fretboard itself is structurally similar to the keyboard&mdash;in that both divide a continuous pitch spectrum into the same sequence of relationships between individual notes&mdash;you access those relationships through several strings that are each tuned differently. So the guitar is like several keyboards side-by-side, and staggered according to how the strings are tuned. This means the guitar has its own set of diagrammatic constraints and affordances that are different from those of the keyboard.
 
-The keyboard emphasizes the relationships of the diatonic order&mdash;the key of no sharps and no flats&mdash;in a way that the guitar doesn't, through its layout of bottom, "white" keys and top, "black" keys. The position of the two semitones within the diatonic order has the effect of suggesting two distinct groupings of keys on the keyboard, one with two top and three bottom keys, and the other with three top and four bottom keys. These groupings repeat in a continuous pattern across the keyboard, and they offer a simple, convenient unit for diagramming a shape. 
+The keyboard emphasizes the relationships of the diatonic order&mdash;the key of no sharps and no flats&mdash;in a way that the guitar doesn't, through its layout of bottom, "white" keys and top, "black" keys. The position of the two semitones within the diatonic order has the effect of suggesting two distinct groupings of keys on the keyboard, one with two top and three bottom keys, and the other with three top and four bottom keys. These groupings repeat in a symmetrical pattern across the keyboard, and they offer a simple, convenient unit for diagramming a shape. 
 
-[Image]
+<img src="../media/groups_symm.png" alt="Image" align: center style="width: 60%;">
 
 But they also organize the overall sequence of notes on the keyboard according to the relationships of the diatonic order. This leads to a diagrammatic inconsistency based on the constraints, or the priorities, of the instrument, similar to the inconsistencies in how guitar shapes move across different strings.
 

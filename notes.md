@@ -527,12 +527,33 @@ Begin to hear notes in any octave as tensions to the anchor.
 - 2023-02-11_Lesson_17_audio
 
 **Notes**
+
 - 17 (tensions): octave equivalence, switch to number names
   - tonescapes_4 anchor, 2nd, 7th, with different octaves, neutral mood
   - tonescapes_5 anchor, 2nd, 3rd, 7th, 6th, with different octaves, neutral mood
 - Switch the tensions naming model to 2nd, 3rd, 7th, 6th. Requires octave equivalence.
 - Marked as (T)heory, but perhaps not so (T) after all, because equalizing octaves is a skill...
 - there's a "more tips" section at the end of the .md file that's not (yet) incorporated into the .html export
+
+**More Tips** (what to do with this?)
+
+> If you're having trouble, one thing that can help is to be able to play the notes on an instrument, so you have more control over which note you hear, and when, as you try to match the note with your voice.
+>
+> These are the keys on the keyboard that correspond to the Anchor, 2nd, and 7th:
+>
+> [image]
+>
+> You can play these keys in the middle octave at first, match them with your voice, and then play the same keys in the octave higher, and the octave lower.
+>
+> Along with the [tonescape](../media/tonescapes_0.mp3).
+>
+> If you don't have access to a keyboard, try [this](https://www.onlinepianist.com/virtual-piano) online piano site
+>
+> Use I-O-P keys
+>
+> And B-N-M for the octave higher
+>
+> Then expand to the 3rd and 6th (another bottom key in either direction)
 
 
 

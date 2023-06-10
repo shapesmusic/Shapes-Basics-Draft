@@ -85,25 +85,3 @@ Anchor, 2nd, 3rd, 7th, 6th
     src="../media/tonescapes_5.mp3">
         <a href="../media/tonescapes_5.mp3"></a>
 </audio>
-
-
-
-### More Tips
-
-If you're having trouble, one thing that can help is to be able to play the notes on an instrument, so you have more control over which note you hear, and when, as you try to match the note with your voice.
-
-These are the keys on the keyboard that correspond to the Anchor, 2nd, and 7th:
-
-[image]
-
-You can play these keys in the middle octave at first, match them with your voice, and then play the same keys in the octave higher, and the octave lower.
-
-Along with the [tonescape](../media/tonescapes_0.mp3).
-
-If you don't have access to a keyboard, try [this](https://www.onlinepianist.com/virtual-piano) online piano site
-
-Use I-O-P keys
-
-And B-N-M for the octave higher
-
-Then expand to the 3rd and 6th (another bottom key in either direction)

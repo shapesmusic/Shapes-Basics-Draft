@@ -17,13 +17,15 @@ This is a tonescape [play]
 
 If you took all the notes that fit with a song and boiled them down into a soup, played them all at once, a tonescape is what it might sound like.
 
-A tonescape represents all the songs that fit in a particular shape. It's reducing this whole world of songs to an idea. And nothing's moving--it's all the notes at once. A note that "fits" means a note that sounds like you would expect it to. Which suggests an intuition. So a tonescape represents potential, for notes, for songs, and so in a sense, it represents your musical intuition.
+A tonescape represents all the songs that fit in a particular shape. It's reducing this whole world of songs to an idea. And nothing's moving--it's all the notes at once. A note that "fits" means a note that sounds like you would expect it to. Which suggests an intuition. So a tonescape represents potential, for notes, for songs, and so in a sense, it represents your musical intuition. (briefly introducing the tonescape as the potential notes, making those audible)
 
 And even if it doesn't sound like individual notes at all, you can still have a feeling the anchor [hum], and for the notes that make it up [hum].
 
 Working with a tonescape will help you start to develop those feelings more intentionally. It helps you start to build an internal instrument--an instrumet in your imagination--so that before long, you'll be able to hear any note in any song, know what it is, and be able to work with it.
 
 But you don't have to hear all of the individual notes-- you're really working from a feeling for them, an intuition. It's a complicated sound, so to start getting inside this sound, we'll start by focusing on 3 notes in the tonescape, anchor, higher, lower, and we'll use a little voice that will tell which one it is, like this. [demo ("i think that feels higher...")] 
+
+
 
 The recording starts with the anchor so you can get oriented, and then "high and low" are somewhat arbitrary terms. But if you allow yourself to work with them, for example, imagining the notes spatially, they can be helpful.
 
@@ -52,7 +54,7 @@ Leave out?
 
 
 
-### Tonescapes Exercise
+### Tonescape Exercises
 
 A Tonescape Alone
 

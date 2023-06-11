@@ -43,7 +43,7 @@ Reiterate: Practice it just once through, and not more than 15min. but most impo
 
 
 
-### Tonescapes Exercise
+### Tonescape Exercises
 
 A Tonescape Alone
 

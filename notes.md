@@ -447,9 +447,9 @@ Begin to recognize the sounds of individual notes in a tonescape.
 
 **Notes**
 
-- get into passive tonescapes (anchor-higher-lower), as the matter of how to know exactly which notes you're hearing. this is the transition from "instruments to aid the imagination" to "the imagination as an instrument.
-- introduce and derive a tonescape (that sound in the background) from events moving in a song. This is truly an "instrument to aid the imagination," abstracted from the physical instrument in a different way than a symbol is.
-- the difference between hearing the middle tone as the anchor, rather than the lowest tone (D, rather than CDE) and dorian nudging us outside the engrained major CDE context
+- 13 (tensions): introduce a tonescape, anchor, higher, lower
+  - tonescapes_0 neutral tonescape by itself
+  - tonescapes_1 anchor, higher, lower
 
 
 
@@ -474,11 +474,6 @@ Begin to draw individual notes out of the tonescape.
   - tonescapes_0 neutral tonescape by itself
   - inside_a_tonescape
   - tonescapes_3 anchor, higher, lower ACTIVE (3 notes in one tonescape)
-- Hearing notes inside a tonescape
-- Anchor-higher-lower **active**
-- No notation for this one. Just active anchor, higher, lower recording. And free listening inside the tonescape.
-- And speaking of developing control of what we hear, our next tonescapes is to hear the note *inside* the tonescape. Start by listening to the static sound changing. Then demo the "inside a tonescape," then try the Tonescapes 3 recording. Once you've got that, the two higher and two lower is a sheet of notation, with an anchor clef, that you can flip upside down.
-- You can listen on headphones, or on regular speakers, as long as you can hear all the notes. The idea isn't that you hear the sound in extraordinary detail, you want to rely on your imagination to fill in what's important.
 
 
 
@@ -495,8 +490,9 @@ Add two more notes to recognize in a tonescape.
 **Notes**
 
 - 15 (tensions): anchor, 2 higher, 2 lower
+  - tonescapes_0 neutral tonescape by itself
   - tonescapes_2 anchor, 1, 2 higher/lower
-- Add two higher and two lower tensions **passive**
+  
 
 
 
@@ -531,16 +527,6 @@ Using notation, add two additional notes to draw out of the tonescape.
 - 16 (imagery): add 2 higher, 2 lower ACTIVE (5 notes in one tonescape)
   - reading_imagery_1 A-2H-2L, no spaces, stepwise only
   - reading_imagery_2 A-2H-2L, no spaces, random, not stepwise
-- Begin SR Imagery sequence in the netural mood.
-- Anchor, two higher, and two lower **active**
-- notation: reading_imagery_1
-  - A-2H-2L, no spaces
-  - stepwise only
-- notation: reading_imagery_2
-  - A-2H-2L, no spaces
-  - random, not stepwise
-- should there also be a recording for this one (and the others in this series)? mostly as a way to verify if you got the right note, or did i decide not to do that for a reason?
-  - maybe the idea is that since you can recognize tensions from the tonescapes passive lessons, you're able to verify yourself. i like that. 
 
 
 
@@ -563,11 +549,9 @@ Begin to hear notes in any octave as tensions to the anchor.
 - 17 (tensions): octave equivalence, switch to number names
   - tonescapes_4 anchor, 2nd, 7th, with different octaves, neutral mood
   - tonescapes_5 anchor, 2nd, 3rd, 7th, 6th, with different octaves, neutral mood
-- Switch the tensions naming model to 2nd, 3rd, 7th, 6th. Requires octave equivalence.
 - Marked as (T)heory, but perhaps not so (T) after all, because equalizing octaves is a skill...
-- there's a "more tips" section at the end of the .md file that's not (yet) incorporated into the .html export
 
-**More Tips** (what to do with this?)
+- **More Tips** (what to do with this?)
 
 > If you're having trouble, one thing that can help is to be able to play the notes on an instrument, so you have more control over which note you hear, and when, as you try to match the note with your voice.
 >

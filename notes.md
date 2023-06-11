@@ -1,3 +1,13 @@
+### Abstract
+
+**Location**
+
+**References**
+
+**Notes**
+
+
+
 ### Acknowledgements
 
 **Location**
@@ -8,6 +18,19 @@
 
 - this is a snapshot in a long project
 - also a first way of introducing the software side of the project
+
+
+
+### Overview
+
+**Location**
+- [overview.md](writing/overview.md)
+
+**References**
+
+**Notes**
+- colloquium as introduction
+- not sure where this fits in a table of contents. front matter?
 
 
 
@@ -418,16 +441,14 @@ Begin to recognize the sounds of individual notes in a tonescape.
 
 **References**
 
-- 2023-Spring 6.3 notes (telling exactly what notes are in the tonescape seemed helpful&mdash;another question of feeling v logos that comes up in 19 - Moods)
+- 2023_Spring 1_13_15_tonescapes intro
 - 2022-03-06_nora_basics_13_tonescapes.wav
-- 2020-11-06_mgf_first_tonescapes.mp3
-- 2009-10 lesson sketch - a tonescape
+- 2020-11-06.1_mgf_first_tonescapes.mp3
 
 **Notes**
 
-- 13 (tensions): anchor, higher, lower
-  - tonescapes_1 anchor, higher, lower PASSIVE
-- Introduce a tonescape and get into **passive** tensions (anchor-higher-lower)
+- get into passive tonescapes (anchor-higher-lower), as the matter of how to know exactly which notes you're hearing. this is the transition from "instruments to aid the imagination" to "the imagination as an instrument.
+- introduce and derive a tonescape (that sound in the background) from events moving in a song. This is truly an "instrument to aid the imagination," abstracted from the physical instrument in a different way than a symbol is.
 - the difference between hearing the middle tone as the anchor, rather than the lowest tone (D, rather than CDE) and dorian nudging us outside the engrained major CDE context
 
 
@@ -442,7 +463,10 @@ Begin to draw individual notes out of the tonescape.
 
 **References**
 
-- 2022-03-15_nora_basics_14_tonescapes.wav
+- 2023-Spring 2_14_16_tonescapes_active
+- 2022-03-06_nora_basics_14.1_tonescapes.mp3
+- 2022-03-15_nora_basics_14.2_inside_a_tonescape.mp3
+- 2009-10 lesson sketch - a tonescape
 
 **Notes**
 
@@ -454,16 +478,19 @@ Begin to draw individual notes out of the tonescape.
 - Anchor-higher-lower **active**
 - No notation for this one. Just active anchor, higher, lower recording. And free listening inside the tonescape.
 - And speaking of developing control of what we hear, our next tonescapes is to hear the note *inside* the tonescape. Start by listening to the static sound changing. Then demo the "inside a tonescape," then try the Tonescapes 3 recording. Once you've got that, the two higher and two lower is a sheet of notation, with an anchor clef, that you can flip upside down.
+- You can listen on headphones, or on regular speakers, as long as you can hear all the notes. The idea isn't that you hear the sound in extraordinary detail, you want to rely on your imagination to fill in what's important.
 
 
 
-### Lesson 15 - Tensions Part 2
+### Lesson 15 - Two Higher and Lower
 
 Add two more notes to recognize in a tonescape.
 
 **Location**
 
 **References**
+
+- 2023_Spring 1_13_15_tonescapes intro
 
 **Notes**
 
@@ -478,7 +505,7 @@ Add two more notes to recognize in a tonescape.
 **Location**
 
 **References**
-- 2020-11-06_mgf_first_tonescapes.mp3
+- 2020-11-06.2_mgf_tonescapes_overview.mp3
 
 **Notes**
 
@@ -497,6 +524,8 @@ Using notation, add two additional notes to draw out of the tonescape.
 
 **References**
 
+- 2023-Spring 2_14_16_tonescapes_active
+
 **Notes**
 
 - 16 (imagery): add 2 higher, 2 lower ACTIVE (5 notes in one tonescape)
@@ -511,6 +540,8 @@ Using notation, add two additional notes to draw out of the tonescape.
   - A-2H-2L, no spaces
   - random, not stepwise
 - should there also be a recording for this one (and the others in this series)? mostly as a way to verify if you got the right note, or did i decide not to do that for a reason?
+  - maybe the idea is that since you can recognize tensions from the tonescapes passive lessons, you're able to verify yourself. i like that. 
+
 
 
 
@@ -524,6 +555,7 @@ Begin to hear notes in any octave as tensions to the anchor.
 
 **References**
 
+- 2023-Spring 3_17_tonescapes_passive
 - 2023-02-11_Lesson_17_audio
 
 **Notes**
@@ -581,6 +613,8 @@ Begin to recognize the different feelings of different tonescapes.
 - [19-moods.md](lessons/19-moods.md)
 
 **References**
+
+- Spring-2023 6_19_intro_moods (telling exactly what notes are in the tonescape seemed helpful&mdash;another question of feeling v logos)
 
 **Notes**
 

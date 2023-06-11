@@ -54,7 +54,6 @@ Lesson 35: Holding on to the Anchor
 Lesson 36: Imagination as an Instrument Part 2  
 
 #### Back Matter
-Commentary: Software as a Medium  
 
 [Appendix 1: Method Map](./)  
 [Appendix 2: Playlisting Procedure](https://github.com/shapesmusic/shapes-backend/blob/main/db/playlisting_procedure.md)  
@@ -62,6 +61,5 @@ Commentary: Software as a Medium
 [Appendix 4: Backend Code Repository](https://github.com/shapesmusic/shapes-backend)  
 [Appendix 5: Frontend Code Repository](https://github.com/shapesmusic/shapes-client)  
 [Appendix 6: Song Scraper Repository](https://github.com/shapesmusic/song-scraper)  
-Appendix 7: devJournal  
 
 Glossary  

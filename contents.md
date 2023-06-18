@@ -25,11 +25,11 @@ Lesson 10: Changes
 Lesson 11: Groups of Shapes  
 &nbsp;&nbsp;Commentary: Chord-Modes  
 Lesson 12: Reading by Touch  
-Lesson 13: A Tonescape and Tensions  
-Lesson 14: Imagination as an Instrument  
-Lesson 15: Tensions Part 2  
+[Lesson 13: A Tonescape and Tensions](/lessons/13-a-tonescape-and-tensions.md)  
+[Lesson 14: Imagination as an Instrument](/lessons/14-imagination-as-an-instrument.md)  
+[Lesson 15: Tensions Part 2](/lessons/15-two-higher-and-lower.md)  
 &nbsp;&nbsp;Commentary: What is a Tonescape?  
-Lesson 16: Reading by Ear  
+[Lesson 16: Reading by Ear](/lessons/16-reading-by-ear.md)  
 [Lesson 17: Switch To Number Names](/lessons/17-switch-to-number-names.md)  
 Lesson 18: Reading by Touch Part 2  
 Lesson 19: Moods  

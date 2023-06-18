@@ -444,12 +444,16 @@ Begin to recognize the sounds of individual notes in a tonescape.
 - 2023_Spring 1_13_15_tonescapes intro
 - 2022-03-06_nora_basics_13_tonescapes.wav
 - 2020-11-06.1_mgf_first_tonescapes.mp3
+- 2009-10 lesson sketch - a tonescape
 
 **Notes**
 
 - 13 (tensions): introduce a tonescape, anchor, higher, lower
   - tonescapes_0 neutral tonescape by itself
   - tonescapes_1 anchor, higher, lower
+- am I beginning to make a distinction between "notes" and "tensions" here? Is the anchor a tension, or a note?
+  - --> they are notes. and the relationship of other notes to the anchor are tensions. so you can have the feeling of tensions, but you recognize notes, and draw notes out of the tonescape.
+
 
 
 
@@ -491,8 +495,13 @@ Add two more notes to recognize in a tonescape.
 
 - 15 (tensions): anchor, 2 higher, 2 lower
   - tonescapes_0 neutral tonescape by itself
+    - Actually, I cut this one out of the lesson. Doesn't seem necessary.
+  
   - tonescapes_2 anchor, 1, 2 higher/lower
   
+- can't say that the anchor is the lowest, highest, and middle note of the tonescape yet, or that there are three of the anchor and two of every other note, because octave equivalence doesn't happen until lesson 17.
+  - but then, i also talk about the notes disappearing one by one at the end of the tonescape. And it's not as though we won't have already played on multi-octave keyboards for a while by this point... so I'll leave it in there and see what happens.
+
 
 
 
@@ -507,6 +516,16 @@ Add two more notes to recognize in a tonescape.
 
 - See FR_Music "Introduce Tonescapes"
 - Include future tonescapes sequence overview (where this goes from here)
+- things going on:
+
+  - listening inside of a complex sound. like being able to hear individual pitches in a chord
+  - focus, active listening
+  - and pitch training. anchor and tensions, which will connect to analytical skills down the road
+  - This is getting at an internal mechanism of being able to speak this language of pitches, that's controllable, it's part of a kind of fluency.
+  - (future talk) So you'll start to be able to hear a note in a song and know what it is, but you'll also be able to hear a note in your imagination and know what it is, and how to work with it, to sing it.
+- future talk
+  - Once you've got anchor, 2 higher, and 2 lower, when you think about it, that's already 5 of 7 notes of the shape. So you're already well on your way to building your internal instrument. To translate that to a *real* instrument will be an intellectual step, but you're developing the perception that underlies that.
+  
 
 
 
@@ -550,6 +569,8 @@ Begin to hear notes in any octave as tensions to the anchor.
   - tonescapes_4 anchor, 2nd, 7th, with different octaves, neutral mood
   - tonescapes_5 anchor, 2nd, 3rd, 7th, 6th, with different octaves, neutral mood
 - Marked as (T)heory, but perhaps not so (T) after all, because equalizing octaves is a skill...
+
+- "so far in the tonescape, you've been **working with** the anchor, one and two higher..." (write these so they follow from the previous lesson, not only the previous lesson in that thread)
 
 - **More Tips** (what to do with this?)
 
@@ -843,6 +864,7 @@ Learn how to notate tensions outside of the shape.
   - Lesson 12+ (in SR Tactile Sequence)...
   - Lesson 16+ (SR Imagery)
 - Think about this alongside FR_Music 3 Note Naming Systems
+- Today I read the second Invention in the “5 Left” shape, where it’s neither Ab minor (7 flats) or G# minor (5 sharps), but just degrees in the shape, not nameable by letters. That’s a pretty fun way to think about what this notation is up to.
 
 
 

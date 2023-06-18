@@ -13,44 +13,45 @@
 
 ### Transcript
 
-This is a tonescape [play]
+Now if we took *all* the songs that fit with one shape, put them in a big pot and melted them together, it might sound something like this:
 
-If you took all the notes that fit with a song and boiled them down into a soup, played them all at once, a tonescape is what it might sound like.
+[start tonescape]
 
-A tonescape represents all the songs that fit in a particular shape. It's reducing this whole world of songs to an idea. And nothing's moving--it's all the notes at once. A note that "fits" means a note that sounds like you would expect it to. Which suggests an intuition. So a tonescape represents potential, for notes, for songs, and so in a sense, it represents your musical intuition. (briefly introducing the tonescape as the potential notes, making those audible)
+This is a *tonescape*. You might find this sound a little overwhelming at first, or maybe you'll find it relaxing.
 
-And even if it doesn't sound like individual notes at all, you can still have a feeling the anchor [hum], and for the notes that make it up [hum].
+A tonescape is all the notes of a shape played at once. So this sound represents all the notes that might fit with a song, and all the songs that might fit with a shape.
 
-Working with a tonescape will help you start to develop those feelings more intentionally. It helps you start to build an internal instrument--an instrumet in your imagination--so that before long, you'll be able to hear any note in any song, know what it is, and be able to work with it.
+So in a sense, it also represents your own musical intuitions. Even if you just hear a big blob of sound at first, you can still have a *feeling* for the anchor [hum], and for some notes that fit with the sound [hum], just like you do with a song.
 
-But you don't have to hear all of the individual notes-- you're really working from a feeling for them, an intuition. It's a complicated sound, so to start getting inside this sound, we'll start by focusing on 3 notes in the tonescape, anchor, higher, lower, and we'll use a little voice that will tell which one it is, like this. [demo ("i think that feels higher...")] 
+[stop tonescape]
 
+Working with a tonescape helps you develop these feelings more intentionally. It's a way to start building an *internal instrument*, a way to recognize any note you hear, and to play notes clearly in your imagination.
 
+We'll start by learning to recognize three notes that are part of the tonescape: the anchor, one note higher, and one note lower.
 
-The recording starts with the anchor so you can get oriented, and then "high and low" are somewhat arbitrary terms. But if you allow yourself to work with them, for example, imagining the notes spatially, they can be helpful.
+Here's how it works. Once the tonescape starts, you'll hear a note, then, after a pause, a little computerized voice will tell you which note it was. 
 
-now, this might be easy or might be challenging. **Orienting yourself to the anchor.** You want to hold on to the anchor. Start from the note you hear, then sing backwards to the anchor. That also places you back at the anchor.
+So when you hear a note, try to name it&mdash;anchor, higher, or lower&mdash;and then the voice will tell you if you were right. Like this:
 
-Remember that the anchor is a feeling, with the other tensions pulling toward it. Imagine yourself spatially. Make yourself an image of the anchor at the center, and the other notes on either side. Put yourself at the anchor, and imagine that the note is like a rubber band stretched away, wanting to pull back to where you are. Make a spatial metaphor, where you feel yourself pulling away from, then pulling back to, the anchor
+ [demo: "okay, I think that note feels like the anchor..."] 
 
-If it feels difficult at first, let go of having to name it, and just listen passively, 'oh, okay, i can hear that that's the anchor." Just listen passively, let it soak in, and that'll be a good way to start getting acclimated.
+Now, you might find this very easy, or it might be a little challenging at first. But the key is in keeping yourself oriented to the anchor. 
 
- If you miss one, pay extra attention for that particular note going forward. See if you can correct it and start to get it right. If you don't know one, just stop and listen to it. Forget trying to name it, just listen to it and let it teach you the sound of that tension.
+The first note you hear will always be the anchor. You want to place yourself at the anchor, and create the feeling that the other notes are tensions, pulling away from the anchor, and wanting to pull back to it.
 
-But also make sure, if you miss or can't hear one, that you're oriented to the anchor.
+Now, calling these tensions "higher" and "lower" is a little arbitrary&mdash;we could just as well call them "lighter" and "heavier," or "thinner" and "thicker," or so on. But "higher" and "lower" suggest a kind of spatial relationship, and this can help you stay oriented to the anchor.
 
-Practice it just once through, and not more than 15min. but most important is to do it every day. It's like building a muscle, so don't overdo it. Be aware when you start to get tired. 
+Try imagining that you're in a space with the anchor at the center, and the other notes above and below, or to the right and left. Place *yourself* at the anchor, and imagine that the other notes are rubber bands stretched away from you, full of tension, and wanting to pull back. It's a tension that you can actually feel in your body. And then when you hear the anchor, the tension releases.
 
+So give it a try. If naming these notes feels difficult at first, let go of trying to name them, and just listen to them. Then, when the voice tells you which note it is, you can think, oh, okay, that was the anchor, or higher, or lower, and before long you'll start to recognize the notes on your own.
 
+If you miss a note, first make sure that you're oriented to the anchor. Then pay extra attention for the note you missed going forward. See if you can start to recognize that note the next time you hear it. 
 
-Leave out?
+And remember, if there's a note you don't know, you can always just stop and listen, then continue naming the next note you recognize.
 
-- the computer voice makes it neutral
-- don't worry about memorizing the order of the notes at times.
+Listening in this way is like building a muscle, so you don't want to overdo it. Try listening regularly, once or twice a day for a short time, just about five minutes, and not for more than fifteen minutes at a time. Pay attention to when you feel yourself starting to get tired, or losing focus, and that means it's time to take a break.
 
-
-
-
+So experiment with this, and when you feel confident naming each note you hear, that's when you're ready to come back for more.
 
 
 
@@ -63,6 +64,7 @@ A Tonescape Alone
     src="../media/tonescapes_0.mp3">
         <a href="../media/tonescapes_0.mp3"></a>
 </audio>
+
 
 Anchor, Higher, Lower
 

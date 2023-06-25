@@ -10,13 +10,15 @@ The lessons talk only about what to do at this moment, not what will happen goin
 
 The different threads: play, touch, read...
 
-**software as a medium** should be a section here, not its own commentary.
+
+
+**Intuition**: A note that "fits" means a note that sounds like you would expect it to. Which suggests an intuition. (unpack this) 
 
 
 
-## Software as a Medium
 
 
+### Software as a Medium
 
 ####  Why Software?
 

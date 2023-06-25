@@ -403,6 +403,10 @@ Get to know three additional groups of shapes.
 **Notes**
 
 - There was a thought to put this after 19 - Moods. But that lesson is more about begining to recognize specific moods, whereas chord-modes follow from the combination of Changes (Lesson 10) and Groups of Shapes (Lesson 11).
+  - but still, 19 is supposedly the introduction to modes. 
+  - also, how does this relate to the Standard Mode Names (commentary?) at Lesson 33?
+  - so maybe a bigger question: what's the relationship/timing of thinking of combinations of shapes and anchors as chord-modes, and learning the sounds/feelings of each of those modes(moods) in the tonescapes sequence? isn't this sequence supposed to be linear?
+
 
 
 
@@ -494,12 +498,10 @@ Add two more notes to recognize in a tonescape.
 **Notes**
 
 - 15 (tensions): anchor, 2 higher, 2 lower
-  - tonescapes_0 neutral tonescape by itself
-    - Actually, I cut this one out of the lesson. Doesn't seem necessary.
-  
   - tonescapes_2 anchor, 1, 2 higher/lower
+  - doesn't seem necessary to include the tonescape alone for this one.
   
-- can't say that the anchor is the lowest, highest, and middle note of the tonescape yet, or that there are three of the anchor and two of every other note, because octave equivalence doesn't happen until lesson 17.
+- maybe can't say that the anchor is the lowest, highest, and middle note of the tonescape yet, or that there are three of the anchor and two of every other note, because octave equivalence doesn't happen until lesson 17.
   - but then, i also talk about the notes disappearing one by one at the end of the tonescape. And it's not as though we won't have already played on multi-octave keyboards for a while by this point... so I'll leave it in there and see what happens.
 
 
@@ -514,7 +516,6 @@ Add two more notes to recognize in a tonescape.
 
 **Notes**
 
-- See FR_Music "Introduce Tonescapes"
 - Include future tonescapes sequence overview (where this goes from here)
 - things going on:
 
@@ -522,10 +523,10 @@ Add two more notes to recognize in a tonescape.
   - focus, active listening
   - and pitch training. anchor and tensions, which will connect to analytical skills down the road
   - This is getting at an internal mechanism of being able to speak this language of pitches, that's controllable, it's part of a kind of fluency.
-  - (future talk) So you'll start to be able to hear a note in a song and know what it is, but you'll also be able to hear a note in your imagination and know what it is, and how to work with it, to sing it.
 - future talk
+  - So you'll start to be able to hear a note in a song and know what it is, but you'll also be able to hear a note in your imagination and know what it is, and how to work with it, to sing it.
   - Once you've got anchor, 2 higher, and 2 lower, when you think about it, that's already 5 of 7 notes of the shape. So you're already well on your way to building your internal instrument. To translate that to a *real* instrument will be an intellectual step, but you're developing the perception that underlies that.
-  
+
 
 
 
@@ -611,7 +612,7 @@ Incorporate two additional shapes into your reading at the keyboard.
 
 ### Lesson 19 - Moods
 
-Begin to recognize the different feelings of different tonescapes.
+Begin to recognize the overall feelings of different tonescapes.
 
 **Location**
 
@@ -619,7 +620,7 @@ Begin to recognize the different feelings of different tonescapes.
 
 **References**
 
-- Spring-2023 6_19_intro_moods (telling exactly what notes are in the tonescape seemed helpful&mdash;another question of feeling v logos)
+- Spring-2023 6_19_intro_moods
 
 **Notes**
 
@@ -627,11 +628,14 @@ Begin to recognize the different feelings of different tonescapes.
   - tonescapes_5 anchor, 2nd, 3rd, 7th, 6th, with different octaves, neutral mood
   - tonescapes_6 anchor, 2nd, 3rd, 7th, 6th, with different octaves, Dominant mood (Lighter)
   - tonescapes_7 anchor, 2nd, 3rd, 7th, 6th, with different octaves, Minor mood (Heavier)
-- changing shapes on a single anchor introduces the idea of moods, and their spectrum of lightness/heaviness.
-- add the single light and single heavy tonescapes
-- anchor, 2nd, 3rd, 7th, 6th in neutral, single light & single heavy tonescapes **passive**
-- not differentiating the light/heavy names yet places the focus on the overall feeling of the mood, the big-picture sense.
-- Also account for my funny capitalization practices: "Lydian, Major, Dominant, dorian, minor, phrygian, locrian," based on a supercategory of "Majorness"-as-general-lightness and "minorness"-as-general-heaviness.
+  
+- **as you're adding modes:** (maybe just for double & triple light/heavy?)
+
+  - the two new modes you're learning with pitches inside them
+  - tonescapes for all the modes so far so you can shuffle, get inside, and ID them [this was for FR Music. Otherwise it's separated into passive & active tonescapes lessons.]
+  - all the pitches for all the modes so far in the neutral tonescape.
+
+  then, finally, drop the tonescape for all pitches.
 
 
 
@@ -643,6 +647,7 @@ Begin to recognize the different feelings of different tonescapes.
 
 **Notes**
 
+- maybe this is part of Lesson 33 - Standard Mode Names (which is probably also a commentary, not a lesson.)
 - From a conversation with Josh after class 23.2.21
   - light/heavy as a framework, then mode names, then "dominant"
   - a superstructure of major/minor corresponding to light/heavy
@@ -680,8 +685,8 @@ Listen to the tensions that make one mood feel different from another.
 
 **References**
 
-- 2023-Spring 7.2 notes
-- 2023-Spring 6.3 notes (possibly helpful here, we got ahead and talked about tension names, the 3rd and 6th changing)
+- 2023-Spring 7_21_tonescapes_passive
+- 2023-Spring 6.3_tonescape_moods (we got ahead and talked about tension names, the 3rd and 6th changing)
 
 **Notes**
 
@@ -690,15 +695,7 @@ Listen to the tensions that make one mood feel different from another.
   - tonescapes_9 Dominant mood (Light 3rd, Light 6th)
   - tonescapes_10 Minor mood (Heavy 3rd, Heavy 6th)
   - tonescapes_11 All 3rds and 6ths with Dorian mood
-- Marked as (T)heory
-- Introduce "light/heavy" tension names as a more specific way to name tensions that vary in different moods.
-- *But only use light/heavy names for the tensions that are changing-- the 3rd and 6th. Will add the rest of the names in lesson 24.
-- The light/heavy mood names are a sum of their light/heavy tensions
-- this means getting inside the individual tensions of the mode, rather than hearing the mode as a whole (may invite analysis of the asymmetry of notes within a mode)
-- the tension number becomes something abstracted from the specific tension, which is how letter names (& traditional solfege) will work. This sets up IPs.
-- perhaps the names help us focus on the differences between the moods, kind of like the shape names helped us?
-- also bring all the tensions into the neutral tonescape. I wasn't going  to do this until lesson 30 (once we have all the modes), but it makes more sense, I think, to build it up gradually. So there are two exercises: shuffling the different modes and naming within them, and naming all the tensions together.
-- So now, if it's a 3rd or 6th, you have to distinguish if it's light or heavy. When we bring all the tensions into the tonescape (with light/heavy names for the 3rd and 6th), you'll also be able to hear if the tension is "in" or "out" of the tonescape (or if it sounds different from the 3rd or 6th you've been naming so far), which will help distinguish the light/heavy tensions at first. 
+- Marked as (T)heory. But again, it's a skill of naming.
 
 
 
@@ -758,7 +755,7 @@ Draw all the tensions out of three tonescapes.
 - Continue SR Imagery sequence in neutral, single light, and single heavy moods
 - Add 4th and 5th
 
-- Added this lesson to introduce the 4th and 5th actively rather than passively. This is how it happened in FR_Mus Spring 2023. Also then there are 5 parts each of Reading by Ear and Reading by Touch, and separate active lessons for single light/heavy and double light/heavy moods.
+- Added this lesson to **introduce the 4th and 5th actively rather than passively.** This is how it happened in FR_Mus Spring 2023. Also then there are 5 parts each of Reading by Ear and Reading by Touch, and separate active lessons for single light/heavy and double light/heavy moods.
 - notation: reading_imagery_2
   - All tensions, no spaces
   - move anchor
@@ -776,7 +773,7 @@ Add the remaining tensions in three moods.
 
 **Location**
 
-- [24-moods-and-tensions-together.md](lessons/24-moods-and-tensions-together.md)
+- [25-moods-and-tensions-together.md](lessons/25-moods-and-tensions-together.md)
 
 **References**
 
@@ -790,6 +787,9 @@ Add the remaining tensions in three moods.
 - Add 4th and 5th (all diatonic tensions)
 - continue using light/heavy names only for tensions in moods thus far (3rds and 6ths)
 - bring all tensions & names thus far together in the neutral tonescape.
+- mention here that when you listen to songs, now you may begin to hear different notes as tensions to the anchor. that's the framing for why we're doing this. the tonescape represents a song. you start to hear any note as a tension in a mood. and as each note begins to take on its particular feeling of tension, this is also what gives you a clear sense of where the anchor is.
+  - also importance of staying oriented to the anchor, rather than listening from note to note, from the last note to the next. because in music, when we listen, it's not as though we're measuring the intervals from one note to the next, to the next. what we hear is a relationship between all the notes, a shared relationship to the anchor.
+
 
 
 
@@ -799,7 +799,7 @@ Add two additional moods along with their tensions.
 
 **Location**
 
-- [25-getting-inside-of-moods.md](lessons/25-getting-inside-of-moods.md)
+- [26-getting-inside-of-moods.md](lessons/26-getting-inside-of-moods.md)
 
 **References**
 
@@ -907,7 +907,7 @@ Add two remaining moods along with their tensions.
 
 **Location**
 
-- [30-all-moods-and-tensions.md](lessons/30-all-moods-and-tensions.md)
+- [31-all-moods-and-tensions.md](lessons/31-all-moods-and-tensions.md)
 
 **References**
 
@@ -933,12 +933,16 @@ Draw all the tensions out of all moods.
 
 **Notes**
 
-- 32 (imagery): add triple light and heavy moods (7 notes, 7 tonesacpes)
+- 32 (imagery): add triple light and heavy moods (7 notes, 7 tonescapes)
   - reading_imagery_3 All tensions, no spaces, move anchor, stepwise only
   - reading_imagery_4 all tensions, no spaces, center anchor, random, not stepwise
 - SR Imagery sequence all moods
 - All diatonic tensions
 - Bring in some rhythmic note symbols
+- **also in this lesson:** introduce the idea that you can reorient your attention to any note in the tonescape as the anchor.
+  - we've been keeping the same anchor and changing the notes around it, because this makes the moods stand out. But rather than hearing a note as a tension, see if you can reorient yourself to hear it as the anchor, then recognize the mood it creates, and read in it.
+  - this also touches on the idea of mood notes.
+
 
 
 
@@ -952,8 +956,30 @@ Learn the standard names for the moods.
 
 **Notes**
 
+- **This is really a commentary.** It's probably written. What (if anything) makes it a lesson?
+  - maybe call it "Moods and Modes"
+  - also how does it relate to the chord-mode commentary after L11?
+- from Spring 2023 wk6: the reason for neutral, light, heavy names is to give a kind of structure to the modes. to show their structure. but they have proper names, too.
+- also when someone says "minor third" or "major third" they mean the light and heavy third.
+  - there's also "perfect," a neutral concept
+  - major and minor might be referring to proper names for particular modes
+  - but more likely, they're referring to a general lightnes or heaviness of the modes
+  - so you're getting "more major" / lighter as you go from dorian, Dominant, Major...
+  - and people will say that dorian is a "minor" mode...
+  - also a "dorian" third versus a "heavy" third. the first imbues the note with the whole mode. the second generalizes across several modes: dorian, minor, phrygian...
+- and "major" and "minor" as ways of describing a general lightness or heavines of modes, versus the major and minor moods themselves.
+- "light" and "heavy" vs raised & lowered allow the notes & modes to be their own thing, rather than alterations of some other mode
+
+- The "Lowered 7th," etc. is in terms of whichever mode you're coming from. Dominant doesn't inherently have a "lowered 7th," unless it's in relation to another mode. It does have a "heavy 7th," though, that isn't lowered, per se, but describes a quality of the system of tensions overall.
+- why is the dorian mode neutral? 
+  - one, chosen because its not major, so bumps you out of those expectations that are hardwired from so much musical experience. if you can hear the different 3rd, it draws you into the sound more
+  - but dorian is also actually neutral. three lighter and three heaver tensions in there.
+  - part of an argument here that organizes the modes on a spectrum, that shows a kind of overall structure for the system of modes. that's pedagogical.
+
 - 33 (tensions): [Theory: Standard Mode Names]
 - Introduce standard(ish) mood names in place of light/heavy names.
+- Also account for my funny capitalization practices: "Lydian, Major, Dominant, dorian, minor, phrygian, locrian," based on a supercategory of "Majorness"-as-general-lightness and "minorness"-as-general-heaviness.
+
 - Also name 2nd, 3rd, 4th group moods and relate their light/heavy positions.
 - *how does this relate to the chord-mode commentary following Lesson 11? and do i want to keep all standard terminology/concepts in the commentary, not the lessons?
 

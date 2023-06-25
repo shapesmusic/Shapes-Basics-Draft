@@ -10,7 +10,6 @@
 
 
 
-
 ### Transcript
 
 You've started to recognize some notes that are part of the tonescape, so you're beginning to get inside of this wash of sound. 
@@ -97,4 +96,3 @@ Active: Anchor, Higher, Lower
     src="../media/tonescapes_3.mp3">
         <a href="../media/tonescapes_3.mp3"></a>
 </audio>
-

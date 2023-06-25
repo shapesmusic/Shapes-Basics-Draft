@@ -10,7 +10,6 @@
 
 
 
-
 ### Transcript
 
 Now that you can recognize the notes two higher and two lower, you're ready to start drawing these notes out of the tonescape without hearing them first.

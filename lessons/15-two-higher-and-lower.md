@@ -10,7 +10,6 @@
 
 
 
-
 ### Transcript
 
 Now that you've gotten the hang of the anchor, higher, and lower, you're ready to add the notes "two higher" and "two lower." 

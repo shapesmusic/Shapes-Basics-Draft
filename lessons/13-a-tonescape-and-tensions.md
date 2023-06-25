@@ -10,7 +10,6 @@
 
 
 
-
 ### Transcript
 
 Now if we took *all* the songs that fit with one shape, put them in a big pot and melted them together, it might sound something like this:

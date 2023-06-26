@@ -12,42 +12,48 @@
 
 ### Transcript
 
-we've been working with the tonescape, hear the anchor, get oriented, hum the anchor
+Now you can recognize the anchor, 2nd, 3rd, 7th, or 6th regardless of their octave. But now, let's change something subtle about the tonescape itself.
 
-then change the tonescape.
+[start tonescape]
 
-[lighter tonescape]
+So first, make sure you're oriented to the anchor. Here it is: [hum].
 
-creates a different feeling. it's subtle. then
+Now I'll change the tonescape [change tonescape, hum the anchor]. This creates a different feeling, it's subtle. 
 
-[heavier tonescape]
+Then back to the original tonescape [change tonescape, hum the anchor].
 
-so we've kept the same anchor, but changed ~~the shape&mdash;~~the collection of notes around the anchor, pulling on the anchor. And this change creates a different feeling, which we'll call a mood.
+And now I'll make a different change [change tonescape, hum the anchor], and this creates yet a different feeling.
 
-So if our original tonescape was "neutral," we'll say that this mood [play] is "lighter"
+[stop tonescape]
 
-and returning to neutral [play], this mood is "heavier."
+So we kept the same anchor, but changed something about the collection of notes *around* the anchor, pulling on the anchor. And this change creates a different overall feeling, which we'll call a *mood*.
 
-(like "higher" and "lower") these names are also somewhat arbitrary, but they help to show a relationship between the different moods.
+[start tonescape]
 
-[show all the moods? ] to really show these relationships.
+So let's say that the original tonescape is our "neutral" mood. And then the first change was "lighter" [change tonescape, hum anchor].
 
-And each mood is distinct, we can recognize the particular feeling it creates.
+In fact, we can get even lighter [change, hum], and still even lighter [change, hum], which might make the change easier to hear [stop tonescape].
 
-So we could make sense of these differences by getting inside each mood and finding differences in the individualn notes that make it up. But before we do that, to start, we're going to keep our attention on the overall mood, and start to recognize the subtle, overall feeling of the neutral, lighter, and heavier moods. without getting inside and thinking about the individual notes that make it up.
+Now if we return to the neutral tonescape [start tonescape, hum anchor], the second change was "heavier" [change, hum]. 
 
+And we can get even heavier [change, hum], and even heavier than that [change, hum].
 
+[stop tonescape]
 
-And even though the moods change, the feelings of the tensions, the anchor, 2nd, 3rd, 7th, 6th will still be there in any mood. So if you got to know the feeling of the third along with the neutral tonescape, you'll still have that feeling of position in the lighter or heavier tonescapes.
+Like "higher" and "lower," the names lighter" and "heavier" are somewhat arbitrary. But these names also help us, because they describe a relationship that we can start to hear between the different moods.
 
-So to practice, you'll keep naming tensions (A, 2, 3, 7, 6) as before, but now you'll have the lighter and heavier moods in addition to the neutral mood that you already know. 
+And each mood is distinct, so you can begin to recognize the particular feeling it creates. You'll also start to recognize these feelings in songs, because of how the overall collection of notes in a song pulls to the anchor.
 
-You can practice listening to each of these moods, then when you're ready, clicking the "choose randomly" button will start a random one of the three moods. close your eyes and see if you can recognize which mood it is, just by the overall feeling of the mood. Then look to see if you were right, and go on naming the tensions you hear.
+So to practice, keep naming the tensions just like before, but now you'll have a lighter and a heavier mood in addition to the neutral mood that you already know. You'll still be able to recognize the 2nd, 3rd, 7th, or 6th in any of the moods, because these are more general feelings of position, or tension to the anchor, that don't depend on the mood.
+
+Once you've tried recognizing tensions in each of the moods, click the "choose randomly" button to start a random one of the three moods. Close your eyes and see if you can recognize which mood it is, just by the overall feeling of the mood. Then look to see if you were right, and go on naming the tensions you hear.
+
+Now, it might be tempting to try to make sense of the moods by getting inside of them and listening for differences in the individual notes that make them up. But for now, to start, try to resist that temptation and keep your attention on the overall mood, the subtle difference in the feelings of the neutral, lighter, and heavier moods.
+
+Once you've begun to recognize the feeling of each mood, and you're comfortable naming the tensions you hear inside of them, that's when you're ready to come back for more.
 
 
 
 ### Tonescape Exercises
 
-Lesson 19 Exercises:
-
-Shuffle 3 moods with tensions
+[Lesson 19 Exercises](19-exercises.html)

@@ -32,7 +32,7 @@ Lesson 12: Reading by Touch
 [Lesson 16: Reading by Ear](/lessons/16-reading-by-ear.md)  
 [Lesson 17: Switch To Number Names](/lessons/17-switch-to-number-names.md)  
 Lesson 18: Reading by Touch Part 2  
-Lesson 19: Moods  
+[Lesson 19: Moods](/lessons/19-moods.md)  
 &nbsp;&nbsp;Commentary: Feeling or Thinking?  
 Lesson 20: Reading by Ear Part 2  
 Lesson 21: Light and Heavy Tensions  

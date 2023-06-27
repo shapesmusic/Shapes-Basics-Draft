@@ -52,7 +52,7 @@ Then, your listening exercise is the same as before, except now it'll name the n
 
 [play]
 
-So rather than *recognizing* the anchor, higher, and lower, now you have to draw those notes out of the tonescape, to create them and hear them in your mind's ear. Then you'll hear the note to check if you were right.
+So rather than *recognizing* the anchor, higher, and lower, now you have to draw those notes out of the tonescape yourself, to create them and hear them in your mind's ear. Then you'll hear the note to check if you were right.
 
 Like before, you can start by humming, and that can be helpful at first. But the sound of your voice also adds something extra to listen to, so the goal is to be able to imagine the note *without* having to hum it.
 

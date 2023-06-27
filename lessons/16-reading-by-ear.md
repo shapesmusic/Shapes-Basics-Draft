@@ -26,7 +26,7 @@ You might find the first notation a little easier to begin with, because you're 
 
 Moving between the notes in this way will set you up for the second notation, because to find a random note, you want to develop a feeling for how many steps higher or lower it is than the anchor.
 
-To practice, you can start at the anchor, then move through each step between the anchor and the note that's written. Then when you reach that note, feel it as a tension that many steps higher or lower than the anchor, and then work your way back to the anchor.
+To practice, you can start at the anchor, then move through each step between the anchor and the note that's written. Then when you reach that note, feel it as a tension that many steps higher or lower than the anchor, and then work your way back to the anchor. Take as much time as you need to do this.
 
 Before long, you'll be able to jump right to each new note and feel it as a tension to the anchor, without having to step through the notes in between.
 
@@ -45,6 +45,7 @@ A Tonescape Alone
     src="../media/tonescapes_0.mp3">
         <a href="../media/tonescapes_0.mp3"></a>
 </audio>
+
 
 
 Notation: Reading Imagery 1

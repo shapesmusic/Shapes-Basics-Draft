@@ -12,13 +12,13 @@
 
 ### Transcript
 
-Now you can recognize the anchor, 2nd, 3rd, 7th, or 6th regardless of their octave. But now, let's change something subtle about the tonescape itself.
+You've gotten comfortable recognizing the anchor, 2nd, 3rd, 7th, or 6th regardless of their octave. So now, let's change something subtle about the tonescape itself.
 
 [start tonescape]
 
-So first, make sure you're oriented to the anchor. Here it is: [hum].
+But first, make sure you're oriented to the anchor. Here it is: [hum].
 
-Now I'll change the tonescape [change tonescape, hum the anchor]. This creates a different feeling, it's subtle. 
+Okay, now I'll change the tonescape [change tonescape, hum the anchor]. This creates a different feeling, it's subtle. 
 
 Then back to the original tonescape [change tonescape, hum the anchor].
 
@@ -48,9 +48,9 @@ So to practice, keep naming the tensions just like before, but now you'll have a
 
 Once you've tried recognizing tensions in each of the moods, click the "choose randomly" button to start a random one of the three moods. Close your eyes and see if you can recognize which mood it is, just by the overall feeling of the mood. Then look to see if you were right, and go on naming the tensions you hear.
 
-Now, it might be tempting to try to make sense of the moods by getting inside of them and listening for differences in the individual notes that make them up. But for now, to start, try to resist that temptation and keep your attention on the overall mood, the subtle difference in the feelings of the neutral, lighter, and heavier moods.
+Now, it might be tempting to try to make sense of the moods by getting inside of them and listening for differences in the individual notes that make them up. But for now, to start, try to resist that temptation and keep your attention on the overall mood, and the subtle difference in the feelings of the neutral, lighter, and heavier moods.
 
-Once you've begun to recognize the feeling of each mood, and you're comfortable naming the tensions you hear inside of them, that's when you're ready to come back for more.
+Once you've started to recognize the feeling of each mood, and you're comfortable naming the tensions you hear inside of them, that's when you're ready to come back for more.
 
 
 

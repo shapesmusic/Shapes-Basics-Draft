@@ -35,7 +35,7 @@ Lesson 18: Reading by Touch Part 2
 [Lesson 19: Moods](/lessons/19-moods.md)  
 &nbsp;&nbsp;Commentary: Feeling or Thinking?  
 [Lesson 20: Reading by Ear Part 2](/lessons/20-reading-by-ear-2.md)  
-Lesson 21: Light and Heavy Tensions  
+[Lesson 21: Light and Heavy Tensions](/lessons/21-light-and-heavy-tensions.md)  
 Lesson 22: Independent Solfege  
 Lesson 23: Reading by Touch Part 3  
 Lesson 24: Reading by Ear Part 3  

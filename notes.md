@@ -718,6 +718,7 @@ Learn to name a note without having to reference any other note.
 - Marked as (T)heory
 - Introduce independent solfege names & distinguish from relative names.
 - names that work kinda the way pointing to a key on the keyboard does.
+- what application does this have in the beginner sequence? is it purely theoretical? would i make a version of the last lesson with indepsol names? because that would still be hearing the notes in terms of relationships. maybe at this point it is just a commentary about naming. "the note Ba is a light seventh, now the same note Ba is a heavy third."
 
 
 

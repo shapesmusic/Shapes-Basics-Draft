@@ -547,6 +547,7 @@ Using notation, add two additional notes to draw out of the tonescape.
 - 16 (imagery): add 2 higher, 2 lower ACTIVE (5 notes in one tonescape)
   - reading_imagery_1 A-2H-2L, no spaces, stepwise only
   - reading_imagery_2 A-2H-2L, no spaces, random, not stepwise
+- not putting a note to "flip upside down for variation" until L20. seems unnecessary for the first time. 
 
 
 

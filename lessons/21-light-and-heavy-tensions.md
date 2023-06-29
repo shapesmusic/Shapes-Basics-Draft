@@ -28,9 +28,9 @@ So there's a relationship between the overall lightness or heaviness of the mood
 
 In fact, the lighter and heavier moods represent the sum of the light and heavy tensions that make them up. So in the lighter mood, both the 3rd and 6th are light. In the heavier mood, the 3rd and 6th are heavy. And in the neutral mood, the 3rd is heavy and the 6th is light.
 
-Zooming out, there's some symmetry in all of this. The note getting "lighter" is two higher than the anchor, and the note getting "heavier" is two lower. This pattern starts to emerge when you orient yourself at the neutral mood, which is made up of an equal number of light and heavy tensions. And this give you a way to see an overall structure for the different modes: a spectrum of lightness and heaviness, with neutral in the middle.
+Zooming out, you can start to notice some symmetry in all of this. The note getting "lighter" is two higher than the anchor, and the note getting "heavier" is two lower. So the notes that change are equal and opposite distances from the anchor. This is the case when you orient yourself to the neutral mood, which is made up of an equal number of light and heavy tensions. And it starts to show you an overall structure for the different modes: a spectrum of lightness and heaviness, with neutral in the middle.
 
-So to make this a part of your listening, now, when you hear a 3rd or 6th, also say whether it's light or heavy, like this [demo].
+So to make these names a part of your listening, now, when you hear a 3rd or 6th, also say whether it's light or heavy, like this [demo].
 
 Nothing is changing in the sound of the notes, only in how you're naming them. You're being more specific and distinguishing which tensions are changing to create the differences between the moods.
 

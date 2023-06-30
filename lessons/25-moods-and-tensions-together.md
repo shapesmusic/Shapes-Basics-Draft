@@ -1,17 +1,21 @@
-# Moods and Tensions Together
-
-add 4th and 5th passive tonescapes. hearing all tensions in a mood. then bring in single light and single heavy in addition to neutral.
-
-## Summary
+## Moods and Tensions Together
 
 
 
-## The Lesson
+### Listen
 
 
 
-## Things To Think About
+[coming soon]
 
 
 
-## Resources
+### Transcript
+
+ok
+
+
+
+### Tonescape Exercises
+
+[Lesson 25 Exercises](25-exercises.html)

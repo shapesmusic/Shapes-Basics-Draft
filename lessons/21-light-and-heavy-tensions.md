@@ -34,13 +34,13 @@ So to make these names a part of your listening, now, when you hear a 3rd or 6th
 
 Nothing is changing in the sound of the notes, only in how you're naming them. You're being more specific and distinguishing which tensions are changing to create the differences between the moods.
 
-And even though you're making the names a little more specific, it's worth noticing that the numbers of the tensions still stay the same. So whether a 3rd is light or heavy, it still has the feeling of a 3rd. Because the feeling of position in the overall collection of notes is something broader than whether it's a light or heavy version of that feeling.
+And even though you're making the names a little more specific, it's worth noticing that the *numbers* of the tensions still stay the same. So whether a 3rd is light or heavy, it still has the feeling of being a 3rd. Because the feeling of position in the overall collection of notes is something broader than whether it's a light or a heavy version of that feeling.
 
 So choose a random mood, name the tensions you hear, and then when you're comfortable doing that, there's one more exercise that takes *all* of these tensions, that is, both kinds of 3rds and both kinds of 6ths, and mixes them together with the neutral tonescape, like this [demo].
 
-Now, the light 3rd and the heavy 6th aren't a part of the neutral tonescape, so they'll really stand out when you hear them. 
+Now, the light 3rd and the heavy 6th *aren't* a part of the neutral tonescape, so they really stand out when you hear them. 
 
-But this will help you start to compare all the tensions side by side, which you don't get to do when you're listening in any single mood.
+But putting them together helps you start to compare all the tensions side by side, which you don't get to do when you're listening in any single mood.
 
 So give it a try. When you're comfortable naming the tensions in each mood, and all together with the neutral tonescape, that's when you're ready to come back for more.
 

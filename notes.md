@@ -787,8 +787,6 @@ Add the remaining tensions in three moods.
   - tonescapes_14 Minor Mode, add 4th & 5th
   - tonescapes_15 All tensions with Dorian Mode (all tensions for 3 modes, including 4th & 5th)
 - Add 4th and 5th (all diatonic tensions)
-- continue using light/heavy names only for tensions in moods thus far (3rds and 6ths)
-- bring all tensions & names thus far together in the neutral tonescape.
 - mention here that when you listen to songs, now you may begin to hear different notes as tensions to the anchor. that's the framing for why we're doing this. the tonescape represents a song. you start to hear any note as a tension in a mood. and as each note begins to take on its particular feeling of tension, this is also what gives you a clear sense of where the anchor is.
   - also importance of staying oriented to the anchor, rather than listening from note to note, from the last note to the next. because in music, when we listen, it's not as though we're measuring the intervals from one note to the next, to the next. what we hear is a relationship between all the notes, a shared relationship to the anchor.
 
@@ -812,6 +810,8 @@ Add two additional moods along with their tensions.
   - tonescapes_17 double heavy tensions
   - tonescapes_18 all double in neutral
 - Add double light & double heavy tonescapes, shuffle all.
+  - "now that we have all the tensions in a mood, let's expand to more moods..."
+
 - Add light 7th and heavy 2nd
 - bring all tensions & names thus far together in the neutral tonescape.
 

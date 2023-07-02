@@ -6,11 +6,7 @@
 
 
 
-<audio
-    controls
-    src="../media/switch_to_number_names.mp3">
-        <a href="../media/switch_to_number_names.mp3"></a>
-</audio>
+<audio controls src="../media/switch_to_number_names.mp3" />
 
 
 
@@ -71,17 +67,10 @@ So give it a try. Feel free to experment and come up with your own techniques to
 ### Tonescapes Exercises
 
 Anchor, 2nd, 7th
-<audio
-    controls
-    src="../media/tonescapes_4.mp3">
-        <a href="../media/tonescapes_4.mp3"></a>
-</audio>
 
+<audio controls src="../media/tonescapes_4.mp3" />
 
 
 Anchor, 2nd, 3rd, 7th, 6th
-<audio
-    controls
-    src="../media/tonescapes_5.mp3">
-        <a href="../media/tonescapes_5.mp3"></a>
-</audio>
+
+<audio controls src="../media/tonescapes_5.mp3" />

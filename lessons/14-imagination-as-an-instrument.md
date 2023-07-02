@@ -73,26 +73,14 @@ And when you feel like you've started to get the hang of drawing these notes out
 
 A Tonescape Alone
 
-<audio
-    controls
-    src="../media/tonescapes_0.mp3">
-        <a href="../media/tonescapes_0.mp3"></a>
-</audio>
+<audio controls src="../media/tonescapes_0.mp3" />
 
 
 Inside a Tonescape (Simulation)
 
-<audio
-    controls
-    src="../media/inside_a_tonescape.mp3">
-        <a href="../media/inside_a_tonescape.mp3"></a>
-</audio>
+<audio controls src="../media/inside_a_tonescape.mp3" />
 
 
 Active: Anchor, Higher, Lower
 
-<audio
-    controls
-    src="../media/tonescapes_3.mp3">
-        <a href="../media/tonescapes_3.mp3"></a>
-</audio>
+<audio controls src="../media/tonescapes_3.mp3" />

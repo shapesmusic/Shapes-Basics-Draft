@@ -40,7 +40,7 @@ So give it a try. And when you've gotten the hang of hearing both notations in t
 
 A Tonescape Alone
 
-<audio controls src="../media/tonescapes_0.mp3" />
+<audio controls src="../media/tonescapes_0.mp3"></audio>
 
 
 
@@ -62,4 +62,3 @@ Notation: Reading Imagery 2
 	width="100%"
 	height="500px"
 />
-

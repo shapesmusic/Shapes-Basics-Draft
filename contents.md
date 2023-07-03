@@ -40,7 +40,7 @@ Lesson 22: Independent Solfege
 Lesson 23: Reading by Touch Part 3  
 [Lesson 24: Reading by Ear Part 3](/lessons/24-reading-by-ear-3.md)  
 [Lesson 25: Moods and Tensions Together](/lessons/25-moods-and-tensions-together.md)  
-Lesson 26: Getting Inside of Moods  
+[Lesson 26: Getting Inside of Moods](/lessons/26-getting-inside-of-moods.md)  
 Lesson 27: Reading by Ear Part 3  
 Lesson 28: Incidentals  
 &nbsp;&nbsp;Commentary: Shape and Standard Notation  

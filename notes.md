@@ -828,10 +828,13 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 **Notes**
 
 - 27 (imagery): add double light and double heavy moods (7 notes in 5 tonescapes)
+  - shuffle 5 tonescapes (all so far)
   - reading_imagery_3 All tensions, no spaces, move anchor, stepwise only
   - reading_imagery_4 all tensions, no spaces, center anchor, random, not stepwise
+
 - SR Imagery sequence, add double light & heavy moods
 - All diatonic tensions
+- you might also recognize these moods in songs...
 
 
 

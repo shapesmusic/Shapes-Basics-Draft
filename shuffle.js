@@ -1,9 +1,5 @@
-// Get the audio elements and store them in an array
-var audioControls = [
-  document.getElementById("audioControl1"),
-  document.getElementById("audioControl2"),
-  document.getElementById("audioControl3")
-];
+// Get all the audio elements with id starting with "audioControl"
+var audioControls = Array.from(document.querySelectorAll("[id^='audioControl']"));
 
 // Set initial values for variables to keep track of the current audio and its control
 var currentAudioIndex = -1;

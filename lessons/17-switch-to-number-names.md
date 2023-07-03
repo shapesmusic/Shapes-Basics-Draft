@@ -6,7 +6,7 @@
 
 
 
-<audio controls src="../media/switch_to_number_names.mp3" />
+<audio controls src="../media/switch_to_number_names.mp3"></audio>
 
 
 
@@ -68,9 +68,10 @@ So give it a try. Feel free to experment and come up with your own techniques to
 
 Anchor, 2nd, 7th
 
-<audio controls src="../media/tonescapes_4.mp3" />
+<audio controls src="../media/tonescapes_4.mp3"></audio>
+
 
 
 Anchor, 2nd, 3rd, 7th, 6th
 
-<audio controls src="../media/tonescapes_5.mp3" />
+<audio controls src="../media/tonescapes_5.mp3"></audio>

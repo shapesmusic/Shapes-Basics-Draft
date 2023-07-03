@@ -48,4 +48,4 @@ Then, once you feel confident naming each note you hear, that's when you're read
 
 Anchor, Two Higher, Two Lower
 
-<audio controls src="../media/tonescapes_2.mp3" />
+<audio controls src="../media/tonescapes_2.mp3"></audio>

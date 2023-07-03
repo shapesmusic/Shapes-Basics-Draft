@@ -67,9 +67,11 @@ Double Light Mood (Light 3rd, 6th, 7th)
 <audio controls src="../media/tonescapes_16.mp3"></audio>
 
 
+
 Double Heavy Mood (Heavy 2nd, 3rd, 6th)
 
 <audio controls src="../media/tonescapes_17.mp3"></audio>
+
 
 
 All Tensions with the Neutral Mood

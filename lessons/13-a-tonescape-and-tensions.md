@@ -58,9 +58,10 @@ So experiment with this, and when you feel confident naming each note you hear, 
 
 A Tonescape Alone
 
-<audio controls src="../media/tonescapes_0.mp3" />
+<audio controls src="../media/tonescapes_0.mp3"></audio>
+
 
 
 Anchor, Higher, Lower
 
-<audio controls src="../media/tonescapes_1.mp3" />
+<audio controls src="../media/tonescapes_1.mp3"></audio>

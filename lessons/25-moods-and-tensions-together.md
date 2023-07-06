@@ -20,7 +20,7 @@ So like before, start a random tonescape and see if you can recognize the mood, 
 
 Once you've got the hang of that, try the second exercise that brings all the tensions from all the moods you've worked with so far together with the neutral tonescape.
 
-Adding the 4th and 5th into both of these exercises can make things a bit more challenging at first. You're at the point where you really want to start relying on the immediate feeling of a tension, without having to count its distance to the anchor. It's similar to the way you've already been recognizing the overall feeling of a mood.
+Adding the 4th and 5th into both of these exercises can make things seem a bit more challenging at first. You're at the point where you really want to start relying on the immediate feeling of a tension, without having to count its distance to the anchor. It's similar to the way you've already been recognizing the overall feeling of a mood.
 
 If you find yourself getting stuck, you can use some of the techniques from past lessons, like, if you hear a tension you don't recognize, stop and listen to it, rather than trying to guess what it is. If you keep listening passively, eventually you'll hear a tension that you *do* recognize, and you can keep on going from there.
 

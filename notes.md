@@ -810,8 +810,7 @@ Add two additional moods along with their tensions.
   - tonescapes_17 double heavy tensions
   - tonescapes_18 all double in neutral
 - Add double light & double heavy tonescapes, shuffle all.
-  - "now that we have all the tensions in a mood, let's expand to more moods..."
-
+  
 - Add light 7th and heavy 2nd
 - bring all tensions & names thus far together in the neutral tonescape.
 
@@ -832,8 +831,6 @@ Draw all the tensions out of the tonescape, and add two additional moods.
   - reading_imagery_3 All tensions, no spaces, move anchor, stepwise only
   - reading_imagery_4 all tensions, no spaces, center anchor, random, not stepwise
 
-- SR Imagery sequence, add double light & heavy moods
-- All diatonic tensions
 - you might also recognize these moods in songs...
 
 

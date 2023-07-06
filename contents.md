@@ -41,13 +41,13 @@ Lesson 23: Reading by Touch Part 3
 [Lesson 24: Reading by Ear Part 3](/lessons/24-reading-by-ear-3.md)  
 [Lesson 25: Moods and Tensions Together](/lessons/25-moods-and-tensions-together.md)  
 [Lesson 26: Getting Inside of Moods](/lessons/26-getting-inside-of-moods.md)  
-Lesson 27: Reading by Ear Part 3  
+[Lesson 27: Reading by Ear Part 4](/lessons/27-reading-by-ear-4.md)  
 Lesson 28: Incidentals  
 &nbsp;&nbsp;Commentary: Shape and Standard Notation  
 Lesson 29: Making Time Relative  
 Lesson 30: Reading by Touch Part 4  
 Lesson 31: All Moods and Tensions  
-Lesson 32 Reading by Ear Part 4  
+Lesson 32 Reading by Ear Part 5  
 Lesson 33: Mood Names  
 Lesson 34: Reading by Touch Part 5  
 Lesson 35: Holding on to the Anchor  

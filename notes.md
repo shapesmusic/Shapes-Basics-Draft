@@ -921,7 +921,10 @@ Add two remaining moods along with their tensions.
   - tonescapes_21 all triple in neutral
 - Add triple light & triple heavy tonescapes (all moods), shuffle all.
 - Add light fourth / heavy fifth
+- use "light/heavy" names for all tensions (except "neutral" 4th and 5th. will need to explain this)
 - Bring all tensions so far into the neutral tonescape. Relate to incidentals.
+- free play in all moods. think of "6th" as a generalization of "light/heavy" 6ths.
+- pick some structures out of songs, like changing bass notes, or some melodies.
 
 
 
@@ -944,6 +947,9 @@ Draw all the tensions out of all moods.
 - **also in this lesson:** introduce the idea that you can reorient your attention to any note in the tonescape as the anchor.
   - we've been keeping the same anchor and changing the notes around it, because this makes the moods stand out. But rather than hearing a note as a tension, see if you can reorient yourself to hear it as the anchor, then recognize the mood it creates, and read in it.
   - this also touches on the idea of mood notes.
+- --> that making a change to each (any) of the 7 notes in a mood creates a new mood. what this is doing keeping the same anchor, but changing the collection of notes around it. You can also keep the same collection of notes and reorient yourself to a different anchor, and you'll create these moods.
+  - not exactly true: there's not change to the anchor, and the anchor is one of the 7 notes. it's more that you orient yourself to any one of the 7 notes. maybe just don't say "7."
+
 
 
 

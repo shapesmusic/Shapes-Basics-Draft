@@ -62,13 +62,13 @@ So give it a try. And when you're comfortable recognizing and naming the tension
 
 ### Tonescape Exercises
 
-Double Light Mood (Light 3rd, 6th, 7th)
+Double Light Mood (Light 3rd, 7th)
 
 <audio controls src="../media/tonescapes_16.mp3"></audio>
 
 
 
-Double Heavy Mood (Heavy 2nd, 3rd, 6th)
+Double Heavy Mood (Heavy 6th, 2nd)
 
 <audio controls src="../media/tonescapes_17.mp3"></audio>
 

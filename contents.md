@@ -46,7 +46,7 @@ Lesson 28: Incidentals
 &nbsp;&nbsp;Commentary: Shape and Standard Notation  
 Lesson 29: Making Time Relative  
 Lesson 30: Reading by Touch Part 4  
-Lesson 31: All Moods and Tensions  
+[Lesson 31: All Moods and Tensions](/lessons/31-all-moods-and-tensions.md)  
 Lesson 32 Reading by Ear Part 5  
 Lesson 33: Mood Names  
 Lesson 34: Reading by Touch Part 5  

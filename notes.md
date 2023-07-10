@@ -55,6 +55,12 @@ Use a single shape to play along with a playlist of songs. Hear when notes fit o
 - Some good top shape songs:
   - Johnny & Mary
 
+**Wireframes**
+
+![wireframe](wireframes/1.1.png)
+
+![wireframe](wireframes/1.2.png)
+
 
 
 ### Commentary - Why Music Videos?
@@ -93,6 +99,10 @@ Add some different shapes and continue playing along with songs.
 **Notes**
 
 - Basics 2 & 3 were merged as 2A and 2B prior to 2022-03-04.
+
+**Wireframes**
+
+![wireframe](wireframes/2.1.png)
 
 
 
@@ -136,6 +146,12 @@ See the shapes as a group, and add a way to name the shapes.
 
 - Basics 2 & 3 were merged as 2A and 2B prior to 2022-03-04.
 
+**Wireframes**
+
+![wireframe](wireframes/3.1.png)
+
+![wireframe](wireframes/3.2.png)
+
 
 
 ### Commentary - Is This the Circle of Fifths?
@@ -165,6 +181,10 @@ Learn how your hands match the keyboard, and how to play hands together in any s
 
 - Need filters for T, 5s, 4s... and tempo (see wireframe)
 - this lesson only has to cover the TOP shape, because the rest of the reading sequence fills in the other shapes.
+
+**Wireframes**
+
+![wireframe](wireframes/4.1.png)
 
 
 
@@ -201,6 +221,10 @@ Hear the one note all the others are pulling toward.
 
 - Introduce the anchor, hear the pull, start to recognize it in songs.
 
+**Wireframes**
+
+![wireframe](wireframes/5.1.png)
+
 
 
 ### Commentary - What is the Anchor?
@@ -234,6 +258,10 @@ Use the anchor note to come up with some ideas for playing.
 **Notes**
 
 - This is a way of using the anchor to focus what we play, balancing structured ideas with openness, listening, randomness.
+
+**Wireframes**
+
+![wireframe](wireframes/6.1.png)
 
 
 
@@ -285,6 +313,10 @@ Hear the notes that give structure to a song.
     - El Perdedor Enrique Iglesias (2 sections with a connecting section--really good)
 - And repeating patterns of bass notes creating sections, song structure. And perhaps the relationship of those patterns to establishing a key-level anchor (the "defining structures" and structure numbers are fields in the db bass notes table...)
 
+**Wireframes**
+
+![wireframe](wireframes/7.1.png)
+
 
 
 ### Commentary - Key and Chord Levels
@@ -322,6 +354,10 @@ Learn to match a shape with a song on your own.
 - Match a song with a shape on your own. Start by using a diagram, then use adjacent notes to fill in the shape.
 - I never quite do matching anchors on your own. How do I account for that?
 
+**Wireframes**
+
+![wireframe](wireframes/8.1.png)
+
 
 
 ### Lesson 9 - Notes in Time
@@ -342,6 +378,10 @@ Learn to represent bass notes using music notation.
 - i'm making an argument to privilege sound--not "warping" the waveform to the grid.
 - see Lesson 28: after this notation, in theory, pulse dots would become regularly spaced (generalized away from the sound). Then rhythmic note symbols generalize even further to relationships.
 - The wireframe for this lesson has a waveform underlying the notation. This is impossible if the dots are to be evenly spaced. It highlights that the concept of regular pulse, at least as a step en route to notation, is already an abstraction from the sounding events (in real time) that create pulse in the music. This is foreshadowed in Lesson 7 by the question of whether Bass Note events, as markers of change at the chord level, can (or should) be abstracted from the actual moment when they sound in the music, if that moment isn't exactly aligned with a beat.
+
+**Wireframes**
+
+![wireframe](wireframes/9.1.png)
 
 
 
@@ -370,6 +410,10 @@ Play with changing bass notes, anchors, *and* shapes.
   - Shape change, same anchor: VanJess X9TgbR9BC6Q
   - (all of the above have changing bass notes)
 
+**Wireframes**
+
+![wireframe](wireframes/10.1.png)
+
 
 
 
@@ -391,6 +435,7 @@ Get to know three additional groups of shapes.
 - Introduce three other groups of shapes and listen to their qualities. Relate the groups through their common shape names.
 - Similar to Lesson 19, where you want to get to know the broader feeling of a group, rather than getting inside it and thinking about its parts. 
 - Could shuffle all modes and try to hear if it's a 1st, 2nd, 3rd, 4th group mood.
+- So this isn't exactly about moods yet? It's about shapes. Where in here does a mood get introduced, as "the combination of a shape and anchor creates a mood" (?) Do this in tactile reading?!
 
 
 
@@ -405,7 +450,7 @@ Get to know three additional groups of shapes.
 - There was a thought to put this after 19 - Moods. But that lesson is more about begining to recognize specific moods, whereas chord-modes follow from the combination of Changes (Lesson 10) and Groups of Shapes (Lesson 11).
   - but still, 19 is supposedly the introduction to modes. 
   - also, how does this relate to the Standard Mode Names (commentary?) at Lesson 33?
-  - so maybe a bigger question: what's the relationship/timing of thinking of combinations of shapes and anchors as chord-modes, and learning the sounds/feelings of each of those modes(moods) in the tonescapes sequence? isn't this sequence supposed to be linear?
+  - so maybe a bigger question: what's the relationship/timing of thinking of combinations of shapes and anchors as chord-modes, and learning the sounds/feelings of each of those modes (moods) in the tonescapes sequence? isn't this sequence supposed to be linear?
 
 
 
@@ -423,15 +468,17 @@ Begin to sight read music notation at the keyboard.
 - 2020-11-12_mgf_notation_levels.mp3 (uses 2019-05-15 notation repo)
 - 2019-05-15 notation (repo)
   - steps from one note through thumb pivot
-  - Uses 2016-12-29 SR_Tactile notation levels rebuild
+  - Uses 2016-12-29 SR_Tactile notation levels rebuild 
+    - rebuilt from 13.9.12 SR notation levels
 
 **Notes**
 
 - Begin SR Tactile sequence through anchor, two higher, two lower, TOP shape only, Pe anchor. which will include a thumb pivot.
 - also: this is the first time we use notation for melodies, or for vocab other than bass notes.
-- for notation sheets, see:
-  - 13.9.12 SR notation levels
-  - and 16.12.29 SR notation levels rebuild
+
+**Wireframes**
+
+![wireframe](wireframes/12.1.png)
 
 
 
@@ -609,6 +656,10 @@ Incorporate two additional shapes into your reading at the keyboard.
 - Add 5L and 5R shapes to SR tactile sequence.
 - Continue with anchor, one and two higher, one and two lower.
 
+**Wireframe**
+
+![wireframe](wireframes/18.1.png)
+
 
 
 ### Lesson 19 - Moods
@@ -737,6 +788,10 @@ Sight read all tensions and two additional shapes at the keyboard.
 
 - Introduce 4th and 5th to the SR tactile sequence (all tensions)
 - Then add 4L and 4R shapes.
+
+**Wireframes**
+
+![wireframe](wireframes/23.1.png)
 
 
 
@@ -884,6 +939,10 @@ Add rhythmic note values to your reading at the keyboard.
 - Introduce rhythmic note symbols as subdivisions
 - Align different subdivisions with pulse dots, what looks best?
 
+**Wireframes**
+
+![wireframe](wireframes/28.1.png)
+
 
 
 ### Lesson 30 - Reading by Touch Part 4
@@ -900,6 +959,10 @@ Incorporate two additional shapes into your reading at the keyboard.
 - Continue all tensions, with rhythmic note symbols.
 - Now possible to remove pulse dots (abstracts away from regular note spacing)
 - Any changing songs that use these shapes?
+
+**Wireframes**
+
+![wireframe](wireframes/29.1.png)
 
 
 
@@ -943,7 +1006,7 @@ Draw all the tensions out of all moods.
   - reading_imagery_4 all tensions, no spaces, center anchor, random, not stepwise
 - SR Imagery sequence all moods
 - All diatonic tensions
-- Bring in some rhythmic note symbols
+- Bring in some rhythmic note symbols (or maybe leave time out of imagery...)
 - **also in this lesson:** introduce the idea that you can reorient your attention to any note in the tonescape as the anchor.
   - we've been keeping the same anchor and changing the notes around it, because this makes the moods stand out. But rather than hearing a note as a tension, see if you can reorient yourself to hear it as the anchor, then recognize the mood it creates, and read in it.
   - this also touches on the idea of mood notes.
@@ -1008,6 +1071,10 @@ Incorporate all the shapes into your reading at the keyboard.
 - Play with changing songs
 - Perhaps bring in some incidentals (if that works with songs)
 
+**Wireframes**
+
+![wireframe](wireframes/33.1.png)
+
 
 
 ### Lesson 35 - Holding on to the Anchor
@@ -1024,6 +1091,8 @@ Recognize all the tensions without a tonescape.
   - tonescapes_22 all tensions (all triple) no tonescape
 - Continue all tensions so far into the neutral tonescape.
 - Then drop the tonescape and stay oriented to the anchor.
+  - the tensions, while taken out of context of their original moods, were in context of the neutral mood, even the ones that aren't a part of that mood. (I'd mentioned mood context in the "All Moods and Tensions" lesson where we add triple light and heavy moods)
+
 - Try this with Indepent Solfege Names, too (gateway to Independent Relationship).
 
 

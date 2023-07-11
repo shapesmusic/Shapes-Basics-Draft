@@ -472,6 +472,7 @@ Begin to sight read music notation at the keyboard.
 
 - ~~Begin SR Tactile sequence through anchor, two higher, two lower, TOP shape only, Pe anchor. which will include a thumb pivot.~~
 - also: this is the first time we use notation for melodies, or for vocab other than bass notes.
+- need to modify this wireframe's notation
 
 **Wireframes**
 
@@ -661,6 +662,7 @@ Begin to hear notes in any octave as tensions to the anchor.
 
 - ~~Add 5L and 5R shapes to SR tactile sequence.~~
 - Continue with anchor, one and two higher, one and two lower.
+- need to modify this wireframe's notation & shape
 
 **Wireframe**
 
@@ -771,7 +773,7 @@ Draw all the tensions out of three tonescapes.
 
 ~~Sight read all tensions and two additional shapes at the keyboard.~~
 
-*Add pivot to all notes in T, 5L, 5R, 4L, 4R*
+*Add pivot to all notes in T, 5L, 5R, 4L, 4R (adds 4th & 5th)*
 
 **Location**
 
@@ -781,7 +783,7 @@ Draw all the tensions out of three tonescapes.
 
 **Notes**
 
-- ~~Introduce 4th and 5th to the SR tactile sequence (all tensions)~~
+- Introduce 4th and 5th to the SR tactile sequence (all tensions)
 - ~~Then add 4L and 4R shapes.~~
 
 **Wireframes**
@@ -874,9 +876,7 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 
 
-### Lesson 27 - Making Time Relative
-
-~~Add rhythmic note values to your reading at the keyboard.~~
+### Lesson 27 - Reading by Touch Part 4
 
 *Expand to moveable anchor, and any anchor in the shape*
 
@@ -886,9 +886,7 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 **Notes**
 
-- Marked as (T)heory
-- ~~Introduce rhythmic note symbols as subdivisions~~
-- ~~Align different subdivisions with pulse dots, what looks best?~~
+- update wireframe
 
 **Wireframes**
 
@@ -896,42 +894,19 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 
 
-### Lesson 28 - Reading by Touch Part 4
-
-~~Incorporate two additional shapes into your reading at the keyboard.~~
-
-*Bring in 3L, 3R; add rhythmic note symbols*
-
-**Location**
-
-**References**
-
-**Notes**
-
-- ~~Add 3L and 3R shapes to the SR tactile sequence.~~
-- ~~Continue all tensions, with rhythmic note symbols.~~
-- ~~Now possible to remove pulse dots (abstracts away from regular note spacing)~~
-- Any changing songs that use these shapes?
-
-**Wireframes**
-
-![wireframe](wireframes/28.1.png)
-
-
-
-### Lesson 29 - All Moods and Tensions
+### Lesson 28 - All Moods and Tensions
 
 Add two remaining moods along with their tensions.
 
 **Location**
 
-- [29-all-moods-and-tensions.md](lessons/29-all-moods-and-tensions.md)
+- [28-all-moods-and-tensions.md](lessons/28-all-moods-and-tensions.md)
 
 **References**
 
 **Notes**
 
-- 29 (tensions): Add triple light & triple heavy moods
+- 28 (tensions): Add triple light & triple heavy moods
   - tonescapes_19 triple light tensions
   - tonescapes_20 triple heavy tensions
   - tonescapes_21 all triple in neutral
@@ -944,7 +919,7 @@ Add two remaining moods along with their tensions.
 
 
 
-### Lesson 30 - Reading by Ear Part 5
+### Lesson 29 - Reading by Ear Part 5
 
 Draw all the tensions out of all moods.
 
@@ -1009,9 +984,30 @@ Learn the standard names for the moods.
 
 
 
+### Lesson 30 - Making Time Relative
+
+*Bring in 3L, 3R; add rhythmic note symbols*
+
+**Location**
+
+**References**
+
+**Notes**
+
+- Add rhythmic note values to your reading at the keyboard.
+- Was marked as (T)heory
+- Introduce rhythmic note symbols as subdivisions
+- Align different subdivisions with pulse dots, what looks best?
+
+**Wireframes**
+
+![wireframe](wireframes/30.1.png)
+
+
+
 ### Lesson 31 - Reading by Touch Part 5
 
-~~Incorporate all the shapes into your reading at the keyboard.~~
+Incorporate all the shapes into your reading at the keyboard.
 
 *Add remaining shapes; add incidentals*
 
@@ -1022,9 +1018,8 @@ Learn the standard names for the moods.
 **Notes**
 
 - Add remaining (2L/R, 1L/R, B) shapes to the SR tactile sequence.
-- Continue using rhythmic note symbols
-- Play with changing songs
-- Perhaps bring in some incidentals (if that works with songs)
+- Continue using rhythmic note symbols: Now possible to remove pulse dots (abstracts away from regular note spacing)
+- Play with changing songs (?)
 - for Incidentals:
   - "Learn how to notate tensions outside of the shape."
   - Marked as (T)heory

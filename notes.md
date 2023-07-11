@@ -454,6 +454,8 @@ Get to know three additional groups of shapes.
 
 Begin to sight read music notation at the keyboard.
 
+*Introduce reading up to thumbs (A, 2H, 2L) in T, 5L, 5R (single light/heavy)*
+
 **Location**
 
 - [12-reading-by-touch.md](lessons/12-reading-by-touch.md)
@@ -468,7 +470,7 @@ Begin to sight read music notation at the keyboard.
 
 **Notes**
 
-- Begin SR Tactile sequence through anchor, two higher, two lower, TOP shape only, Pe anchor. which will include a thumb pivot.
+- ~~Begin SR Tactile sequence through anchor, two higher, two lower, TOP shape only, Pe anchor. which will include a thumb pivot.~~
 - also: this is the first time we use notation for melodies, or for vocab other than bass notes.
 
 **Wireframes**
@@ -647,7 +649,9 @@ Begin to hear notes in any octave as tensions to the anchor.
 
 ### Lesson 18 - Reading by Touch Part 2
 
-Incorporate two additional shapes into your reading at the keyboard.
+~~Incorporate two additional shapes into your reading at the keyboard.~~
+
+*Bring in 4L, 4R (double light/heavy), still up to thumbs*
 
 **Location**
 
@@ -655,7 +659,7 @@ Incorporate two additional shapes into your reading at the keyboard.
 
 **Notes**
 
-- Add 5L and 5R shapes to SR tactile sequence.
+- ~~Add 5L and 5R shapes to SR tactile sequence.~~
 - Continue with anchor, one and two higher, one and two lower.
 
 **Wireframe**
@@ -765,7 +769,9 @@ Draw all the tensions out of three tonescapes.
 
 ### Lesson 23 - Reading by Touch Part 3
 
-Sight read all tensions and two additional shapes at the keyboard.
+~~Sight read all tensions and two additional shapes at the keyboard.~~
+
+*Add pivot to all notes in T, 5L, 5R, 4L, 4R*
 
 **Location**
 
@@ -775,8 +781,8 @@ Sight read all tensions and two additional shapes at the keyboard.
 
 **Notes**
 
-- Introduce 4th and 5th to the SR tactile sequence (all tensions)
-- Then add 4L and 4R shapes.
+- ~~Introduce 4th and 5th to the SR tactile sequence (all tensions)~~
+- ~~Then add 4L and 4R shapes.~~
 
 **Wireframes**
 
@@ -870,7 +876,9 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 ### Lesson 27 - Making Time Relative
 
-Add rhythmic note values to your reading at the keyboard.
+~~Add rhythmic note values to your reading at the keyboard.~~
+
+*Expand to moveable anchor, and any anchor in the shape*
 
 **Location**
 
@@ -879,8 +887,8 @@ Add rhythmic note values to your reading at the keyboard.
 **Notes**
 
 - Marked as (T)heory
-- Introduce rhythmic note symbols as subdivisions
-- Align different subdivisions with pulse dots, what looks best?
+- ~~Introduce rhythmic note symbols as subdivisions~~
+- ~~Align different subdivisions with pulse dots, what looks best?~~
 
 **Wireframes**
 
@@ -890,7 +898,9 @@ Add rhythmic note values to your reading at the keyboard.
 
 ### Lesson 28 - Reading by Touch Part 4
 
-Incorporate two additional shapes into your reading at the keyboard.
+~~Incorporate two additional shapes into your reading at the keyboard.~~
+
+*Bring in 3L, 3R; add rhythmic note symbols*
 
 **Location**
 
@@ -898,9 +908,9 @@ Incorporate two additional shapes into your reading at the keyboard.
 
 **Notes**
 
-- Add 3L and 3R shapes to the SR tactile sequence.
-- Continue all tensions, with rhythmic note symbols.
-- Now possible to remove pulse dots (abstracts away from regular note spacing)
+- ~~Add 3L and 3R shapes to the SR tactile sequence.~~
+- ~~Continue all tensions, with rhythmic note symbols.~~
+- ~~Now possible to remove pulse dots (abstracts away from regular note spacing)~~
 - Any changing songs that use these shapes?
 
 **Wireframes**
@@ -1001,7 +1011,9 @@ Learn the standard names for the moods.
 
 ### Lesson 31 - Reading by Touch Part 5
 
-Incorporate all the shapes into your reading at the keyboard.
+~~Incorporate all the shapes into your reading at the keyboard.~~
+
+*Add remaining shapes; add incidentals*
 
 **Location**
 

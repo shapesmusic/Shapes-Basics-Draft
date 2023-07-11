@@ -40,4 +40,4 @@ So give it a try, and when you're comfortable naming the tensions in each mood, 
 
 ### Tonescape Exercises
 
-[Lesson 25 Exercises](25-exercises.html)
+[Lesson 24 Exercises](24-exercises.html)

@@ -42,4 +42,4 @@ So give it a try. When you've gotten the hang of recognizing each mood you hear,
 
 ### Tonescape Exercises
 
-[Lesson 27 Exercises](27-exercises.html)
+[Lesson 26 Exercises](26-exercises.html)

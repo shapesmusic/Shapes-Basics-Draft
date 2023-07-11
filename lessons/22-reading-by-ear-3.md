@@ -48,4 +48,4 @@ So give it a try. When you're comfortable reading both notations in any of the t
 
 ### Tonescape Exercises
 
-[Lesson 24 Exercises](24-exercises.html)
+[Lesson 22 Exercises](22-exercises.html)

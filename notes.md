@@ -1,14 +1,4 @@
-### Abstract
-
-**Location**
-
-**References**
-
-**Notes**
-
-
-
-### Acknowledgements
+### Acknowledgments
 
 **Location**
 
@@ -21,16 +11,21 @@
 
 
 
-### Overview
+### About
 
 **Location**
-- [overview.md](writing/overview.md)
+- [about.md](writing/about.md)
 
 **References**
 
 **Notes**
+- include Abstract
 - colloquium as introduction
 - not sure where this fits in a table of contents. front matter?
+- Software as a medium:
+  - There's an awful lot of thinking that goes on behind the scenes for a project like this. And a big part of the project for me, too, is trying to build something that works, that people can use, and that reflects the principles of the method all the way down to the details of how, say, note names are represented in the data model. that meant learning to code. I've tried to capture at least some of all this process in the devJournal. Link some particularly good examples.
+  - you don't want the technology to do too much for you. that's a topic.
+
 
 
 
@@ -573,6 +568,13 @@ Add two more notes to recognize in a tonescape.
 - future talk
   - So you'll start to be able to hear a note in a song and know what it is, but you'll also be able to hear a note in your imagination and know what it is, and how to work with it, to sing it.
   - Once you've got anchor, 2 higher, and 2 lower, when you think about it, that's already 5 of 7 notes of the shape. So you're already well on your way to building your internal instrument. To translate that to a *real* instrument will be an intellectual step, but you're developing the perception that underlies that.
+- "thinking or feeling": From a conversation with Josh after class 23.2.21
+  - light/heavy as a framework, then mode names, then "dominant"
+  - a superstructure of major/minor corresponding to light/heavy
+  - if you reduce it to maj/min, you lose a whole level of nuanced hearing
+  - *but then it's not necessarily about hearing everything modally: modes are a way in to hearing chromatic tensions to an anchor, that imply contexts. or even just to hearing nuanced tensions in context
+  - the big thing to come out of today was that they wanted the logos, and then could believe they heard differences between the modes. but i set up shapes to try to work with just the feeling. that's a different skill, and it's valuable enough to foreground. it matters
+  - josh asked why i don't just play the few notes we're working with in the tonescape. because we want every opportunity to parse the sound, to spend more time with it. And also, to hear the full context matters.
 
 
 
@@ -691,25 +693,6 @@ Begin to recognize the overall feelings of different tonescapes.
 
 
 
-### Commentary - Feeling or Thinking?
-
-**Location**
-
-**References**
-
-**Notes**
-
-- maybe this is part of Lesson 33 - Standard Mode Names (which is probably also a commentary, not a lesson.)
-- From a conversation with Josh after class 23.2.21
-  - light/heavy as a framework, then mode names, then "dominant"
-  - a superstructure of major/minor corresponding to light/heavy
-  - if you reduce it to maj/min, you lose a whole level of nuanced hearing
-  - *but then it's not necessarily about hearing everything modally: modes are a way in to hearing chromatic tensions to an anchor, that imply contexts. or even just to hearing nuanced tensions in context
-  - the big thing to come out of today was that they wanted the logos, and then could believe they heard differences between the modes. but i set up shapes to try to work with just the feeling. that's a different skill, and it's valuable enough to foreground. it matters
-  - josh asked why i don't just play the few notes we're working with in the tonescape. because we want every opportunity to parse the sound, to spend more time with it. And also, to hear the full context matters.
-
-
-
 ### Lesson 20 - Reading by Ear Part 2
 
 Draw notes out of two additional tonescapes.
@@ -751,26 +734,32 @@ Listen to the tensions that make one mood feel different from another.
 
 
 
-### Lesson 22 - Independent Solfege
+### Lesson 22 - Reading by Ear Part 3
 
-Learn to name a note without having to reference any other note.
+Draw all the tensions out of three tonescapes.
 
 **Location**
 
-- [22-independent-solfege.md](lessons/22-independent-solfege.md)
-
 **References**
-
-- 2021-12-23 shape solfege experiment (each shape has diatonic names)
-- 2011-03-03 Provisional pp. 27-31 Independent Solfege
 
 **Notes**
 
-- 22 (tensions): [Theory: Indepsol Names]
-- Marked as (T)heory
-- Introduce independent solfege names & distinguish from relative names.
-- names that work kinda the way pointing to a key on the keyboard does.
-- what application does this have in the beginner sequence? is it purely theoretical? would i make a version of the last lesson with indepsol names? because that would still be hearing the notes in terms of relationships. maybe at this point it is just a commentary about naming. "the note Ba is a light seventh, now the same note Ba is a heavy third."
+- 22 (imagery): add 4th and 5th ACTIVE (7 notes in 3 tonescapes) [active first]
+  - reading_imagery_3 All tensions, no spaces, move anchor, stepwise only
+  - reading_imagery_4 all tensions, no spaces, center anchor, random, not stepwise
+- This lesson was inserted, became Lesson 24, and all lessons previously 24+ got increased a number.
+- Continue SR Imagery sequence in neutral, single light, and single heavy moods
+- Add 4th and 5th
+
+- Added this lesson to **introduce the 4th and 5th actively rather than passively.** This is how it happened in FR_Mus Spring 2023. Also then there are 5 parts each of Reading by Ear and Reading by Touch, and separate active lessons for single light/heavy and double light/heavy moods.
+- notation: reading_imagery_2
+  - All tensions, no spaces
+  - move anchor
+  - stepwise only
+- and notation: reading_imagery_3
+  - all tensions, no spaces
+  - center anchor
+  - random, not stepwise
 
 
 
@@ -795,48 +784,19 @@ Sight read all tensions and two additional shapes at the keyboard.
 
 
 
-### Lesson 24 - Reading by Ear Part 3
-
-Draw all the tensions out of three tonescapes.
-
-**Location**
-
-**References**
-
-**Notes**
-
-- 24 (imagery): add 4th and 5th ACTIVE (7 notes in 3 tonescapes) [active first]
-  - reading_imagery_3 All tensions, no spaces, move anchor, stepwise only
-  - reading_imagery_4 all tensions, no spaces, center anchor, random, not stepwise
-- This lesson was inserted, became Lesson 24, and all lessons previously 24+ got increased a number.
-- Continue SR Imagery sequence in neutral, single light, and single heavy moods
-- Add 4th and 5th
-
-- Added this lesson to **introduce the 4th and 5th actively rather than passively.** This is how it happened in FR_Mus Spring 2023. Also then there are 5 parts each of Reading by Ear and Reading by Touch, and separate active lessons for single light/heavy and double light/heavy moods.
-- notation: reading_imagery_2
-  - All tensions, no spaces
-  - move anchor
-  - stepwise only
-- and notation: reading_imagery_3
-  - all tensions, no spaces
-  - center anchor
-  - random, not stepwise
-
-
-
-### Lesson 25 - Moods and Tensions Together
+### Lesson 24 - Moods and Tensions Together
 
 Add the remaining tensions in three moods.
 
 **Location**
 
-- [25-moods-and-tensions-together.md](lessons/25-moods-and-tensions-together.md)
+- [24-moods-and-tensions-together.md](lessons/24-moods-and-tensions-together.md)
 
 **References**
 
 **Notes**
 
-- 25 (tensions): add 4th and 5th PASSIVE (still 3 moods)
+- 24 (tensions): add 4th and 5th PASSIVE (still 3 moods)
   - tonescapes_12 Dorian Mode, add 4th & 5th
   - tonescapes_13 Dominant Mode, add 4th & 5th
   - tonescapes_14 Minor Mode, add 4th & 5th
@@ -848,19 +808,19 @@ Add the remaining tensions in three moods.
 
 
 
-### Lesson 26 - Getting Inside of Moods
+### Lesson 25 - Getting Inside of Moods
 
 Add two additional moods along with their tensions.
 
 **Location**
 
-- [26-getting-inside-of-moods.md](lessons/26-getting-inside-of-moods.md)
+- [25-getting-inside-of-moods.md](lessons/25-getting-inside-of-moods.md)
 
 **References**
 
 **Notes**
 
-- 26 (tensions): add double light and double heavy moods
+- 25 (tensions): add double light and double heavy moods
   - tonescapes_16 double light tensions
   - tonescapes_17 double heavy tensions
   - tonescapes_18 all double in neutral
@@ -871,7 +831,7 @@ Add two additional moods along with their tensions.
 
 
 
-### Lesson 27 - Reading by Ear Part 4
+### Lesson 26 - Reading by Ear Part 4
 
 Draw all the tensions out of the tonescape, and add two additional moods.
 
@@ -881,29 +841,12 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 **Notes**
 
-- 27 (imagery): add double light and double heavy moods (7 notes in 5 tonescapes)
+- 26 (imagery): add double light and double heavy moods (7 notes in 5 tonescapes)
   - shuffle 5 tonescapes (all so far)
   - reading_imagery_3 All tensions, no spaces, move anchor, stepwise only
   - reading_imagery_4 all tensions, no spaces, center anchor, random, not stepwise
 
 - you might also recognize these moods in songs...
-
-
-
-### Lesson 28 - Incidentals
-
-Learn how to notate tensions outside of the shape.
-
-**Location**
-
-**References**
-
-**Notes**
-
-- 28 (tensions): [Theory: Incidentals]
-- Marked as (T)heory
-- Introduce incidentals as a way of notating tensions outside of the shape (or mood?).
-- "light / heavy" or "up, down, return-to" names are a way of abstracting the function of accidentals from a particular diatonic context. in this way, they pair with independent solfege.
 
 
 
@@ -925,7 +868,7 @@ Learn how to notate tensions outside of the shape.
 
 
 
-### Lesson 29 - Making Time Relative
+### Lesson 27 - Making Time Relative
 
 Add rhythmic note values to your reading at the keyboard.
 
@@ -941,11 +884,11 @@ Add rhythmic note values to your reading at the keyboard.
 
 **Wireframes**
 
-![wireframe](wireframes/28.1.png)
+![wireframe](wireframes/27.1.png)
 
 
 
-### Lesson 30 - Reading by Touch Part 4
+### Lesson 28 - Reading by Touch Part 4
 
 Incorporate two additional shapes into your reading at the keyboard.
 
@@ -962,23 +905,23 @@ Incorporate two additional shapes into your reading at the keyboard.
 
 **Wireframes**
 
-![wireframe](wireframes/29.1.png)
+![wireframe](wireframes/28.1.png)
 
 
 
-### Lesson 31 - All Moods and Tensions
+### Lesson 29 - All Moods and Tensions
 
 Add two remaining moods along with their tensions.
 
 **Location**
 
-- [31-all-moods-and-tensions.md](lessons/31-all-moods-and-tensions.md)
+- [29-all-moods-and-tensions.md](lessons/29-all-moods-and-tensions.md)
 
 **References**
 
 **Notes**
 
-- 31 (tensions): Add triple light & triple heavy moods
+- 29 (tensions): Add triple light & triple heavy moods
   - tonescapes_19 triple light tensions
   - tonescapes_20 triple heavy tensions
   - tonescapes_21 all triple in neutral
@@ -991,7 +934,7 @@ Add two remaining moods along with their tensions.
 
 
 
-### Lesson 32 - Reading by Ear Part 5
+### Lesson 30 - Reading by Ear Part 5
 
 Draw all the tensions out of all moods.
 
@@ -1001,8 +944,10 @@ Draw all the tensions out of all moods.
 
 **Notes**
 
-- 32 (imagery): add triple light and heavy moods (7 notes, 7 tonescapes)
-  - reading_imagery_3 All tensions, no spaces, move anchor, stepwise only
+- 30 (imagery): add triple light and heavy moods (7 notes, 7 tonescapes)
+  
+  reading_imagery_3 All tensions, no spaces, move anchor, stepwise only
+  
   - reading_imagery_4 all tensions, no spaces, center anchor, random, not stepwise
 - SR Imagery sequence all moods
 - All diatonic tensions
@@ -1015,9 +960,7 @@ Draw all the tensions out of all moods.
 
 
 
-
-
-### Lesson 33 - Mood Names
+### Commentary - Moods and Modes
 
 Learn the standard names for the moods.
 
@@ -1027,7 +970,7 @@ Learn the standard names for the moods.
 
 **Notes**
 
-- **This is really a commentary.** It's probably written. What (if anything) makes it a lesson?
+- was a lesson, but this is really a commentary. It's probably written. What (if anything) makes it a lesson?
   - maybe call it "Moods and Modes"
   - also how does it relate to the chord-mode commentary after L11?
 - from Spring 2023 wk6: the reason for neutral, light, heavy names is to give a kind of structure to the modes. to show their structure. but they have proper names, too.
@@ -1056,7 +999,7 @@ Learn the standard names for the moods.
 
 
 
-### Lesson 34 - Reading by Touch Part 5
+### Lesson 31 - Reading by Touch Part 5
 
 Incorporate all the shapes into your reading at the keyboard.
 
@@ -1070,14 +1013,20 @@ Incorporate all the shapes into your reading at the keyboard.
 - Continue using rhythmic note symbols
 - Play with changing songs
 - Perhaps bring in some incidentals (if that works with songs)
+- for Incidentals:
+  - "Learn how to notate tensions outside of the shape."
+  - Marked as (T)heory
+  - Introduce incidentals as a way of notating tensions outside of the shape (or mood?).
+  - "light / heavy" or "up, down, return-to" names are a way of abstracting the function of accidentals from a particular diatonic context. in this way, they pair with independent solfege.
+
 
 **Wireframes**
 
-![wireframe](wireframes/33.1.png)
+![wireframe](wireframes/31.1.png)
 
 
 
-### Lesson 35 - Holding on to the Anchor
+### Lesson 32 - Holding on to the Anchor
 
 Recognize all the tensions without a tonescape.
 
@@ -1085,9 +1034,14 @@ Recognize all the tensions without a tonescape.
 
 **References**
 
+- for Indepsol:
+  - 2021-12-23 shape solfege experiment (each shape has diatonic names)
+  - 2011-03-03 Provisional pp. 27-31 Independent Solfege
+
 **Notes**
 
-- 35 (tensions): all tensions, no tonescape
+- 32 (tensions): all tensions, no tonescape
+  
   - tonescapes_22 all tensions (all triple) no tonescape
 - Continue all tensions so far into the neutral tonescape.
 - Then drop the tonescape and stay oriented to the anchor.
@@ -1095,9 +1049,21 @@ Recognize all the tensions without a tonescape.
 
 - Try this with Indepent Solfege Names, too (gateway to Independent Relationship).
 
+  - introduce indepsol names (things that don't transpose), as the symbol equivalent of a distinctive key on the keyboard.
+
+    Distinguish these kinds of names from relative names.
+
+- For indepsol:
+
+  - was marked as (T)heory
+  - Introduce independent solfege names & distinguish from relative names.
+  - names that work kinda the way pointing to a key on the keyboard does.
+  - what application does this have in the beginner sequence? is it purely theoretical? would i make a version of the last lesson with indepsol names? because that would still be hearing the notes in terms of relationships. maybe at this point it is just a commentary about naming. "the note Ba is a light seventh, now the same note Ba is a heavy third."
 
 
-### Lesson 36 - Imagination as an Instrument Part 2
+
+
+### Lesson 33 - Imagination as an Instrument Part 2
 
 Recognize any mood and free play inside it.
 
@@ -1107,27 +1073,10 @@ Recognize any mood and free play inside it.
 
 **Notes**
 
-- 36 (imagery): all modes, free imagery
+- 33 (imagery): all modes, free imagery
 - Shuffle all tonescapes, all groups.
 - Name the mood, and free play imagery inside of it.
 - not SR, but still imagery
-
-
-
-### Commentary - Software as a Medium
-
-**Location**
-
-- [software-as-a-medium.md](writing/software-as-a-medium.md)
-
-**References**
-
-- 2023-Spring 2.EMP notes
-
-**Notes**
-
-- There's an awful lot of thinking that goes on behind the scenes for a project like this. And a big part of the project for me, too, is trying to build something that works, that people can use, and that reflects the principles of the method all the way down to the details of how, say, note names are represented in the data model. that meant learning to code. I've tried to capture at least some of all this process in the devJournal. Link some particularly good examples.
-- you don't want the technology to do too much for you. that's a topic.
 
 
 

@@ -1,10 +1,18 @@
 ### Table of Contents
 
 #### Front Matter
+Abstract
 Acknowledgments  
-About
+Overview
 
 #### Shapes Basics
+Paths:
+    <em style="color: purple;"><strong>&bull;</strong> Playing & Vocab</em>
+    <em style="color: blue;"><strong>&bull;</strong> Tactile Reading</em>
+    <em style="color: red;"><strong>&bull;</strong> Chord & Key</em>
+    <em style="color: green;"><strong>&bull;</strong> Tonescapes & Tensions</em>
+    <em style="color: orange;"><strong>&bull;</strong> Reading Imagery</em>
+
 <strong style="color: purple;">&bull;</strong> [Lesson 1: A Shape](lessons/01-a-shape.md)  
 &nbsp;&nbsp;&nbsp;Commentary: Why Music Videos?  
 <strong style="color: purple;">&bull;</strong> [Lesson 2: Different Shapes](lessons/02-different-shapes.md)  
@@ -57,6 +65,7 @@ About
 [Appendix 3: Data Model](https://github.com/shapesmusic/shapes-backend/blob/main/db/data-model.md)  
 [Appendix 4: Backend Code Repository](https://github.com/shapesmusic/shapes-backend)  
 [Appendix 5: Frontend Code Repository](https://github.com/shapesmusic/shapes-client)  
-[Appendix 6: Song Scraper Repository](https://github.com/shapesmusic/song-scraper)  
+[Appendix 6: Development Player Repository](https://github.com/shapesmusic/Player-Sketch)  
+[Appendix 7: Song Scraper Repository](https://github.com/shapesmusic/song-scraper)  
 
 Glossary  

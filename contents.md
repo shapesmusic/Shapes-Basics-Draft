@@ -7,11 +7,11 @@ Overview
 
 #### Shapes Basics
 Paths:  
-    <em style="color: purple;"><strong>&bull;</strong> Playing & Vocab</em>  
-    <em style="color: blue;"><strong>&bull;</strong> Tactile Reading</em>  
-    <em style="color: red;"><strong>&bull;</strong> Chord & Key</em>  
-    <em style="color: green;"><strong>&bull;</strong> Tonescapes & Tensions</em>  
-    <em style="color: orange;"><strong>&bull;</strong> Reading Imagery</em>
+&nbsp;&nbsp;&nbsp;&nbsp;<em style="color: purple;"><strong>&bull;</strong> Playing & Vocab</em>  
+&nbsp;&nbsp;&nbsp;&nbsp;<em style="color: blue;"><strong>&bull;</strong> Tactile Reading</em>  
+&nbsp;&nbsp;&nbsp;&nbsp;<em style="color: red;"><strong>&bull;</strong> Chord & Key</em>  
+&nbsp;&nbsp;&nbsp;&nbsp;<em style="color: green;"><strong>&bull;</strong> Tonescapes & Tensions</em>  
+&nbsp;&nbsp;&nbsp;&nbsp;<em style="color: orange;"><strong>&bull;</strong> Reading Imagery</em>
 
 <strong style="color: purple;">&bull;</strong> [Lesson 1: A Shape](lessons/01-a-shape.md)  
 &nbsp;&nbsp;&nbsp;Commentary: Why Music Videos?  

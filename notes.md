@@ -462,6 +462,10 @@ Begin to sight read music notation at the keyboard.
 
 **References**
 
+- uses 23.5.25 SR neutral notation
+- playlist: https://www.shapesmusic.com/tactile-1
+  - has a disproportionate number of 5L songs
+
 - 2020-11-12_mgf_notation_levels.mp3 (uses 2019-05-15 notation repo)
 - 2019-05-15 notation (repo)
   - steps from one note through thumb pivot

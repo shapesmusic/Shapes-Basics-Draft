@@ -1,21 +1,64 @@
-# Reading by Touch
-
-notation-pulse-fingering (begin the sight reading sequence). this is the matter, and feeling of fluent reading, and there's a physical, instrumental aspect to that.
-
-here, since we have shape, anchor, and pulse established, could also be a digression on harmonic mixing in a DJ set. That requires pulse, although pulse wouldn't be the focus.
-
-go through anchor, two higher, two lower. which will include a thumb pivot.
-
-## Summary
+## Reading by Touch
 
 
 
-## The Lesson
+### Watch
 
 
 
-## Things To Think About
+[coming soon]
 
 
 
-## Resources
+### Transcript
+
+ok
+
+
+
+### Playlist and Notation
+
+<a href="https://www.shapesmusic.com/tactile-1" target="_blank">Lesson 12 Playlist</a>
+
+
+
+Notation: One Note
+
+<embed
+	src="https://shapesmusic.github.io/shapes-method/media/reading_tactile_1.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+/>
+
+
+Notation: Two Note
+
+<embed
+	src="https://shapesmusic.github.io/shapes-method/media/reading_tactile_2.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+/>
+
+
+
+Notation: Three Note
+
+<embed
+	src="https://shapesmusic.github.io/shapes-method/media/reading_tactile_3.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+/>
+
+
+Notation: Thumbs
+
+<embed
+	src="https://shapesmusic.github.io/shapes-method/media/reading_tactile_4.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+/>
+

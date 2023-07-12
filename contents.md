@@ -5,11 +5,11 @@ Acknowledgments
 About
 
 #### Shapes Basics
-<strong style="color: purple;">&bull;</strong> [Lesson 1: A Shape](/lessons/01-a-shape.md)  
+<strong style="color: purple;">&bull;</strong> [Lesson 1: A Shape](lessons/01-a-shape.md)  
 &nbsp;&nbsp;&nbsp;Commentary: Why Music Videos?  
-<strong style="color: purple;">&bull;</strong> [Lesson 2: Different Shapes](/lessons/02-different-shapes.md)  
-&nbsp;&nbsp;&nbsp;[Commentary: What Is a Shape?](/writing/02-what-is-a-shape.md)  
-<strong style="color: purple;">&bull;</strong> [Lesson 3: A Group of Shapes](/lessons/03-a-group.md)  
+<strong style="color: purple;">&bull;</strong> [Lesson 2: Different Shapes](lessons/02-different-shapes.md)  
+&nbsp;&nbsp;&nbsp;[Commentary: What Is a Shape?](writing/02-what-is-a-shape.md)  
+<strong style="color: purple;">&bull;</strong> [Lesson 3: A Group of Shapes](lessons/03-a-group.md)  
 &nbsp;&nbsp;&nbsp;Commentary: Is This the Circle of Fifths?  
 <strong style="color: blue;">&bull;</strong> Lesson 4: Shape Fingerings  
 &nbsp;&nbsp;&nbsp;Commentary: The Centered Keyboard  
@@ -25,24 +25,24 @@ About
 <strong style="color: purple;">&bull;</strong> Lesson 11: Groups of Shapes  
 &nbsp;&nbsp;&nbsp;Commentary: Chord-Modes  
 <strong style="color: blue;">&bull;</strong> Lesson 12: Reading by Touch  
-<strong style="color: green;">&bull;</strong> [Lesson 13: A Tonescape and Tensions](/lessons/13-a-tonescape-and-tensions.md)  
-<strong style="color: orange;">&bull;</strong> [Lesson 14: Imagination as an Instrument](/lessons/14-imagination-as-an-instrument.md)  
-<strong style="color: green;">&bull;</strong> [Lesson 15: Tensions Part 2](/lessons/15-two-higher-and-lower.md)  
+<strong style="color: green;">&bull;</strong> [Lesson 13: A Tonescape and Tensions](lessons/13-a-tonescape-and-tensions.md)  
+<strong style="color: orange;">&bull;</strong> [Lesson 14: Imagination as an Instrument](lessons/14-imagination-as-an-instrument.md)  
+<strong style="color: green;">&bull;</strong> [Lesson 15: Tensions Part 2](lessons/15-two-higher-and-lower.md)  
 &nbsp;&nbsp;&nbsp;Commentary: What is a Tonescape?  
-<strong style="color: orange;">&bull;</strong> [Lesson 16: Reading by Ear](/lessons/16-reading-by-ear.md)  
-<strong style="color: green;">&bull;</strong> [Lesson 17: Switch To Number Names](/lessons/17-switch-to-number-names.md)  
+<strong style="color: orange;">&bull;</strong> [Lesson 16: Reading by Ear](lessons/16-reading-by-ear.md)  
+<strong style="color: green;">&bull;</strong> [Lesson 17: Switch To Number Names](lessons/17-switch-to-number-names.md)  
 <strong style="color: blue;">&bull;</strong> Lesson 18: Reading by Touch Part 2  
-<strong style="color: green;">&bull;</strong> [Lesson 19: Moods](/lessons/19-moods.md)  
-<strong style="color: orange;">&bull;</strong> [Lesson 20: Reading by Ear Part 2](/lessons/20-reading-by-ear-2.md)  
-<strong style="color: green;">&bull;</strong> [Lesson 21: Light and Heavy Tensions](/lessons/21-light-and-heavy-tensions.md)  
-<strong style="color: orange;">&bull;</strong> [Lesson 22: Reading by Ear Part 3](/lessons/22-reading-by-ear-3.md)  
+<strong style="color: green;">&bull;</strong> [Lesson 19: Moods](lessons/19-moods.md)  
+<strong style="color: orange;">&bull;</strong> [Lesson 20: Reading by Ear Part 2](lessons/20-reading-by-ear-2.md)  
+<strong style="color: green;">&bull;</strong> [Lesson 21: Light and Heavy Tensions](lessons/21-light-and-heavy-tensions.md)  
+<strong style="color: orange;">&bull;</strong> [Lesson 22: Reading by Ear Part 3](lessons/22-reading-by-ear-3.md)  
 <strong style="color: blue;">&bull;</strong> Lesson 23: Reading by Touch Part 3  
-<strong style="color: green;">&bull;</strong> [Lesson 24: Moods and Tensions Together](/lessons/24-moods-and-tensions-together.md)  
-<strong style="color: green;">&bull;</strong> [Lesson 25: Getting Inside of Moods](/lessons/25-getting-inside-of-moods.md)  
-<strong style="color: orange;">&bull;</strong> [Lesson 26: Reading by Ear Part 4](/lessons/26-reading-by-ear-4.md)  
+<strong style="color: green;">&bull;</strong> [Lesson 24: Moods and Tensions Together](lessons/24-moods-and-tensions-together.md)  
+<strong style="color: green;">&bull;</strong> [Lesson 25: Getting Inside of Moods](lessons/25-getting-inside-of-moods.md)  
+<strong style="color: orange;">&bull;</strong> [Lesson 26: Reading by Ear Part 4](lessons/26-reading-by-ear-4.md)  
 &nbsp;&nbsp;&nbsp;Commentary: Shape and Standard Notation  
 <strong style="color: blue;">&bull;</strong> Lesson 27: Reading by Touch Part 4  
-<strong style="color: green;">&bull;</strong> [Lesson 28: All Moods and Tensions](/lessons/28-all-moods-and-tensions.md)  
+<strong style="color: green;">&bull;</strong> [Lesson 28: All Moods and Tensions](lessons/28-all-moods-and-tensions.md)  
 <strong style="color: orange;">&bull;</strong> Lesson 29 Reading by Ear Part 5  
 &nbsp;&nbsp;&nbsp;Commentary: Moods and Modes  
 <strong style="color: blue;">&bull;</strong> Lesson 30: Making Time Relative  

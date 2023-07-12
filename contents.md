@@ -1,16 +1,16 @@
 ### Table of Contents
 
 #### Front Matter
-Abstract
+Abstract  
 Acknowledgments  
 Overview
 
 #### Shapes Basics
-Paths:
-    <em style="color: purple;"><strong>&bull;</strong> Playing & Vocab</em>
-    <em style="color: blue;"><strong>&bull;</strong> Tactile Reading</em>
-    <em style="color: red;"><strong>&bull;</strong> Chord & Key</em>
-    <em style="color: green;"><strong>&bull;</strong> Tonescapes & Tensions</em>
+Paths:  
+    <em style="color: purple;"><strong>&bull;</strong> Playing & Vocab</em>  
+    <em style="color: blue;"><strong>&bull;</strong> Tactile Reading</em>  
+    <em style="color: red;"><strong>&bull;</strong> Chord & Key</em>  
+    <em style="color: green;"><strong>&bull;</strong> Tonescapes & Tensions</em>  
     <em style="color: orange;"><strong>&bull;</strong> Reading Imagery</em>
 
 <strong style="color: purple;">&bull;</strong> [Lesson 1: A Shape](lessons/01-a-shape.md)  
@@ -69,3 +69,4 @@ Paths:
 [Appendix 7: Song Scraper Repository](https://github.com/shapesmusic/song-scraper)  
 
 Glossary  
+

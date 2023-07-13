@@ -664,8 +664,7 @@ Begin to hear notes in any octave as tensions to the anchor.
 
 **Notes**
 
-- ~~Add 5L and 5R shapes to SR tactile sequence.~~
-- Continue with anchor, one and two higher, one and two lower.
+- mention moods in songs (rel/timing with tonescapes?)
 - need to modify this wireframe's notation & shape
 
 **Wireframe**

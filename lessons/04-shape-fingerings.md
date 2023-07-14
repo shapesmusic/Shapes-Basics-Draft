@@ -4,80 +4,60 @@
 
 ### Watch
 
-[Video Link]
+
+
+[coming soon]
 
 
 
 ### Transcript
 
-[front cam] Now, as you're playing, you can use any fingers you like. But the keyboard actually _matches_ your hands, and this can really help you out.
+[front cam] Now, while you're playing, you can use any fingers you like. But the keyboard actually _matches_ your hands, and this can really help you out.
 
-[overhead] Our hands [show] are mirror images of one another, and from [the right perspective]() [press middle key], one side of the keyboard is also a mirror image of the other.
+[overhead] Our hands [show] are mirror images of one another, and from the right perspective [show], one side of the keyboard is also a mirror image of the other side.
 
 Our pointer, middle, and ring fingers [show] stick up above our thumbs and pinkies, and the keyboard also has keys [show] that stick up above the others.
 
-When you place your fingers that stick up on the keys that stick up, suddenly the whole keyboard becomes a repeating pattern of hand-shaped groups of keys [play symm opposite groups].
+When you place your fingers that stick up on the keys that stick up, suddenly the whole keyboard becomes a repeating pattern of hand-shaped groups of keys [show].
 
-This gives you a guideline for how your fingers can meet the keys. It helps you navigate the keyboard by touch, rather than having to look at your hands. And this leads to a very natural finger technique, because when you hands have to *feel* their way around, they find the easiest ways to meet the keys.
+And by alternating between your thumbs and your fingers that stick up [show], you get a fingering pattern that lets you through the whole shape, starting on any note [show].
+
+In fact, once you're oriented to the top keys, this same pattern works in *any* shape. You move your hands into the new shape [move to 2L], and go from there [show].
+
+[front cam] This gives you a guideline for how your fingers can meet the keys. And it helps you navigate the keyboard by touch, rather than having to look at your hands. It also helps you develop a very natural finger technique, because when your hands have to *feel* their way around, they find the easiest way to meet the keys.
 
 So here's how it works.
 
+[overhead] 
 
+Start by grabbing the groups of three top keys, so that your three fingers that stick up on each hand are aligned with these keys. Then play all the notes at the same time [play].
 
+Then move to the next group of *two* top keys, put your first two fingers that stick up on those keys, like peace signs, and play *them* at the same time [play].
 
+Repeat this up and down the keyboard, along with the beat of the song, like this [play]. You can go as slowly or quickly as you're comfortable. 
 
-- fingers on the top groups. grab, play only those
-  - just the top keys, all at once, then up and down the kybd. try to feel for it without looking. grab the groups, and your fingers are where they're supposed to be. try to get to where you're playing with the beat, or making up a beat. use the beat as an incentive to hit the notes in time. in fact, get to where you're playing with the beat without looking before moving on. that's a concrete challenge.
+And when you've got it, close your eyes and *feel* for the next group of keys that stick up, rather than looking. You can really grab these groups, feel their different widths, and bump your thumbs in between them to start navigating them by touch [show].
 
-- add in thumbs. so thumbs & blocks (pull hands away at first)
-- then thumbs, 123. top shape
-  - add in thumbs. make it really distinct: "thumbs, 1, 2, 3, thumbs, 1, 2"
-  - you'll still get auditory feedback if you play a note that's outside the shape
+Once you can move between the groups, along with the beat, and without looking, then add your thumbs in between each group, like this [show].
 
-- then move into different shapes (or at least how that *will* work...)
-  - **remember, this lesson only needs to deal with the TOP shape**&mdash;the other shapes will be covered through the SR tactile sequence
-  - reiterate that it's the same fingering for each new shape you add. start with the fingering for the previous shape you know, and then adjust one finger for the next shape. That's a different way to think of it than "start with the basic fingering and move into the shape." Both are good, but different.
-  
+If it helps to look at first, that's okay. And it might also help to try taking your hands away from the keys in between each time you play groups and thumbs, like this [show: "groups, thumbs, groups..."].
 
+Once you've got that, then instead of playing the groups all together, play the notes one-by-one, like this [show: "1, 2, 3, thumbs, 1, 2, thumbs..."].
 
+And at this point, you've got it&mdash;you're playing the pattern up and down through the whole TOP shape, and the transitions between groups and thumbs will become smoother the more you play with it. 
 
+You'll also hear right away if you accidentally play a note that's not in the shape, like this [thumb], and that'll help you out, especially when you're not looking at your hands.
 
-So here's how it works. you can play in any shape, starting on any note, using just one fingering principle:
+So play this pattern up and down the keyboard along with different songs until you feel comfortable matching the beat, and playing without looking.
 
-you can play in any shape using only one fingering principle
-playing this way causes you to develop
+[front cam] But when you first sit down to play, start by just playing along with the song, making things up and following your ear like you have been. *Then* play with the shape fingering, and then afterward, go back to playing on your own.
 
+Because the point of learning this pattern isn't just to play it by itself, but rather to have a guide for how your hands can meet the keys. You'll still use any fingers you like while you're playing, and you'll rarely follow this fingering pattern exactly. But you'll notice it working its way into your playing, giving you some intuition about which fingers to use, and when.
 
-
-Start each session with playing, then move into working on the fingerings, and end with playing. This starts to introduce some more technique-like stuff than the previous two lessons, so bookend it with playing. You'll probably notice some of the technique stuff working its way into your playing. I also like how this inverts the usual "warm up, then play" routine of practicing scales.
-
-thinking about these as scales, going all the way up and down, versus as being more local, practicing the fingering, picking up the beat, allowing fingering changes, mistakes, letting it become a guide. less as an exercise, but as a way of feeling more comfortable with the keyboard. that should be the "when am i done" goal.
-
-At first, the feeling that it has to be the right fingering, to the feeling that it's not about rightness at all, but a guideline.
-
-
-
-in the future, if you keep doing this:
-
-- try playing contrary, opposite directions.
-- then try playing contrary starting on different (unmatched) fingers.
-- to transition from up/down to contrary, you can make the transition with the same fingerings if it's on a symmetrical note (Pe, Re). But if from any other note, the fingerings diverge, which is a good challenge.
+So give it a try. We'll expand the pattern into more shapes down the road, but since they're all based on the TOP shape, focus on that one for now. And when you feel like you've got the hang of playing up and down the shape without looking, then come on back for more.
 
 
 
 ### Playlist
 
-Top Shape:
-https://www.shapesmusic.com/a-shape
-
-Add 5s:
-https://www.shapesmusic.com/add-5
-
-Add 4s:
-https://www.shapesmusic.com/add-4
-
-Add 3s:
-https://www.shapesmusic.com/add-3
-
-All Shapes:
-https://www.shapesmusic.com/a-group
+[Top Shape Playlist](https://www.shapesmusic.com/a-shape)

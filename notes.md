@@ -176,6 +176,11 @@ Learn how your hands match the keyboard, and how to play hands together in any s
 
 - Need filters for T, 5s, 4s... and tempo (see wireframe)
 - this lesson only has to cover the TOP shape, because the rest of the reading sequence fills in the other shapes.
+- in the future, if you keep doing this:
+
+  - try playing contrary, opposite directions.
+  - then try playing contrary starting on different (unmatched) fingers.
+  - to transition from up/down to contrary, you can make the transition with the same fingerings if it's on a symmetrical note (Pe, Re). But if from any other note, the fingerings diverge, which is a good challenge.
 
 **Wireframes**
 
@@ -474,8 +479,7 @@ Begin to sight read music notation at the keyboard.
 
 **Notes**
 
-- ~~Begin SR Tactile sequence through anchor, two higher, two lower, TOP shape only, Pe anchor. which will include a thumb pivot.~~
-- also: this is the first time we use notation for melodies, or for vocab other than bass notes.
+- this is the first time we use notation for melodies, or for vocab other than bass notes.
 - need to modify this wireframe's notation
 
 **Wireframes**
@@ -665,6 +669,7 @@ Begin to hear notes in any octave as tensions to the anchor.
 **Notes**
 
 - mention moods in songs (rel/timing with tonescapes?)
+- reiterate that it's the same fingering for each new shape you add. start with the fingering for the previous shape you know, and then adjust one finger for the next shape. That's a different way to think of it than "start with the basic fingering and move into the shape." Both are good, but different.
 - need to modify this wireframe's notation & shape
 
 **Wireframe**

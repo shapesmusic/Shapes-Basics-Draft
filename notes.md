@@ -658,9 +658,9 @@ Begin to hear notes in any octave as tensions to the anchor.
 
 ### Lesson 18 - Reading by Touch Part 2
 
-~~Incorporate two additional shapes into your reading at the keyboard.~~
-
 *Bring in 4L, 4R (double light/heavy), still up to thumbs*
+
+*Add pivot to all notes in T, 5L, 5R, 4L, 4R (adds 4th & 5th)*
 
 **Location**
 
@@ -669,12 +669,18 @@ Begin to hear notes in any octave as tensions to the anchor.
 **Notes**
 
 - mention moods in songs (rel/timing with tonescapes?)
+  - for songs with the same shape and anchor, can you notice a similar overall feeling in the song?
+  - look at L19
+
 - reiterate that it's the same fingering for each new shape you add. start with the fingering for the previous shape you know, and then adjust one finger for the next shape. That's a different way to think of it than "start with the basic fingering and move into the shape." Both are good, but different.
 - need to modify this wireframe's notation & shape
 
 **Wireframe**
 
 ![wireframe](wireframes/18.1.png)
+
+
+![wireframe](wireframes/18.2.png)
 
 
 
@@ -779,20 +785,15 @@ Draw all the tensions out of three tonescapes.
 
 ### Lesson 23 - Reading by Touch Part 3
 
-~~Sight read all tensions and two additional shapes at the keyboard.~~
-
-*Add pivot to all notes in T, 5L, 5R, 4L, 4R (adds 4th & 5th)*
+*Expand to moveable anchor, and any anchor in the shape*
 
 **Location**
-
-- [23-reading-by-touch-3.md](lessons/23-reading-by-touch-3.md)
 
 **References**
 
 **Notes**
 
-- Introduce 4th and 5th to the SR tactile sequence (all tensions)
-- ~~Then add 4L and 4R shapes.~~
+- update wireframe
 
 **Wireframes**
 
@@ -884,9 +885,11 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 
 
-### Lesson 27 - Reading by Touch Part 4
+### Lesson 27 - Incidentals
 
-*Expand to moveable anchor, and any anchor in the shape*
+Incorporate all the shapes into your reading at the keyboard.
+
+*Bring in 3L, 3R; add incidentals*
 
 **Location**
 
@@ -894,7 +897,13 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 **Notes**
 
-- update wireframe
+- Play with changing songs (?)
+- for Incidentals:
+  - "Learn how to notate tensions outside of the shape."
+  - Marked as (T)heory
+  - Introduce incidentals as a way of notating tensions outside of the shape (or mood?).
+  - "light / heavy" or "up, down, return-to" names are a way of abstracting the function of accidentals from a particular diatonic context. in this way, they pair with independent solfege.
+- update this wireframe
 
 **Wireframes**
 
@@ -994,7 +1003,7 @@ Learn the standard names for the moods.
 
 ### Lesson 30 - Making Time Relative
 
-*Bring in 3L, 3R; add rhythmic note symbols*
+*Add remaining shapes, add rhythmic note symbols*
 
 **Location**
 
@@ -1006,6 +1015,8 @@ Learn the standard names for the moods.
 - Was marked as (T)heory
 - Introduce rhythmic note symbols as subdivisions
 - Align different subdivisions with pulse dots, what looks best?
+-  And possible to remove pulse dots (abstracts away from regular note spacing)
+- update this wireframe
 
 **Wireframes**
 
@@ -1013,35 +1024,7 @@ Learn the standard names for the moods.
 
 
 
-### Lesson 31 - Reading by Touch Part 5
-
-Incorporate all the shapes into your reading at the keyboard.
-
-*Add remaining shapes; add incidentals*
-
-**Location**
-
-**References**
-
-**Notes**
-
-- Add remaining (2L/R, 1L/R, B) shapes to the SR tactile sequence.
-- Continue using rhythmic note symbols: Now possible to remove pulse dots (abstracts away from regular note spacing)
-- Play with changing songs (?)
-- for Incidentals:
-  - "Learn how to notate tensions outside of the shape."
-  - Marked as (T)heory
-  - Introduce incidentals as a way of notating tensions outside of the shape (or mood?).
-  - "light / heavy" or "up, down, return-to" names are a way of abstracting the function of accidentals from a particular diatonic context. in this way, they pair with independent solfege.
-
-
-**Wireframes**
-
-![wireframe](wireframes/31.1.png)
-
-
-
-### Lesson 32 - Holding on to the Anchor
+### Lesson 31 - Holding on to the Anchor
 
 Recognize all the tensions without a tonescape.
 
@@ -1055,7 +1038,7 @@ Recognize all the tensions without a tonescape.
 
 **Notes**
 
-- 32 (tensions): all tensions, no tonescape
+- 31 (tensions): all tensions, no tonescape
   
   - tonescapes_22 all tensions (all triple) no tonescape
 - Continue all tensions so far into the neutral tonescape.
@@ -1078,7 +1061,7 @@ Recognize all the tensions without a tonescape.
 
 
 
-### Lesson 33 - Imagination as an Instrument Part 2
+### Lesson 32 - Imagination as an Instrument Part 2
 
 Recognize any mood and free play inside it.
 
@@ -1088,7 +1071,7 @@ Recognize any mood and free play inside it.
 
 **Notes**
 
-- 33 (imagery): all modes, free imagery
+- 32 (imagery): all modes, free imagery
 - Shuffle all tonescapes, all groups.
 - Name the mood, and free play imagery inside of it.
 - not SR, but still imagery

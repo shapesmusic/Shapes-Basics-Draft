@@ -32,3 +32,13 @@ Notation: Thumbs
 	height="500px"
 />
 
+
+
+Notation: Pivot
+
+<embed
+	src="https://shapesmusic.github.io/shapes-method/media/reading_tactile_5.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+/>

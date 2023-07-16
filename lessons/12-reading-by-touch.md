@@ -26,7 +26,7 @@ It feels a little like playing Guitar Hero. And it can be a little tricky at fir
 
 You also have to keep your eyes on the notation, rather than looking at your hands, in order to follow along. But luckily, since your hands are aligned with the keys, you're all set up to play without looking.
 
-If the song you're reading along with feels too fast, or too slow, skip to another song in the playlist that feels better [skip]. And when you've gotten the hang of it, move on to the second notation, which adds the notes one note higher, and one note lower than the anchor, like this [play].
+If the song you're reading along with feels too fast, or too slow, skip to another song in the playlist that feels better [skip]. And when you've gotten the hang of it, move on to the second notation, which adds notes one higher, and one lower than the anchor, like this [play].
 
 The challenge in this notation is that you play the new notes with different fingers on your different hands. So you have to coordinate your hands to move in the same direction, rather than using the same fingers.
 
@@ -36,11 +36,11 @@ Now, the songs in this playlist fit with three different shapes: the TOP shape, 
 
 In the TOP shape, the notes two higher and two lower than the anchor hug the group of three top keys. But in 5 to the Left, the note two lower is stretched a little farther to the left [show], and in 5 to the Right, the note two higher is stretched a little farther to the right [show].
 
-You can feel these different distances in your hand, and the new notes are also right by the next groups of *two* top keys, so you can bump your thumbs up against these groups like this [show], and that will help you feel which note to play without looking.
+You can feel these different distances in your hand, and the new notes are also right next to the next groups of *two* top keys, so you can bump your thumbs up against these groups like this [show], and that will help you feel which note to play without looking.
 
 So give it a try. When you get to the third notation, be sure to pay attention to which shape you're playing in. And if you accidentally play a note that isn't part of the shape [play], you'll hear it right away, because it doesn't fit with the song.
 
-Once you get the hang of it, reading with a song starts to feel very much like *playing* with a song&mdash;you've internalized the shape, and you're connected to the song's rhythm. The contours of notes you read start to blend together with the contour of your hands on the keyboard. And the whole experience draws you even more deeply into listening.
+[front cam] Once you get the hang of it, reading with a song starts to feel very much like *playing* with a song&mdash;you've internalized the shape, and you're connected to the song's rhythm. The contours of notes you read start to blend together with the contour of your hands on the keyboard. And the whole experience draws you even more deeply into listening.
 
 This is exactly what it feels like to be a fluent reader at the keyboard. So when you've had your first small experience of this feeling&mdash;or at least when you feel comfortable reading these three notations along with the playlist&mdash;that's when you're ready to come back for more.
 
@@ -82,4 +82,3 @@ Notation: Thumbs
 	width="100%"
 	height="500px"
 />
-

@@ -787,12 +787,15 @@ Draw all the tensions out of three tonescapes.
 
 *Expand to moveable anchor, and any anchor in the shape*
 
+*also bring in randomized notation here?*
+
 **Location**
 
 **References**
 
 **Notes**
 
+- now there's a double pivot, full range of the shape
 - update wireframe
 
 **Wireframes**

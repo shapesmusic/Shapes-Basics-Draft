@@ -39,7 +39,7 @@ Paths:
 &nbsp;&nbsp;&nbsp;Commentary: What is a Tonescape?  
 <strong style="color: orange;">&bull;</strong> [Lesson 16: Reading by Ear](lessons/16-reading-by-ear.md)  
 <strong style="color: green;">&bull;</strong> [Lesson 17: Switch To Number Names](lessons/17-switch-to-number-names.md)  
-<strong style="color: blue;">&bull;</strong> Lesson 18: Reading by Touch Part 2  
+<strong style="color: blue;">&bull;</strong> [Lesson 18: Reading by Touch Part 2](lessons/18-reading-by-touch-2)  
 <strong style="color: green;">&bull;</strong> [Lesson 19: Moods](lessons/19-moods.md)  
 <strong style="color: orange;">&bull;</strong> [Lesson 20: Reading by Ear Part 2](lessons/20-reading-by-ear-2.md)  
 <strong style="color: green;">&bull;</strong> [Lesson 21: Light and Heavy Tensions](lessons/21-light-and-heavy-tensions.md)  

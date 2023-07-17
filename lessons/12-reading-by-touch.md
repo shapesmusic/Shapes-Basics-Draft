@@ -66,7 +66,7 @@ Notation: Anchor on the Beat
 Notation: Anchor, Higher, Lower
 
 <embed
-	src="https://shapesmusic.github.io/shapes-method/media/reading_tactile_3.pdf"
+	src="https://shapesmusic.github.io/shapes-method/media/reading_tactile_2.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"
@@ -77,7 +77,7 @@ Notation: Anchor, Higher, Lower
 Notation: Thumbs
 
 <embed
-	src="https://shapesmusic.github.io/shapes-method/media/reading_tactile_4.pdf"
+	src="https://shapesmusic.github.io/shapes-method/media/reading_tactile_3.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"

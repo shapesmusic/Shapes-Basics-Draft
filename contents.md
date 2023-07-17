@@ -49,11 +49,11 @@ Paths:
 <strong style="color: green;">&bull;</strong> [Lesson 25: Getting Inside of Moods](lessons/25-getting-inside-of-moods.md)  
 <strong style="color: orange;">&bull;</strong> [Lesson 26: Reading by Ear Part 4](lessons/26-reading-by-ear-4.md)  
 &nbsp;&nbsp;&nbsp;Commentary: Shape and Standard Notation  
-<strong style="color: blue;">&bull;</strong> Lesson 27: Incidentals  
+<strong style="color: blue;">&bull;</strong> Lesson 27: Making Time Relative  
 <strong style="color: green;">&bull;</strong> [Lesson 28: All Moods and Tensions](lessons/28-all-moods-and-tensions.md)  
 <strong style="color: orange;">&bull;</strong> Lesson 29 Reading by Ear Part 5  
 &nbsp;&nbsp;&nbsp;Commentary: Moods and Modes  
-<strong style="color: blue;">&bull;</strong> Lesson 30: Making Time Relative  
+<strong style="color: blue;">&bull;</strong> Lesson 30: Incidentals  
 <strong style="color: green;">&bull;</strong> Lesson 31: Holding on to the Anchor  
 <strong style="color: orange;">&bull;</strong> Lesson 32: Imagination as an Instrument Part 2  
 

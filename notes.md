@@ -785,9 +785,9 @@ Draw all the tensions out of three tonescapes.
 
 ### Lesson 23 - Reading by Touch Part 3
 
-*Expand to moveable anchor, and any anchor in the shape*
-
-*also bring in randomized notation here?*
+- the playlist opens to all anchors
+- the notation shifts to moveable anchor
+- the notation extends to move throughout the shape, 2nd pivot
 
 **Location**
 
@@ -795,7 +795,6 @@ Draw all the tensions out of three tonescapes.
 
 **Notes**
 
-- now there's a double pivot, full range of the shape
 - update wireframe
 
 **Wireframes**
@@ -888,11 +887,9 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 
 
-### Lesson 27 - Incidentals
+### Lesson 27 - Making Time Relative
 
-Incorporate all the shapes into your reading at the keyboard.
-
-*Bring in 3L, 3R; add incidentals*
+*Add 3L/3R, 2L/2R, introduce rhythmic notation*
 
 **Location**
 
@@ -900,13 +897,12 @@ Incorporate all the shapes into your reading at the keyboard.
 
 **Notes**
 
-- Play with changing songs (?)
-- for Incidentals:
-  - "Learn how to notate tensions outside of the shape."
-  - Marked as (T)heory
-  - Introduce incidentals as a way of notating tensions outside of the shape (or mood?).
-  - "light / heavy" or "up, down, return-to" names are a way of abstracting the function of accidentals from a particular diatonic context. in this way, they pair with independent solfege.
-- update this wireframe
+- Add rhythmic note values to your reading at the keyboard.
+- Was marked as (T)heory
+- Introduce rhythmic note symbols as subdivisions
+- Align different subdivisions with pulse dots, what looks best?
+-  And possible to remove pulse dots (abstracts away from regular note spacing)
+- update this wireframe?
 
 **Wireframes**
 
@@ -1004,9 +1000,11 @@ Learn the standard names for the moods.
 
 
 
-### Lesson 30 - Making Time Relative
+### Lesson 30 - Incidentals
 
-*Add remaining shapes, add rhythmic note symbols*
+- add 1L/1R and Bottom shapes
+- do incidentals in mood playlists
+- make a notation that jumps around (random-ish). so you start to use the fingering and the incidentals as a snap-back guideline for reading/playing.
 
 **Location**
 
@@ -1014,11 +1012,13 @@ Learn the standard names for the moods.
 
 **Notes**
 
-- Add rhythmic note values to your reading at the keyboard.
-- Was marked as (T)heory
-- Introduce rhythmic note symbols as subdivisions
-- Align different subdivisions with pulse dots, what looks best?
--  And possible to remove pulse dots (abstracts away from regular note spacing)
+- for Incidentals:
+  - relate to the "light/heavy" tensions in tonescapes (incidentals connected to these notes that have changed in each mood)
+  - "Learn how to notate tensions outside of the shape."
+  - Marked as (T)heory
+  - Introduce incidentals as a way of notating tensions outside of the shape (or mood?).
+  - "light / heavy" or "up, down, return-to" names are a way of abstracting the function of accidentals from a particular diatonic context. in this way, they pair with independent solfege.
+- Read with changing songs (?)
 - update this wireframe
 
 **Wireframes**

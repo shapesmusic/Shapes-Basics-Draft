@@ -48,7 +48,7 @@ This is exactly what it feels like to be a fluent reader at the keyboard. So whe
 
 ### Playlist and Notation
 
-<a href="https://www.shapesmusic.com/tactile-1" target="_blank">Lesson 12 Playlist</a>
+<a href="https://www.shapesmusic.com/reading-1" target="_blank">Lesson 12 Playlist</a>
 
 
 

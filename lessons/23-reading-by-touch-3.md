@@ -18,7 +18,7 @@ ok.
 
 ### Playlist and Notation
 
-<a href="https://www.shapesmusic.com/tactile-3" target="_blank">Lesson 23 Playlist</a>
+<a href="https://www.shapesmusic.com/reading-3" target="_blank">Lesson 23 Playlist</a>
 
 
 

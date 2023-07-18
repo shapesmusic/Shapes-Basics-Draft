@@ -36,7 +36,7 @@ So give it a try. And when you feel comfortable reading the second notation in t
 
 ### Playlist and Notation
 
-<a href="https://shapesmusic.github.io/Player-Sketch/reading-2/" target="_blank">Lesson 18 Playlist</a>
+<a href="https://www.shapesmusic.com/reading-2" target="_blank">Lesson 18 Playlist</a>
 
 
 

@@ -795,6 +795,7 @@ Draw all the tensions out of three tonescapes.
 
 **Notes**
 
+- include playing through the shape fingering?
 - update wireframe
 
 **Wireframes**
@@ -1003,7 +1004,7 @@ Learn the standard names for the moods.
 ### Lesson 30 - Incidentals
 
 - add 1L/1R and Bottom shapes
-- do incidentals in mood playlists
+- use mood playlists for reading incidentals
 - make a notation that jumps around (random-ish). so you start to use the fingering and the incidentals as a snap-back guideline for reading/playing.
 
 **Location**

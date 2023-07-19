@@ -44,7 +44,7 @@ Paths:
 <strong style="color: orange;">&bull;</strong> [Lesson 20: Reading by Ear Part 2](lessons/20-reading-by-ear-2.md)  
 <strong style="color: green;">&bull;</strong> [Lesson 21: Light and Heavy Tensions](lessons/21-light-and-heavy-tensions.md)  
 <strong style="color: orange;">&bull;</strong> [Lesson 22: Reading by Ear Part 3](lessons/22-reading-by-ear-3.md)  
-<strong style="color: blue;">&bull;</strong> Lesson 23: Reading by Touch Part 3  
+<strong style="color: blue;">&bull;</strong> [Lesson 23: Reading by Touch Part 3](lessons/23-reading-by-touch-3.md)  
 <strong style="color: green;">&bull;</strong> [Lesson 24: Moods and Tensions Together](lessons/24-moods-and-tensions-together.md)  
 <strong style="color: green;">&bull;</strong> [Lesson 25: Getting Inside of Moods](lessons/25-getting-inside-of-moods.md)  
 <strong style="color: orange;">&bull;</strong> [Lesson 26: Reading by Ear Part 4](lessons/26-reading-by-ear-4.md)  

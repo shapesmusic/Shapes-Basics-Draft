@@ -3,13 +3,13 @@
 #### Front Matter
 Abstract  
 Acknowledgments  
-Overview
 
 #### Shapes Basics
-Paths:  
-&nbsp;&nbsp;&nbsp;&nbsp;<em style="color: purple;"><strong>&bull;</strong> Playing & Vocab</em>  
+Overview  
+Sequences:  
+&nbsp;&nbsp;&nbsp;&nbsp;<em style="color: purple;"><strong>&bull;</strong> Playing With Songs</em>  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: blue;"><strong>&bull;</strong> Tactile Reading</em>  
-&nbsp;&nbsp;&nbsp;&nbsp;<em style="color: red;"><strong>&bull;</strong> Chord & Key</em>  
+&nbsp;&nbsp;&nbsp;&nbsp;<em style="color: red;"><strong>&bull;</strong> Chord & Key Levels</em>  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: green;"><strong>&bull;</strong> Tonescapes & Tensions</em>  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: orange;"><strong>&bull;</strong> Reading Imagery</em>
 

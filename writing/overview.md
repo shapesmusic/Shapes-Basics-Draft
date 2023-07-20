@@ -1,8 +1,4 @@
-## Overview
-
-
-
-#### Organization
+### Organization
 
 The way i’d like to introduce Shapes is to show you (part of) the first lesson. And that’ll give a little context to begin talking about how the project is organized, and why:
 
@@ -56,6 +52,126 @@ But before then, a learner weaves their way through five distinct lesson sequenc
 Playing is also the place to talk briefly about software. Or maybe this comes after chord & key levels, to talk about the data model. or through these three.
 
 
+
+### Why a Beginner Method?
+
+I would always get stuck, and feel frustrated, every time I tried to write *about* Shapes.
+
+i had to teach it in order to understand it 
+
+​	(this is a creative thesis)
+
+what understanding means then
+
+and i felt that i were to have a conversation about this with someone, we would have to share a certain experiential foundation
+
+and so i needed to build the minimum of that foundation
+
+but it also grew out of a frustration with my own lack of understanding
+
+an impulse to teach myself, to go back to the basics
+
+but i didn't trust the basics (the basics had hurt me)
+
+so maybe that's what it's been, a kind of attempt to talk to other people about these questions i care about 
+
+​	(a way i found to connect to people around music, but not directly through *playing* music)
+
+except the only way i was able to articulate the questions, or have the conversation, was through this kind of shared experience 
+
+​	(what does this say about theory?)
+
+so was i ever really teaching? teaching is the format that was available. music lessons.
+
+but i was more proposing something, and seeing how another person responded.
+
+and i quickly found that the closer to a "beginner" that person was, the more honest our interaction felt. or, the more it was really focused on these questions, experiences
+
+​	(what am I then? also a beginner in a way. what is an "expert beginner?")
+
+rather than on reconciling them with the standard ideas, the ones i felt like i didn't trust.
+
+but what has been the relationship of all this to my own musical practice?
+
+it feels like the initial impulse was trying to move toward it, but that the activity of all this kind of held it at bay. made me understand more of how it could have been, but projecting that potential onto other people, not allowing it to myself
+
+and yet, i rebuilt enough of a foundation where now it feels okay to play, finally, after all that
+
+so what were the confusions? the sticking points? the things that told me i couldn't play, the things i was worried would tell other people they couldn't play?
+
+i remember a feeling of disconnectedness. a lot of ideas that didn't cohere, and an absent feeling of fluency
+
+i had had a good education, supposedly, but the connections between what i heard, imagined, could read, write, play, weren't there.
+
+i traced the problem to theory
+
+the most innocuous things we learn from the very beginning: this is the note C
+
+sow tiny seeds of confusion
+
+that are never really resolved, at least for a typical learner
+
+​	(creates a priority to have access to the underlying system)
+
+or "middle C," all the things that embeds
+
+for me, the place where this most consciously became unbearable was chords
+
+​	(my childhood music lessons were in something like jazz piano)
+
+it didn't make any sense that they were composite objects made up of parts, notes
+
+and were identified by particular structures of these notes, triads
+
+and yet could take completely different forms, and still somehow retain their same names
+
+there's no way, in this case, that chords could be particular structures, made up of notes
+
+it had to be the other way around, contexts expressed by notes, by particular structures implied by them, but not made up of them
+
+perhaps made up of the aggregate of all possible particular structures
+
+around the same time some years ago i'd locked myself in a room to see if i could figure out how to play the piano
+
+i was doing the typical things, playing things through every major and minor key...
+
+​	("woodshedding," but again, not trusting the concepts)
+
+and i was also trying to make some kind of account for what, even, are all the types of chords there are? a minor 6th? minor 6th add 9? minor 9th?
+
+around the same time, i switched from playing through major and minor keys to their shared key signatures
+
+and then one day i noticed, you'd think obviously, that key signatures with the same number of sharps or flats are symmetrical opposites of one another
+
+and that was the day shapes were born. or the seed of shapes anyway
+
+the keyboard became a playable diagram, the symmetry allowed ideas to be grouped and reduced
+
+and the nature of those ideas changed, they were no longer attached to their names in quite the same way
+
+they could exist without names, in a way that clarified and organized the names
+
+and they also matched a symmetry of hands
+
+lots fell out of this. but when did songs start?
+
+that is, playing along with songs. the next part was the playlist. 
+
+people like to complain about pop songs having nothing much going on harmonically
+
+which of course is a somewhat limited view, maybe not so far off of saying the same thing of modal music
+
+but one amazing quality of most pop songs is that ...
+
+so the second part was songs, and that's when the app happened. that's when to talk about technology
+
+the third part is zippering this all together, teaching, adjusting, refining, tweaking...
+
+which goes back to the basics method, it's scope, purpose
+
+why it mattered for me to put it in a form
+
+and now what kind of questions are possible going forward
 
 
 

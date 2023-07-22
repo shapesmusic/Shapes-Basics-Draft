@@ -5,8 +5,9 @@ Abstract
 Acknowledgments  
 
 #### Shapes Basics
-Overview  
-Sequences:  
+[Commentary: About Shapes](writing/about.md)  
+
+Lesson Sequences:  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: purple;"><strong>&bull;</strong> Playing With Songs</em>  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: blue;"><strong>&bull;</strong> Tactile Reading</em>  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: red;"><strong>&bull;</strong> Chord & Key Levels</em>  

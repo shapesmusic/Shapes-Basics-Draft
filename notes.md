@@ -20,6 +20,7 @@
 **References**
 
 **Notes**
+
 - include Abstract
 - colloquium as introduction
 - not sure where this fits in a table of contents. front matter?
@@ -1029,7 +1030,7 @@ Learn the standard names for the moods.
 
 
 
-### Lesson 31 - Holding on to the Anchor
+### Lesson 31 - Independent Solfege
 
 Recognize all the tensions without a tonescape.
 

@@ -55,7 +55,7 @@ Lesson Sequences:
 <strong style="color: orange;">&bull;</strong> Lesson 29 Reading by Ear Part 5  
 &nbsp;&nbsp;&nbsp;Commentary: Moods and Modes  
 <strong style="color: blue;">&bull;</strong> Lesson 30: Incidentals  
-<strong style="color: green;">&bull;</strong> Lesson 31: Holding on to the Anchor  
+<strong style="color: green;">&bull;</strong> Lesson 31: Independent Solfege  
 <strong style="color: orange;">&bull;</strong> Lesson 32: Imagination as an Instrument Part 2  
 
 #### Back Matter

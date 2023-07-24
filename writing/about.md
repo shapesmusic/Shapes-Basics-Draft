@@ -131,7 +131,7 @@ what does this say about theory? about what it means to do theory as a creative 
 
 because the way of talking about the ideas really is through the thing, through the experiences the thing affords, and with the people who are, in that moment, drawn into those experiences. 
 
-I remember, in one of our seminars, saying to George Lewis that I thought music theory was a form of creative art. And he just wasn't having it. It may be creative, he said, but it's not art. 
+I remember, in one of our seminars, saying to George Lewis that I thought music theory could be a form of creative art. And he just wasn't having it. It may be creative, he said, but it's not art. 
 
 That conversation stuck with me, though, because I'm still not convinced. Maybe I've been looking for something in between, something that communicates through experience, but that's also in the medium of theoretical concepts. The theoretical concept as an environment for an experience. Isn't that what it is for a musician?
 

@@ -887,6 +887,7 @@ Draw all the tensions out of the tonescape, and add two additional moods.
   - Lesson 16+ (SR Imagery)
 - Think about this alongside FR_Music 3 Note Naming Systems
 - Today I read the second Invention in the “5 Left” shape, where it’s neither Ab minor (7 flats) or G# minor (5 sharps), but just degrees in the shape, not nameable by letters. That’s a pretty fun way to think about what this notation is up to.
+- (from making time relative) theoretical digression about beats as an abstraction (an idea that emerges from the music), even spacing as a further abstraction, and rhythmic note symbols as a way of adding more detail/possibility around the idea of the beat.
 
 
 

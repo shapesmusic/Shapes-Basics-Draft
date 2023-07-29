@@ -1016,13 +1016,19 @@ Learn the standard names for the moods.
 
 **Notes**
 
+- Notation with incidentals
+  - i wish i could have done reversible notations, but the incidental symbols have to be to the left of the note head...
+  - you wouldn't have a heavy 5th in a mood with a light 4th. but you might have a light 5th. why, then, wouldn't you call it a heavy 6th instead? are these different departures to the same note outside the shape? or is it a matter of the direction of the line? or... does the choice of incidental say something about the mood (or potential moods) that incidental is implying? how would that relate to saying that the incidental allows you *not* to think in terms of the new mood, and to keep your attention in the context you're already in?
+  
 - for Incidentals:
   - relate to the "light/heavy" tensions in tonescapes (incidentals connected to these notes that have changed in each mood)
   - "Learn how to notate tensions outside of the shape."
   - Marked as (T)heory
   - Introduce incidentals as a way of notating tensions outside of the shape (or mood?).
   - "light / heavy" or "up, down, return-to" names are a way of abstracting the function of accidentals from a particular diatonic context. in this way, they pair with independent solfege.
-- Read with changing songs (?)
+- Read with changing songs (?) 
+  - if this were to include incidentals, it would also need a dynamically generated notation&mdash;it couldn't be paper-based.
+
 - update this wireframe
 
 **Wireframes**
@@ -1082,6 +1088,7 @@ Recognize any mood and free play inside it.
 - Shuffle all tonescapes, all groups.
 - Name the mood, and free play imagery inside of it.
 - not SR, but still imagery
+- ...this method starts playing along with music videos on a keyboard, and ends playing around in your imagination with a tonescape. and after the last lesson, it also implies that you could remove the tonescape and still play around in your imagination. so there's some representation here that you've "learned" it, internalized it, and the method itself is a kind of scaffolding, and it disappears.
 
 
 

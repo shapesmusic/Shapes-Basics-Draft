@@ -52,7 +52,7 @@ Lesson Sequences:
 &nbsp;&nbsp;&nbsp;Commentary: Shape and Standard Notation  
 <strong style="color: blue;">&bull;</strong> [Lesson 27: Making Time Relative](lessons/27-making-time-relative.md)  
 <strong style="color: green;">&bull;</strong> [Lesson 28: All Moods and Tensions](lessons/28-all-moods-and-tensions.md)  
-<strong style="color: orange;">&bull;</strong> Lesson 29 Reading by Ear Part 5  
+<strong style="color: orange;">&bull;</strong> [Lesson 29: Mood Notes](lessons/29-mood-notes.md)  
 &nbsp;&nbsp;&nbsp;Commentary: Moods and Modes  
 <strong style="color: blue;">&bull;</strong> [Lesson 30: Incidentals](lessons/30-incidentals.md)  
 <strong style="color: green;">&bull;</strong> Lesson 31: Independent Solfege  

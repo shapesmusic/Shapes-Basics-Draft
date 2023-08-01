@@ -939,7 +939,9 @@ Add two remaining moods along with their tensions.
 
 
 
-### Lesson 29 - Reading by Ear Part 5
+### Lesson 29 - Mood Notes
+
+(Reading by Ear Part 5)
 
 Draw all the tensions out of all moods.
 
@@ -949,6 +951,7 @@ Draw all the tensions out of all moods.
 
 **Notes**
 
+- *Why* the move up or down four notes trick works. it's an inverse of the difference between the tension that changes from shape to shape. 
 - 30 (imagery): add triple light and heavy moods (7 notes, 7 tonescapes)
   
   reading_imagery_3 All tensions, no spaces, move anchor, stepwise only

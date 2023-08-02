@@ -34,7 +34,7 @@ One question that might come up while you're playing is, how many shapes are the
 
 So I want to show you the whole group of shapes, all at once.
 
-![group of shapes](../media/15.3.6_ultralite.png)
+![group of shapes](../media/group_of_shapes.png)
 
 These are all of the shapes you're going to see in this playlist.
 

@@ -36,7 +36,7 @@ And the thing in the middle is a shape. It's two little strokes drawn over a key
 
 So here's how to read a shape.
 
-![dots to shape](../media/21.3.7%20dots_to_shape.png)
+![dots to shape](../media/dots_to_shape.png)
 
 Imagine you have a bunch of notes floating in the air.  
 And then you map those notes onto keys of the keyboard.  

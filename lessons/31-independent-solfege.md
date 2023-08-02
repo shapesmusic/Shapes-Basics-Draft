@@ -34,7 +34,7 @@ You might already recognize several of these independent note names. On the keyb
 
 The two top notes themselves are Ba and Na, and the three top notes are Ve, Pe, and Ke.
 
-[image]
+<img src="../media/indepsol.png" alt="Image" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
 
 Each of these names starts with a different letter of the alphabet, and each ends with a vowel sound, so it's easy to sing.
 

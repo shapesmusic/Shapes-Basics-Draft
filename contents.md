@@ -25,14 +25,13 @@ Lesson Sequences:
 <strong style="color: red;">&bull;</strong> Lesson 5: The Anchor Note  
 &nbsp;&nbsp;&nbsp;Commentary: What is the Anchor?  
 <strong style="color: purple;">&bull;</strong> Lesson 6: Playing With the Anchor  
-&nbsp;&nbsp;&nbsp;Commentary: Where Does Structure Come From?  
+&nbsp;&nbsp;&nbsp;Commentary: Musical Structures  
 <strong style="color: red;">&bull;</strong> Lesson 7: Bass Notes  
 &nbsp;&nbsp;&nbsp;Commentary: Key and Chord Levels  
 <strong style="color: purple;">&bull;</strong> Lesson 8: Matching A Shape  
 <strong style="color: purple;">&bull;</strong> Lesson 9: Notes In Time  
 <strong style="color: red;">&bull;</strong> Lesson 10: Changes  
 <strong style="color: purple;">&bull;</strong> Lesson 11: Groups of Shapes  
-&nbsp;&nbsp;&nbsp;Commentary: Chord-Modes  
 <strong style="color: blue;">&bull;</strong> [Lesson 12: Reading by Touch](lessons/12-reading-by-touch.md)  
 <strong style="color: green;">&bull;</strong> [Lesson 13: A Tonescape and Tensions](lessons/13-a-tonescape-and-tensions.md)  
 <strong style="color: orange;">&bull;</strong> [Lesson 14: Imagination as an Instrument](lessons/14-imagination-as-an-instrument.md)  
@@ -53,10 +52,10 @@ Lesson Sequences:
 <strong style="color: blue;">&bull;</strong> [Lesson 27: Making Time Relative](lessons/27-making-time-relative.md)  
 <strong style="color: green;">&bull;</strong> [Lesson 28: All Moods and Tensions](lessons/28-all-moods-and-tensions.md)  
 <strong style="color: orange;">&bull;</strong> [Lesson 29: Mood Notes](lessons/29-mood-notes.md)  
-&nbsp;&nbsp;&nbsp;Commentary: Moods and Modes  
+&nbsp;&nbsp;&nbsp;Commentary: Chord-Modes  
 <strong style="color: blue;">&bull;</strong> [Lesson 30: Incidentals](lessons/30-incidentals.md)  
 <strong style="color: green;">&bull;</strong>[ Lesson 31: Independent Solfege](lessons/31-independent-solfege.md)  
-<strong style="color: orange;">&bull;</strong> Lesson 32: Imagination as an Instrument Part 2  
+<strong style="color: orange;">&bull;</strong> Lesson 32: Free Play  
 
 #### Back Matter
 

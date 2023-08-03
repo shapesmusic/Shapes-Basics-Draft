@@ -267,7 +267,7 @@ Use the anchor note to come up with some ideas for playing.
 
 
 
-### Commentary - Where Does Structure Come From?
+### Commentary - Musical Structures
 
 **Location**
 
@@ -277,6 +277,7 @@ Use the anchor note to come up with some ideas for playing.
 
 **Notes**
 
+- formerly "Where Does Structure Come From?"
 - imagined structures, pre-notation, focused by the anchor.
 - in a strange way, it's a precursor to the structured "anchor-higher-lower" entry into a tonescape, and the way that moves into structured movement around a tonescape, and then gradually less structured movement--or rather, that the structuring becomes gradually more internalized.
 - So there's a sort of opposition being set up here, on one hand, a sort of rational structuring, and on the other, an imaginitive unstructuring.
@@ -436,23 +437,6 @@ Get to know three additional groups of shapes.
 - Marked as (T)heory
 - Introduce three other groups of shapes and listen to their qualities. Relate the groups through their common shape names.
 - Similar to Lesson 19, where you want to get to know the broader feeling of a group, rather than getting inside it and thinking about its parts. 
-- Could shuffle all modes and try to hear if it's a 1st, 2nd, 3rd, 4th group mood.
-- So this isn't exactly about moods yet? It's about shapes. Where in here does a mood get introduced, as "the combination of a shape and anchor creates a mood" (?) Do this in tactile reading?!
-
-
-
-### Commentary - Chord-Modes
-
-**Location**
-
-**References**
-
-**Notes**
-
-- There was a thought to put this after 19 - Moods. But that lesson is more about begining to recognize specific moods, whereas chord-modes follow from the combination of Changes (Lesson 10) and Groups of Shapes (Lesson 11).
-  - but still, 19 is supposedly the introduction to modes. 
-  - also, how does this relate to the Standard Mode Names (commentary?) at Lesson 33?
-  - so maybe a bigger question: what's the relationship/timing of thinking of combinations of shapes and anchors as chord-modes, and learning the sounds/feelings of each of those modes (moods) in the tonescapes sequence? isn't this sequence supposed to be linear?
 
 
 
@@ -572,6 +556,8 @@ Add two more notes to recognize in a tonescape.
 **Notes**
 
 - Include future tonescapes sequence overview (where this goes from here)
+  - or maybe it's not the future sequence that matters, but the notion of hearing an entire tonal space at once...
+
 - things going on:
 
   - listening inside of a complex sound. like being able to hear individual pitches in a chord
@@ -646,7 +632,7 @@ Begin to hear notes in any octave as tensions to the anchor.
 >
 > You can play these keys in the middle octave at first, match them with your voice, and then play the same keys in the octave higher, and the octave lower.
 >
-> Along with the [tonescape](../media/tonescapes_0.mp3).
+> Along with the [tonescape](../media/group_1_neutral.mp3).
 >
 > If you don't have access to a keyboard, try [this](https://www.onlinepianist.com/virtual-piano) online piano site
 >
@@ -968,7 +954,7 @@ Draw all the tensions out of all moods.
 
 
 
-### Commentary - Moods and Modes
+### Commentary - Chord-Modes
 
 Learn the standard names for the moods.
 
@@ -978,6 +964,11 @@ Learn the standard names for the moods.
 
 **Notes**
 
+- There was a thought to put this after 19 - Moods. But that lesson is more about begining to recognize specific moods, whereas chord-modes follow from the combination of Changes (Lesson 10) and Groups of Shapes (Lesson 11).
+  - but still, 19 is supposedly the introduction to modes. 
+  - also, how does this relate to the Standard Mode Names (commentary?) at Lesson 33?
+  - so maybe a bigger question: what's the relationship/timing of thinking of combinations of shapes and anchors as chord-modes, and learning the sounds/feelings of each of those modes (moods) in the tonescapes sequence? isn't this sequence supposed to be linear?
+- Merged Chord-Modes (after L11) with "Moods and Modes" here after L29.
 - was a lesson, but this is really a commentary. It's probably written. What (if anything) makes it a lesson?
   - maybe call it "Moods and Modes"
   - also how does it relate to the chord-mode commentary after L11?

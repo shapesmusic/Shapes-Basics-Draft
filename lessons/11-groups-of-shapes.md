@@ -1,15 +1,17 @@
-# Groups of Shapes
-
-## Summary
+## Groups of Shapes
 
 
 
-## The Lesson
+### Watch
 
 
 
-## Things To Think About
+[coming soon]
 
 
 
-## Resources
+### Transcript
+
+ok
+
+<img src="../media/all_groups.png" alt="Image" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">

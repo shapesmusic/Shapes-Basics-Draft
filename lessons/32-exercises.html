@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link href="../styles.css" rel="stylesheet" type="text/css" />
+    <title>Free Play</title>
+  </head>
+  <body>
+    <div>
+      <h2>Free Play</h2>
+
+      <br>
+
+      <audio id="audioControl" controls style="display: block;">
+        <source src="../media/group_1_neutral.mp3" type="audio/mpeg" />
+        <!-- Placeholder audio file. You can change the src and type if needed -->
+      </audio>
+
+      <span id="audioTitle" style="display: block;">
+        <!-- Placeholder for the audio title -->
+        1st Group - Neutral Mood
+      </span>
+
+      <br>
+
+      <!-- Random Mood Button -->
+      <button onclick="playRandomAudio()">Pick a Random Mood</button>
+
+      <br><br>
+
+      <strong>1st Group</strong><br>
+
+      <a id="audio1" data-src="../media/group_1_triple_light.mp3" data-title="1st Group - Triple Light Mood" onclick="playAudio(this); return false;">Triple Light Mood</a><br>
+
+      <a id="audio2" data-src="../media/group_1_double_light.mp3" data-title="1st Group - Double Light Mood" onclick="playAudio(this); return false;">Double Light Mood</a><br>
+
+      <a id="audio3" data-src="../media/group_1_single_light.mp3" data-title="1st Group - Single Light Mood" onclick="playAudio(this); return false;">Single Light Mood</a><br>
+
+      <a id="audio4" data-src="../media/group_1_neutral.mp3" data-title="1st Group - Neutral Mood" onclick="playAudio(this); return false;">Neutral Mood</a><br>
+
+      <a id="audio5" data-src="../media/group_1_single_heavy.mp3" data-title="1st Group - Single Heavy Mood" onclick="playAudio(this); return false;">Single Heavy Mood</a><br>
+
+      <a id="audio6" data-src="../media/group_1_double_heavy.mp3" data-title="1st Group - Double Heavy Mood" onclick="playAudio(this); return false;">Double Heavy Mood</a><br>
+
+      <a id="audio7" data-src="../media/group_1_triple_heavy.mp3" data-title="1st Group - Triple Heavy Mood" onclick="playAudio(this); return false;">Triple Heavy Mood</a>
+
+      <br><br>
+
+      <strong>2nd Group</strong><br>
+
+      <a id="audio8" data-src="../media/group_2_quadruple_light.mp3" data-title="2nd Group - Quadruple Light Mood" onclick="playAudio(this); return false;">Quadruple Light Mood</a><br>
+
+      <a id="audio9" data-src="../media/group_2_double_light.mp3" data-title="2nd Group - Double Light Mood" onclick="playAudio(this); return false;">Double Light Mood</a><br>
+
+      <a id="audio10" data-src="../media/group_2_single_light.mp3" data-title="2nd Group - Single Light Mood" onclick="playAudio(this); return false;">Single Light Mood</a><br>
+
+      <a id="audio11" data-src="../media/group_2_neutral.mp3" data-title="2nd Group - Neutral Mood" onclick="playAudio(this); return false;">Neutral Mood</a><br>
+
+      <a id="audio12" data-src="../media/group_2_single_heavy.mp3" data-title="2nd Group - Single Heavy Mood" onclick="playAudio(this); return false;">Single Heavy Mood</a><br>
+
+      <a id="audio13" data-src="../media/group_2_double_heavy.mp3" data-title="2nd Group - Double Heavy Mood" onclick="playAudio(this); return false;">Double Heavy Mood</a><br>
+
+      <a id="audio14" data-src="../media/group_2_quadruple_heavy.mp3" data-title="2nd Group - Quadruple Heavy Mood" onclick="playAudio(this); return false;">Quadruple Heavy Mood</a>
+
+      <br><br>
+
+      <strong>3rd Group</strong><br>
+
+      <a id="audio15" data-src="../media/group_3_light.mp3" data-title="3rd Group - Light Mood" onclick="playAudio(this); return false;">Light Mood</a><br>
+
+      <a id="audio16" data-src="../media/group_3_heavy.mp3" data-title="3rd Group - Heavy Mood" onclick="playAudio(this); return false;">Heavy Mood</a>
+
+      <br><br>
+
+      <strong>4th Group</strong><br>
+
+      <a id="audio17" data-src="../media/group_4_neutral.mp3" data-title="4th Group - Neutral Mood" onclick="playAudio(this); return false;">Neutral Mood</a>
+
+
+    </div>
+
+    <script>
+
+      function playAudio(linkElement) {
+        var audioControl = document.getElementById("audioControl");
+        var audioTitle = document.getElementById("audioTitle");
+        audioControl.src = linkElement.getAttribute("data-src");
+        audioTitle.innerText = linkElement.getAttribute("data-title");
+        audioControl.style.display = "block";
+        audioTitle.style.display = "block";
+        audioControl.play();
+      }
+
+
+      // Get all the audio links on the page
+      var audioLinks = Array.from(document.getElementsByTagName("a"));
+
+      // Define a function to play a random audio
+      function playRandomAudio() {
+
+        // Shuffle the audioLinks array to randomize the order
+        shuffleArray(audioLinks);
+
+        // Pause and restart the current audio and update the current audio control variable
+        var audioControl = document.getElementById("audioControl");
+        audioControl.pause();
+        audioControl.currentTime = 0;
+
+        // Trigger the click event on the first randomly selected audio link to play it
+        var audioLink = audioLinks[0];
+        audioLink.click();
+      }
+
+      // Helper function to shuffle an array using the Fisher-Yates algorithm
+      function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [array[i], array[j]] = [array[j], array[i]];
+        }
+      }
+
+    </script>
+  </body>
+</html>

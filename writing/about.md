@@ -1,3 +1,5 @@
+<link href="../styles.css" rel="stylesheet" type="text/css" />
+
 ## About Shapes
 
 [In progress... still mostly notes!]
@@ -10,11 +12,12 @@ Shapes is addressed to an adult or young adult who says, in one way or another, 
 
 I've felt for a long time that I had a very specific answer to this question&mdash;one that could be deeply satisfying for the person asking&mdash;but there was no single place I could point to and say, "oh! you could start *here*."
 
-So I've felt something of a pressing need to make such a place exist. And as it's started to take form, I've been able to see more clearly that the project of developing a method&mdash;and the impulse to do such a thing in the first place&mdash;is very much about asking what it means to *know* music, whether learning brings about this kind of knowing or acts more as a kind of permission, and about discovering how profoundly the activity of learning music relies on the design of music theoretical ideas.
+So I've felt something of a personal need to make such a place exist. And as it's started to take form, I've been able to see more clearly that the project of developing a method&mdash;and the impulse to do such a thing in the first place&mdash;is very much about asking what it means to *know* music, whether learning brings about this kind of knowing or acts more as a kind of permission, and about discovering how profoundly the activity of learning music relies on the design of music theoretical ideas.
 
 So now that there *is* a place to point to,  I'll start by taking you on a tour, as briefly as possible, of what you'll find here. And then we'll be in a good position to ask some questions about why Shapes has taken the form it has.
 
 I'll start this tour by showing you the first lesson, which is my favorite way to introduce Shapes:
+
 
 <style>
 .embed-container {
@@ -37,12 +40,13 @@ I'll start this tour by showing you the first lesson, which is my favorite way t
 </div>
 
 
+<br><br>
 And with that bit of context, here’s a handy map of the whole method:
 
-![map](../map/map.png)
+<img src="../map/map.png" alt="shapes method map" style="display: block; margin: 0 auto; width: 100%; height: auto;">
 
 
-
+<br><br>
 You’ll find the first lesson where the land of Symbols overlaps with the land of Imagination. The shape draws on a learner’s implicit knowledge and makes it possible to improvise along with songs right away, to access a musical imagination that's already very active.
 
 Of course, the shape is a kind of diagram on an instrument, and so the path continues through the land of Symbols, into the land of Instruments, and then into a land where the instrument begins to disappear, to become internalized as the rational side of a learner's musical imagination.
@@ -205,7 +209,11 @@ and the nature of those ideas changed, they were no longer attached to their nam
 
 they could exist without names, in a way that clarified and organized the names
 
-and they also matched a symmetry of hands
+this diagram showed the entire (virtual) tonal space at once
+
+​	in ways that a key signature doesn't, it's abstracted, and it also depends on the process through which you've abstracted that idea, like as a kid learning "first F-sharp then C-sharp..."
+
+and it also matched a symmetry of hands
 
 moreover, all this felt closer to the way i had always understood music, or had wanted to, but couldn't reconcile with the ideas I'd been taught.
 
@@ -298,23 +306,3 @@ there are some...
 #### Going Forward
 
 and now what kinds of questions are possible going forward
-
-
-
-___
-
-
-
-#### Some Questions / Notes
-
-- Why do you end where you do? (Kate)
-- Why do you *start* where you do? (Peter)
-- “Expert Beginner”... we’ll have to talk about what this means
-- Psychological / perceptual difference in navigating the whole tonal space, all given at once.
-- why choose to make this a beginner method?
-- what about your own intuition? (Kate)
-- experimental method: developing the lessons, vs. telling how well they work.
-- what did you learn about this idea through teaching it?
-- historical nodes where this would have been taking a different route
-- A note that "fits" means a note that sounds like you would expect it to. Which suggests an intuition. (unpack this) 
-- ...

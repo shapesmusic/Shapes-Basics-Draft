@@ -305,6 +305,10 @@ Hear the notes that give structure to a song.
 
 **Notes**
 
+- at this point, try playing on your own without the song, too (?)
+    - and reiterate that in L10 changes, sets up L11 all groups which requires some playing on your own.
+    - also a kind of "free play" ending to this playing stretch, before moving into tonescapes & tactile reading...
+
 - Introduce bass notes around the anchor. Hear them structuring the song. Use them to create additional structures.
 - Look at Lesson 8 Notation alongside this one. They're related.
 - Some good bass note songs:
@@ -964,6 +968,7 @@ Learn the standard names for the moods.
 
 **Notes**
 
+- This is also a place to talk about the structure of the groups of shapes. Especially with the cosmology diagram. The second group sounds "floatier" because it stretches over more of the space.
 - There was a thought to put this after 19 - Moods. But that lesson is more about begining to recognize specific moods, whereas chord-modes follow from the combination of Changes (Lesson 10) and Groups of Shapes (Lesson 11).
   - but still, 19 is supposedly the introduction to modes. 
   - also, how does this relate to the Standard Mode Names (commentary?) at Lesson 33?
@@ -1080,6 +1085,9 @@ Recognize any mood and free play inside it.
 
 - 32 (imagery): all modes, free imagery
 - Shuffle all tonescapes, all groups.
+- group descriptions:
+  - “normal”, “mysterious”, “tense”, or “dreamy”.
+
 - Name the mood, and free play imagery inside of it.
 - not SR, but still imagery
 - ...this method starts playing along with music videos on a keyboard, and ends playing around in your imagination with a tonescape. and after the last lesson, it also implies that you could remove the tonescape and still play around in your imagination. so there's some representation here that you've "learned" it, internalized it, and the method itself is a kind of scaffolding, and it disappears.

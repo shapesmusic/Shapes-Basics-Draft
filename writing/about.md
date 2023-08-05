@@ -46,7 +46,7 @@ And with that bit of context, here’s a handy map of the whole method:
 <img src="../map/map.png" alt="shapes method map" style="display: block; margin: 0 auto; width: 100%; height: auto;">
 
 
-<br><br>
+<br>
 You’ll find the first lesson where the land of Symbols overlaps with the land of Imagination. The shape draws on a learner’s implicit knowledge and makes it possible to improvise along with songs right away, to access a musical imagination that's already very active.
 
 Of course, the shape is a kind of diagram on an instrument, and so the path continues through the land of Symbols, into the land of Instruments, and then into a land where the instrument begins to disappear, to become internalized as the rational side of a learner's musical imagination.

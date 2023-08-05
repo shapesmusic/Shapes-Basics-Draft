@@ -31,7 +31,7 @@ Lesson Sequences:
 <strong style="color: purple;">&bull;</strong> Lesson 8: Matching A Shape  
 <strong style="color: purple;">&bull;</strong> Lesson 9: Notes In Time  
 <strong style="color: red;">&bull;</strong> Lesson 10: Changes  
-<strong style="color: purple;">&bull;</strong> Lesson 11: Groups of Shapes  
+<strong style="color: purple;">&bull;</strong> [Lesson 11: Groups of Shapes](lessons/11-groups-of-shapes.md)  
 <strong style="color: blue;">&bull;</strong> [Lesson 12: Reading by Touch](lessons/12-reading-by-touch.md)  
 <strong style="color: green;">&bull;</strong> [Lesson 13: A Tonescape and Tensions](lessons/13-a-tonescape-and-tensions.md)  
 <strong style="color: orange;">&bull;</strong> [Lesson 14: Imagination as an Instrument](lessons/14-imagination-as-an-instrument.md)  

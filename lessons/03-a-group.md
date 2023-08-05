@@ -105,5 +105,4 @@ So see what you come up with, and when you feel comfortable naming and playing w
 
 ### Playlist
 
-Lesson 3 Playlist:  
-https://www.shapesmusic.com/a-group
+<a href="https://www.shapesmusic.com/a-group" target="_blank">Lesson 3 Playlist</a>

@@ -83,5 +83,4 @@ From there, you might decide to keep going, or stop, but ask yourself if you fee
 
 ### Playlist
 
-Lesson 1 Playlist:  
-https://www.shapesmusic.com/a-shape
+<a href="https://www.shapesmusic.com/a-shape" target="_blank">Lesson 1 Playlist</a>

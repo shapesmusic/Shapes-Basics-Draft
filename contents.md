@@ -55,7 +55,7 @@ Lesson Sequences:
 &nbsp;&nbsp;&nbsp;Commentary: Chord-Modes  
 <strong style="color: blue;">&bull;</strong> [Lesson 30: Incidentals](lessons/30-incidentals.md)  
 <strong style="color: green;">&bull;</strong>[ Lesson 31: Independent Solfege](lessons/31-independent-solfege.md)  
-<strong style="color: orange;">&bull;</strong> Lesson 32: Free Play  
+<strong style="color: orange;">&bull;</strong> [Lesson 32: Free Play](lessons/32-free-play.md)  
 
 #### Back Matter
 

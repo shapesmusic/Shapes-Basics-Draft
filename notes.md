@@ -1,7 +1,5 @@
 ### Acknowledgments
 
-**Location**
-
 **References**
 
 **Notes**
@@ -13,20 +11,11 @@
 
 ### Commentary: About Shapes
 
-**Location**
-
-- [about.md](writing/about.md)
-
 **References**
 
 **Notes**
 
-- include Abstract
-- colloquium as introduction
-- not sure where this fits in a table of contents. front matter?
-- Software as a medium:
-  - There's an awful lot of thinking that goes on behind the scenes for a project like this. And a big part of the project for me, too, is trying to build something that works, that people can use, and that reflects the principles of the method all the way down to the details of how, say, note names are represented in the data model. that meant learning to code. I've tried to capture at least some of all this process in the devJournal. Link some particularly good examples.
-  - you don't want the technology to do too much for you. that's a topic.
+- 
 
 
 
@@ -34,10 +23,6 @@
 ### Lesson 1 - A Shape
 
 Use a single shape to play along with a playlist of songs. Hear when notes fit or don't fit, and start to follow your musical intuition.
-
-**Location**
-
-- [01-a-shape.md](lessons/01-a-shape.md)
 
 **References**
 
@@ -62,10 +47,6 @@ Use a single shape to play along with a playlist of songs. Hear when notes fit o
 
 ### Commentary - Why Music Videos?
 
-**Location**
-
-- [01-why-music-videos.md](writing/01-why-music-videos.md)
-
 **References**
 
 - 2023-Spring 4.SO_Mus notes (Intuition)
@@ -75,15 +56,13 @@ Use a single shape to play along with a playlist of songs. Hear when notes fit o
 
 **Notes**
 
+- 
+
 
 
 ### Lesson 2 - Different Shapes
 
 Add some different shapes and continue playing along with songs.
-
-**Location**
-
-- [02-different-shapes.md](lessons/02-different-shapes.md)
 
 **References**
 
@@ -95,7 +74,7 @@ Add some different shapes and continue playing along with songs.
 
 **Notes**
 
-- Basics 2 & 3 were merged as 2A and 2B prior to 2022-03-04.
+- 
 
 **Wireframes**
 
@@ -105,10 +84,6 @@ Add some different shapes and continue playing along with songs.
 
 ### Commentary - What Is a Shape?
 
-**Location**
-
-- [02-what-is-a-shape.md](writing/02-what-is-a-shape.md)
-
 **References**
 
 - 2023-Spring 4.SO_Mus notes
@@ -116,19 +91,13 @@ Add some different shapes and continue playing along with songs.
 
 **Notes**
 
-- the last section "What *Is* a Shape?" feels a little long and a little repetitive. At some point, see if you can improve that?
-- based on the commentary after Lesson 7 (bass notes), a shape is also distinguished from a key signature in that it always describes the chord level (!) and not the key level, except by coincidence if all the chords are described by the same shape. Which means key signature, like Major or Minor key in functional tonality, is an abstraction from the core experience of playing with shapes. And so the experience is a way of understanding, feeling that distance.
-- add something about key signature at the chord level after the sentence: "And further, if the whole song is also in the same shape, then the shape will describe both an aspect of the song's key, and of its changing chords, at the same time. "
+- 
 
 
 
 ### Lesson 3 - A Group of Shapes
 
 See the shapes as a group, and add a way to name the shapes.
-
-**Location**
-
-- [03-a-group.md](lessons/03-a-group.md)
 
 **References**
 
@@ -141,7 +110,7 @@ See the shapes as a group, and add a way to name the shapes.
 
 **Notes**
 
-- Basics 2 & 3 were merged as 2A and 2B prior to 2022-03-04.
+- 
 
 **Wireframes**
 
@@ -153,9 +122,9 @@ See the shapes as a group, and add a way to name the shapes.
 
 ### Commentary - Is This the Circle of Fifths?
 
-**Location**
-
 **References**
+
+- 2023-Spring EMP notes
 
 **Notes**
 
@@ -165,10 +134,6 @@ See the shapes as a group, and add a way to name the shapes.
 
 Learn how your hands match the keyboard, and how to play hands together in any shape, beginning on any note, using only one fingering pattern.
 
-**Location**
-
-- [04-shape-fingerings.md](lessons/04-shape-fingerings.md)
-
 **References**
 - 2011-03-03 Provisional pp. 17-21, "Centered Keyboard" and "Shape Fingerings"
 - 2009-10 lesson sketch - the centered keyboard
@@ -176,8 +141,6 @@ Learn how your hands match the keyboard, and how to play hands together in any s
 
 **Notes**
 
-- Need filters for T, 5s, 4s... and tempo (see wireframe)
-- this lesson only has to cover the TOP shape, because the rest of the reading sequence fills in the other shapes.
 - in the future, if you keep doing this:
 
   - try playing contrary, opposite directions.
@@ -191,10 +154,6 @@ Learn how your hands match the keyboard, and how to play hands together in any s
 
 
 ### Commentary - The Centered Keyboard
-
-**Location**
-
-- [04-the-centered-keyboard.md](writing/04-the-centered-keyboard.md)
 
 **References**
 
@@ -210,10 +169,6 @@ Learn how your hands match the keyboard, and how to play hands together in any s
 
 Hear the one note all the others are pulling toward.
 
-**Location**
-
-- [05-the-anchor-note.md](lessons/05-the-anchor-note.md)
-
 **References**
 
 - 2021-10-12 JG Anchors Lesson (video)
@@ -221,7 +176,7 @@ Hear the one note all the others are pulling toward.
 
 **Notes**
 
-- Introduce the anchor, hear the pull, start to recognize it in songs.
+- 
 
 **Wireframes**
 
@@ -230,10 +185,6 @@ Hear the one note all the others are pulling toward.
 
 
 ### Commentary - What is the Anchor?
-
-**Location**
-
-- [05-what-is-the-anchor.md](writing/05-what-is-the-anchor.md)
 
 **References**
 
@@ -249,17 +200,13 @@ Hear the one note all the others are pulling toward.
 
 Use the anchor note to come up with some ideas for playing.
 
-**Location**
-
-- [06-playing-with-the-anchor.md](lessons/06-playing-with-the-anchor.md)
-
 **References**
 
 - 2013-01-27 wireframes lesson 4 script
 
 **Notes**
 
-- This is a way of using the anchor to focus what we play, balancing structured ideas with openness, listening, randomness.
+- 
 
 **Wireframes**
 
@@ -269,34 +216,19 @@ Use the anchor note to come up with some ideas for playing.
 
 ### Commentary - Musical Structures
 
-**Location**
-
 **References**
 
 - 2023-Spring 6.EMP notes - Playing With the Anchor
 
 **Notes**
 
-- formerly "Where Does Structure Come From?"
-- imagined structures, pre-notation, focused by the anchor.
-- in a strange way, it's a precursor to the structured "anchor-higher-lower" entry into a tonescape, and the way that moves into structured movement around a tonescape, and then gradually less structured movement--or rather, that the structuring becomes gradually more internalized.
-- So there's a sort of opposition being set up here, on one hand, a sort of rational structuring, and on the other, an imaginitive unstructuring.
-- originally, this included trying to figure out the melody. but that seems like a very different activity: figuring out a particular structure, versus focusing on the principles behind a particular structure that results.
-- people will start to bring their ideas (like chords) onto this lesson.
-- it also sounds more structured. which raises the question of how much of the structure comes from the concept.
-- the sense of play is aided by structure.
-- this also suggests some other ways to read the regions of overlap on the map. "Instruments-Imagination" can mean, as it does here at first, instruments to aid the imagination, but later, it can also become the imagination as itself an instrument. 
-- also, overlaps are spatially opposite to the center of a region--can you say, for example, that the overlap of Symbols and Instruments is somehow polar to the land of Imagination proper?
+- 
 
 
 
 ### Lesson 7 - Bass Notes
 
 Hear the notes that give structure to a song.
-
-**Location**
-
-- [07-bass-notes.md](lessons/07-bass-notes.md)
 
 **References**
 
@@ -328,8 +260,6 @@ Hear the notes that give structure to a song.
 
 ### Commentary - Key and Chord Levels
 
-**Location**
-
 **References**
 
 - devjournal [2022-11-24-Simplify-shape-anchor-bass-note-structure.md](https://github.com/davidforrest/devJournal/blob/main/shapes-backend/2022-11-24-Simplify-shape-anchor-bass-note-structure.md)
@@ -347,10 +277,6 @@ Hear the notes that give structure to a song.
 ### Lesson 8 - Matching A Shape
 
 Learn to match a shape with a song on your own.
-
-**Location**
-
-- [08-matching-a-shape.md](lessons/08-matching-a-shape.md)
 
 **References**
 
@@ -370,10 +296,6 @@ Learn to match a shape with a song on your own.
 ### Lesson 9 - Notes in Time
 
 Learn to represent bass notes using music notation.
-
-**Location**
-
-- [09-notes-in-time.md](lessons/09-notes-in-time.md)
 
 **References**
 - 2021-09-21 Bass Notes Review & Notes in Time w/Nora (Video)
@@ -395,10 +317,6 @@ Learn to represent bass notes using music notation.
 ### Lesson 10 - Changes
 
 Play with changing bass notes, anchors, *and* shapes.
-
-**Location**
-
-- [10-changes.md](lessons/10-changes.md)
 
 **References**
 
@@ -428,10 +346,6 @@ Play with changing bass notes, anchors, *and* shapes.
 
 Get to know three additional groups of shapes.
 
-**Location**
-
-- [11-groups-of-shapes.md](lessons/11-groups-of-shapes.md)
-
 **References**
 
 - 2009-10 lesson sketch - groups of shapes (part 2)
@@ -451,26 +365,17 @@ Begin to sight read music notation at the keyboard.
 
 *Introduce reading up to thumbs (A, 2H, 2L) in T, 5L, 5R (single light/heavy)*
 
-**Location**
-
-- [12-reading-by-touch.md](lessons/12-reading-by-touch.md)
-
 **References**
-
-- uses 23.5.25 SR neutral notation
-- playlist: https://www.shapesmusic.com/reading-1
-  - has a disproportionate number of 5L songs
 
 - 2020-11-12_mgf_notation_levels.mp3 (uses 2019-05-15 notation repo)
 - 2019-05-15 notation (repo)
   - steps from one note through thumb pivot
-  - Uses 2016-12-29 SR_Tactile notation levels rebuild 
-    - rebuilt from 13.9.12 SR notation levels
+- Uses 2016-12-29 SR_Tactile notation levels rebuild 
+  - rebuilt from 13.9.12 SR notation levels
 
 **Notes**
 
-- this is the first time we use notation for melodies, or for vocab other than bass notes.
-- need to modify this wireframe's notation
+- 
 
 **Wireframes**
 
@@ -482,10 +387,6 @@ Begin to sight read music notation at the keyboard.
 
 Begin to recognize the sounds of individual notes in a tonescape.
 
-**Location**
-
-- [13-a-tonescape-and-tensions.md](lessons/13-a-tonescape-and-tensions.md)
-
 **References**
 
 - 2023_Spring 1_13_15_tonescapes intro
@@ -495,11 +396,7 @@ Begin to recognize the sounds of individual notes in a tonescape.
 
 **Notes**
 
-- 13 (tensions): introduce a tonescape, anchor, higher, lower
-  - tonescapes_0 neutral tonescape by itself
-  - tonescapes_1 anchor, higher, lower
-- am I beginning to make a distinction between "notes" and "tensions" here? Is the anchor a tension, or a note?
-  - --> they are notes. and the relationship of other notes to the anchor are tensions. so you can have the feeling of tensions, but you recognize notes, and draw notes out of the tonescape.
+- 
 
 
 
@@ -507,10 +404,6 @@ Begin to recognize the sounds of individual notes in a tonescape.
 ### Lesson 14 - Imagination as an Instrument
 
 Begin to draw individual notes out of the tonescape.
-
-**Location**
-
-- [14-imagination-as-an-instrument.md](lessons/14-imagination-as-an-instrument.md)
 
 **References**
 
@@ -521,10 +414,7 @@ Begin to draw individual notes out of the tonescape.
 
 **Notes**
 
-- 14 (imagery): listening inside a tonescape
-  - tonescapes_0 neutral tonescape by itself
-  - inside_a_tonescape
-  - tonescapes_3 anchor, higher, lower ACTIVE (3 notes in one tonescape)
+- 
 
 
 
@@ -532,18 +422,12 @@ Begin to draw individual notes out of the tonescape.
 
 Add two more notes to recognize in a tonescape.
 
-**Location**
-
 **References**
 
 - 2023_Spring 1_13_15_tonescapes intro
 
 **Notes**
 
-- 15 (tensions): anchor, 2 higher, 2 lower
-  - tonescapes_2 anchor, 1, 2 higher/lower
-  - doesn't seem necessary to include the tonescape alone for this one.
-  
 - maybe can't say that the anchor is the lowest, highest, and middle note of the tonescape yet, or that there are three of the anchor and two of every other note, because octave equivalence doesn't happen until lesson 17.
   - but then, i also talk about the notes disappearing one by one at the end of the tonescape. And it's not as though we won't have already played on multi-octave keyboards for a while by this point... so I'll leave it in there and see what happens.
 
@@ -551,8 +435,6 @@ Add two more notes to recognize in a tonescape.
 
 
 ### Commentary - What is a Tonescape?
-
-**Location**
 
 **References**
 - 2020-11-06.2_mgf_tonescapes_overview.mp3
@@ -568,6 +450,7 @@ Add two more notes to recognize in a tonescape.
   - focus, active listening
   - and pitch training. anchor and tensions, which will connect to analytical skills down the road
   - This is getting at an internal mechanism of being able to speak this language of pitches, that's controllable, it's part of a kind of fluency.
+- also a relationship between "thinking v feeling" and how tonescapes enables (or highlights?) this, and the relationship of moods to chord-modes
 - future talk
   - So you'll start to be able to hear a note in a song and know what it is, but you'll also be able to hear a note in your imagination and know what it is, and how to work with it, to sing it.
   - Once you've got anchor, 2 higher, and 2 lower, when you think about it, that's already 5 of 7 notes of the shape. So you're already well on your way to building your internal instrument. To translate that to a *real* instrument will be an intellectual step, but you're developing the perception that underlies that.
@@ -586,20 +469,13 @@ Add two more notes to recognize in a tonescape.
 
 Using notation, add two additional notes to draw out of the tonescape.
 
-**Location**
-
-- [16-reading-by-ear.md](lessons/16-reading-by-ear.md)
-
 **References**
 
 - 2023-Spring 2_14_16_tonescapes_active
 
 **Notes**
 
-- 16 (imagery): add 2 higher, 2 lower ACTIVE (5 notes in one tonescape)
-  - reading_imagery_1 A-2H-2L, no spaces, stepwise only
-  - reading_imagery_2 A-2H-2L, no spaces, random, not stepwise
-- not putting a note to "flip upside down for variation" until L20. seems unnecessary for the first time. 
+- 
 
 
 
@@ -608,10 +484,6 @@ Using notation, add two additional notes to draw out of the tonescape.
 
 Begin to hear notes in any octave as tensions to the anchor.
 
-**Location**
-
-- [17-switch-to-number-names.md](lessons/17-switch-to-number-names.md)
-
 **References**
 
 - 2023-Spring 3_17_tonescapes_passive
@@ -619,32 +491,7 @@ Begin to hear notes in any octave as tensions to the anchor.
 
 **Notes**
 
-- 17 (tensions): octave equivalence, switch to number names
-  - tonescapes_4 anchor, 2nd, 7th, with different octaves, neutral mood
-  - tonescapes_5 anchor, 2nd, 3rd, 7th, 6th, with different octaves, neutral mood
-- Marked as (T)heory, but perhaps not so (T) after all, because equalizing octaves is a skill...
-
-- "so far in the tonescape, you've been **working with** the anchor, one and two higher..." (write these so they follow from the previous lesson, not only the previous lesson in that thread)
-
-- **More Tips** (what to do with this?)
-
-> If you're having trouble, one thing that can help is to be able to play the notes on an instrument, so you have more control over which note you hear, and when, as you try to match the note with your voice.
->
-> These are the keys on the keyboard that correspond to the Anchor, 2nd, and 7th:
->
-> [image]
->
-> You can play these keys in the middle octave at first, match them with your voice, and then play the same keys in the octave higher, and the octave lower.
->
-> Along with the [tonescape](../media/group_1_neutral.mp3).
->
-> If you don't have access to a keyboard, try [this](https://www.onlinepianist.com/virtual-piano) online piano site
->
-> Use I-O-P keys
->
-> And B-N-M for the octave higher
->
-> Then expand to the 3rd and 6th (another bottom key in either direction)
+- 
 
 
 
@@ -654,18 +501,12 @@ Begin to hear notes in any octave as tensions to the anchor.
 
 *Add pivot to all notes in T, 5L, 5R, 4L, 4R (adds 4th & 5th)*
 
-**Location**
-
 **References**
 
 **Notes**
 
-- mention moods in songs (rel/timing with tonescapes?)
-  - for songs with the same shape and anchor, can you notice a similar overall feeling in the song?
-  - look at L19
-
-- reiterate that it's the same fingering for each new shape you add. start with the fingering for the previous shape you know, and then adjust one finger for the next shape. That's a different way to think of it than "start with the basic fingering and move into the shape." Both are good, but different.
-- need to modify this wireframe's notation & shape
+- 
+  
 
 **Wireframe**
 
@@ -680,28 +521,14 @@ Begin to hear notes in any octave as tensions to the anchor.
 
 Begin to recognize the overall feelings of different tonescapes.
 
-**Location**
-
-- [19-moods.md](lessons/19-moods.md)
-
 **References**
 
 - Spring-2023 6_19_intro_moods
 
 **Notes**
 
-- 19 (tensions): add single light & single heavy moods
-  - tonescapes_5 anchor, 2nd, 3rd, 7th, 6th, with different octaves, neutral mood
-  - tonescapes_6 anchor, 2nd, 3rd, 7th, 6th, with different octaves, Dominant mood (Lighter)
-  - tonescapes_7 anchor, 2nd, 3rd, 7th, 6th, with different octaves, Minor mood (Heavier)
+- 
   
-- **as you're adding modes:** (maybe just for double & triple light/heavy?)
-
-  - the two new modes you're learning with pitches inside them
-  - tonescapes for all the modes so far so you can shuffle, get inside, and ID them [this was for FR Music. Otherwise it's separated into passive & active tonescapes lessons.]
-  - all the pitches for all the modes so far in the neutral tonescape.
-
-  then, finally, drop the tonescape for all pitches.
 
 
 
@@ -709,26 +536,17 @@ Begin to recognize the overall feelings of different tonescapes.
 
 Draw notes out of two additional tonescapes.
 
-**Location**
-
 **References**
 
 **Notes**
 
-- 20 (imagery): add single light & single heavy moods ACTIVE (5 notes in 3 tonescapes)
-  - reading_imagery_1 A-2H-2L, no spaces, stepwise only
-  - reading_imagery_2 A-2H-2L, no spaces, random, not stepwise
-- SR Imagery sequence in neutral, single light, and single heavy moods
-- anchor, 2nd, 3rd, 7th, 6th.
-- same notations as Lesson 16: reading_imagery_1 and reading_imagery_2
+- 
 
 
 
 ### Lesson 21 - Light and Heavy Tensions
 
 Listen to the tensions that make one mood feel different from another.
-
-**Location**
 
 **References**
 
@@ -737,12 +555,7 @@ Listen to the tensions that make one mood feel different from another.
 
 **Notes**
 
-- 21 (tensions): switch to light/heavy tension names (still 3 moods)
-  - tonescapes_8 Dorian mood (Heavy 3rd, Light 6th)
-  - tonescapes_9 Dominant mood (Light 3rd, Light 6th)
-  - tonescapes_10 Minor mood (Heavy 3rd, Heavy 6th)
-  - tonescapes_11 All 3rds and 6ths with Dorian mood
-- Marked as (T)heory. But again, it's a skill of naming.
+- 
 
 
 
@@ -750,28 +563,11 @@ Listen to the tensions that make one mood feel different from another.
 
 Draw all the tensions out of three tonescapes.
 
-**Location**
-
 **References**
 
 **Notes**
 
-- 22 (imagery): add 4th and 5th ACTIVE (7 notes in 3 tonescapes) [active first]
-  - reading_imagery_3 All tensions, no spaces, move anchor, stepwise only
-  - reading_imagery_4 all tensions, no spaces, center anchor, random, not stepwise
-- This lesson was inserted, became Lesson 24, and all lessons previously 24+ got increased a number.
-- Continue SR Imagery sequence in neutral, single light, and single heavy moods
-- Add 4th and 5th
-
-- Added this lesson to **introduce the 4th and 5th actively rather than passively.** This is how it happened in FR_Mus Spring 2023. Also then there are 5 parts each of Reading by Ear and Reading by Touch, and separate active lessons for single light/heavy and double light/heavy moods.
-- notation: reading_imagery_2
-  - All tensions, no spaces
-  - move anchor
-  - stepwise only
-- and notation: reading_imagery_3
-  - all tensions, no spaces
-  - center anchor
-  - random, not stepwise
+- 
 
 
 
@@ -781,14 +577,11 @@ Draw all the tensions out of three tonescapes.
 - the notation shifts to moveable anchor
 - the notation extends to move throughout the shape, 2nd pivot
 
-**Location**
-
 **References**
 
 **Notes**
 
-- include playing through the shape fingering?
-- update wireframe
+- 
 
 **Wireframes**
 
@@ -800,22 +593,11 @@ Draw all the tensions out of three tonescapes.
 
 Add the remaining tensions in three moods.
 
-**Location**
-
-- [24-moods-and-tensions-together.md](lessons/24-moods-and-tensions-together.md)
-
 **References**
 
 **Notes**
 
-- 24 (tensions): add 4th and 5th PASSIVE (still 3 moods)
-  - tonescapes_12 Dorian Mode, add 4th & 5th
-  - tonescapes_13 Dominant Mode, add 4th & 5th
-  - tonescapes_14 Minor Mode, add 4th & 5th
-  - tonescapes_15 All tensions with Dorian Mode (all tensions for 3 modes, including 4th & 5th)
-- Add 4th and 5th (all diatonic tensions)
-- mention here that when you listen to songs, now you may begin to hear different notes as tensions to the anchor. that's the framing for why we're doing this. the tonescape represents a song. you start to hear any note as a tension in a mood. and as each note begins to take on its particular feeling of tension, this is also what gives you a clear sense of where the anchor is.
-  - also importance of staying oriented to the anchor, rather than listening from note to note, from the last note to the next. because in music, when we listen, it's not as though we're measuring the intervals from one note to the next, to the next. what we hear is a relationship between all the notes, a shared relationship to the anchor.
+- 
 
 
 
@@ -824,22 +606,11 @@ Add the remaining tensions in three moods.
 
 Add two additional moods along with their tensions.
 
-**Location**
-
-- [25-getting-inside-of-moods.md](lessons/25-getting-inside-of-moods.md)
-
 **References**
 
 **Notes**
 
-- 25 (tensions): add double light and double heavy moods
-  - tonescapes_16 double light tensions
-  - tonescapes_17 double heavy tensions
-  - tonescapes_18 all double in neutral
-- Add double light & double heavy tonescapes, shuffle all.
-  
-- Add light 7th and heavy 2nd
-- bring all tensions & names thus far together in the neutral tonescape.
+- 
 
 
 
@@ -847,24 +618,16 @@ Add two additional moods along with their tensions.
 
 Draw all the tensions out of the tonescape, and add two additional moods.
 
-**Location**
-
 **References**
 
 **Notes**
 
-- 26 (imagery): add double light and double heavy moods (7 notes in 5 tonescapes)
-  - shuffle 5 tonescapes (all so far)
-  - reading_imagery_3 All tensions, no spaces, move anchor, stepwise only
-  - reading_imagery_4 all tensions, no spaces, center anchor, random, not stepwise
-
-- you might also recognize these moods in songs...
+- 
+  
 
 
 
 ### Commentary - Shape and Standard Notation
-
-**Location**
 
 **References**
 
@@ -885,18 +648,11 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 *Add 3L/3R, 2L/2R, introduce rhythmic notation*
 
-**Location**
-
 **References**
 
 **Notes**
 
-- Add rhythmic note values to your reading at the keyboard.
-- Was marked as (T)heory
-- Introduce rhythmic note symbols as subdivisions
-- Align different subdivisions with pulse dots, what looks best?
--  And possible to remove pulse dots (abstracts away from regular note spacing)
-- update this wireframe?
+- 
 
 **Wireframes**
 
@@ -908,24 +664,11 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 Add two remaining moods along with their tensions.
 
-**Location**
-
-- [28-all-moods-and-tensions.md](lessons/28-all-moods-and-tensions.md)
-
 **References**
 
 **Notes**
 
-- 28 (tensions): Add triple light & triple heavy moods
-  - tonescapes_19 triple light tensions
-  - tonescapes_20 triple heavy tensions
-  - tonescapes_21 all triple in neutral
-- Add triple light & triple heavy tonescapes (all moods), shuffle all.
-- Add light fourth / heavy fifth
-- use "light/heavy" names for all tensions (except "neutral" 4th and 5th. will need to explain this)
-- Bring all tensions so far into the neutral tonescape. Relate to incidentals.
-- free play in all moods. think of "6th" as a generalization of "light/heavy" 6ths.
-- pick some structures out of songs, like changing bass notes, or some melodies.
+- 
 
 
 
@@ -935,34 +678,17 @@ Add two remaining moods along with their tensions.
 
 Draw all the tensions out of all moods.
 
-**Location**
-
 **References**
 
 **Notes**
 
-- *Why* the move up or down four notes trick works. it's an inverse of the difference between the tension that changes from shape to shape. 
-- 30 (imagery): add triple light and heavy moods (7 notes, 7 tonescapes)
-  
-  reading_imagery_3 All tensions, no spaces, move anchor, stepwise only
-  
-  - reading_imagery_4 all tensions, no spaces, center anchor, random, not stepwise
-- SR Imagery sequence all moods
-- All diatonic tensions
-- Bring in some rhythmic note symbols (or maybe leave time out of imagery...)
-- **also in this lesson:** introduce the idea that you can reorient your attention to any note in the tonescape as the anchor.
-  - we've been keeping the same anchor and changing the notes around it, because this makes the moods stand out. But rather than hearing a note as a tension, see if you can reorient yourself to hear it as the anchor, then recognize the mood it creates, and read in it.
-  - this also touches on the idea of mood notes.
-- --> that making a change to each (any) of the 7 notes in a mood creates a new mood. what this is doing keeping the same anchor, but changing the collection of notes around it. You can also keep the same collection of notes and reorient yourself to a different anchor, and you'll create these moods.
-  - not exactly true: there's not change to the anchor, and the anchor is one of the 7 notes. it's more that you orient yourself to any one of the 7 notes. maybe just don't say "7."
+- 
 
 
 
 ### Commentary - Chord-Modes
 
 Learn the standard names for the moods.
-
-**Location**
 
 **References**
 
@@ -1009,8 +735,6 @@ Learn the standard names for the moods.
 - use mood playlists for reading incidentals
 - make a notation that jumps around (random-ish). so you start to use the fingering and the incidentals as a snap-back guideline for reading/playing.
 
-**Location**
-
 **References**
 
 **Notes**
@@ -1018,17 +742,7 @@ Learn the standard names for the moods.
 - Notation with incidentals
   - i wish i could have done reversible notations, but the incidental symbols have to be to the left of the note head...
   - you wouldn't have a heavy 5th in a mood with a light 4th. but you might have a light 5th. why, then, wouldn't you call it a heavy 6th instead? are these different departures to the same note outside the shape? or is it a matter of the direction of the line? or... does the choice of incidental say something about the mood (or potential moods) that incidental is implying? how would that relate to saying that the incidental allows you *not* to think in terms of the new mood, and to keep your attention in the context you're already in?
-  
-- for Incidentals:
-  - relate to the "light/heavy" tensions in tonescapes (incidentals connected to these notes that have changed in each mood)
-  - "Learn how to notate tensions outside of the shape."
-  - Marked as (T)heory
-  - Introduce incidentals as a way of notating tensions outside of the shape (or mood?).
-  - "light / heavy" or "up, down, return-to" names are a way of abstracting the function of accidentals from a particular diatonic context. in this way, they pair with independent solfege.
-- Read with changing songs (?) 
-  - if this were to include incidentals, it would also need a dynamically generated notation&mdash;it couldn't be paper-based.
-
-- update this wireframe
+- 
 
 **Wireframes**
 
@@ -1040,8 +754,6 @@ Learn the standard names for the moods.
 
 Recognize all the tensions without a tonescape.
 
-**Location**
-
 **References**
 
 - for Indepsol:
@@ -1050,25 +762,8 @@ Recognize all the tensions without a tonescape.
 
 **Notes**
 
-- 31 (tensions): all tensions, no tonescape
+- 
   
-  - tonescapes_22 all tensions (all triple) no tonescape
-- Continue all tensions so far into the neutral tonescape.
-- Then drop the tonescape and stay oriented to the anchor.
-  - the tensions, while taken out of context of their original moods, were in context of the neutral mood, even the ones that aren't a part of that mood. (I'd mentioned mood context in the "All Moods and Tensions" lesson where we add triple light and heavy moods)
-
-- Try this with Indepent Solfege Names, too (gateway to Independent Relationship).
-
-  - introduce indepsol names (things that don't transpose), as the symbol equivalent of a distinctive key on the keyboard.
-
-    Distinguish these kinds of names from relative names.
-
-- For indepsol:
-
-  - was marked as (T)heory
-  - Introduce independent solfege names & distinguish from relative names.
-  - names that work kinda the way pointing to a key on the keyboard does.
-  - what application does this have in the beginner sequence? is it purely theoretical? would i make a version of the last lesson with indepsol names? because that would still be hearing the notes in terms of relationships. maybe at this point it is just a commentary about naming. "the note Ba is a light seventh, now the same note Ba is a heavy third."
 
 
 
@@ -1077,28 +772,15 @@ Recognize all the tensions without a tonescape.
 
 Recognize any mood and free play inside it.
 
-**Location**
-
 **References**
 
 **Notes**
 
-- 32 (imagery): all modes, free imagery
-- Shuffle all tonescapes, all groups.
-- group descriptions:
-  - “normal”, “mysterious”, “tense”, or “dreamy”.
-
-- Name the mood, and free play imagery inside of it.
-- not SR, but still imagery
-- ...this method starts playing along with music videos on a keyboard, and ends playing around in your imagination with a tonescape. and after the last lesson, it also implies that you could remove the tonescape and still play around in your imagination. so there's some representation here that you've "learned" it, internalized it, and the method itself is a kind of scaffolding, and it disappears.
+- 
 
 
 
 ### Glossary
-
-**Location**
-
-- [glossary.md](writing/glossary.md)
 
 **References**
 

@@ -249,6 +249,10 @@ So on one screen, you could have a keyboard, music video, sound, playlist, and l
 
 
 
+ But you don't want the technology to do too much for you...
+
+
+
 ##### Data Model
 
 the analysis model for songs developed alongside the ideas and needs of the method. 

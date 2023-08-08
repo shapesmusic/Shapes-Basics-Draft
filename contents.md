@@ -17,12 +17,12 @@ Lesson Sequences:
 <strong style="color: purple;">&bull;</strong> [Lesson 1: A Shape](lessons/01-a-shape.md)  
 &nbsp;&nbsp;&nbsp;Commentary: Why Music Videos?  
 <strong style="color: purple;">&bull;</strong> [Lesson 2: Different Shapes](lessons/02-different-shapes.md)  
-&nbsp;&nbsp;&nbsp;[Commentary: What Is a Shape?](writing/02-what-is-a-shape.md)  
+&nbsp;&nbsp;&nbsp;[Commentary: What Is a Shape?](writing/02-what-is-a-shape.html)  
 <strong style="color: purple;">&bull;</strong> [Lesson 3: A Group of Shapes](lessons/03-a-group.md)  
 &nbsp;&nbsp;&nbsp;Commentary: Is This the Circle of Fifths?  
 <strong style="color: blue;">&bull;</strong> [Lesson 4: Shape Fingerings](lessons/04-shape-fingerings.md)  
 &nbsp;&nbsp;&nbsp;Commentary: The Centered Keyboard  
-<strong style="color: red;">&bull;</strong> Lesson 5: The Anchor Note  
+<strong style="color: red;">&bull;</strong> [Lesson 5: The Anchor Note](lessons/05-the-anchor-note.md)  
 &nbsp;&nbsp;&nbsp;Commentary: What is the Anchor?  
 <strong style="color: purple;">&bull;</strong> Lesson 6: Playing With the Anchor  
 &nbsp;&nbsp;&nbsp;Commentary: Musical Structures  

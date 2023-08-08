@@ -1,3 +1,29 @@
+**Commentaries** (temporarily merged)
+
+[1 - Why Music Videos?](#1---why-music-videos)
+
+[2 - What Is a Shape?](#2---what-is-a-shape)
+
+[3 - Is This the Circle of Fifths?](#3---is-this-the-circle-of-fifths)
+
+[4 - The Centered Keyboard](#4---the-centered-keyboard)
+
+[5 - What is the Anchor?](#5---what-is-the-anchor)
+
+[6 - Musical Structures](#6---musical-structures)
+
+[7 - Key and Chord Levels](#7---key-and-chord-levels)
+
+[8 - What is a Tonescape?](#8---what-is-a-tonescape)
+
+[9 - Shape and Standard Notation](#9---shape-and-standard-notation)
+
+[10 - Chord-Modes](#10---chord-modes)
+
+[Glossary](#glossary)
+
+
+
 ## 1 - Why Music Videos?
 
 i'm trying to work with pitches, but to make that activity about more than pitches.

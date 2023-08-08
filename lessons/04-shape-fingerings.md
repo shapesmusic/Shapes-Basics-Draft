@@ -60,4 +60,4 @@ So give it a try. We'll expand the pattern into more shapes down the road, but s
 
 ### Playlist
 
-[Top Shape Playlist](https://www.shapesmusic.com/a-shape)
+<a href="https://www.shapesmusic.com/a-shape" target="_blank">Lesson 4 Playlist</a>

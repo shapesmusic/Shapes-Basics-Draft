@@ -124,7 +124,7 @@ See the shapes as a group, and add a way to name the shapes.
 
 **References**
 
-- 2023-Spring EMP notes
+- 2023-Spring 3.EMP notes
 
 **Notes**
 
@@ -171,6 +171,7 @@ Hear the one note all the others are pulling toward.
 
 **References**
 
+- 2023-Spring 5.SO_Mus notes
 - 2021-10-12 JG Anchors Lesson (video)
 - 2013-01-27 wireframes lesson 3 script
 
@@ -189,7 +190,7 @@ Hear the one note all the others are pulling toward.
 **References**
 
 - (writing/05-what-is-the-anchor.md)
-- 2023-Spring 4.SO_Mus notes
+- 2023-Spring 5.SO_Mus notes
 - 2023-Spring Wk 8.3 (phenomenon of the anchor in songs)
 
 **Notes**

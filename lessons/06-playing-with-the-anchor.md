@@ -2,15 +2,56 @@
 
 
 
+### Watch
+
+
+
+[coming soon]
+
+
+
+
 ### Transcript
 
-The sequence of ideas from app lesson 4:
-  - make up a beat with the anchor note
-  - alternate the anchor with a random note of the shape
-  - same thing, but play two random notes before coming back to the anchor.
-  - start on the anchor and only play every other note of the shape.
-  - play the anchor with one hand and any other note of the shape with the other hand at the same time. alternate hands.
-  - play the anchor with one hand, and any two notes with the other hand. alternate hands.
-  - try combining, expanding these ideas. for example, play two or more notes that skip every other note of the shape.
+Once you know the shape and the anchor, you can use them together to come up with some great-sounding ideas that add some structure to your playing.
 
-  Think of some kind of structuring idea in advance and try to use it. Be aware of the relationship of the principle and what results, with the anchor as an organizing principle. That's the point.
+To start, you can make up a beat with the anchor note, like this.
+
+[play]
+
+Then alternate the anchor with random notes of the shape, like this.
+
+[play]
+
+Now do the same thing, but play *two* random notes before you come back to the anchor.
+
+[play]
+
+Now let's change it up a little. Start on the anchor note and skip every *other* note of the shape, like this.
+
+[play]
+
+Or, play the anchor note with one hand and play any other note of the shape with your other hand at the same time.
+
+[play, then switch hands]
+
+Then keep playing the anchor note with one hand, but try any *two* notes with your other hand, like this.
+
+[play, then switch hands]
+
+You can also try combining and expanding these ideas. For example, play two or more notes that skip every other note of the shape.
+
+[play]
+
+Play around with these ideas, and experiment to see what you come up with on your own. 
+
+The point is to think of an idea in advance, using the shape and anchor, and then try it out and adjust it as you play. So you're still following your ear, only with a little more structure to work with.
+
+So give it a try. Pay attention to the relationship between the idea you start with, and what you actually end up playing, especially when you try the same idea with a few different songs. And once you've started to get the hang of using the shape and anchor together to add structure to your playing, then come on back for more.
+
+
+
+### Playlist
+
+<a href="https://www.shapesmusic.com/anchors" target="_blank">Lesson 6 Playlist</a>
+

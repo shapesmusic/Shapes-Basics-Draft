@@ -24,7 +24,7 @@ Lesson Sequences:
 &nbsp;&nbsp;&nbsp;Commentary: The Centered Keyboard  
 <strong style="color: red;">&bull;</strong> [Lesson 5: The Anchor Note](lessons/05-the-anchor-note.md)  
 &nbsp;&nbsp;&nbsp;Commentary: What is the Anchor?  
-<strong style="color: purple;">&bull;</strong> Lesson 6: Playing With the Anchor  
+<strong style="color: purple;">&bull;</strong> [Lesson 6: Playing With the Anchor](lessons/06-playing-with-the-anchor.md)  
 &nbsp;&nbsp;&nbsp;Commentary: Musical Structures  
 <strong style="color: red;">&bull;</strong> Lesson 7: Bass Notes  
 &nbsp;&nbsp;&nbsp;Commentary: Key and Chord Levels  

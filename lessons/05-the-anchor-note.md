@@ -16,11 +16,11 @@ Now that you can hear how a shape fits with a song, let's zero in on one particu
 
 The anchor note is like a magnet. As the other notes move away from it, they take on a feeling of tension, like they're stretched away from the anchor and want to pull back to it. And when they arrive back to the anchor, the tension goes away.
 
-Here are all the notes of the shape, with a pause each time we reach the anchor note:
+Here are all the notes of the shape, with a pause each time we reach the anchor note.
 
 [play]
 
-In fact, you can play random notes of the shape, followed by the anchor, and each note will sound like it's pulling toward the anchor, like this:
+In fact, you can play random notes of the shape, followed by the anchor, and each note will sound like it's pulling toward the anchor, like this.
 
 [play]
 

@@ -13,7 +13,7 @@
 
 ### Transcript
 
-Once you know the shape and the anchor, you can use them together to come up with some great-sounding ideas that add some structure to your playing.
+Once you know the shape and the anchor, you can use them together to come up with some great-sounding ideas as you play.
 
 To start, you can make up a beat with the anchor note, like this.
 
@@ -47,7 +47,7 @@ Play around with these ideas, and experiment to see what you come up with on you
 
 The point is to think of an idea in advance, using the shape and anchor, and then try it out and adjust it as you play. So you're still following your ear, only with a little more structure to work with.
 
-So give it a try. Pay attention to the relationship between the idea you start with, and what you actually end up playing, especially when you try the same idea with a few different songs. And once you've started to get the hang of using the shape and anchor together to add structure to your playing, then come on back for more.
+So give it a try. Pay attention to the relationship between the idea you start with, and what you actually end up playing, especially when you try the same idea with a few different songs. And once you've started to get the hang of using the shape and anchor together to add some structure to your playing, then come on back for more.
 
 
 

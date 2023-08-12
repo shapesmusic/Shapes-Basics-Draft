@@ -16,6 +16,40 @@
 
 ## 1 - Why Music Videos?
 
+Usually, when you start learning music, you begin by playing a simple song. You learn the notes one by one, you practice them in the same order until what you're playing begins to feel like music, and then you gradually build up to playing more and more difficult songs.
+
+But with Shapes, you don't start by playing a song. Instead, you start by playing along *with* songs.
+
+And not just with one song, but with *lots* of songs. An endless playlist of songs.
+
+And not just with songs, but with songs that have music videos.
+
+
+
+it's a feeling of something infinite, continuous. something that you don't build up to, but something that you're already wholly a part of.
+
+you're dropped into a world that's saturated with meaning. and the more current the song, the closer to now, the more inseparable it is from the world that created it.
+
+you experience this kind of meaning when, for example, the sound of one of the instruments in a song reminds you of other songs you know. Or when the clothes the dancers are wearing in a music video evoke a style... every little detail in a current song has the potential for infinite meaning
+
+a shape gives you a way to begin interacting with something infinite. and that interaction is emphasizing certain aspects of music, without excluding all the others.
+
+it's not the only way, by any means. but it's a way that generalizes between songs. it deals with notes. notes you can sing or play. and while fashion or the sound of an instrument may be more particular to a certain song or style, the domain of singable, playable notes has a place in every style
+
+and because it's so general, it's something you're already very familiar with. if you've ever heard a wrong note...
+
+so shapes is starting at that level, the level of what you know intuitively. it's not attempting to build up from smaller pieces, but to start with the biggest thing, the intuitive experience, and find its way to the particulars, the details.
+
+
+
+
+
+
+
+What's the deal?
+
+
+
 i'm trying to work with pitches, but to make that activity about more than pitches.
 
 so we're starting with something infinite and precategorical, especially because it's now. 
@@ -46,17 +80,7 @@ that's what a theoretical concept is. and when it stops being common, if it stop
 
 
 
-Usually when you start learning music, you start by playing some simple song.
 
-- usually you start by learning a song. but here, we're playing along with songs. and not just songs but current music videos. Why?
-
-But here we're starting with a whole bunch of songs. And endless bunch of songs.
-
-And they're not just songs, but they're current songs with music videos.
-
-And we're not just playing them, but we're playing *with* them. 
-
-What's the deal?
 
 
 
@@ -97,7 +121,7 @@ What this is meant to represent is the music in the air around us in the world. 
 
 
 
-* Why is this significant? It represents, largely something about how you listen to all music. The context through which you're hearing anything. Even if you listen to classical music or whatnot. 
+* **Why is this significant? It represents, largely something about how you listen to all music. The context through which you're hearing anything. Even if you listen to classical music or whatnot. 
 
 You can hum along with it. 
 
@@ -123,7 +147,7 @@ But we're focusing instead on this domain of pitch that would generalize from on
 
 #### Pitch Generalized
 
-in order to play *with* a song:
+** in order to play *with* a song:
 
 we were catching on to specific notes in the song, but also doing something way weirder than that--to abstract some collection of notes that don't necessarily occur in the song at that moment and sing them. And we did that, but we'd also latch on to sounds we *did* hear, and move away from them. 
 
@@ -142,11 +166,11 @@ and those are patterns that persist (in certain ways) through all music of all p
 
  The take away is that we're not coming into this with no intuitions about music, we're not starting from scratch, we're not learning the basics that we're then building music up from. We're starting with an infinite lot of stuff, and we're trying to build up from that, give an account of it, and make it into concepts that we can think about, work with, and then feed back into that loop of our intuitions. 
 
-
 Playing (or singing) along shows you that you know a lot of stuff about music already. You're not coming to this experience from scratch, and you're also not building it up from basics. You're starting top down.
 
 
-####Playing as a way of Listening
+
+#### Playing as a way of Listening
 
 Related to stepping inside the world of a concept. **This is a way that playing with the pitch collection domain can absorb all the infinite other domains, by placing you in the song and allowing you to notice them.**
 

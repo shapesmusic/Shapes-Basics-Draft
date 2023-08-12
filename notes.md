@@ -233,25 +233,14 @@ Hear the notes that give structure to a song.
 
 **References**
 
+- 2023-Spring 8.EMP notes - Bass Notes
 - [2021-10-19 Some Bass Notes](https://drive.google.com/file/d/1p7rA2N2TsbOB-jaAAlw7mo84C_3UjHEv/view?usp=sharing) (video)
 - 2021-09-21 Bass Notes Review & Notes in Time w/Nora (Video)
 
 **Notes**
 
-- at this point, try playing on your own without the song, too (?)
-    - and reiterate that in L10 changes, sets up L11 all groups which requires some playing on your own.
-    - also a kind of "free play" ending to this playing stretch, before moving into tonescapes & tactile reading...
-
-- Introduce bass notes around the anchor. Hear them structuring the song. Use them to create additional structures.
-- Look at Lesson 8 Notation alongside this one. They're related.
-- Some good bass note songs:
-
-    - I Like It, Enrique Iglesias
-    - one minute more, capital cities (easy, two notes)
-    - Counting Stars, One Republic (4 notes)
-    - New order
-    - El Perdedor Enrique Iglesias (2 sections with a connecting section--really good)
-- And repeating patterns of bass notes creating sections, song structure. And perhaps the relationship of those patterns to establishing a key-level anchor (the "defining structures" and structure numbers are fields in the db bass notes table...)
+- Shows the note and doesn't say "two lower than the anchor," etc. Saves that for L9 notation.
+    
 
 **Wireframes**
 
@@ -272,6 +261,7 @@ Hear the notes that give structure to a song.
 **Notes**
 
 - Also: the difference between a bass note (chord-level anchor) and a chord "root." That is, the difference between a chord as expression of a mode, versus voicing of a triadic chord structure.
+- And the relationship of bass note patterns to establishing a key-level anchor
 
 
 
@@ -299,13 +289,24 @@ Learn to match a shape with a song on your own.
 Learn to represent bass notes using music notation.
 
 **References**
-- 2021-09-21 Bass Notes Review & Notes in Time w/Nora (Video)
+- See L7 (Bass Notes) References
+- printed from `11.7.23 blank 4or5.ai`
+  - `11.7.23 blank 4 with shape.pdf` aka `blank_4_line_with_shape.pdf`
+  - `11.7.23 blank 5.pdf` aka `blank_5_line.pdf`
+
+- printed from `21.10.18 5-line with kybd.ai`
+  - `21.10.18 5-line with kybd.ai` aka `5-line with kybd.ai`
+
 
 **Notes**
 
+- begins to introduce degrees. a name for notes, relative to the anchor.
+  - strictly use "relative to the anchor" terminology. one higher than the anchor, two lower than the anchor. no "2 notes below the last note." because we don't have octave equivalence yet. 
+
 - Represent bass notes relative to the anchor using a staff instead of the keyboard. Then add a way to represent time.
-- Follows from 6, really
 - i'm making an argument to privilege sound--not "warping" the waveform to the grid.
+  - does notation require a notion of time, and what different approaches to and representations of time are possible? think of a scrolling display versus symbolic rhythmic notation.
+
 - see Lesson 28: after this notation, in theory, pulse dots would become regularly spaced (generalized away from the sound). Then rhythmic note symbols generalize even further to relationships.
 - The wireframe for this lesson has a waveform underlying the notation. This is impossible if the dots are to be evenly spaced. It highlights that the concept of regular pulse, at least as a step en route to notation, is already an abstraction from the sounding events (in real time) that create pulse in the music. This is foreshadowed in Lesson 7 by the question of whether Bass Note events, as markers of change at the chord level, can (or should) be abstracted from the actual moment when they sound in the music, if that moment isn't exactly aligned with a beat.
 

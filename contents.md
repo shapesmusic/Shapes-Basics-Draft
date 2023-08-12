@@ -26,7 +26,7 @@ Lesson Sequences:
 &nbsp;&nbsp;&nbsp;Commentary: What is the Anchor?  
 <strong style="color: purple;">&bull;</strong> [Lesson 6: Playing With the Anchor](lessons/06-playing-with-the-anchor.md)  
 &nbsp;&nbsp;&nbsp;Commentary: Musical Structures  
-<strong style="color: red;">&bull;</strong> Lesson 7: Bass Notes  
+<strong style="color: red;">&bull;</strong> [Lesson 7: Bass Notes](lessons/07-bass-notes.md)  
 &nbsp;&nbsp;&nbsp;Commentary: Key and Chord Levels  
 <strong style="color: purple;">&bull;</strong> Lesson 8: Matching A Shape  
 <strong style="color: purple;">&bull;</strong> Lesson 9: Notes In Time  

@@ -29,7 +29,7 @@ Lesson Sequences:
 <strong style="color: red;">&bull;</strong> [Lesson 7: Bass Notes](lessons/07-bass-notes.md)  
 &nbsp;&nbsp;&nbsp;Commentary: Key and Chord Levels  
 <strong style="color: purple;">&bull;</strong> Lesson 8: Matching A Shape  
-<strong style="color: purple;">&bull;</strong> Lesson 9: Notes In Time  
+<strong style="color: purple;">&bull;</strong> [Lesson 9: Notes In Time](lessons/09-notes-in-time.md)  
 <strong style="color: red;">&bull;</strong> Lesson 10: Changes  
 <strong style="color: purple;">&bull;</strong> [Lesson 11: Groups of Shapes](lessons/11-groups-of-shapes.md)  
 <strong style="color: blue;">&bull;</strong> [Lesson 12: Reading by Touch](lessons/12-reading-by-touch.md)  

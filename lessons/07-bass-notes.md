@@ -70,42 +70,37 @@ Experiment with this, and have fun. And when you feel like you've started to get
 
 ### Example Songs
 
-<a href="https://www.youtube.com/watch?v=JXgV1rXUoME" target="_blank">Doja Cat - You Right</a>  
+<a href="https://www.youtube.com/watch?v=JXgV1rXUoME" target="_blank">You Right - Doja Cat</a>  
 (1 pattern, 4 bass notes)
 
 <img src="../media//bass_notes/ex_1.gif" alt="Image" style="width: 30%;">
 
-<a href="https://www.youtube.com/watch?v=HEydV4B6mRQ" target="_blank">Rauw Alejandro & J Balvin - De Cora</a>  
+<a href="https://www.youtube.com/watch?v=HEydV4B6mRQ" target="_blank">De Cora - Rauw Alejandro & J Balvin</a>  
 (1 pattern, 4 bass notes)
 
 <img src="../media/bass_notes/ex_2.gif" alt="Image" style="width: 30%;">
 
-
-<a href="https://www.youtube.com/watch?v=BC19kwABFwc" target="_blank">Dua Lipa - Love Again</a>  
+<a href="https://www.youtube.com/watch?v=BC19kwABFwc" target="_blank">Love Again - Dua Lipa</a>  
 (1 pattern, 4 bass notes)
 
 <img src="../media/bass_notes/ex_3.gif" alt="Image" style="width: 30%;">
 
-
-<a href="https://www.youtube.com/watch?v=Zc3cxj5pDIs" target="_blank">Jason Aldean & Carrie Underwood - If I Didn't Love You</a>  
+<a href="https://www.youtube.com/watch?v=Zc3cxj5pDIs" target="_blank">If I Didn't Love You - Jason Aldean & Carrie Underwood</a>  
 (1 pattern, 4 bass notes)
 
 <img src="../media/bass_notes/ex_4.gif" alt="Image" style="width: 30%;">
 
-
-<a href="https://www.youtube.com/watch?v=ymIi1kLLmWw" target="_blank">Poo Bear - The Day You Left</a>  
+<a href="https://www.youtube.com/watch?v=ymIi1kLLmWw" target="_blank">The Day You Left - Poo Bear</a>  
 (1 pattern, 4 bass notes)
 
 <img src="../media/bass_notes/ex_5.gif" alt="Image" style="width: 30%;">
 
-
-<a href="https://www.youtube.com/watch?v=wvsP_lzh2-8" target="_blank">Lorde - Solar Power</a>  
+<a href="https://www.youtube.com/watch?v=wvsP_lzh2-8" target="_blank">Solar Power - Lorde</a>  
 (2 patterns, 4 bass notes each)
 
 <img src="../media/bass_notes/ex_6.gif" alt="Image" style="width: 30%;">
 
-
-<a href="https://www.youtube.com/watch?v=CFMz9DOhaJ8" target="_blank">Ava Max - Every Time I Cry</a>  
+<a href="https://www.youtube.com/watch?v=CFMz9DOhaJ8" target="_blank">Every Time I Cry - Ava Max</a>  
 (2 patterns, 4 bass notes each)
 
 <img src="../media/bass_notes/ex_7.gif" alt="Image" style="width: 30%;">

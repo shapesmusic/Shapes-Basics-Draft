@@ -240,7 +240,7 @@ Hear the notes that give structure to a song.
 **Notes**
 
 - Shows the note and doesn't say "two lower than the anchor," etc. Saves that for L9 notation.
-    
+  
 
 **Wireframes**
 
@@ -308,6 +308,7 @@ Learn to represent bass notes using music notation.
   - does notation require a notion of time, and what different approaches to and representations of time are possible? think of a scrolling display versus symbolic rhythmic notation.
 
 - see Lesson 28: after this notation, in theory, pulse dots would become regularly spaced (generalized away from the sound). Then rhythmic note symbols generalize even further to relationships.
+- abstracted time, the idea of a regular pulse. think about how different this is from the actual events taking place in the music (shape and standard notation commentary?)
 - The wireframe for this lesson has a waveform underlying the notation. This is impossible if the dots are to be evenly spaced. It highlights that the concept of regular pulse, at least as a step en route to notation, is already an abstraction from the sounding events (in real time) that create pulse in the music. This is foreshadowed in Lesson 7 by the question of whether Bass Note events, as markers of change at the chord level, can (or should) be abstracted from the actual moment when they sound in the music, if that moment isn't exactly aligned with a beat.
 
 **Wireframes**
@@ -635,6 +636,13 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 **Notes**
 
+- start with the pitch relationships (remove key sig, accidentals, etc). but also talk about time:
+  - in L9 the notes arrange pitch on the staff, but time is represented in the lines themselves, and pulse dots. 
+  - then in L27, time transitions from the staff into the note symbols themselves. 
+  - so in L9, a bass note that falls in between beats is notated between dots.
+  - and this is still abstracted from clock time, or a piano roll, because the dots represent pulse, which can speed up and slow down, and these dots are regularly spaced. 
+  - music notation is always, inherently a kind of relative time, not clock time. that may be its most important significant temporal difference from a piano roll. it's why scrolling notations have to speed up and slow down to match with clock time.
+  
 - There's no explicit sequence for the notation system--it's embedded across the other threads:
   - Staff is introduced in Lesson 9 - Notes In Time (Playing & Vocab)
   - used (and developed?) in Lesson 10 - Changes (Chord & Key)

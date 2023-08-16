@@ -275,12 +275,7 @@ Learn to match a shape with a song on your own.
 
 **Notes**
 
-- Match a song with a shape on your own. Start by using a diagram, then use adjacent notes to fill in the shape.
-- I never quite do matching anchors on your own. How do I account for that?
-- also for this lesson:
-  - ambiguity, songs that might have different possibilities.
-  - so the playlist becomes a guideline, and you might not agree with it. 
-  - also the possibility that on a second listening, following more context, your perception of the original context has changed.
+- 
 
 
 **Wireframes**

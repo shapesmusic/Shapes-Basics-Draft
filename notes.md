@@ -277,6 +277,11 @@ Learn to match a shape with a song on your own.
 
 - Match a song with a shape on your own. Start by using a diagram, then use adjacent notes to fill in the shape.
 - I never quite do matching anchors on your own. How do I account for that?
+- also for this lesson:
+  - ambiguity, songs that might have different possibilities.
+  - so the playlist becomes a guideline, and you might not agree with it. 
+  - also the possibility that on a second listening, following more context, your perception of the original context has changed.
+
 
 **Wireframes**
 
@@ -325,18 +330,23 @@ Play with changing bass notes, anchors, *and* shapes.
 
 **Notes**
 
-- Introduce changing shapes and anchors. Distinguish changes at the key and chord levels.
-- how exactly to do this graphically? two kinds of anchor arrows? the Lesson 10 wireframe is too complicated.
-  - the L10 notation comes immediately after the L9 notation for bass notes. So it shouldn't attempt to change the notation of bass notes (as notes) to small anchor arrows. This means it won't represent note events that aren't bass notes.
-  - this only becomes an issue (maybe?) if i want to do the tactile SR sequence through changing shapes. then, yes, i would need to move bass notes (as notes) into a chord-level anchor symbol, or into a mode name.
+- about the L10 notation
+
+  - chord-level anchors are still represented by notes. not by a separate arrow.
+  - so this notation won't represent note events that aren't bass notes. for example, tactile reading through changing shapes.
+  - separate key- and chord-level anchors are possible, but complicates the notation graphically. a good reason to move both into a mood name.
+
+- graphically
+
+  - in a changing shape, the new shape wants to align with the leftmost edge of the note that signals the change. or if no note, the center of the pulse dot. who'd'a thunk.
+  - but if there's also an anchor change, the shape aligns with the anchor clef, preceding the first pulse where the change takes place.
+
+- the wireframe
+
   - i may also consider moving the key level anchor arrow to the middle line rather than the far left of the notation--to the point where the scrolling note is meant to be read in time.
-- compare to how this works in single shape w/ changing bass notes (the notation in Level 9, with a single anchor). also how notation shows us both of these levels.
-- probably a separate (T)heory writing that relates 9 and 10, and how bass notes can feel like both tensions at a key level and anchors at a chord level.
-- Types of changes / example songs:
-  - Shape and (key level) Anchor change: Clocks d020hcWA_Wg
-  - Anchor change, same shape: Roxanne 3T1c7GkzRQQ
-  - Shape change, same anchor: VanJess X9TgbR9BC6Q
-  - (all of the above have changing bass notes)
+  - to more closely match a paper-based notation, changing shapes and anchors would scroll in from the right. but it's still different to have the current shape/anchor in the middle of the staff rather than at the left.
+
+  
 
 **Wireframes**
 
@@ -355,9 +365,7 @@ Get to know three additional groups of shapes.
 
 **Notes**
 
-- Marked as (T)heory
-- Introduce three other groups of shapes and listen to their qualities. Relate the groups through their common shape names.
-- Similar to Lesson 19, where you want to get to know the broader feeling of a group, rather than getting inside it and thinking about its parts. 
+- could mention that now you can match shapes on your own, can recognize shape, anchor, and bass note changes, and have all the groups; so you can figure out any song on your own
 
 
 

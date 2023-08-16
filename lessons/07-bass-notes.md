@@ -38,11 +38,13 @@ This song also has four bass notes, but instead of starting on the anchor, they 
 
 Hearing the bass notes in a song means you have to listen in a different way. You may be used to focusing on a song's melody, but here, you're listening for something more subtle, something that's more a part of the song's underlying structure. And this can take a little getting used to.
 
-You can start by playing bass notes along with some different songs to get to know how they sound. For each new song, start by remembering its pattern of bass notes, so you have them in mind, along with the shape and the anchor.
+You can start by closing your eyes, and just listening for the moments when this kind of change happens in the song. These moments form a kind of slow-moving rhythm that you can connect to, without thinking about *which* notes are changing [show].
 
-Then listen for the exact moments in the song when the bass notes change, and try playing the notes in order, right at these moments.
+And then try playing bass notes *along* with some different songs to get to know how they sound. For each new song, start by remembering its pattern of bass notes, so you have them in mind, along with the shape and the anchor.
 
-This kind of listening will really start to draw you into the song in a new way. Even if you don't quite hear the bass notes *in* the song, you can still develop a feeling for the moments when they change. And since you already know what the bass notes are, you can also develop a feeling for when the notes you play match the bass notes in the song.
+Then listen for those exact moments in the song when the bass notes change, and try playing the notes in order, right at these moments.
+
+This kind of listening will really start to draw you into the song in a new way. Even if you don't quite hear the bass notes *in* the song at first, you're still developing a feeling for when they change. And since you already know what the bass notes are, you can hear when the notes you play match the bass notes in the song.
 
 Once you've got the hang of matching bass notes in songs, there are two more things you can try out. First, you can use the bass notes, instead of the anchor note, to play with some of the ideas you came up with in the last lesson.
 

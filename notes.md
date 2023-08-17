@@ -1,17 +1,32 @@
+### Abstract
+
+**References**
+
+- 
+
+**Notes**
+
+- 
+
+
+
 ### Acknowledgments
 
 **References**
 
+- 
+
 **Notes**
 
-- this is a snapshot in a long project
-- also a first way of introducing the software side of the project
+- 
 
 
 
 ### Commentary: About Shapes
 
 **References**
+
+- 
 
 **Notes**
 
@@ -34,8 +49,7 @@ Use a single shape to play along with a playlist of songs. Hear when notes fit o
 
 **Notes**
 
-- Some good top shape songs:
-  - Johnny & Mary
+- 
 
 **Wireframes**
 
@@ -128,6 +142,8 @@ See the shapes as a group, and add a way to name the shapes.
 
 **Notes**
 
+- 
+
 
 
 ### Lesson 4 - Shape Fingerings
@@ -163,6 +179,8 @@ Learn how your hands match the keyboard, and how to play hands together in any s
 
 **Notes**
 
+- 
+
 
 
 ### Lesson 5 - The Anchor Note
@@ -189,11 +207,12 @@ Hear the one note all the others are pulling toward.
 
 **References**
 
-- (writing/05-what-is-the-anchor.md)
 - 2023-Spring 5.SO_Mus notes
 - 2023-Spring Wk 8.3 (phenomenon of the anchor in songs)
 
 **Notes**
+
+- 
 
 
 
@@ -239,7 +258,7 @@ Hear the notes that give structure to a song.
 
 **Notes**
 
-- Shows the note and doesn't say "two lower than the anchor," etc. Saves that for L9 notation.
+- 
   
 
 **Wireframes**
@@ -253,15 +272,10 @@ Hear the notes that give structure to a song.
 **References**
 
 - devjournal [2022-11-24-Simplify-shape-anchor-bass-note-structure.md](https://github.com/davidforrest/devJournal/blob/main/shapes-backend/2022-11-24-Simplify-shape-anchor-bass-note-structure.md)
-  - Shapes is always at the chord level. If you're not at the chord level, you're not really "in" (inside, playing in) a Shape.
-  - Shapes is working with chord-level shapes, but key-level anchors. And bass notes, chord notes are tensions. 
-  - that's why shape and anchor needed to be separated. Tonal context and tonal center. Because if they weren't, we wouldn't be able to have this global idea, "Shape," that we can play with outside of these more local concerns.
-  - ...
 
 **Notes**
 
-- Also: the difference between a bass note (chord-level anchor) and a chord "root." That is, the difference between a chord as expression of a mode, versus voicing of a triadic chord structure.
-- And the relationship of bass note patterns to establishing a key-level anchor
+- 
 
 
 
@@ -300,16 +314,7 @@ Learn to represent bass notes using music notation.
 
 **Notes**
 
-- begins to introduce degrees. a name for notes, relative to the anchor.
-  - strictly use "relative to the anchor" terminology. one higher than the anchor, two lower than the anchor. no "2 notes below the last note." because we don't have octave equivalence yet. 
-
-- Represent bass notes relative to the anchor using a staff instead of the keyboard. Then add a way to represent time.
-- i'm making an argument to privilege sound--not "warping" the waveform to the grid.
-  - does notation require a notion of time, and what different approaches to and representations of time are possible? think of a scrolling display versus symbolic rhythmic notation.
-
-- see Lesson 28: after this notation, in theory, pulse dots would become regularly spaced (generalized away from the sound). Then rhythmic note symbols generalize even further to relationships.
-- abstracted time, the idea of a regular pulse. think about how different this is from the actual events taking place in the music (shape and standard notation commentary?)
-- The wireframe for this lesson has a waveform underlying the notation. This is impossible if the dots are to be evenly spaced. It highlights that the concept of regular pulse, at least as a step en route to notation, is already an abstraction from the sounding events (in real time) that create pulse in the music. This is foreshadowed in Lesson 7 by the question of whether Bass Note events, as markers of change at the chord level, can (or should) be abstracted from the actual moment when they sound in the music, if that moment isn't exactly aligned with a beat.
+- 
 
 **Wireframes**
 
@@ -323,21 +328,14 @@ Play with changing bass notes, anchors, *and* shapes.
 
 **References**
 
+- 
+
 **Notes**
-
-- about the L10 notation
-
-  - chord-level anchors are still represented by notes. not by a separate arrow.
-  - so this notation won't represent note events that aren't bass notes. for example, tactile reading through changing shapes.
-  - separate key- and chord-level anchors are possible, but complicates the notation graphically. a good reason to move both into a mood name.
 
 - graphically
 
   - in a changing shape, the new shape wants to align with the leftmost edge of the note that signals the change. or if no note, the center of the pulse dot. who'd'a thunk.
   - but if there's also an anchor change, the shape aligns with the anchor clef, preceding the first pulse where the change takes place.
-
-- the wireframe
-
   - i may also consider moving the key level anchor arrow to the middle line rather than the far left of the notation--to the point where the scrolling note is meant to be read in time.
   - to more closely match a paper-based notation, changing shapes and anchors would scroll in from the right. but it's still different to have the current shape/anchor in the middle of the staff rather than at the left.
 
@@ -360,7 +358,7 @@ Get to know three additional groups of shapes.
 
 **Notes**
 
-- could mention that now you can match shapes on your own, can recognize shape, anchor, and bass note changes, and have all the groups; so you can figure out any song on your own
+- 
 
 
 
@@ -447,26 +445,8 @@ Add two more notes to recognize in a tonescape.
 
 **Notes**
 
-- Include future tonescapes sequence overview (where this goes from here)
-  - or maybe it's not the future sequence that matters, but the notion of hearing an entire tonal space at once...
-
-- things going on:
-
-  - listening inside of a complex sound. like being able to hear individual pitches in a chord
-  - focus, active listening
-  - and pitch training. anchor and tensions, which will connect to analytical skills down the road
-  - This is getting at an internal mechanism of being able to speak this language of pitches, that's controllable, it's part of a kind of fluency.
-- also a relationship between "thinking v feeling" and how tonescapes enables (or highlights?) this, and the relationship of moods to chord-modes
-- future talk
-  - So you'll start to be able to hear a note in a song and know what it is, but you'll also be able to hear a note in your imagination and know what it is, and how to work with it, to sing it.
-  - Once you've got anchor, 2 higher, and 2 lower, when you think about it, that's already 5 of 7 notes of the shape. So you're already well on your way to building your internal instrument. To translate that to a *real* instrument will be an intellectual step, but you're developing the perception that underlies that.
-- "thinking or feeling": From a conversation with Josh after class 23.2.21
-  - light/heavy as a framework, then mode names, then "dominant"
-  - a superstructure of major/minor corresponding to light/heavy
-  - if you reduce it to maj/min, you lose a whole level of nuanced hearing
-  - *but then it's not necessarily about hearing everything modally: modes are a way in to hearing chromatic tensions to an anchor, that imply contexts. or even just to hearing nuanced tensions in context
-  - the big thing to come out of today was that they wanted the logos, and then could believe they heard differences between the modes. but i set up shapes to try to work with just the feeling. that's a different skill, and it's valuable enough to foreground. it matters
-  - josh asked why i don't just play the few notes we're working with in the tonescape. because we want every opportunity to parse the sound, to spend more time with it. And also, to hear the full context matters.
+- 
+  
 
 
 
@@ -509,6 +489,8 @@ Begin to hear notes in any octave as tensions to the anchor.
 
 **References**
 
+- 
+
 **Notes**
 
 - 
@@ -544,6 +526,8 @@ Draw notes out of two additional tonescapes.
 
 **References**
 
+- 
+
 **Notes**
 
 - 
@@ -571,6 +555,8 @@ Draw all the tensions out of three tonescapes.
 
 **References**
 
+- 
+
 **Notes**
 
 - 
@@ -584,6 +570,8 @@ Draw all the tensions out of three tonescapes.
 - the notation extends to move throughout the shape, 2nd pivot
 
 **References**
+
+- 
 
 **Notes**
 
@@ -601,6 +589,8 @@ Add the remaining tensions in three moods.
 
 **References**
 
+- 
+
 **Notes**
 
 - 
@@ -614,6 +604,8 @@ Add two additional moods along with their tensions.
 
 **References**
 
+- 
+
 **Notes**
 
 - 
@@ -626,6 +618,8 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 **References**
 
+- 
+
 **Notes**
 
 - 
@@ -637,23 +631,12 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 **References**
 
+- 
+
 **Notes**
 
-- start with the pitch relationships (remove key sig, accidentals, etc). but also talk about time:
-  - in L9 the notes arrange pitch on the staff, but time is represented in the lines themselves, and pulse dots. 
-  - then in L27, time transitions from the staff into the note symbols themselves. 
-  - so in L9, a bass note that falls in between beats is notated between dots.
-  - and this is still abstracted from clock time, or a piano roll, because the dots represent pulse, which can speed up and slow down, and these dots are regularly spaced. 
-  - music notation is always, inherently a kind of relative time, not clock time. that may be its most important significant temporal difference from a piano roll. it's why scrolling notations have to speed up and slow down to match with clock time.
+- 
   
-- There's no explicit sequence for the notation system--it's embedded across the other threads:
-  - Staff is introduced in Lesson 9 - Notes In Time (Playing & Vocab)
-  - used (and developed?) in Lesson 10 - Changes (Chord & Key)
-  - Lesson 12+ (in SR Tactile Sequence)...
-  - Lesson 16+ (SR Imagery)
-- Think about this alongside FR_Music 3 Note Naming Systems
-- Today I read the second Invention in the “5 Left” shape, where it’s neither Ab minor (7 flats) or G# minor (5 sharps), but just degrees in the shape, not nameable by letters. That’s a pretty fun way to think about what this notation is up to.
-- (from making time relative) theoretical digression about beats as an abstraction (an idea that emerges from the music), even spacing as a further abstraction, and rhythmic note symbols as a way of adding more detail/possibility around the idea of the beat.
 
 
 
@@ -662,6 +645,8 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 *Add 3L/3R, 2L/2R, introduce rhythmic notation*
 
 **References**
+
+- 
 
 **Notes**
 
@@ -679,6 +664,8 @@ Add two remaining moods along with their tensions.
 
 **References**
 
+- 
+
 **Notes**
 
 - 
@@ -693,6 +680,8 @@ Draw all the tensions out of all moods.
 
 **References**
 
+- 
+
 **Notes**
 
 - 
@@ -705,40 +694,11 @@ Learn the standard names for the moods.
 
 **References**
 
+- 
+
 **Notes**
 
-- This is also a place to talk about the structure of the groups of shapes. Especially with the cosmology diagram. The second group sounds "floatier" because it stretches over more of the space.
-- There was a thought to put this after 19 - Moods. But that lesson is more about begining to recognize specific moods, whereas chord-modes follow from the combination of Changes (Lesson 10) and Groups of Shapes (Lesson 11).
-  - but still, 19 is supposedly the introduction to modes. 
-  - also, how does this relate to the Standard Mode Names (commentary?) at Lesson 33?
-  - so maybe a bigger question: what's the relationship/timing of thinking of combinations of shapes and anchors as chord-modes, and learning the sounds/feelings of each of those modes (moods) in the tonescapes sequence? isn't this sequence supposed to be linear?
-- Merged Chord-Modes (after L11) with "Moods and Modes" here after L29.
-- was a lesson, but this is really a commentary. It's probably written. What (if anything) makes it a lesson?
-  - maybe call it "Moods and Modes"
-  - also how does it relate to the chord-mode commentary after L11?
-- from Spring 2023 wk6: the reason for neutral, light, heavy names is to give a kind of structure to the modes. to show their structure. but they have proper names, too.
-- also when someone says "minor third" or "major third" they mean the light and heavy third.
-  - there's also "perfect," a neutral concept
-  - major and minor might be referring to proper names for particular modes
-  - but more likely, they're referring to a general lightnes or heaviness of the modes
-  - so you're getting "more major" / lighter as you go from dorian, Dominant, Major...
-  - and people will say that dorian is a "minor" mode...
-  - also a "dorian" third versus a "heavy" third. the first imbues the note with the whole mode. the second generalizes across several modes: dorian, minor, phrygian...
-- and "major" and "minor" as ways of describing a general lightness or heavines of modes, versus the major and minor moods themselves.
-- "light" and "heavy" vs raised & lowered allow the notes & modes to be their own thing, rather than alterations of some other mode
-
-- The "Lowered 7th," etc. is in terms of whichever mode you're coming from. Dominant doesn't inherently have a "lowered 7th," unless it's in relation to another mode. It does have a "heavy 7th," though, that isn't lowered, per se, but describes a quality of the system of tensions overall.
-- why is the dorian mode neutral? 
-  - one, chosen because its not major, so bumps you out of those expectations that are hardwired from so much musical experience. if you can hear the different 3rd, it draws you into the sound more
-  - but dorian is also actually neutral. three lighter and three heaver tensions in there.
-  - part of an argument here that organizes the modes on a spectrum, that shows a kind of overall structure for the system of modes. that's pedagogical.
-
-- 33 (tensions): [Theory: Standard Mode Names]
-- Introduce standard(ish) mood names in place of light/heavy names.
-- Also account for my funny capitalization practices: "Lydian, Major, Dominant, dorian, minor, phrygian, locrian," based on a supercategory of "Majorness"-as-general-lightness and "minorness"-as-general-heaviness.
-
-- Also name 2nd, 3rd, 4th group moods and relate their light/heavy positions.
-- *how does this relate to the chord-mode commentary following Lesson 11? and do i want to keep all standard terminology/concepts in the commentary, not the lessons?
+- 
 
 
 
@@ -750,12 +710,11 @@ Learn the standard names for the moods.
 
 **References**
 
+- 
+
 **Notes**
 
-- Notation with incidentals
-  - i wish i could have done reversible notations, but the incidental symbols have to be to the left of the note head...
-  - you wouldn't have a heavy 5th in a mood with a light 4th. but you might have a light 5th. why, then, wouldn't you call it a heavy 6th instead? are these different departures to the same note outside the shape? or is it a matter of the direction of the line? or... does the choice of incidental say something about the mood (or potential moods) that incidental is implying? how would that relate to saying that the incidental allows you *not* to think in terms of the new mood, and to keep your attention in the context you're already in?
-- 
+- you wouldn't have a heavy 5th in a mood with a light 4th. but you might have a light 5th. why, then, wouldn't you call it a heavy 6th instead? are these different departures to the same note outside the shape? or is it a matter of the direction of the line? or... does the choice of incidental say something about the mood (or potential moods) that incidental is implying? how would that relate to saying that the incidental allows you *not* to think in terms of the new mood, and to keep your attention in the context you're already in?
 
 **Wireframes**
 
@@ -787,6 +746,8 @@ Recognize any mood and free play inside it.
 
 **References**
 
+- 
+
 **Notes**
 
 - 
@@ -797,4 +758,8 @@ Recognize any mood and free play inside it.
 
 **References**
 
+- 
+
 **Notes**
+
+- 

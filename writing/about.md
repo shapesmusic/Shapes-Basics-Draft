@@ -1,5 +1,3 @@
-<link href="../styles.css" rel="stylesheet" type="text/css" />
-
 ## About Shapes
 
 [In progress... still mostly notes!]

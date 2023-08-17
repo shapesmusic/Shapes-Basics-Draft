@@ -128,7 +128,7 @@ But when you match shapes, you also have to begin trusting yourself a little mor
 
 Because some songs don't have enough information in them to match unquestionably with just one shape. And so two different people might hear different things in the same song.
 
-Take <a href="https://www.youtube.com/watch?v=OQitfe8u7i4" target="_blank">this song</a> for example.
+Take <a href="https://www.youtube.com/watch?v=OQitfe8u7i4" target="_blank">this song</a> for example.  
 [start song]
 
 It has a great beat, but it's pretty hard to pin down, really, *any* notes that tell us which shape it might fit with.

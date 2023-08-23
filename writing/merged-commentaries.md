@@ -16,6 +16,16 @@
 
 ## 1 - Why Music Videos?
 
+what matters here is to acknowledge the infinite domains, and that we build particular little tools in order to work with that infinity
+
+and also that we're testing the ideas we're working with against something ongoing. if current music reflects something important about our current moment, and the concepts we're using stop working with it, then we have to re-evaluate the concepts.
+
+and about current music, this playlist at large if its collection of styles constitutes a style: that it has the ability to absorb anything that's come before it. and no other style has the ability to do this. you can put a baroque harpsichord track in a current song, and it will probably sound cool. but it doesn't work the other way around.
+
+
+
+
+
 Usually, when you start learning music, you begin by playing a simple song. You learn the notes one by one, you practice them in the same order until what you're playing begins to feel like music, and then you gradually build up to playing more and more difficult songs.
 
 But with Shapes, you don't start by playing a song. Instead, you start by playing *along with* songs.
@@ -183,6 +193,12 @@ Also maybe mention here that the instrument is chosen, leveled, etc., in order t
 
 ## 2 - What Is a Shape?
 
+what matters here is to start the conversation that relates shapes to the standard ideas that usually come up early on.
+
+and also to lay out the domains/dimensions a shape is working in. a framing.
+
+
+
 
 
 #### Standard Musical Ideas
@@ -319,13 +335,41 @@ So you're already working in this more intuitive way, following contours of the 
 
 
 
+what matters here is that the focus is on the larger context. a circle of fifths (or several) is something that can fall out of a group of shapes, but it comes after the full context
+
 🚧
+
+this, i think, is really about structures v. contexts. 
+
+the way in which you think about a musical space, a system
+
+whether it needs to be made up of parts
+
+and whether it needs to be connected to other spaces, the relationships
+
+it's also another reminder about thinking in terms of major/minor, v. detaching the context from the tonal center. the same circle could be the circle of dorian 5ths. 
+
+t's also detached from key signatures, no single one of the shapes is the basis for the others.
 
 
 
 
 
 ## 4 - The Centered Keyboard
+
+this, i think, is about diatonic v chromatic.
+
+the keyboard v. the grid
+
+the feeling of simplicity, detaching from all the diatonic grammar.
+
+and how that simplicity mirrors something physical. and becomes a mnemonic.
+
+
+
+how is it different from that section in what is a shape? well, there the focus was on the shape, and here it's on the particular instrument i use to represent shapes. 
+
+on the perceived scariness of diatonic v. chromatic. on an intervention to the usual redesigns that attempt to simplify this problem.
 
 
 
@@ -360,6 +404,16 @@ So that's maybe a very base-level way of imagining what that process is like, an
 
 
 ## 5 - What is the Anchor?
+
+what matters here is that tonal tension is an experience.
+
+this is about the phenomenon of tension, the experience
+
+and how that doesn't always match up with concepts like key, tonal center, root, and so forth.
+
+the feeling itself, that it can be influenced by events in the music, or by an active shift in your perception
+
+and then, that you can apply it in different ways, at different levels. to hear a key-level anchor, or a chord-level anchor.
 
 
 
@@ -502,6 +556,12 @@ But that information is filled in by expectations around other songs in the styl
 
 ## 6 - Musical Structures
 
+what matters here is the difference between saying "this is a chord," made of three notes, or a melody, or whatever
+
+v. thinking in a context, and coming up with an idea that generates that specific structure. and could generate a different one.
+
+then, when you see any fixed notes in a fixed place, you don't think "these are the notes," you think more about what sort of environment and way of being in that environment generated them.
+
 
 
 - imagined structures, pre-notation, focused by the anchor.
@@ -520,6 +580,16 @@ But that information is filled in by expectations around other songs in the styl
 
 ## 7 - Key and Chord Levels
 
+what matters here is to articulate that shape is always at the chord level. 
+
+and anchor is at the key level. 
+
+and bass notes are chord-level anchors.
+
+this is why shape and anchor need to be separate.
+
+the point is that if you're thinking of a changing song as being in a single shape, that shape is abstracted to an idea, rather than an experience. and a shape is an experience.
+
 
 
 "bass notes" are chord level anchors
@@ -535,6 +605,12 @@ But that information is filled in by expectations around other songs in the styl
 
 
 ## 8 - What is a Tonescape?
+
+what matters here is the transition away from a physical instrument. it highlights that the physical instrument is a rational construction that takes a form, but that form can change and the construction that underlies it remains. 
+
+so in what is a shape, i talked about how the shape uses an instrument. then in CK, i talk about the particular instrument it uses. and here, we're focusing on the part that's detached from instruments. you have internalized it.
+
+so the instrument is the means of building (and externally expressing) a rational idea.
 
 
 
@@ -568,6 +644,10 @@ do i care about the future stuff? this may be about the keyboard disappearing, a
 
 
 ## 9 - Shape and Standard Notation
+
+what matters here is to show that we're peeling back a surface (compiled) layer of music notation to see a layer beneath it, the layer of context.
+
+and that the purpose of doing this is so that reading can feel more like composing. that you're in the environment, rather than locked out of it.
 
 
 
@@ -604,6 +684,10 @@ separate key- and chord-level anchors are possible, but complicates the notation
 
 
 ## 10 - Chord-Modes
+
+what matters here is to show that the combination of a shape and anchor describes contexts at both the key and chord levels, and can match up with the full vocabulary of chord types.
+
+it also relates to structures, because a chord becomes the environment from which you could generate any particular structure, but not the structure itself. so a triad is not a chord&mdash;the chord is where the triad came from.
 
 
 

@@ -30,7 +30,7 @@
 
 **Notes**
 
-- 
+- what matters here is to give an invitation to try shapes. that takes the form of some philosophical framing, and an overview of what it contains.
 
 
 

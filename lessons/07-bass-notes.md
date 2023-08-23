@@ -107,7 +107,7 @@ Experiment with this, and have fun. And when you feel like you've started to get
 
 <img src="../media/bass_notes/ex_7.gif" alt="Image" style="width: 30%;">
 
-<a href="https://www.shapesmusic.com/bass-notes" target="_blank">More Bass Note Songs</a>
+<a href="https://shapesmusic.github.io/Player-Sketch/bass-notes" target="_blank">More Bass Note Songs</a>
 
 
 

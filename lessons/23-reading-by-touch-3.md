@@ -38,7 +38,7 @@ And when you feel comfortable reading in different shapes and anchors along with
 
 ### Playlist and Notation
 
-<a href="https://www.shapesmusic.com/reading-3" target="_blank">Lesson 23 Playlist</a>
+<a href="https://shapesmusic.github.io/Player-Sketch/reading-3" target="_blank">Lesson 23 Playlist</a>
 
 
 

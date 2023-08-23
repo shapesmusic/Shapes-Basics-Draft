@@ -44,7 +44,7 @@ This tour begins by watching the first lesson, which is my favorite way to intro
 
 And before we go on, let's pause here so you have a chance to try it out. Because it's only through the experience that you'll begin to have a real sense for what Shapes is about.
 
-<a href="https://www.shapesmusic.com/a-shape" target="_blank">Go to the Lesson 1 Playlist</a> 
+<a href="https://shapesmusic.github.io/Player-Sketch/a-shape" target="_blank">Go to the Lesson 1 Playlist</a> 
 
 (Really, give it a try&mdash;it's fun!)
 

@@ -126,7 +126,7 @@ Experiment with this and see what you come up with. And when you feel like you'v
 
 
 
-<a href="https://www.shapesmusic.com/changes" target="_blank">More Changing Songs</a>
+<a href="https://shapesmusic.github.io/Player-Sketch/changes" target="_blank">More Changing Songs</a>
 
 
 

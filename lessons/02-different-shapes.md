@@ -53,4 +53,4 @@ You'll get to know the shapes gradually just by playing with them, so when each 
 
 ### Playlist
 
-<a href="https://www.shapesmusic.com/a-group" target="_blank">Lesson 2 Playlist</a>
+<a href="https://shapesmusic.github.io/Player-Sketch/a-group" target="_blank">Lesson 2 Playlist</a>

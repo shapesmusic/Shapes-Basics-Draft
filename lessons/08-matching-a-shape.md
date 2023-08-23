@@ -151,7 +151,7 @@ So give it a try, and let the playlist be a guideline, rather than a rule, to he
 
 ### Playlist
 
-<a href="https://www.shapesmusic.com/matching" target="_blank">Lesson 8 Playlist</a>
+<a href="https://shapesmusic.github.io/Player-Sketch/matching" target="_blank">Lesson 8 Playlist</a>
 
 
 

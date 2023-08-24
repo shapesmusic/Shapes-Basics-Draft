@@ -47,7 +47,7 @@ A Tonescape Alone
 Notation: Reading Imagery 1
 
 <embed
-	src="https://shapesmusic.github.io/shapes-method/media/reading_imagery_1.pdf"
+	src="https://shapesmusic.com/media/reading_imagery_1.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"
@@ -57,7 +57,7 @@ Notation: Reading Imagery 1
 Notation: Reading Imagery 2
 
 <embed
-	src="https://shapesmusic.github.io/shapes-method/media/reading_imagery_2.pdf"
+	src="https://shapesmusic.com/media/reading_imagery_2.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"

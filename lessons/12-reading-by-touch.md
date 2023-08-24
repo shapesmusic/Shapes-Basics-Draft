@@ -55,7 +55,7 @@ This is exactly what it feels like to be a fluent reader at the keyboard. So whe
 Notation: Anchor on the Beat
 
 <embed
-	src="https://shapesmusic.github.io/shapes-method/media/reading_tactile_1.pdf"
+	src="https://shapesmusic.com/media/reading_tactile_1.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"
@@ -66,7 +66,7 @@ Notation: Anchor on the Beat
 Notation: Anchor, Higher, Lower
 
 <embed
-	src="https://shapesmusic.github.io/shapes-method/media/reading_tactile_2.pdf"
+	src="https://shapesmusic.com/media/reading_tactile_2.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"
@@ -77,7 +77,7 @@ Notation: Anchor, Higher, Lower
 Notation: Thumbs
 
 <embed
-	src="https://shapesmusic.github.io/shapes-method/media/reading_tactile_3.pdf"
+	src="https://shapesmusic.com/media/reading_tactile_3.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"

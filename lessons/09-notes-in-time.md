@@ -120,7 +120,7 @@ Play around with this. And when you feel like you've started to get the hang of 
 And a blank sheet to try on your own:
 
 <embed
-	src="https://shapesmusic.github.io/shapes-method/media/notation_blank.pdf"
+	src="https://shapesmusic.com/media/notation_blank.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"

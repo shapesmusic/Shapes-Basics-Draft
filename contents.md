@@ -1,11 +1,10 @@
-### Table of Contents
+## Table of Contents 
 
-#### Front Matter
-Abstract  
-Acknowledgments  
 
-#### Shapes Basics
-[Commentary: About Shapes](writing/about.md)  
+
+### Shapes Basics
+
+[Commentary: About Shapes](writing/about)  
 
 Lesson Sequences:  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: purple;"><strong>&bull;</strong> Playing With Songs</em>  
@@ -14,58 +13,50 @@ Lesson Sequences:
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: green;"><strong>&bull;</strong> Tonescapes & Tensions</em>  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: orange;"><strong>&bull;</strong> Reading Imagery</em>
 
-<strong style="color: purple;">&bull;</strong> [Lesson 1: A Shape](lessons/01-a-shape.md)  
+<strong style="color: purple;">&bull;</strong> [Lesson 1: A Shape](lessons/01-a-shape)  
 &nbsp;&nbsp;&nbsp;Commentary: Why Music Videos?  
-<strong style="color: purple;">&bull;</strong> [Lesson 2: Different Shapes](lessons/02-different-shapes.md)  
-&nbsp;&nbsp;&nbsp;[Commentary: What Is a Shape?](writing/02-what-is-a-shape.html)  
-<strong style="color: purple;">&bull;</strong> [Lesson 3: A Group of Shapes](lessons/03-a-group.md)  
+<strong style="color: purple;">&bull;</strong> [Lesson 2: Different Shapes](lessons/02-different-shapes)  
+&nbsp;&nbsp;&nbsp;[Commentary: What Is a Shape?](writing/what-is-a-shape)  
+<strong style="color: purple;">&bull;</strong> [Lesson 3: A Group of Shapes](lessons/03-a-group)  
 &nbsp;&nbsp;&nbsp;Commentary: Is This the Circle of Fifths?  
-<strong style="color: blue;">&bull;</strong> [Lesson 4: Shape Fingerings](lessons/04-shape-fingerings.md)  
+<strong style="color: blue;">&bull;</strong> [Lesson 4: Shape Fingerings](lessons/04-shape-fingerings)  
 &nbsp;&nbsp;&nbsp;Commentary: The Centered Keyboard  
-<strong style="color: red;">&bull;</strong> [Lesson 5: The Anchor Note](lessons/05-the-anchor-note.md)  
+<strong style="color: red;">&bull;</strong> [Lesson 5: The Anchor Note](lessons/05-the-anchor-note)  
 &nbsp;&nbsp;&nbsp;Commentary: What is the Anchor?  
-<strong style="color: purple;">&bull;</strong> [Lesson 6: Playing With the Anchor](lessons/06-playing-with-the-anchor.md)  
+<strong style="color: purple;">&bull;</strong> [Lesson 6: Playing With the Anchor](lessons/06-playing-with-the-anchor)  
 &nbsp;&nbsp;&nbsp;Commentary: Musical Structures  
-<strong style="color: red;">&bull;</strong> [Lesson 7: Bass Notes](lessons/07-bass-notes.md)  
-&nbsp;&nbsp;&nbsp;Commentary: Key and Chord Levels  
-<strong style="color: purple;">&bull;</strong> [Lesson 8: Matching A Shape](lessons/08-matching-a-shape.md)  
-<strong style="color: purple;">&bull;</strong> [Lesson 9: Notes In Time](lessons/09-notes-in-time.md)  
-<strong style="color: red;">&bull;</strong> [Lesson 10: Changes](lessons/10-changes.md)  
-<strong style="color: purple;">&bull;</strong> [Lesson 11: Groups of Shapes](lessons/11-groups-of-shapes.md)  
-<strong style="color: blue;">&bull;</strong> [Lesson 12: Reading by Touch](lessons/12-reading-by-touch.md)  
-<strong style="color: green;">&bull;</strong> [Lesson 13: A Tonescape and Tensions](lessons/13-a-tonescape-and-tensions.md)  
-<strong style="color: orange;">&bull;</strong> [Lesson 14: Imagination as an Instrument](lessons/14-imagination-as-an-instrument.md)  
-<strong style="color: green;">&bull;</strong> [Lesson 15: Tensions Part 2](lessons/15-two-higher-and-lower.md)  
+<strong style="color: red;">&bull;</strong> [Lesson 7: Bass Notes](lessons/07-bass-notes)  
+&nbsp;&nbsp;&nbsp;Commentary: Chord and Key Levels  
+<strong style="color: purple;">&bull;</strong> [Lesson 8: Matching A Shape](lessons/08-matching-a-shape)  
+<strong style="color: purple;">&bull;</strong> [Lesson 9: Notes In Time](lessons/09-notes-in-time)  
+<strong style="color: red;">&bull;</strong> [Lesson 10: Changes](lessons/10-changes)  
+<strong style="color: purple;">&bull;</strong> [Lesson 11: Groups of Shapes](lessons/11-groups-of-shapes)  
+<strong style="color: blue;">&bull;</strong> [Lesson 12: Reading by Touch](lessons/12-reading-by-touch)  
+<strong style="color: green;">&bull;</strong> [Lesson 13: A Tonescape and Tensions](lessons/13-a-tonescape-and-tensions)  
+<strong style="color: orange;">&bull;</strong> [Lesson 14: Imagination as an Instrument](lessons/14-imagination-as-an-instrument)  
+<strong style="color: green;">&bull;</strong> [Lesson 15: Tensions Part 2](lessons/15-two-higher-and-lower)  
 &nbsp;&nbsp;&nbsp;Commentary: What is a Tonescape?  
-<strong style="color: orange;">&bull;</strong> [Lesson 16: Reading by Ear](lessons/16-reading-by-ear.md)  
-<strong style="color: green;">&bull;</strong> [Lesson 17: Switch To Number Names](lessons/17-switch-to-number-names.md)  
+<strong style="color: orange;">&bull;</strong> [Lesson 16: Reading by Ear](lessons/16-reading-by-ear)  
+<strong style="color: green;">&bull;</strong> [Lesson 17: Switch To Number Names](lessons/17-switch-to-number-names)  
 <strong style="color: blue;">&bull;</strong> [Lesson 18: Reading by Touch Part 2](lessons/18-reading-by-touch-2)  
-<strong style="color: green;">&bull;</strong> [Lesson 19: Moods](lessons/19-moods.md)  
-<strong style="color: orange;">&bull;</strong> [Lesson 20: Reading by Ear Part 2](lessons/20-reading-by-ear-2.md)  
-<strong style="color: green;">&bull;</strong> [Lesson 21: Light and Heavy Tensions](lessons/21-light-and-heavy-tensions.md)  
-<strong style="color: orange;">&bull;</strong> [Lesson 22: Reading by Ear Part 3](lessons/22-reading-by-ear-3.md)  
-<strong style="color: blue;">&bull;</strong> [Lesson 23: Reading by Touch Part 3](lessons/23-reading-by-touch-3.md)  
-<strong style="color: green;">&bull;</strong> [Lesson 24: Moods and Tensions Together](lessons/24-moods-and-tensions-together.md)  
-<strong style="color: green;">&bull;</strong> [Lesson 25: Getting Inside of Moods](lessons/25-getting-inside-of-moods.md)  
-<strong style="color: orange;">&bull;</strong> [Lesson 26: Reading by Ear Part 4](lessons/26-reading-by-ear-4.md)  
+<strong style="color: green;">&bull;</strong> [Lesson 19: Moods](lessons/19-moods)  
+<strong style="color: orange;">&bull;</strong> [Lesson 20: Reading by Ear Part 2](lessons/20-reading-by-ear-2)  
+<strong style="color: green;">&bull;</strong> [Lesson 21: Light and Heavy Tensions](lessons/21-light-and-heavy-tensions)  
+<strong style="color: orange;">&bull;</strong> [Lesson 22: Reading by Ear Part 3](lessons/22-reading-by-ear-3)  
+<strong style="color: blue;">&bull;</strong> [Lesson 23: Reading by Touch Part 3](lessons/23-reading-by-touch-3)  
+<strong style="color: green;">&bull;</strong> [Lesson 24: Moods and Tensions Together](lessons/24-moods-and-tensions-together)  
+<strong style="color: green;">&bull;</strong> [Lesson 25: Getting Inside of Moods](lessons/25-getting-inside-of-moods)  
+<strong style="color: orange;">&bull;</strong> [Lesson 26: Reading by Ear Part 4](lessons/26-reading-by-ear-4)  
 &nbsp;&nbsp;&nbsp;Commentary: Shape and Standard Notation  
-<strong style="color: blue;">&bull;</strong> [Lesson 27: Making Time Relative](lessons/27-making-time-relative.md)  
-<strong style="color: green;">&bull;</strong> [Lesson 28: All Moods and Tensions](lessons/28-all-moods-and-tensions.md)  
-<strong style="color: orange;">&bull;</strong> [Lesson 29: Mood Notes](lessons/29-mood-notes.md)  
+<strong style="color: blue;">&bull;</strong> [Lesson 27: Making Time Relative](lessons/27-making-time-relative)  
+<strong style="color: green;">&bull;</strong> [Lesson 28: All Moods and Tensions](lessons/28-all-moods-and-tensions)  
+<strong style="color: orange;">&bull;</strong> [Lesson 29: Mood Notes](lessons/29-mood-notes)  
 &nbsp;&nbsp;&nbsp;Commentary: Chord-Modes  
-<strong style="color: blue;">&bull;</strong> [Lesson 30: Incidentals](lessons/30-incidentals.md)  
-<strong style="color: green;">&bull;</strong>[ Lesson 31: Independent Solfege](lessons/31-independent-solfege.md)  
-<strong style="color: orange;">&bull;</strong> [Lesson 32: Free Play](lessons/32-free-play.md)  
+<strong style="color: blue;">&bull;</strong> [Lesson 30: Incidentals](lessons/30-incidentals)  
+<strong style="color: green;">&bull;</strong>[ Lesson 31: Independent Solfege](lessons/31-independent-solfege)  
+<strong style="color: orange;">&bull;</strong> [Lesson 32: Free Play](lessons/32-free-play)  
 
-#### Back Matter
+### Back Matter
 
-[Appendix 1: Method Map](./)  
-[Appendix 2: Playlisting Procedure](https://github.com/shapesmusic/shapes-backend/blob/main/db/playlisting_procedure.md)  
-[Appendix 3: Data Model](https://github.com/shapesmusic/shapes-backend/blob/main/db/data-model.md)  
-[Appendix 4: Backend Code Repository](https://github.com/shapesmusic/shapes-backend)  
-[Appendix 5: Frontend Code Repository](https://github.com/shapesmusic/shapes-client)  
-[Appendix 6: Development Player Repository](https://github.com/shapesmusic/Player-Sketch)  
-[Appendix 7: Song Scraper Repository](https://github.com/shapesmusic/song-scraper)  
-
-Glossary  
-
+[Appendix 1: Frontend Code Repository](https://github.com/shapesmusic/shapes-method)  
+[Appendix 3: Backend Code Repository](https://github.com/shapesmusic/shapes-backend)

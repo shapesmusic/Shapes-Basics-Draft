@@ -16,6 +16,10 @@
 
 ## 1 - Why Music Videos?
 
+writing/why-music-videos
+
+
+
 what matters here is to acknowledge the infinite domains, and that we build particular little tools in order to work with that infinity
 
 and also that we're testing the ideas we're working with against something ongoing. if current music reflects something important about our current moment, and the concepts we're using stop working with it, then we have to re-evaluate the concepts.
@@ -193,6 +197,10 @@ Also maybe mention here that the instrument is chosen, leveled, etc., in order t
 
 ## 2 - What Is a Shape?
 
+writing/what-is-a-shape
+
+
+
 what matters here is to start the conversation that relates shapes to the standard ideas that usually come up early on.
 
 and also to lay out the domains/dimensions a shape is working in. a framing.
@@ -333,6 +341,8 @@ So you're already working in this more intuitive way, following contours of the 
 
 ## 3 - Is This the Circle of Fifths?
 
+writing/circle-of-fifths
+
 
 
 what matters here is that the focus is on the larger context. a circle of fifths (or several) is something that can fall out of a group of shapes, but it comes after the full context
@@ -356,6 +366,10 @@ t's also detached from key signatures, no single one of the shapes is the basis 
 
 
 ## 4 - The Centered Keyboard
+
+writing/centered-keyboard
+
+
 
 this, i think, is about diatonic v chromatic.
 
@@ -404,6 +418,10 @@ So that's maybe a very base-level way of imagining what that process is like, an
 
 
 ## 5 - What is the Anchor?
+
+writing/what-is-the-anchor
+
+
 
 what matters here is that tonal tension is an experience.
 
@@ -556,6 +574,10 @@ But that information is filled in by expectations around other songs in the styl
 
 ## 6 - Musical Structures
 
+writing/musical-structures
+
+
+
 what matters here is the difference between saying "this is a chord," made of three notes, or a melody, or whatever
 
 v. thinking in a context, and coming up with an idea that generates that specific structure. and could generate a different one.
@@ -578,7 +600,11 @@ then, when you see any fixed notes in a fixed place, you don't think "these are 
 
 
 
-## 7 - Key and Chord Levels
+## 7 - Chord and Key Levels
+
+writing/chord-and-key-levels
+
+
 
 what matters here is to articulate that shape is always at the chord level. 
 
@@ -605,6 +631,10 @@ the point is that if you're thinking of a changing song as being in a single sha
 
 
 ## 8 - What is a Tonescape?
+
+writing/what-is-a-tonescape
+
+
 
 what matters here is the transition away from a physical instrument. it highlights that the physical instrument is a rational construction that takes a form, but that form can change and the construction that underlies it remains. 
 
@@ -645,6 +675,10 @@ do i care about the future stuff? this may be about the keyboard disappearing, a
 
 ## 9 - Shape and Standard Notation
 
+writing/shape-and-standard-notation
+
+
+
 what matters here is to show that we're peeling back a surface (compiled) layer of music notation to see a layer beneath it, the layer of context.
 
 and that the purpose of doing this is so that reading can feel more like composing. that you're in the environment, rather than locked out of it.
@@ -684,6 +718,10 @@ separate key- and chord-level anchors are possible, but complicates the notation
 
 
 ## 10 - Chord-Modes
+
+writing/chord-modes
+
+
 
 what matters here is to show that the combination of a shape and anchor describes contexts at both the key and chord levels, and can match up with the full vocabulary of chord types.
 

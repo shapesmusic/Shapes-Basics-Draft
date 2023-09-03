@@ -1,12 +1,28 @@
-## Naming Tensions
+## Switch To Number Names
 
 
 
 ### Listen
 
-
-
-<audio controls src="../media/switch_to_number_names.mp3"></audio>
+<style>
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+<div class='embed-container'>
+  <iframe src='https://www.youtube.com/embed/9cdxvrrhjvw?rel=0' frameborder='0' allowfullscreen></iframe>
+</div>
 
 
 

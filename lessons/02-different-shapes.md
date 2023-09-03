@@ -25,6 +25,7 @@
 </div>
 
 
+
 ### Transcript
 
 So, something has changed about the playlist.

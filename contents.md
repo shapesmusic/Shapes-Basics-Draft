@@ -59,4 +59,4 @@ Lesson Sequences:
 ### Back Matter
 
 [Appendix 1: Frontend Code Repository](https://github.com/shapesmusic/shapes-method)  
-[Appendix 3: Backend Code Repository](https://github.com/shapesmusic/shapes-backend)
+[Appendix 2: Backend Code Repository](https://github.com/shapesmusic/shapes-backend)

@@ -14,7 +14,7 @@ Lesson Sequences:
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: orange;"><strong>&bull;</strong> Reading Imagery</em>
 
 <strong style="color: purple;">&bull;</strong> [Lesson 1: A Shape](lessons/01-a-shape)  
-&nbsp;&nbsp;&nbsp;Commentary: Why Music Videos?  
+&nbsp;&nbsp;&nbsp;[Commentary: Why Music Videos?](writing/why-music-videos)  
 <strong style="color: purple;">&bull;</strong> [Lesson 2: Different Shapes](lessons/02-different-shapes)  
 &nbsp;&nbsp;&nbsp;[Commentary: What Is a Shape?](writing/what-is-a-shape)  
 <strong style="color: purple;">&bull;</strong> [Lesson 3: A Group of Shapes](lessons/03-a-group)  

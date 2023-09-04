@@ -18,7 +18,7 @@ Lesson Sequences:
 <strong style="color: purple;">&bull;</strong> [Lesson 2: Different Shapes](lessons/02-different-shapes)  
 &nbsp;&nbsp;&nbsp;[Commentary: What Is a Shape?](writing/what-is-a-shape)  
 <strong style="color: purple;">&bull;</strong> [Lesson 3: A Group of Shapes](lessons/03-a-group)  
-&nbsp;&nbsp;&nbsp;Commentary: Is This the Circle of Fifths?  
+&nbsp;&nbsp;&nbsp;[Commentary: Is This the Circle of Fifths?](writing/circle-of-fifths)  
 <strong style="color: blue;">&bull;</strong> [Lesson 4: Shape Fingerings](lessons/04-shape-fingerings)  
 &nbsp;&nbsp;&nbsp;Commentary: The Centered Keyboard  
 <strong style="color: red;">&bull;</strong> [Lesson 5: The Anchor Note](lessons/05-the-anchor-note)  

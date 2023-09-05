@@ -20,7 +20,7 @@ Lesson Sequences:
 <strong style="color: purple;">&bull;</strong> [Lesson 3: A Group of Shapes](lessons/03-a-group)  
 &nbsp;&nbsp;&nbsp;[Commentary: Is This the Circle of Fifths?](writing/circle-of-fifths)  
 <strong style="color: blue;">&bull;</strong> [Lesson 4: Shape Fingerings](lessons/04-shape-fingerings)  
-&nbsp;&nbsp;&nbsp;Commentary: The Centered Keyboard  
+&nbsp;&nbsp;&nbsp;[Commentary: The Centered Keyboard](writing/centered-keyboard)  
 <strong style="color: red;">&bull;</strong> [Lesson 5: The Anchor Note](lessons/05-the-anchor-note)  
 &nbsp;&nbsp;&nbsp;Commentary: What is the Anchor?  
 <strong style="color: purple;">&bull;</strong> [Lesson 6: Playing With the Anchor](lessons/06-playing-with-the-anchor)  

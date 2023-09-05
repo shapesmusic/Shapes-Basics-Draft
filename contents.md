@@ -22,7 +22,7 @@ Lesson Sequences:
 <strong style="color: blue;">&bull;</strong> [Lesson 4: Shape Fingerings](lessons/04-shape-fingerings)  
 &nbsp;&nbsp;&nbsp;[Commentary: The Centered Keyboard](writing/centered-keyboard)  
 <strong style="color: red;">&bull;</strong> [Lesson 5: The Anchor Note](lessons/05-the-anchor-note)  
-&nbsp;&nbsp;&nbsp;Commentary: What is the Anchor?  
+&nbsp;&nbsp;&nbsp;[Commentary: What is the Anchor?](writing/what-is-the-anchor)  
 <strong style="color: purple;">&bull;</strong> [Lesson 6: Playing With the Anchor](lessons/06-playing-with-the-anchor)  
 &nbsp;&nbsp;&nbsp;Commentary: Musical Structures  
 <strong style="color: red;">&bull;</strong> [Lesson 7: Bass Notes](lessons/07-bass-notes)  

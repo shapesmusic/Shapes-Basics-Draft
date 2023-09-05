@@ -54,7 +54,7 @@ And even though you're making the names a little more precise, it's worth notici
 
 So choose a random mood, name the tensions you hear, and then when you're comfortable doing that, there's one more exercise that takes *all* of these tensions, that is, both kinds of 3rds and both kinds of 6ths, and mixes them together with the neutral tonescape, like this [demo].
 
-Now, the light 3rd and the heavy 6th *aren't* a part of the neutral tonescape, so they really stand out when you hear them. 
+Now, the light 3rd and the heavy 6th *aren't* a part of the neutral tonescape, so they really stand out when you hear them.
 
 But putting them together helps you start to compare all the tensions side by side, which you don't get to do when you're listening in any single mood.
 
@@ -64,4 +64,4 @@ So give it a try. When you're comfortable naming the tensions in each mood, and 
 
 ### Tonescape Exercises
 
-[Lesson 21 Exercises](21-exercises.html)
+[Lesson 21 Exercises](../player/21-exercises)

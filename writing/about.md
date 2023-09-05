@@ -45,7 +45,7 @@ I'll begin our tour by showing you the first lesson, which is my favorite way to
 
 Before we go on, let's pause here so you have a chance to try it out. Because it's through the experience of playing that you'll really start to understand what Shapes is about.
 
-<a href="https://shapesmusic.github.io/Player-Sketch/a-shape" target="_blank">Go to the Lesson 1 Playlist</a> 
+<a href="../player/a-shape" target="_blank">Go to the Lesson 1 Playlist</a> 
 
 <br><br>
 

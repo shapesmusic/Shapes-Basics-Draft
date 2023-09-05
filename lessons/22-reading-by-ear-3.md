@@ -28,7 +28,7 @@
 
 ### Transcript
 
-You've been getting to know the 2nd, 3rd, 7th, and 6th. But there are still two more tensions from the anchor that we haven't talked about: the 4th and the 5th. 
+You've been getting to know the 2nd, 3rd, 7th, and 6th. But there are still two more tensions from the anchor that we haven't talked about: the 4th and the 5th.
 
 We'll get to know these tensions by drawing them out of the tonescape, and also by reading them in notation. And then, you'll have a feeling for *all* the notes of a mood.
 
@@ -52,9 +52,9 @@ Then, pause for a while on the *new* tensions, the 4th and the 5th, to get to kn
 
 [stop tonescape]
 
-And finally, read each of the two notations, first by humming, and then silently to yourself, inside the tonescape. 
+And finally, read each of the two notations, first by humming, and then silently to yourself, inside the tonescape.
 
-Like before, each note in the first notation is only one higher or lower than the previous note, and the notes in the second notation are in random order. 
+Like before, each note in the first notation is only one higher or lower than the previous note, and the notes in the second notation are in random order.
 
 The difference is that now, both notations cover the full range you just practiced, including the 4th and the 5th.
 
@@ -64,4 +64,4 @@ So give it a try. When you're comfortable reading both notations in any of the t
 
 ### Tonescape Exercises
 
-[Lesson 22 Exercises](22-exercises.html)
+[Lesson 22 Exercises](../player/22-exercises)

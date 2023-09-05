@@ -105,4 +105,4 @@ So see what you come up with, and when you feel comfortable naming and playing w
 
 ### Playlist
 
-<a href="https://shapesmusic.github.io/Player-Sketch/a-group" target="_blank">Lesson 3 Playlist</a>
+<a href="../player/a-group" target="_blank">Lesson 3 Playlist</a>

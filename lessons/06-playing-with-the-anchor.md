@@ -68,5 +68,5 @@ So give it a try. Pay attention to the relationship between the idea you start w
 
 ### Playlist
 
-<a href="https://shapesmusic.github.io/Player-Sketch/anchors" target="_blank">Lesson 6 Playlist</a>
+<a href="../player/anchors" target="_blank">Lesson 6 Playlist</a>
 

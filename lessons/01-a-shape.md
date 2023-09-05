@@ -83,4 +83,4 @@ From there, you might decide to keep going, or stop, but ask yourself if you fee
 
 ### Playlist
 
-<a href="https://shapesmusic.github.io/Player-Sketch/a-shape" target="_blank">Lesson 1 Playlist</a>
+<a href="../player/a-shape" target="_blank">Lesson 1 Playlist</a>

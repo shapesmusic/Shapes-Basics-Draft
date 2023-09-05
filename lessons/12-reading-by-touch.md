@@ -64,7 +64,7 @@ This is exactly what it feels like to be a fluent reader at the keyboard. So whe
 
 ### Playlist and Notation
 
-<a href="https://shapesmusic.github.io/Player-Sketch/reading-1" target="_blank">Lesson 12 Playlist</a>
+<a href="../player/reading-1" target="_blank">Lesson 12 Playlist</a>
 
 
 

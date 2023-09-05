@@ -30,7 +30,7 @@
 
 Now, there are still a few shapes left to bring into your reading. These are 1 to the Left and Right, and the Bottom shape.
 
-When you move your fingers into these shapes, you'll notice that you're starting to move entirely *off* of the groups of top keys [show]. But you still use the top keys to stay oriented, even if they're not a part of the shape. 
+When you move your fingers into these shapes, you'll notice that you're starting to move entirely *off* of the groups of top keys [show]. But you still use the top keys to stay oriented, even if they're not a part of the shape.
 
 So you can always slide your fingers up toward the top keys to feel where you are, or grab the groups again, or bump your thumbs up against them when you need to.
 
@@ -66,4 +66,4 @@ Go as slowly as you need to at first, and when you've started to get the hang of
 
 ### Playlist and Notation
 
-[Lesson 30 Playlist and Notation](30-exercises.html)
+[Lesson 30 Playlist and Notation](../player/30-exercises)

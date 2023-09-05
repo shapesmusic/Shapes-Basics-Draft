@@ -50,4 +50,4 @@ When you're comfortable recognizing the feeling of each mood, and you can hear t
 
 ### Tonescape Exercises
 
-[Lesson 20 Exercises](20-exercises.html)
+[Lesson 20 Exercises](../player/20-exercises)

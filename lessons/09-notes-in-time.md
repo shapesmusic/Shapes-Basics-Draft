@@ -129,7 +129,7 @@ Play around with this. And when you feel like you've started to get the hang of 
 
 
 
-<a href="https://shapesmusic.github.io/Player-Sketch/bass-notes" target="_blank">More Bass Note Songs</a>
+<a href="../player/bass-notes" target="_blank">More Bass Note Songs</a>
 
 
 

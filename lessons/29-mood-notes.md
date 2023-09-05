@@ -68,7 +68,7 @@ A way to think about *why* this works, is that moving four notes within a single
 
 The distance in that new shape between the common mood note, and the anchor that you're keeping the same, is also four notes of the shape.
 
-So give it a try. Choose a random mood, reorient yourself inside of it, and then try reading and playing around in the new mood. 
+So give it a try. Choose a random mood, reorient yourself inside of it, and then try reading and playing around in the new mood.
 
 Reorienting yourself in a mood really starts to show you what your internal instrument is capable of, and how much you're becoming able to control what you hear. Not only can you decide which notes to imagine inside of a mood, but now you can also create the mood itself.
 
@@ -78,4 +78,4 @@ Experiment with this a little, and when you feel comfortable reorienting yoursel
 
 ### Tonescape Exercises
 
-[Lesson 29 Exercises](29-exercises.html)
+[Lesson 29 Exercises](../player/29-exercises)

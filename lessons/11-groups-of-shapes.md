@@ -62,5 +62,5 @@ And when you feel like you've gotten to know some of the ways these new shapes m
 
 ### Example Songs
 
-<a href="https://shapesmusic.github.io/Player-Sketch/other-groups" target="_blank">2nd, 3rd, and 4th Groups Playlist</a>
+<a href="../player/other-groups" target="_blank">2nd, 3rd, and 4th Groups Playlist</a>
 

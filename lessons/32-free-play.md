@@ -52,4 +52,4 @@ So give it a try. Explore this world of musical sounds and ideas, both with real
 
 ### Tonescape Exercises
 
-[Lesson 32 Exercises](32-exercises.html)
+[Lesson 32 Exercises](../player/32-exercises)

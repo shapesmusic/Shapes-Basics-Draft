@@ -34,7 +34,7 @@ You've gotten comfortable recognizing the anchor, 2nd, 3rd, 7th, or 6th regardle
 
 But first, make sure you're oriented to the anchor. Here it is: [hum].
 
-Okay, now I'll change the tonescape [change tonescape, hum the anchor]. This creates a different feeling, it's subtle. 
+Okay, now I'll change the tonescape [change tonescape, hum the anchor]. This creates a different feeling, it's subtle.
 
 Then back to the original tonescape [change tonescape, hum the anchor].
 
@@ -50,7 +50,7 @@ So let's say that the original tonescape is our "neutral" mood. And then the fir
 
 In fact, we can get even lighter [change, hum], and still even lighter [change, hum], which might make the change easier to hear [stop tonescape].
 
-Now if we return to the neutral tonescape [start tonescape, hum anchor], the second change was "heavier" [change, hum]. 
+Now if we return to the neutral tonescape [start tonescape, hum anchor], the second change was "heavier" [change, hum].
 
 And we can get even heavier [change, hum], and even heavier than that [change, hum].
 
@@ -72,4 +72,4 @@ Once you've started to recognize the feeling of each mood, and you're comfortabl
 
 ### Tonescape Exercises
 
-[Lesson 19 Exercises](19-exercises.html)
+[Lesson 19 Exercises](../player/19-exercises)

@@ -76,4 +76,4 @@ So give it a try. We'll expand the pattern into more shapes down the road, but s
 
 ### Playlist
 
-<a href="https://shapesmusic.github.io/Player-Sketch/a-shape" target="_blank">Lesson 4 Playlist</a>
+<a href="../player/a-shape" target="_blank">Lesson 4 Playlist</a>

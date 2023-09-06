@@ -1,6 +1,6 @@
 ## Changes
 
-  
+
 
 ### Watch
 
@@ -80,7 +80,7 @@ There's also a new pattern with only three bass notes, and they change much more
 
 [stop song]
 
-Once you start playing along, you'll find that these moments of change begin to raise some very interesting questions. For example, in the first part of the song, the guitar usually plays right on the beat, but the bass doesn't [play song]. 
+Once you start playing along, you'll find that these moments of change begin to raise some very interesting questions. For example, in the first part of the song, the guitar usually plays right on the beat, but the bass doesn't [play song].
 
 So when, exactly, does each new bass note change begin? Is it right when the bass plays a note, anticipated by what the guitar plays, or is it right on the beat, echoed by what the bass plays? I've *notated* the changes right on the beat, but the notes are a representation, and so they don't always quite match up with what you hear.
 
@@ -114,7 +114,7 @@ But no matter what you come across, you can always start to make sense of a chan
 
 So give it a try. Play along with some songs in the playlist to get a feeling for some different kinds of changes.
 
-And since now you also know how to match shapes on your own, you can go out and try playing along with *any* song you hear, not just the songs in the playlist. 
+And since now you also know how to match shapes on your own, you can go out and try playing along with *any* song you hear, not just the songs in the playlist.
 
 Experiment with this and see what you come up with. And when you feel like you've started to notice moments of change in a song, and can play along with them, that's when you're ready to come back for more.
 
@@ -143,9 +143,3 @@ Experiment with this and see what you come up with. And when you feel like you'v
 
 
 <a href="../player/changes" target="_blank">More Changing Songs</a>
-
-
-
-### Wireframe
-
-![wireframe](../wireframes/10.1.png)

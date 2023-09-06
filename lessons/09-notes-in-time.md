@@ -1,6 +1,6 @@
 ## Notes In Time
 
-  
+
 
 ### Watch
 
@@ -38,7 +38,7 @@ You start with the shape and anchor, but now you also have some horizontal lines
 
 Now, you take the little arrow that we've been using to show which note is the anchor note, and place it on any one of the lines, or on any one of the spaces between the lines. I can put it anywhere, but I'll put it here, on the middle line [draw].
 
-And now, when you draw a little circle on the line or space where you placed the anchor, that circle represents the anchor note [draw & play]. 
+And now, when you draw a little circle on the line or space where you placed the anchor, that circle represents the anchor note [draw & play].
 
 Then, one note of the shape *higher* than the anchor will be a circle on the next position higher, which is this space [draw & play]. The next note higher will be on the next line [draw & play], and so on.
 
@@ -141,9 +141,3 @@ And a blank sheet to try on your own:
 	width="100%"
 	height="500px"
 />
-
-
-
-### Wireframe
-
-![wireframe](../wireframes/9.1.png)

@@ -52,7 +52,7 @@ So I'll pick this one:
 
 And if I'm lucky it will fit with the song right away. So let's see [play].
 
-Nope, that really doesn't fit. 
+Nope, that really doesn't fit.
 
 The shapes that sound most alike are closest to each other in the group. So since this one didn't fit, let's try its opposite, which is pretty far away:
 
@@ -74,7 +74,7 @@ This sounds a lot better, but it's still not quite right. In fact, I can hear th
 
 [play w/beat]
 
-And there we go, it fits. 
+And there we go, it fits.
 
 Now that was the hard part, because the notes that fit in the *bottom* row will be one of the two options that are right next to the one that fits in the top row:
 
@@ -106,7 +106,7 @@ Then, once you're a little more comfortable matching shapes, there's another, fa
 
 [start song: 2R]
 
-You start by playing any random note, and you'll hear right away if it fits or doesn't fit [play]. 
+You start by playing any random note, and you'll hear right away if it fits or doesn't fit [play].
 
 <img src="../media/matching/img_7.png" alt="Image" align="center" style="width: 12%;">
 
@@ -114,7 +114,7 @@ This note *doesn't* fit. And if it doesn't fit, the note immediately next to it,
 
 <img src="../media/matching/img_8.png" alt="Image" align="center" style="width: 12%;">
 
-And you can continue like this. For each pair of notes that are right next to each other on the keyboard, one will fit, and the other won't. 
+And you can continue like this. For each pair of notes that are right next to each other on the keyboard, one will fit, and the other won't.
 
 So if I compare the next two notes [alternate w/beat]:
 
@@ -168,13 +168,3 @@ So give it a try, and let the playlist be a guideline, rather than a rule, to he
 ### Playlist
 
 <a href="../player/matching" target="_blank">Lesson 8 Playlist</a>
-
-
-
-
-
-
-### Wireframe
-
-![wireframe](../wireframes/8.1.png)
-

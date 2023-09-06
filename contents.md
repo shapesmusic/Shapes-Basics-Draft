@@ -47,7 +47,7 @@ Lesson Sequences:
 <strong style="color: green;">&bull;</strong> [Lesson 24: Moods and Tensions Together](lessons/24-moods-and-tensions-together)  
 <strong style="color: green;">&bull;</strong> [Lesson 25: Getting Inside of Moods](lessons/25-getting-inside-of-moods)  
 <strong style="color: orange;">&bull;</strong> [Lesson 26: Reading by Ear Part 4](lessons/26-reading-by-ear-4)  
-&nbsp;&nbsp;&nbsp;Commentary: Shape and Standard Notation  
+&nbsp;&nbsp;&nbsp;[Commentary: Shape and Standard Notation](writing/shape-and-standard-notation)  
 <strong style="color: blue;">&bull;</strong> [Lesson 27: Making Time Relative](lessons/27-making-time-relative)  
 <strong style="color: green;">&bull;</strong> [Lesson 28: All Moods and Tensions](lessons/28-all-moods-and-tensions)  
 <strong style="color: orange;">&bull;</strong> [Lesson 29: Mood Notes](lessons/29-mood-notes)  

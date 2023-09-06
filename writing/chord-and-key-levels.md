@@ -16,7 +16,7 @@ This means that we have two different levels of anchor notes, and it turns out t
 
 When we think about it in these terms, the anchor note is like the song's *key note*, and the changing bass notes represent changing chords&mdash;they are chord-level anchors. But where do shapes play into all of this? Are there also shapes that can change independently at the chord and key levels, and that have a relationship to one another? 
 
-In order for a bass note to represent a chord, it has to be taken along with its shape. The combination of the shape and the chord-level anchor give us a context that can fully describe the chord. But it is only in the sense that the other notes of the shape are also tensions to the chord-level anchor that they have a relationship to the key-level anchor. The shape itself represents a different experience entirely&mdash;the experience of notes that feel like they fit with the song at that particular moment.
+In order for a bass note to represent a chord, it has to be taken along with its shape. The combination of the shape and the chord-level anchor give us a context that can fully describe the chord. But it is only in the sense that the other notes of the shape are also tensions to the chord-level anchor that they have a relationship to the key-level anchor. The shape itself represents a different experience entirely&mdash;the experience of notes that feel like they fit or don't fit with the song at that particular moment.
 
 So you are playing in a shape, there are changing chord-level anchors within that shape, or across changing shapes, that organize all the other notes into tensions that pull both to the chord-level anchor, and to the key-level anchor. Each note in the song has a feeling of tension at these two different levels, and also, independently has the feeling that it fits or doesn't fit with the shape.
 
@@ -28,7 +28,7 @@ Meanwhile, the anchor note remained at the key level, and we heard the changing 
 
 If you were to imagine a shape at the key level, it might be something like the shape that best describes the overall collection of notes across potentially multiple shape changes at the chord level. If you wanted to continue having the immediate experience of notes that fit or don't fit&mdash;which is the central experience of a shape&mdash;you would want to follow along with the chord level changes. But by staying at the key level, you will have taken a step outside of the experience of a shape, into a theoretical abstraction across multiple changing shapes.
 
-This kind of abstraction is a common occurrence in music notation, when the staff is mapped to a single key signature throughout a song, even though the song changes shapes. And it is also a common occurrence when we use the standard concept of key to describe an entire song.
+This kind of abstraction is a common occurrence in music notation, when the staff is mapped to a single key signature throughout a song, even though the song changes shapes. And it is also a common occurrence when we use an idea like key to describe an entire song.
 
-This is precisely why we need the shape and anchor to be two separate concepts, and not a hybrid concept, like key. It allows us to recognize these different aspects of our musical experience independently, and to allow them to work at different levels of musical context, so that they remain connected to our immediate, intuitive experience.
+This is precisely why the shape and anchor need to be two separate concepts, and not a hybrid concept like key. It allows us to recognize these different aspects of our musical experience independently, and to allow them to work at different levels of musical context, so that they remain connected to our immediate, intuitive experience.
 

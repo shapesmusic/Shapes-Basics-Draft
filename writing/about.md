@@ -92,15 +92,17 @@ First, that the path spirals through them all, rather than progressing through e
 
 Second, the spiraling path means that the boundaries between these sequences are porous, and the skills are integrated. The Chord & Key Levels sequence, for example, is also very much about Playing With Songs. 
 
-And third, the overviews that follow are a very different experience than going through the lessons yourself, and warrant a spoiler alert. If you'd like to be surprised and delighted by what shows up in each new lesson, you are welcome to [skip over this part](#about-the-medium)!
+And Third, there are short commentaries scattered along the path, in between lessons. This is because the lessons focus as closely and concisely as possible on setting up musical experiences, and so any thoughts *about* those experiences are left to the commentaries.
 
-Otherwise, our tour continues.
+The overviews that follow are a very different experience than going through the lessons yourself, and warrant a spoiler alert. If you'd like to be surprised and delighted by what shows up in each new lesson, you are welcome to [skip over this part](#about-the-medium).
+
+But then, an overview is delightful in its own way, so we'll continue our tour.
 
 <br><br>
 
 #### Playing With Songs
 
-You've already watched and tried Lesson 1, so you know how a shape fits with a song. This sequence develops the experience of playing, and focuses on internalizing the shapes. It gradually draws you into more nuanced listening, and begins to incorporate ways to make your playing feel less random, while still following your intuitions.
+You've already watched and tried Lesson 1, so you know how a shape fits with a song. This sequence develops the experience of playing, and focuses on internalizing the shapes. It gradually draws you into more nuanced listening, and begins to incorporate ways to make your playing feel less random.
 
 <br>
 
@@ -112,7 +114,7 @@ In this sequence:
 
 #### Tactile Reading
 
-This sequence introduces a guideline for how your hands meet the keys, and uses that guideline as a basis for instrumental technique, and for fluent reading.
+This sequence introduces a guideline for how your hands meet the keys, and uses that guideline as a basis for instrumental technique, and for reading at the keyboard.
 
 Working with a fingering guideline is similar to bringing structure to your playing. It supports and enhances the feeling of playing intuitively, and it makes you feel more connected to the instrument.
 
@@ -154,7 +156,7 @@ The Tonescapes and Imagery sequences are designed to work together as a standalo
 
 In this sequence:
 
-<a href="../lessons/13-a-tonescape-and-tensions" target="_blank">Lesson 13</a> introduces a tonescape, and recognition of the anchor, one note higher, and one note lower within the tonescape. <a href="../lessons/15-two-higher-and-lower" target="_blank">Lesson 15</a> expands to two notes higher and lower. <a href="../lessons/17-switch-to-number-names" target="_blank">Lesson 17</a> brings in octave equivalence and switches from higher/lower names to number names. <a href="../lessons/19-moods" target="_blank">Lesson 19</a> and <a href="../lessons/21-light-and-heavy-tensions" target="_blank">21</a> introduce different moods that result from the sum of tensions to the anchor. <a href="../lessons/24-moods-and-tensions-together" target="_blank">Lesson 24</a>, <a href="../lessons/25-getting-inside-of-moods" target="_blank">Lesson 25</a>, and <a href="../lessons/28-all-moods-and-tensions" target="_blank">28</a> expand to recognition of all moods and all tensions. And <a href="../lessons/31-independent-solfege" target="_blank">Lesson 31</a> removes the tonescape.
+<a href="../lessons/13-a-tonescape-and-tensions" target="_blank">Lesson 13</a> introduces a tonescape, and recognition of the anchor, one note higher, and one note lower within the tonescape. <a href="../lessons/15-two-higher-and-lower" target="_blank">Lesson 15</a> expands to two notes higher and lower. <a href="../lessons/17-switch-to-number-names" target="_blank">Lesson 17</a> brings in octave equivalence and switches from higher/lower names to number names. <a href="../lessons/19-moods" target="_blank">Lesson 19</a> and <a href="../lessons/21-light-and-heavy-tensions" target="_blank">21</a> introduce different moods that result from the sum of tensions to the anchor. <a href="../lessons/24-moods-and-tensions-together" target="_blank">Lesson 24</a>, <a href="../lessons/25-getting-inside-of-moods" target="_blank">25</a>, and <a href="../lessons/28-all-moods-and-tensions" target="_blank">28</a> expand to recognition of all moods and all tensions. And <a href="../lessons/31-independent-solfege" target="_blank">Lesson 31</a> removes the tonescape.
 
 <br><br>
 
@@ -177,13 +179,13 @@ In this sequence:
 
 #### Give it a try!
 
-Looking back at the map overall, after having explored around a little, it's possible, perhaps, to see something more nuanced about the world of Shapes. The lands of Symbols, Instruments, and Imagination overlap one another, they interact, and this creates a kind of complementary motion that propels the method forward.
+Looking back at the map after having explored around a little, it's possible, perhaps, to see something more nuanced about the world of Shapes. The lands of Symbols, Instruments, and Imagination overlap and interact with one another, they create a kind of motion, a complementarity that propels the method forward.
 
-These lands also converge in the center of the map, they blend into an undifferentiated whole. And it is from this center that we begin. It's a generative center that's held outside of motion, outside of time, it's a potential for what to play, and yet it's also the source of motion. 
+These lands also converge at the center of the map, they blend into an undifferentiated whole. And it is from this center that we begin. It's a generative center that's held outside of motion, outside of time, it's a potential for what to play, and yet it's also the source of motion, and the place from which the path springs forward. 
 
-The little blue shape sits right there in the center, at the beginning of the path, and is the main character in this method. The shape is a kind of animating spirit, it's also your avatar, and it's the avatar for a musical concept, and a concept's potential to be generative and meaningful. The path you follow is a spiral, but it also wanders at times, it switches back and retraces its steps. It is an individual's path, not an idealized path. 
+The little blue shape sits right there in the center, at the beginning of the path, and is the main character in this method. The shape is a kind of animating spirit, it's also your avatar, and it's the avatar for a musical concept, and a concept's potential to be generative and meaningful. The path you follow is a spiral, but it also wanders, it switches back and retraces its steps. It is an individual's path, not an idealized path. 
 
-And so, I hope this tour will have piqued your interest to jump onto that path and give it a try, and will have given you a sense of which areas of the map you might like to explore first.
+And with that, I hope you'll jump onto this path and give it a try, and that this tour will have given you a sense of which areas of the map you might like to explore first.
 
 <br><br>
 

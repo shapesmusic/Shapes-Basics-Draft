@@ -25,11 +25,11 @@ Lesson Sequences:
 &nbsp;&nbsp;&nbsp;[Commentary: What is the Anchor?](writing/what-is-the-anchor)  
 <strong style="color: purple;">&bull;</strong> [Lesson 6: Playing With the Anchor](lessons/06-playing-with-the-anchor)  
 &nbsp;&nbsp;&nbsp;[Commentary: Musical Structures](writing/musical-structures)  
-<strong style="color: red;">&bull;</strong> [Lesson 7: Bass Notes](lessons/07-bass-notes)  
-&nbsp;&nbsp;&nbsp;Commentary: Chord and Key Levels  
+<strong style="color: red;">&bull;</strong> [Lesson 7: Bass Notes](lessons/07-bass-notes)   
 <strong style="color: purple;">&bull;</strong> [Lesson 8: Matching A Shape](lessons/08-matching-a-shape)  
 <strong style="color: purple;">&bull;</strong> [Lesson 9: Notes In Time](lessons/09-notes-in-time)  
 <strong style="color: red;">&bull;</strong> [Lesson 10: Changes](lessons/10-changes)  
+&nbsp;&nbsp;&nbsp;[Commentary: Chord and Key Levels](writing/chord-and-key-levels)  
 <strong style="color: purple;">&bull;</strong> [Lesson 11: Groups of Shapes](lessons/11-groups-of-shapes)  
 <strong style="color: blue;">&bull;</strong> [Lesson 12: Reading by Touch](lessons/12-reading-by-touch)  
 <strong style="color: green;">&bull;</strong> [Lesson 13: A Tonescape and Tensions](lessons/13-a-tonescape-and-tensions)  

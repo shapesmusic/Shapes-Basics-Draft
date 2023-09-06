@@ -35,7 +35,7 @@ Lesson Sequences:
 <strong style="color: green;">&bull;</strong> [Lesson 13: A Tonescape and Tensions](lessons/13-a-tonescape-and-tensions)  
 <strong style="color: orange;">&bull;</strong> [Lesson 14: Imagination as an Instrument](lessons/14-imagination-as-an-instrument)  
 <strong style="color: green;">&bull;</strong> [Lesson 15: Two Higher and Lower](lessons/15-two-higher-and-lower)  
-&nbsp;&nbsp;&nbsp;Commentary: What is a Tonescape?  
+&nbsp;&nbsp;&nbsp;[Commentary: What is a Tonescape?](writing/what-is-a-tonescape)  
 <strong style="color: orange;">&bull;</strong> [Lesson 16: Reading by Ear](lessons/16-reading-by-ear)  
 <strong style="color: green;">&bull;</strong> [Lesson 17: Switch To Number Names](lessons/17-switch-to-number-names)  
 <strong style="color: blue;">&bull;</strong> [Lesson 18: Reading by Touch Part 2](lessons/18-reading-by-touch-2)  

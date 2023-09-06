@@ -1,9 +1,9 @@
-# Shapes
+### To 🔥 it up locally:
 
-_A Music Method for the Expert Beginner_
+Start a local host:  
+`python3 -m http.server -d <path-to-directory>`
 
-![shapes world map](map/map.png)
+For example:  
+`python3 -m http.server -d /Users/davidforrest/development_local/shapes-method`
 
-
-
-Go to the [Table of Contents](contents)  
+Then point the browser to [http://localhost:8000](http://localhost:8000)

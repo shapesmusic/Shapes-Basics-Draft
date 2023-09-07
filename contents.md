@@ -51,7 +51,7 @@ Lesson Sequences:
 <strong style="color: blue;">&bull;</strong> [Lesson 27: Making Time Relative](lessons/27-making-time-relative)  
 <strong style="color: green;">&bull;</strong> [Lesson 28: All Moods and Tensions](lessons/28-all-moods-and-tensions)  
 <strong style="color: orange;">&bull;</strong> [Lesson 29: Mood Notes](lessons/29-mood-notes)  
-&nbsp;&nbsp;&nbsp;Commentary: Chord-Modes  
+&nbsp;&nbsp;&nbsp;[Commentary: Chord-Modes](writing/chord-modes)  
 <strong style="color: blue;">&bull;</strong> [Lesson 30: Incidentals](lessons/30-incidentals)  
 <strong style="color: green;">&bull;</strong>[ Lesson 31: Independent Solfege](lessons/31-independent-solfege)  
 <strong style="color: orange;">&bull;</strong> [Lesson 32: Free Play](lessons/32-free-play)  

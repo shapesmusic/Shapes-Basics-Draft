@@ -1,10 +1,10 @@
-## Table of Contents 
+*A Music Method for the Expert Beginner*
 
+<img src="map/map.png" alt="shapes method map" style="display: block; margin: 0 auto; width: 100%; height: auto;">
 
+### Contents
 
-### Shapes Basics
-
-[Commentary: About Shapes](writing/about)  
+[About Shapes](writing/about)  
 
 Lesson Sequences:  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: purple;"><strong>&bull;</strong> Playing With Songs</em>  
@@ -55,8 +55,3 @@ Lesson Sequences:
 <strong style="color: blue;">&bull;</strong> [Lesson 30: Incidentals](lessons/30-incidentals)  
 <strong style="color: green;">&bull;</strong>[ Lesson 31: Independent Solfege](lessons/31-independent-solfege)  
 <strong style="color: orange;">&bull;</strong> [Lesson 32: Free Play](lessons/32-free-play)  
-
-### Back Matter
-
-[Appendix 1: Frontend Code Repository](https://github.com/shapesmusic/shapes-method)  
-[Appendix 2: Backend Code Repository](https://github.com/shapesmusic/shapes-backend)

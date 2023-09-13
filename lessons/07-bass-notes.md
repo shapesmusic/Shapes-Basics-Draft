@@ -34,7 +34,7 @@ In lots of songs, you'll find a series of notes of the shape that are organized 
 
 [song]
 
-For example, this song fits with 4 to the Right, with this anchor note [play w/beat].
+For example, this song fits with 3 to the Right, with this anchor note [play w/beat].
 
 And it has four bass notes that repeat throughout the song. The first note is the anchor [play], then here's the second note [play], third note [play], and fourth note [play].
 

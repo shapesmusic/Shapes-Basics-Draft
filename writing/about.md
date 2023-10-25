@@ -55,7 +55,7 @@ Many of the most foundational principles in Shapes are already present in this f
 
 	Rather than learning a song's melody, chords, and so on, you begin by playing with the materials that give rise to those kinds of ideas. The shape represents a field of possibilities, and the song animates those possibilities, inviting you into a conversation with them.
 
-- **It draws on pre-existing intuitions.**
+- **It draws on your intuitions.**
 
 	Hearing when a note doesn't fit is a very powerful phenomenon. It means that you also know which notes *do* fit, even if you haven't yet organized that knowledge into a concept that you can name. You also have a sense for what to play next, and that points to a kind of intuition that extends far beyond the domain of notes, and that may resist names altogether.
 

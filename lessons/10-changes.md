@@ -92,7 +92,7 @@ This song switches back and forth between two different shapes&mdash;4 to the L
 
 <img src="../media/changes/ex_3a.png" alt="Image" align="center" style="width: 100%;">
 
-Although, you might decide that rather than changing to 1 note lower than the anchor, you hear the bass notes changing to 2 notes *higher* than the anchor [play, and I wouldn't try to argue with you.
+Although, you might decide that rather than changing to 1 note lower than the anchor, you hear the bass notes changing to 2 notes *higher* than the anchor [play], and I wouldn't try to argue with you.
 
 <img src="../media/changes/ex_3b.png" alt="Image" align="center" style="width: 100%;">
 

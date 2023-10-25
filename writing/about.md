@@ -174,26 +174,11 @@ In this sequence:
 
 <a href="../lessons/14-imagination-as-an-instrument" target="_blank">Lesson 14</a> introduces imagery, <a href="../lessons/16-reading-by-ear" target="_blank">Lesson 16</a> uses notation to draw two additional notes out of the tonescape. <a href="../lessons/20-reading-by-ear-2" target="_blank">Lesson 20</a> expands to three moods. <a href="../lessons/22-reading-by-ear-3" target="_blank">Lesson 22</a>, <a href="../lessons/26-reading-by-ear-4" target="_blank">26</a>, and <a href="../lessons/29-mood-notes" target="_blank">29</a> expand to hearing all tensions in all moods. And <a href="../lessons/32-free-play" target="_blank">Lesson 32</a> is free play imagery in all moods.
 
-
-<br><br>
-
-#### Give it a try!
-
-Looking back at the map after having explored around a little, it's possible, perhaps, to see something more nuanced about the world of Shapes. The lands of Symbols, Instruments, and Imagination overlap and interact with one another, they create a kind of motion, a complementarity that propels the method forward.
-
-These lands also converge at the center of the map, they blend into an undifferentiated whole. And it is from this center that we begin. It's a generative center that's held outside of motion, outside of time, it's a potential for what to play, and yet it's also the source of motion, and the place from which the path springs forward. 
-
-The little blue shape sits right there in the center, at the beginning of the path, and is the main character in this method. The shape is a kind of animating spirit, it's also your avatar, and it's the avatar for a musical concept, and a concept's potential to be generative and meaningful. The path you follow is a spiral, but it also wanders, it switches back and retraces its steps. It is an individual's path, not an idealized path. 
-
-And with that, I hope you'll jump onto this path and give it a try, and that this tour will have given you a sense of which areas of the map you might like to explore first.
-
 <br><br>
 
 ### About The Medium
 
-Because the intuitions that underlie our musical basics are so expansive, turning our attention to them opens endless opportunities for learning about music, and for learning about ourselves. 
-
-Shapes focuses on how the most familiar musical concepts that we tend to take for granted really work, in terms of how we might most intuitively experience them. But our intuitions are also at work in innumerably many other domains of music&mdash;some that we're aware of and some that we're not&mdash;and all of those domains also play a part in the concepts and experiences that we've placed at the center of our attention.
+Shapes focuses on the most familiar musical concepts that we tend to take for granted, in terms of how we might most intuitively experience them. But our intuitions are also at work in innumerably many other domains of music&mdash;some that we're aware of and some that we're not&mdash;and all of those domains also play a part in the concepts and experiences that we've placed at the center of our attention.
 
 For example, in order for a note to sound like it fits with a song, you have to take for granted that the sound of the instrument also blends with the sound of the song. If the choice of instrument doesn't fit with the song's style, or if the volume is too loud or soft, or if you're playing in an extreme register of the instrument, what you play won't feel like it fits with the song, even when the notes, if somehow abstracted from all of those considerations, do fit.
 

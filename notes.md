@@ -35,7 +35,7 @@
 
 
 
-### Lesson 1 - A Shape
+### Level 1 - A Shape
 
 Use a single shape to play along with a playlist of songs. Hear when notes fit or don't fit, and start to follow your musical intuition.
 
@@ -43,9 +43,9 @@ Use a single shape to play along with a playlist of songs. Hear when notes fit o
 
 - [2022-03-04 Draft YT Video](https://www.youtube.com/watch?v=J1Ks_ve2h1I)
 - [2022-03-04 Slides Script](https://docs.google.com/presentation/d/1BbXmsq7Bd2WEPrBlTqApyb7zKrS8WmEEjb4qCe1gCv8/edit?usp=sharing)
-- 2021-10-05 JG Shapes Lessons 1 & 2 (Video) start 14:27
-- 2013-01-27 wireframes lesson 1 script
-- 2009-10 lesson sketch - a shape
+- 2021-10-05 JG Shapes Levels 1 & 2 (Video) start 14:27
+- 2013-01-27 wireframes level 1 script
+- 2009-10 level sketch - a shape
 
 **Notes**
 
@@ -74,7 +74,7 @@ Use a single shape to play along with a playlist of songs. Hear when notes fit o
 
 
 
-### Lesson 2 - Different Shapes
+### Level 2 - Different Shapes
 
 Add some different shapes and continue playing along with songs.
 
@@ -82,9 +82,9 @@ Add some different shapes and continue playing along with songs.
 
 - [2022-03-04 Draft YT Video](https://www.youtube.com/watch?v=rvDND8zNJfw)
 - [2022-03-04 Slides Script](https://docs.google.com/presentation/d/15aEhmjdWSEs0JX3Uc00tF--RLqz0skjsV8oRaXVfQv8/edit?usp=sharing)
-- 2021-10-05 JG Shapes Lessons 1 & 2 (Video) start 37:12
+- 2021-10-05 JG Shapes Levels 1 & 2 (Video) start 37:12
 - 2015-10-25 videos 1 & 2 (archived in iMovie?)
-- 2013-01-27 wireframes lesson 2 script
+- 2013-01-27 wireframes level 2 script
 
 **Notes**
 
@@ -109,7 +109,7 @@ Add some different shapes and continue playing along with songs.
 
 
 
-### Lesson 3 - A Group of Shapes
+### Level 3 - A Group of Shapes
 
 See the shapes as a group, and add a way to name the shapes.
 
@@ -117,10 +117,10 @@ See the shapes as a group, and add a way to name the shapes.
 
 - [2022-03-04 Draft YT Video](https://www.youtube.com/watch?v=d7obs-3YdOo)
 - [2022-03-04 Slides Script](https://docs.google.com/presentation/d/1tH30ppj7cGPFSrbNQplVbJEUTeWul1R-huAU1FYv3mg/edit?usp=sharing)
-- 2021-10-05 JG Shapes Lessons 1 & 2 (Video) start 37:12
+- 2021-10-05 JG Shapes Levels 1 & 2 (Video) start 37:12
 - 2015-10-25 videos 1 & 2 (archived in iMovie?)
-- 2013-01-27 wireframes lesson 2 script
-- 2009-10 lesson sketch - groups of shapes (part 1)
+- 2013-01-27 wireframes level 2 script
+- 2009-10 level sketch - groups of shapes (part 1)
 
 **Notes**
 
@@ -146,14 +146,14 @@ See the shapes as a group, and add a way to name the shapes.
 
 
 
-### Lesson 4 - Shape Fingerings
+### Level 4 - Shape Fingerings
 
 Learn how your hands match the keyboard, and how to play hands together in any shape, beginning on any note, using only one fingering pattern.
 
 **References**
 - 2011-03-03 Provisional pp. 17-21, "Centered Keyboard" and "Shape Fingerings"
-- 2009-10 lesson sketch - the centered keyboard
-- 2009-10 lesson sketch - samurai sword
+- 2009-10 level sketch - the centered keyboard
+- 2009-10 level sketch - samurai sword
 
 **Notes**
 
@@ -183,15 +183,15 @@ Learn how your hands match the keyboard, and how to play hands together in any s
 
 
 
-### Lesson 5 - The Anchor Note
+### Level 5 - The Anchor Note
 
 Hear the one note all the others are pulling toward.
 
 **References**
 
 - 2023-Spring 5.SO_Mus notes
-- 2021-10-12 JG Anchors Lesson (video)
-- 2013-01-27 wireframes lesson 3 script
+- 2021-10-12 JG Anchors Level (video)
+- 2013-01-27 wireframes level 3 script
 
 **Notes**
 
@@ -216,13 +216,13 @@ Hear the one note all the others are pulling toward.
 
 
 
-### Lesson 6 - Playing With the Anchor
+### Level 6 - Playing With the Anchor
 
 Use the anchor note to come up with some ideas for playing.
 
 **References**
 
-- 2013-01-27 wireframes lesson 4 script
+- 2013-01-27 wireframes level 4 script
 
 **Notes**
 
@@ -246,7 +246,7 @@ Use the anchor note to come up with some ideas for playing.
 
 
 
-### Lesson 7 - Bass Notes
+### Level 7 - Bass Notes
 
 Hear the notes that give structure to a song.
 
@@ -279,13 +279,13 @@ Hear the notes that give structure to a song.
 
 
 
-### Lesson 8 - Matching A Shape
+### Level 8 - Matching A Shape
 
 Learn to match a shape with a song on your own.
 
 **References**
 
-- 2009-10 lesson sketch - fitting songs with shapes
+- 2009-10 level sketch - fitting songs with shapes
 
 **Notes**
 
@@ -298,7 +298,7 @@ Learn to match a shape with a song on your own.
 
 
 
-### Lesson 9 - Notes in Time
+### Level 9 - Notes in Time
 
 Learn to represent bass notes using music notation.
 
@@ -322,7 +322,7 @@ Learn to represent bass notes using music notation.
 
 
 
-### Lesson 10 - Changes
+### Level 10 - Changes
 
 Play with changing bass notes, anchors, *and* shapes.
 
@@ -348,13 +348,13 @@ Play with changing bass notes, anchors, *and* shapes.
 
 
 
-### Lesson 11 - Groups of Shapes
+### Level 11 - Groups of Shapes
 
 Get to know three additional groups of shapes.
 
 **References**
 
-- 2009-10 lesson sketch - groups of shapes (part 2)
+- 2009-10 level sketch - groups of shapes (part 2)
 
 **Notes**
 
@@ -363,7 +363,7 @@ Get to know three additional groups of shapes.
 
 
 
-### Lesson 12 - Reading by Touch
+### Level 12 - Reading by Touch
 
 Begin to sight read music notation at the keyboard.
 
@@ -387,7 +387,7 @@ Begin to sight read music notation at the keyboard.
 
 
 
-### Lesson 13 - A Tonescape and Tensions
+### Level 13 - A Tonescape and Tensions
 
 Begin to recognize the sounds of individual notes in a tonescape.
 
@@ -396,7 +396,7 @@ Begin to recognize the sounds of individual notes in a tonescape.
 - 2023_Spring 1_13_15_tonescapes intro
 - 2022-03-06_nora_basics_13_tonescapes.wav
 - 2020-11-06.1_mgf_first_tonescapes.mp3
-- 2009-10 lesson sketch - a tonescape
+- 2009-10 level sketch - a tonescape
 
 **Notes**
 
@@ -405,7 +405,7 @@ Begin to recognize the sounds of individual notes in a tonescape.
 
 
 
-### Lesson 14 - Imagination as an Instrument
+### Level 14 - Imagination as an Instrument
 
 Begin to draw individual notes out of the tonescape.
 
@@ -414,7 +414,7 @@ Begin to draw individual notes out of the tonescape.
 - 2023-Spring 2_14_16_tonescapes_active
 - 2022-03-06_nora_basics_14.1_tonescapes.mp3
 - 2022-03-15_nora_basics_14.2_inside_a_tonescape.mp3
-- 2009-10 lesson sketch - a tonescape
+- 2009-10 level sketch - a tonescape
 
 **Notes**
 
@@ -422,7 +422,7 @@ Begin to draw individual notes out of the tonescape.
 
 
 
-### Lesson 15 - Two Higher and Lower
+### Level 15 - Two Higher and Lower
 
 Add two more notes to recognize in a tonescape.
 
@@ -432,7 +432,7 @@ Add two more notes to recognize in a tonescape.
 
 **Notes**
 
-- maybe can't say that the anchor is the lowest, highest, and middle note of the tonescape yet, or that there are three of the anchor and two of every other note, because octave equivalence doesn't happen until lesson 17.
+- maybe can't say that the anchor is the lowest, highest, and middle note of the tonescape yet, or that there are three of the anchor and two of every other note, because octave equivalence doesn't happen until level 17.
   - but then, i also talk about the notes disappearing one by one at the end of the tonescape. And it's not as though we won't have already played on multi-octave keyboards for a while by this point... so I'll leave it in there and see what happens.
 
 
@@ -451,7 +451,7 @@ Add two more notes to recognize in a tonescape.
 
 
 
-### Lesson 16 - Reading by Ear
+### Level 16 - Reading by Ear
 
 Using notation, add two additional notes to draw out of the tonescape.
 
@@ -466,14 +466,14 @@ Using notation, add two additional notes to draw out of the tonescape.
 
 
 
-### Lesson 17 - Switch To Number Names
+### Level 17 - Switch To Number Names
 
 Begin to hear notes in any octave as tensions to the anchor.
 
 **References**
 
 - 2023-Spring 3_17_tonescapes_passive
-- 2023-02-11_Lesson_17_audio
+- 2023-02-11_Level_17_audio
 
 **Notes**
 
@@ -481,7 +481,7 @@ Begin to hear notes in any octave as tensions to the anchor.
 
 
 
-### Lesson 18 - Reading by Touch Part 2
+### Level 18 - Reading by Touch Part 2
 
 *Bring in 4L, 4R (double light/heavy), still up to thumbs*
 
@@ -505,7 +505,7 @@ Begin to hear notes in any octave as tensions to the anchor.
 
 
 
-### Lesson 19 - Moods
+### Level 19 - Moods
 
 Begin to recognize the overall feelings of different tonescapes.
 
@@ -520,7 +520,7 @@ Begin to recognize the overall feelings of different tonescapes.
 
 
 
-### Lesson 20 - Reading by Ear Part 2
+### Level 20 - Reading by Ear Part 2
 
 Draw notes out of two additional tonescapes.
 
@@ -534,7 +534,7 @@ Draw notes out of two additional tonescapes.
 
 
 
-### Lesson 21 - Light and Heavy Tensions
+### Level 21 - Light and Heavy Tensions
 
 Listen to the tensions that make one mood feel different from another.
 
@@ -549,7 +549,7 @@ Listen to the tensions that make one mood feel different from another.
 
 
 
-### Lesson 22 - Reading by Ear Part 3
+### Level 22 - Reading by Ear Part 3
 
 Draw all the tensions out of three tonescapes.
 
@@ -563,7 +563,7 @@ Draw all the tensions out of three tonescapes.
 
 
 
-### Lesson 23 - Reading by Touch Part 3
+### Level 23 - Reading by Touch Part 3
 
 - the playlist opens to all anchors
 - the notation shifts to moveable anchor
@@ -583,7 +583,7 @@ Draw all the tensions out of three tonescapes.
 
 
 
-### Lesson 24 - Moods and Tensions Together
+### Level 24 - Moods and Tensions Together
 
 Add the remaining tensions in three moods.
 
@@ -598,7 +598,7 @@ Add the remaining tensions in three moods.
 
 
 
-### Lesson 25 - Getting Inside of Moods
+### Level 25 - Getting Inside of Moods
 
 Add two additional moods along with their tensions.
 
@@ -612,7 +612,7 @@ Add two additional moods along with their tensions.
 
 
 
-### Lesson 26 - Reading by Ear Part 4
+### Level 26 - Reading by Ear Part 4
 
 Draw all the tensions out of the tonescape, and add two additional moods.
 
@@ -640,7 +640,7 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 
 
-### Lesson 27 - Making Time Relative
+### Level 27 - Making Time Relative
 
 *Add 3L/3R, 2L/2R, introduce rhythmic notation*
 
@@ -658,7 +658,7 @@ Draw all the tensions out of the tonescape, and add two additional moods.
 
 
 
-### Lesson 28 - All Moods and Tensions
+### Level 28 - All Moods and Tensions
 
 Add two remaining moods along with their tensions.
 
@@ -672,7 +672,7 @@ Add two remaining moods along with their tensions.
 
 
 
-### Lesson 29 - Mood Notes
+### Level 29 - Mood Notes
 
 (Reading by Ear Part 5)
 
@@ -702,7 +702,7 @@ Learn the standard names for the moods.
 
 
 
-### Lesson 30 - Incidentals
+### Level 30 - Incidentals
 
 - add 1L/1R and Bottom shapes
 - use mood playlists for reading incidentals
@@ -722,7 +722,7 @@ Learn the standard names for the moods.
 
 
 
-### Lesson 31 - Independent Solfege
+### Level 31 - Independent Solfege
 
 Recognize all the tensions without a tonescape.
 
@@ -740,7 +740,7 @@ Recognize all the tensions without a tonescape.
 
 
 
-### Lesson 32 - Imagination as an Instrument Part 2
+### Level 32 - Imagination as an Instrument Part 2
 
 Recognize any mood and free play inside it.
 

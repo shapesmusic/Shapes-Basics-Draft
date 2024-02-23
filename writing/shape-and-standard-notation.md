@@ -2,7 +2,7 @@
 
 
 
-Throughout these lessons, we've been building a form of music notation that can represent the notes we play, and the contexts for those notes. This began with a single shape, and progressed, through a way of representing changing bass notes and structures to the anchor, to something that begins to look more and more like standard music notation. 
+Throughout these levels, we've been building a form of music notation that can represent the notes we play, and the contexts for those notes. This began with a single shape, and progressed, through a way of representing changing bass notes and structures to the anchor, to something that begins to look more and more like standard music notation. 
 
 I'd like to try, as an experiment, to go in the other direction&mdash;starting with standard music notation and progressing backwards from its surface layer, until we arrive at a shape. This may give us some additional insights into the relationship between shape and standard notation.
 
@@ -20,7 +20,7 @@ The notation above is a short excerpt from Bach's F Major Prelude. This may be a
 
 <br><br>
 
-Peeling back one layer, the accidentals are replaced with [incidentals](../lessons/30-incidentals). The E-flat and E-natural in measure 1 become "down" and "return to" incidentals as expected, but the B-naturals in measure 3 turn out to be departures "up" from the key signature. The B-flat later in that measure is a "return to," and both the C-sharps and the B-natural in measure 4 are departures "up" from the shape. The incidentals show us departures from the key signature without considering the grammar of note names. The same idea of "up" is what changes a flat to a natural, and a natural to a sharp.
+Peeling back one layer, the accidentals are replaced with [incidentals](../levels/30-incidentals). The E-flat and E-natural in measure 1 become "down" and "return to" incidentals as expected, but the B-naturals in measure 3 turn out to be departures "up" from the key signature. The B-flat later in that measure is a "return to," and both the C-sharps and the B-natural in measure 4 are departures "up" from the shape. The incidentals show us departures from the key signature without considering the grammar of note names. The same idea of "up" is what changes a flat to a natural, and a natural to a sharp.
 
 <br><br>
 
@@ -62,7 +62,7 @@ From here, we can replace the chord-mode names with graphical shapes and anchors
 
 <br><br>
 
-Peeling back the idea of *measure*, we no longer have an upper number in the time signature, and we're left with notation that [assigns different symbols](../lessons/27-making-time-relative) to a regular pulse in the music.
+Peeling back the idea of *measure*, we no longer have an upper number in the time signature, and we're left with notation that [assigns different symbols](../levels/27-making-time-relative) to a regular pulse in the music.
 
 <br><br>
 
@@ -78,7 +78,7 @@ Above, rhythmic note symbols disappear, and the temporal relationships between n
 
 <br><br>
 
-Without the lower number of the time signature, we have a [simple shape notation](../lessons/09-notes-in-time). This notation uses an anchor clef to map the shape and anchor to the staff, and pulse dots to represent the relationship between note events and the song's pulse.
+Without the lower number of the time signature, we have a [simple shape notation](../levels/09-notes-in-time). This notation uses an anchor clef to map the shape and anchor to the staff, and pulse dots to represent the relationship between note events and the song's pulse.
 
 <br><br>
 

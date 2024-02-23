@@ -52,7 +52,7 @@ So give it a try. And when you feel comfortable reading the second notation in t
 
 ### Playlist and Notation
 
-<a href="../player/reading-2" target="_blank">Lesson 18 Playlist</a>
+<a href="../player/reading-2" target="_blank">Level 18 Playlist</a>
 
 
 

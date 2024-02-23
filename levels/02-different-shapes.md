@@ -54,4 +54,4 @@ You'll get to know the shapes gradually just by playing with them, so when each 
 
 ### Playlist
 
-<a href="../player/a-group" target="_blank">Lesson 2 Playlist</a>
+<a href="../player/a-group" target="_blank">Level 2 Playlist</a>

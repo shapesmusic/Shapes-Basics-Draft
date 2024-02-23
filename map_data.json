@@ -1,9 +1,9 @@
 {
-  "type": "lesson",
+  "type": "level",
   "number": 1,
   "title": "A Shape",
   "blurb": "Use a single shape to play along with a playlist of songs.",
   "sequence": 1,
-  "route": "/lessons/01-a-shape",
-  "location": "/lessons/01-a-shape.html"
+  "route": "/levels/01-a-shape",
+  "location": "/levels/01-a-shape.html"
 },

@@ -66,4 +66,4 @@ Go as slowly as you need to at first, and when you've started to get the hang of
 
 ### Playlist and Notation
 
-[Lesson 30 Playlist and Notation](../player/30-exercises)
+[Level 30 Playlist and Notation](../player/30-exercises)

@@ -64,4 +64,4 @@ So give it a try. When you're comfortable reading both notations in any of the t
 
 ### Tonescape Exercises
 
-[Lesson 22 Exercises](../player/22-exercises)
+[Level 22 Exercises](../player/22-exercises)

@@ -72,4 +72,4 @@ Once you've started to recognize the feeling of each mood, and you're comfortabl
 
 ### Tonescape Exercises
 
-[Lesson 19 Exercises](../player/19-exercises)
+[Level 19 Exercises](../player/19-exercises)

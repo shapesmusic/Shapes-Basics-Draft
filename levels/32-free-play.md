@@ -34,7 +34,7 @@ So you've already built a powerful internal instrument, and begun to play it. An
 
 And since you'll be playing your internal instrument, let's explore these groups as tonescapes, rather than as shapes on the keyboard.
 
-When you go to the exercise for this lesson, you'll find all the moods for each of the groups. Like the 1st group, the 2nd group has a neutral mood, three moods lighter than neutral, and three moods heaver than neutral. The 3rd group has only two moods, a Light and a Heavy mood, and the 4th group has only one, neutral mood.
+When you go to the exercise for this level, you'll find all the moods for each of the groups. Like the 1st group, the 2nd group has a neutral mood, three moods lighter than neutral, and three moods heaver than neutral. The 3rd group has only two moods, a Light and a Heavy mood, and the 4th group has only one, neutral mood.
 
 All these tonesapes use the same anchor note, *Re*. So you can start by choosing a random mood and listening, very broadly, to recognize which group it comes from. All the moods from a single group will share a similar overall quality, since, as you've discovered, each mood is a different way of orienting yourself within the same collection of notes.
 
@@ -52,4 +52,4 @@ So give it a try. Explore this world of musical sounds and ideas, both with real
 
 ### Tonescape Exercises
 
-[Lesson 32 Exercises](../player/32-exercises)
+[Level 32 Exercises](../player/32-exercises)

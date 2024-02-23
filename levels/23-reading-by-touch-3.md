@@ -54,7 +54,7 @@ And when you feel comfortable reading in different shapes and anchors along with
 
 ### Playlist and Notation
 
-<a href="../player/reading-3" target="_blank">Lesson 23 Playlist</a>
+<a href="../player/reading-3" target="_blank">Level 23 Playlist</a>
 
 
 

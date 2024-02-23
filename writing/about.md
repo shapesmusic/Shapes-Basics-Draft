@@ -18,7 +18,7 @@ Shapes is an example of how to approach musical basics in this way. And there ar
 
 ### A Brief Tour
 
-I'll begin our tour by showing you the first lesson, which is my favorite way to introduce Shapes:
+I'll begin our tour by showing you the first level, which is my favorite way to introduce Shapes:
 
 
 <style>
@@ -45,11 +45,11 @@ I'll begin our tour by showing you the first lesson, which is my favorite way to
 
 Before we go on, let's pause here so you have a chance to try it out. Because it's through the experience of playing that you'll really start to understand what Shapes is about.
 
-<a href="../player/a-shape" target="_blank">Go to the Lesson 1 Playlist</a> 
+<a href="../player/a-shape" target="_blank">Go to the Level 1 Playlist</a> 
 
 <br><br>
 
-Many of the most foundational principles in Shapes are already present in this first lesson. For example:
+Many of the most foundational principles in Shapes are already present in this first level. For example:
 
 - **The focus isn't on what to play, but on what's *possible* to play.**
 
@@ -70,13 +70,13 @@ Many of the most foundational principles in Shapes are already present in this f
 
 <br>
 
-You’ll find the first lesson where the land of Symbols overlaps with the land of Imagination. The shape, after all, is a musical symbol which, when paired with a song, gives your musical imagination permission to take over.
+You’ll find the first level where the land of Symbols overlaps with the land of Imagination. The shape, after all, is a musical symbol which, when paired with a song, gives your musical imagination permission to take over.
 
 The shape is also a diagram on an instrument, and so the path continues through the land of Symbols, into the land of Instruments, and then into a land where instruments begin to disappear altogether, to become internalized as the rational side of your musical imagination.
 
 And like so, this path winds around again and again through the lands of Symbols, Instruments, and Imagination until eventually it falls clear off the edge of the map, and you'll have to go find a different world to explore.
 
-But before then, you will have weaved your way through five distinct sequences of lessons, and I’d like to tell you a little about what you'll find in each. These sequences are:
+But before then, you will have weaved your way through five distinct sequences of levels, and I’d like to tell you a little about what you'll find in each. These sequences are:
 
 - Playing With Songs
 - Tactile Reading
@@ -92,9 +92,9 @@ First, that the path spirals through them all, rather than progressing through e
 
 Second, the spiraling path means that the boundaries between these sequences are porous, and the skills are integrated. The Chord & Key Levels sequence, for example, is also very much about Playing With Songs. 
 
-And Third, there are short commentaries scattered along the path, in between lessons. This is because the lessons focus as closely and concisely as possible on setting up musical experiences, and so any thoughts *about* those experiences are left to the commentaries.
+And Third, there are short commentaries scattered along the path, in between levels. This is because the levels focus as closely and concisely as possible on setting up musical experiences, and so any thoughts *about* those experiences are left to the commentaries.
 
-The overviews that follow are a very different experience than going through the lessons yourself, and warrant a spoiler alert. If you'd like to be surprised and delighted by what shows up in each new lesson, you are welcome to [skip over this part](#about-the-medium).
+The overviews that follow are a very different experience than going through the levels yourself, and warrant a spoiler alert. If you'd like to be surprised and delighted by what shows up in each new level, you are welcome to [skip over this part](#about-the-medium).
 
 But then, an overview is delightful in its own way, so we'll continue our tour.
 
@@ -102,13 +102,13 @@ But then, an overview is delightful in its own way, so we'll continue our tour.
 
 #### Playing With Songs
 
-You've already watched and tried Lesson 1, so you know how a shape fits with a song. This sequence develops the experience of playing, and focuses on internalizing the shapes. It gradually draws you into more nuanced listening, and begins to incorporate ways to make your playing feel less random.
+You've already watched and tried Level 1, so you know how a shape fits with a song. This sequence develops the experience of playing, and focuses on internalizing the shapes. It gradually draws you into more nuanced listening, and begins to incorporate ways to make your playing feel less random.
 
 <br>
 
 In this sequence:
 
-<a href="../lessons/01-a-shape" target="_blank">Lesson 1</a> introduces a shape. <a href="../lessons/02-different-shapes" target="_blank">Lesson 2</a> and <a href="../lessons/03-a-group" target="_blank">3</a> expand to a full group of shapes and give them names. <a href="../lessons/06-playing-with-the-anchor" target="_blank">Lesson 6</a> introduces the anchor note as a way to structure what you play. <a href="../lessons/08-matching-a-shape" target="_blank">Lesson 8</a> shows you how to figure out the shape on your own. <a href="../lessons/09-notes-in-time" target="_blank">Lesson 9</a> introduces music notation. And <a href="../lessons/11-groups-of-shapes" target="_blank">Lesson 11</a> introduces three additional groups of shapes that will occasionally show up in songs.
+<a href="../levels/01-a-shape" target="_blank">Level 1</a> introduces a shape. <a href="../levels/02-different-shapes" target="_blank">Level 2</a> and <a href="../levels/03-a-group" target="_blank">3</a> expand to a full group of shapes and give them names. <a href="../levels/06-playing-with-the-anchor" target="_blank">Level 6</a> introduces the anchor note as a way to structure what you play. <a href="../levels/08-matching-a-shape" target="_blank">Level 8</a> shows you how to figure out the shape on your own. <a href="../levels/09-notes-in-time" target="_blank">Level 9</a> introduces music notation. And <a href="../levels/11-groups-of-shapes" target="_blank">Level 11</a> introduces three additional groups of shapes that will occasionally show up in songs.
 
 <br><br>
 
@@ -126,7 +126,7 @@ The notation gives you exact notes to play, but you can play these same notes wi
 
 In this sequence:
 
-<a href="../lessons/04-shape-fingerings" target="_blank">Lesson 4</a> introduces a single fingering pattern that allows you to play hands together in any shape, starting on any note. <a href="../lessons/12-reading-by-touch" target="_blank">Lesson 12</a> uses this pattern to begin reading a relative notation along with songs, in a way that feels like playing a rhythm game. <a href="../lessons/18-reading-by-touch-2" target="_blank">Lesson 18</a> and <a href="../lessons/23-reading-by-touch-3" target="_blank">23</a> expand the range of shapes and add features to the notation. <a href="../lessons/27-making-time-relative" target="_blank">Lesson 27</a> replaces pulse dots with rhythmic note symbols. And <a href="../lessons/30-incidentals" target="_blank">Lesson 30</a> gives a way to notate outside the shape.
+<a href="../levels/04-shape-fingerings" target="_blank">Level 4</a> introduces a single fingering pattern that allows you to play hands together in any shape, starting on any note. <a href="../levels/12-reading-by-touch" target="_blank">Level 12</a> uses this pattern to begin reading a relative notation along with songs, in a way that feels like playing a rhythm game. <a href="../levels/18-reading-by-touch-2" target="_blank">Level 18</a> and <a href="../levels/23-reading-by-touch-3" target="_blank">23</a> expand the range of shapes and add features to the notation. <a href="../levels/27-making-time-relative" target="_blank">Level 27</a> replaces pulse dots with rhythmic note symbols. And <a href="../levels/30-incidentals" target="_blank">Level 30</a> gives a way to notate outside the shape.
 
 <br><br>
 
@@ -138,7 +138,7 @@ In one sense, this is part of the playing sequence. But it is really the theoret
 
 In this sequence:
 
-<a href="../lessons/05-the-anchor-note" target="_blank">Lesson 5</a> introduces the anchor note as a way of structuring the other notes of the shape. <a href="../lessons/07-bass-notes" target="_blank">Lesson 7</a> shows that changing bass notes along with any other notes of a shape create the recognizable framework for a song. And <a href="../lessons/10-changes" target="_blank">Lesson 10</a> introduces changing shapes, anchors, and bass notes.
+<a href="../levels/05-the-anchor-note" target="_blank">Level 5</a> introduces the anchor note as a way of structuring the other notes of the shape. <a href="../levels/07-bass-notes" target="_blank">Level 7</a> shows that changing bass notes along with any other notes of a shape create the recognizable framework for a song. And <a href="../levels/10-changes" target="_blank">Level 10</a> introduces changing shapes, anchors, and bass notes.
 
 <br><br>
 
@@ -156,7 +156,7 @@ The Tonescapes and Imagery sequences are designed to work together as a standalo
 
 In this sequence:
 
-<a href="../lessons/13-a-tonescape-and-tensions" target="_blank">Lesson 13</a> introduces a tonescape, and recognition of the anchor, one note higher, and one note lower within the tonescape. <a href="../lessons/15-two-higher-and-lower" target="_blank">Lesson 15</a> expands to two notes higher and lower. <a href="../lessons/17-switch-to-number-names" target="_blank">Lesson 17</a> brings in octave equivalence and switches from higher/lower names to number names. <a href="../lessons/19-moods" target="_blank">Lesson 19</a> and <a href="../lessons/21-light-and-heavy-tensions" target="_blank">21</a> introduce different moods that result from the sum of tensions to the anchor. <a href="../lessons/24-moods-and-tensions-together" target="_blank">Lesson 24</a>, <a href="../lessons/25-getting-inside-of-moods" target="_blank">25</a>, and <a href="../lessons/28-all-moods-and-tensions" target="_blank">28</a> expand to recognition of all moods and all tensions. And <a href="../lessons/31-independent-solfege" target="_blank">Lesson 31</a> removes the tonescape.
+<a href="../levels/13-a-tonescape-and-tensions" target="_blank">Level 13</a> introduces a tonescape, and recognition of the anchor, one note higher, and one note lower within the tonescape. <a href="../levels/15-two-higher-and-lower" target="_blank">Level 15</a> expands to two notes higher and lower. <a href="../levels/17-switch-to-number-names" target="_blank">Level 17</a> brings in octave equivalence and switches from higher/lower names to number names. <a href="../levels/19-moods" target="_blank">Level 19</a> and <a href="../levels/21-light-and-heavy-tensions" target="_blank">21</a> introduce different moods that result from the sum of tensions to the anchor. <a href="../levels/24-moods-and-tensions-together" target="_blank">Level 24</a>, <a href="../levels/25-getting-inside-of-moods" target="_blank">25</a>, and <a href="../levels/28-all-moods-and-tensions" target="_blank">28</a> expand to recognition of all moods and all tensions. And <a href="../levels/31-independent-solfege" target="_blank">Level 31</a> removes the tonescape.
 
 <br><br>
 
@@ -172,7 +172,7 @@ Reading is used here to represent which sounds to actively imagine in the tonesc
 
 In this sequence:
 
-<a href="../lessons/14-imagination-as-an-instrument" target="_blank">Lesson 14</a> introduces imagery, <a href="../lessons/16-reading-by-ear" target="_blank">Lesson 16</a> uses notation to draw two additional notes out of the tonescape. <a href="../lessons/20-reading-by-ear-2" target="_blank">Lesson 20</a> expands to three moods. <a href="../lessons/22-reading-by-ear-3" target="_blank">Lesson 22</a>, <a href="../lessons/26-reading-by-ear-4" target="_blank">26</a>, and <a href="../lessons/29-mood-notes" target="_blank">29</a> expand to hearing all tensions in all moods. And <a href="../lessons/32-free-play" target="_blank">Lesson 32</a> is free play imagery in all moods.
+<a href="../levels/14-imagination-as-an-instrument" target="_blank">Level 14</a> introduces imagery, <a href="../levels/16-reading-by-ear" target="_blank">Level 16</a> uses notation to draw two additional notes out of the tonescape. <a href="../levels/20-reading-by-ear-2" target="_blank">Level 20</a> expands to three moods. <a href="../levels/22-reading-by-ear-3" target="_blank">Level 22</a>, <a href="../levels/26-reading-by-ear-4" target="_blank">26</a>, and <a href="../levels/29-mood-notes" target="_blank">29</a> expand to hearing all tensions in all moods. And <a href="../levels/32-free-play" target="_blank">Level 32</a> is free play imagery in all moods.
 
 <br><br>
 

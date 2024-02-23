@@ -74,7 +74,7 @@ Have fun with this, and take your time. And when you feel comfortable reading th
 
 ### Playlist and Notation
 
-<a href="../player/reading-4" target="_blank">Lesson 27 Playlist</a>
+<a href="../player/reading-4" target="_blank">Level 27 Playlist</a>
 
 
 

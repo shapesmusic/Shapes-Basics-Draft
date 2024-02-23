@@ -64,4 +64,4 @@ So give it a try. When you're comfortable naming the tensions in each mood, and 
 
 ### Tonescape Exercises
 
-[Lesson 21 Exercises](../player/21-exercises)
+[Level 21 Exercises](../player/21-exercises)

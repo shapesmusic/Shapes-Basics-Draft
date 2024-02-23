@@ -78,4 +78,4 @@ Experiment with this a little, and when you feel comfortable reorienting yoursel
 
 ### Tonescape Exercises
 
-[Lesson 29 Exercises](../player/29-exercises)
+[Level 29 Exercises](../player/29-exercises)

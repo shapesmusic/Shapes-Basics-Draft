@@ -40,7 +40,7 @@ and the most powerful examples are the most basic concepts we take for granted.
 
 
 0.1 organization (map)
-lessons that create experiences
+levels that create experiences
 what to do vs. why
 directors commentaires
 big-picture regions
@@ -193,13 +193,13 @@ You end up with the full-fledged standard notation system, or at least with the 
 
 
 
-**How is it organized?** Shapes is organized as a series of (32) short lessons, each of which focuses on creating an experience: they show you what to do rather than telling you why you're doing it.
+**How is it organized?** Shapes is organized as a series of (32) short levels, each of which focuses on creating an experience: they show you what to do rather than telling you why you're doing it.
 
-The "why" comes across in the feeling you get. the mode of understanding is an experiential one. There are some short, optional "director's commentaries" interspersed throughout, also addressed directly to the learner, that explore some more theoretical questions that can come up around the lessons.
+The "why" comes across in the feeling you get. the mode of understanding is an experiential one. There are some short, optional "director's commentaries" interspersed throughout, also addressed directly to the learner, that explore some more theoretical questions that can come up around the levels.
 
-You can see on this map that the lessons wind their way through alternately focusing on musical symbols, instrumental skill, musical imagination (that is, something between intuition and inner hearing), and the overlaps between these focuses.
+You can see on this map that the levels wind their way through alternately focusing on musical symbols, instrumental skill, musical imagination (that is, something between intuition and inner hearing), and the overlaps between these focuses.
 
-And the lessons are further organized around a number of skills that you develop: playing by ear, developing tactile skill on an instrument, an experience of fluent reading, recognizing tensions, recognizing contexts, understanding the connection between tensions and contexts...
+And the levels are further organized around a number of skills that you develop: playing by ear, developing tactile skill on an instrument, an experience of fluent reading, recognizing tensions, recognizing contexts, understanding the connection between tensions and contexts...
 
 And so the experiences you have and the concepts you use are organized around this particular collection of skills. And the method kinda zippers them together into a very efficient progressive disclosure where they build on each other, complicate each other, build into each other, and leave you with a foundational yet very sophisticated set of skills for understanding&mdash;by experience&mdash;the depth and malleability of a musical concept.
 
@@ -211,7 +211,7 @@ And so the experiences you have and the concepts you use are organized around th
 
 this is where the method starts, the first experience of a learner, not with theoretical framing, but understanding through the experience. this is where to drop in that idea.
 
-give a demo of single shapes, first the top shape, then the others. a hybrid lesson of one and many shapes. that you can play in any order, any combination, and importantly, using any fingers, even just one finger.
+give a demo of single shapes, first the top shape, then the others. a hybrid level of one and many shapes. that you can play in any order, any combination, and importantly, using any fingers, even just one finger.
 
 talk about the playlist, what it represents. and the experience of interacting it, how open-ended it is. how it's a matter of following your intuition, and adding something to the song that feels good to you.
 
@@ -317,7 +317,7 @@ But it's more than a scale fingering: it's a principle for *any* scale fingering
 
 and, beginning with this fingering, you can move into any other shape, and start on any other note.
 
-This is a really tangible example, literally, of what results from a change in conceptual priorities, and from having more flexible concepts. If you've had music lessons that see the keyboard as an extension of more traditional concepts, you would start by learning a "C" scale. You'd put your farthest left fingers on some Cs, and go from there, crossing your thumbs under at different times so that you'll also end with your farthest right fingers on Cs. 
+This is a really tangible example, literally, of what results from a change in conceptual priorities, and from having more flexible concepts. If you've had music levels that see the keyboard as an extension of more traditional concepts, you would start by learning a "C" scale. You'd put your farthest left fingers on some Cs, and go from there, crossing your thumbs under at different times so that you'll also end with your farthest right fingers on Cs. 
 
 Crossing the thumbs under at different times usually takes some getting used to, but you can do the same thing on D, or E...
 
@@ -339,7 +339,7 @@ And so playing a scale is meaningless in itself&mdash;it disappears into a guid
 
 **mapping to the staff**
 
-Now in the sequence of Shapes lessons, this fingering principle is introduced in only one shape. And the way it expands to the other shapes is woven into a very particular experience of reading music notation.
+Now in the sequence of Shapes levels, this fingering principle is introduced in only one shape. And the way it expands to the other shapes is woven into a very particular experience of reading music notation.
 
 To get into how Shapes approaches music notation, we have to go back to, well, the shapes. the little lyres or harmonicas that represent the collection of notes that intuitively fit with the music around us.
 
@@ -468,7 +468,7 @@ A tonescape is a blob of sound that
 
 
 
-There are 2 sequences together, that make up, geez, well over half the lessons, really. What's the heart of the sequence?
+There are 2 sequences together, that make up, geez, well over half the levels, really. What's the heart of the sequence?
 
 - you've set these things up by playing. hearing contexts, hearing anchors, hearing notes in relation to anchors, and representing all those things on an instrument, and in notation. So this is moving all those things into the project of building an *internal* instrument, refining them much further, but more abstractly. A tonescape is an abstraction of a song in a shape.
 - you start by recognizing tensions (L13 passive), and then you hear them *inside* the tonescape (L14 active plus simulation).

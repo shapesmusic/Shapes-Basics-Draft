@@ -38,7 +38,7 @@ Once you've got the hang of that, try the second exercise that brings all the te
 
 Adding the 4th and 5th into both of these exercises can make things seem a bit more challenging at first. You're at the point where you really want to start relying on the immediate feeling of a tension, without having to count its distance to the anchor. It's similar to the way you've already been recognizing the overall feeling of a mood.
 
-If you find yourself getting stuck, you can use some of the techniques from past lessons, like, if you hear a tension you don't recognize, stop and listen to it, rather than trying to guess what it is. If you keep listening passively, eventually you'll hear a tension that you *do* recognize, and you can keep on going from there.
+If you find yourself getting stuck, you can use some of the techniques from past levels, like, if you hear a tension you don't recognize, stop and listen to it, rather than trying to guess what it is. If you keep listening passively, eventually you'll hear a tension that you *do* recognize, and you can keep on going from there.
 
 Or, if there's a particular tension that you keep missing, also just stop and listen, and pay extra attention to see if you can recognize that tension next time it comes around.
 
@@ -56,4 +56,4 @@ So give it a try, and when you're comfortable naming the tensions in each mood, 
 
 ### Tonescape Exercises
 
-[Lesson 24 Exercises](../player/24-exercises)
+[Level 24 Exercises](../player/24-exercises)

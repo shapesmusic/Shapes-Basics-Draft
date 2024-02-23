@@ -50,7 +50,7 @@ The 3rd group has only three shapes&mdash;a TOP shape [point and play] a Left s
 
 And the 4th group has two shapes&mdash;a TOP shape [point and play], and a Bottom shape [point and play]. These feel maybe a bit "dreamy," "spacey," or "ethereal."
 
-In the playlist for this lesson, you'll find a bunch of songs that use these 2nd, 3rd, and 4th group shapes, sometimes just briefly, and sometimes for longer stretches of the song. 
+In the playlist for this level, you'll find a bunch of songs that use these 2nd, 3rd, and 4th group shapes, sometimes just briefly, and sometimes for longer stretches of the song. 
 
 So try playing along with some of these songs, and also experiment with the groups of shapes on your own to get a sense for the different feelings they create.
 

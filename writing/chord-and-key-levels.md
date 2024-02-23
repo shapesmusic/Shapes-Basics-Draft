@@ -2,7 +2,7 @@
 
 
 
-There's a very unusual idea near the end of the lesson on Changes:
+There's a very unusual idea near the end of the level on Changes:
 
 > When the bass notes change along with the shape, the new bass note takes on the feeling, ever so slightly, of being a new anchor note. And yet, that new anchor still wants to pull back to the main anchor note of the song.
 >
@@ -22,7 +22,7 @@ So you are playing in a shape, there are changing chord-level anchors within tha
 
 But this suggests something surprising about the shape. If the feeling that certain notes fit or don't fit changes when the shape changes, and shape changes occur at the same level as bass note changes, then this means that the shape is at the *chord level*, and not at the key level.
 
-Thinking back to our earlier lessons, when each song had only a single shape and anchor, the bass notes did indeed change at the chord level, but the shape associated with each chord-level change remained the same. So while a single shape did indeed describe the entire song, it was only because the same shape described any and all changes that took place at the chord level.
+Thinking back to our earlier levels, when each song had only a single shape and anchor, the bass notes did indeed change at the chord level, but the shape associated with each chord-level change remained the same. So while a single shape did indeed describe the entire song, it was only because the same shape described any and all changes that took place at the chord level.
 
 Meanwhile, the anchor note remained at the key level, and we heard the changing bass notes as tensions to that key-level anchor. Or, perhaps more accurately, you could say that the key-level anchor emerged from the changing chord-level anchors, because it was emphasized, in one way or another, by those changes.
 

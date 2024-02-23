@@ -167,4 +167,4 @@ So give it a try, and let the playlist be a guideline, rather than a rule, to he
 
 ### Playlist
 
-<a href="../player/matching" target="_blank">Lesson 8 Playlist</a>
+<a href="../player/matching" target="_blank">Level 8 Playlist</a>

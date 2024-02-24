@@ -1,5 +1,45 @@
 ## About Shapes
 
+
+
+### Watch
+
+<style>
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+<div class='embed-container'>
+  <iframe src='https://www.youtube.com/embed/9JgYHum55hI?rel=0' frameborder='0' allowfullscreen></iframe>
+</div>
+
+
+
+### Transcript
+
+Shapes is a music method that begins by showing you how to play along with any song you hear, right away, even if you've never touched an instrument before. It lets you start with the (intuitive) feeling that an experienced musician has once they've internalized all the ideas they've learned, and then gradually builds more traditional ideas out of that feeling.
+
+Shapes does this both by presenting traditional ideas in a slightly different way, and also by making some subtle but significant changes to the theory that underlies some of our most basic concepts in music.
+
+So in this video, I'd like to give you a brief demo of how it works, then talk about some of the theory and philosophy behind this approach, and finally, to show you some of the more advanced places Shapes can take you.
+
+
+
+
+
+### Starting With Intuition
+
 What does it *feel like* to be fluent in music? What does a skilled musician experience when they play their instrument, or when they use musical symbols? And how close can we come to that feeling, right from the beginning?
 
 What if the "basics" of music aren't the notes, scales, chords, keys, intervals, or the correct techniques for playing an instrument&mdash;but instead, are the intuitions that *generated* all those ideas and techniques in the first place?

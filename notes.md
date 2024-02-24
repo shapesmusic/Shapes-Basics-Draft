@@ -26,7 +26,8 @@
 
 **References**
 
-- 
+- [2023-10-27 Learning Lab Colloquium](https://www.youtube.com/watch?v=2hPk2oMUgcs)
+- [Colloquium Notes](writing/colloq_notes.md)
 
 **Notes**
 

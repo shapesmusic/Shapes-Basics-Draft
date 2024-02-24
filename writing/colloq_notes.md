@@ -2,7 +2,43 @@
 
 
 
-**Outline**
+#### List of Chapters
+
+- Some Framing
+- Demo: Playing With a Shape
+- Demo: Keyboard and Notation
+- Demo: Chord and Key
+- Demo: Tonescapes
+- Discussion: Ethical Dimension
+- Discussion: Broader Connection
+- Discussion: Tonescapes and Weirdness
+- Discussion: Particular and Universal
+- Discussion: Pedagogy and Accidentals
+- Discussion: Thinking and Experiencing
+
+
+
+#### list of printed cards
+
+- Shapes! card
+- Map
+- dots-to-shape
+- Pythagoras
+- lyre / harmonica
+- notation: top signature
+- notation: bottom signature
+- notation: single note 
+- notation: one higher/lower
+- notation: two higher/lower
+- notation: moveable anchor
+- notation: rhythmic note symbols (3x)
+- notation: you right
+- notation: aldean
+- notation: JT (changing)
+
+
+
+#### Outline
 
 0 framing
 beg method

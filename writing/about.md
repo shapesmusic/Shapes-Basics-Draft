@@ -25,20 +25,49 @@
 </div>
 
 
+### Chapter Outline
 
-### Transcript
+- [Intro: Playing With a Shape](#intro-playing-with-a-shape)
+- [Theory and Philosophy](#theory-and-philosophy)
+- [Demo: Keyboard and Notation](#demo-keyboard-and-notation)
+- [Demo: Chord and Key](#demo-chord-and-key)
+- [Demo: Tonescapes](#demo-tonescapes)
+
+
+
+### Intro: Playing With a Shape
 
 Shapes is a music method that begins by showing you how to play along with any song you hear, right away, even if you've never touched an instrument before. It taps in to the same kind of intuition that an experienced musician has once they've internalized all the ideas they've learned, and then gradually builds more traditional ideas out of that feeling.
 
 Shapes does this both by presenting traditional ideas in a slightly different way, and also by making some subtle but significant changes to the theory that underlies some of our most basic concepts in music.
 
-So in this video, I'd like to give you a brief demo of how it works, then talk about some of the theory and philosophy behind this approach, and finally, to show you some of the more advanced places Shapes can take you.
+So in this video, I'll give you a brief demo of how it works, then talk about some of the theory and philosophy behind this approach, and finally, to show you some of the more advanced places Shapes can take you.
+
+
+
+### Theory and Philosophy
+
+
+
+### Demo: Keyboard and Notation
+
+
+
+### Demo: Chord and Key
+
+
+
+### Demo: Tonescapes
 
 
 
 
 
-### Starting With Intuition
+
+
+---
+
+#### Starting With Intuition
 
 What does it *feel like* to be fluent in music? What does a skilled musician experience when they play their instrument, or when they use musical symbols? And how close can we come to that feeling, right from the beginning?
 
@@ -54,40 +83,9 @@ We absolutely can. But this means that the symbols, tools, and techniques we wor
 
 Shapes is an example of how to approach musical basics in this way. And there are no doubt as many other possibilities as there are ways to be playful and creative. But since we've landed *here*, I'd like to show you around, and invite you to try out this experience for yourself.
 
-<br><br>
-
-### A Brief Tour
-
-I'll begin our tour by showing you the first level, which is my favorite way to introduce Shapes:
 
 
-<style>
-.embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-  }
-  iframe{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>
-<div class='embed-container'>
-  <iframe src='https://www.youtube.com/embed/J1Ks_ve2h1I?rel=0' frameborder='0' allowfullscreen></iframe>
-</div>
-
-<br><br>
-
-Before we go on, let's pause here so you have a chance to try it out. Because it's through the experience of playing that you'll really start to understand what Shapes is about.
-
-<a href="../player/a-shape" target="_blank">Go to the Level 1 Playlist</a>
-
-<br><br>
+#### L1 Principles
 
 Many of the most foundational principles in Shapes are already present in this first level. For example:
 
@@ -103,12 +101,9 @@ Many of the most foundational principles in Shapes are already present in this f
 
 	At first, the shape is represented in terms of a playable instrument&mdash;the keyboard. But this sets up an orientation to musical concepts more generally: that you can approach any concept&mdash;a chord symbol, a musical form, even a single note&mdash;as a little world that you can step inside of, that's designed to show you some particular aspect of music, by offering you a way to experience it.
 
-<br>And with that bit of context, we can zoom out from a first experience of Shapes, and look at an overview map of the whole method:
 
-<br>
-<img src="../map/map.png" alt="shapes method map" style="display: block; margin: 0 auto; width: 100%; height: auto;">
 
-<br>
+#### Map & Skills
 
 You’ll find the first level where the land of Symbols overlaps with the land of Imagination. The shape, after all, is a musical symbol which, when paired with a song, gives your musical imagination permission to take over.
 
@@ -116,7 +111,7 @@ The shape is also a diagram on an instrument, and so the path continues through 
 
 And like so, this path winds around again and again through the lands of Symbols, Instruments, and Imagination until eventually it falls clear off the edge of the map, and you'll have to go find a different world to explore.
 
-But before then, you will have weaved your way through five distinct skills, and I’d like to tell you a little about what you'll find in each. They are:
+But before then, you will have weaved your way through five distinct skill series, and I’d like to tell you a little about what you'll find in each. They are:
 
 - Playing With Songs
 - Tactile Reading
@@ -124,9 +119,9 @@ But before then, you will have weaved your way through five distinct skills, and
 - Tonescapes & Tensions
 - and Reading Imagery
 
-<br>
 
-There are a few things worth mentioning about these skill series while we're still looking at them from above:
+
+There are a few things worth mentioning about these series while we're still looking at them from above:
 
 First, that the path spirals through them all, rather than progressing through each in order. This means the focus is on neither a particular concept or a particular skill, but on how the concept develops through different ways of using it, and how different experiences can develop from the same concept.
 
@@ -134,19 +129,16 @@ Second, the spiraling path means that the boundaries between these series are po
 
 And Third, there are short commentaries scattered along the path, in between levels. This is because the levels focus as closely and concisely as possible on setting up musical experiences, and so any thoughts *about* those experiences are left to the commentaries.
 
-The overviews that follow are a very different experience than going through the levels yourself, and warrant a spoiler alert. If you'd like to be surprised and delighted by what shows up in each new level, you are welcome to [skip over this part](#about-the-medium).
 
-But then, an overview is delightful in its own way, so we'll continue our tour.
 
-<br><br>
+#### Skill Summaries
 
-#### Playing With Songs
+##### Series 1: Playing With Songs
 
 You've already watched and tried Level 1, so you know how a shape fits with a song. This skill series develops the experience of playing, and focuses on internalizing the shapes. It gradually draws you into more nuanced listening, and begins to incorporate ways to make your playing feel less random.
 
-<br><br>
 
-#### Tactile Reading
+##### Series 2: Tactile Reading
 
 This series introduces a guideline for how your hands meet the keys, and uses that guideline as a basis for instrumental technique, and for reading at the keyboard.
 
@@ -156,15 +148,13 @@ Reading music is mobilized here as a way to take the fingering pattern through a
 
 The notation gives you exact notes to play, but you can play these same notes with any song, at any point in the song. So it still has the feeling of more freely *playing with* the song. This also allows the notation to focus on reading and tactile concepts without having to represent any particular song. The approach is very efficient for developing reading and instrumental skill.
 
-<br><br>
 
-#### Chord & Key Levels
+##### Series 3: Chord & Key Levels
 
 In one sense, this is part of the playing series. But it is really the theoretical heart of the method. It shows that the shape and anchor work at two different levels of perception, and so need to be two separate concepts, rather than a hybrid concept like "key."
 
-<br><br>
 
-#### Tonescapes & Tensions
+##### Series 4: Tonescapes & Tensions
 
 This series introduces a tonescape. A tonescape represents a shape abstracted from an instrument. As such, it is internalized, and generalized to apply to any potential instrument.
 
@@ -174,9 +164,8 @@ A tonescape serves the role of an instrument. You can use it as a tool to work w
 
 The Tonescapes and Imagery series are designed to work together as a standalone ear training resource.
 
-<br><br>
 
-#### Reading Imagery
+##### Series 5: Reading Imagery
 
 This series shows you how to actively imagine sounds in a tonescape. The tonescape is a complex sound that you intuitively begin trying to parse. This is experienced as changes of various kinds in an unchanging sound.
 
@@ -184,9 +173,9 @@ Beginning to identify and then to actively control these changes develops the sk
 
 Reading is used here to represent which sounds to actively imagine in the tonescape. It develops the skill of silently reading to yourself, and reinforces the staff as representing a mood (a combination of shape and anchor).
 
-<br><br>
 
-### About The Medium
+
+#### About The Medium
 
 Shapes focuses on the most familiar musical concepts that we tend to take for granted, in terms of how we might most intuitively experience them. But our intuitions are also at work in innumerably many other domains of music&mdash;some that we're aware of and some that we're not&mdash;and all of those domains also play a part in the concepts and experiences that we've placed at the center of our attention.
 

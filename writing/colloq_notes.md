@@ -74,7 +74,6 @@ so the experience / presentation / access becomes in volved in the design of the
 the experience of the resulting concept is very different
 and the most powerful examples are the most basic concepts we take for granted.
 
-
 0.1 organization (map)
 levels that create experiences
 what to do vs. why
@@ -91,7 +90,6 @@ the feeling of notes that fit.
 L1 L2 hybrid demo
 the playlist as intuition
 and the experience of playing
-
 
 1.1 theory significance: no names (what can you think?)
 pythagoras story

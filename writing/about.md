@@ -28,7 +28,7 @@
 
 ### Transcript
 
-Shapes is a music method that begins by showing you how to play along with any song you hear, right away, even if you've never touched an instrument before. It lets you start with the (intuitive) feeling that an experienced musician has once they've internalized all the ideas they've learned, and then gradually builds more traditional ideas out of that feeling.
+Shapes is a music method that begins by showing you how to play along with any song you hear, right away, even if you've never touched an instrument before. It taps in to the same kind of intuition that an experienced musician has once they've internalized all the ideas they've learned, and then gradually builds more traditional ideas out of that feeling.
 
 Shapes does this both by presenting traditional ideas in a slightly different way, and also by making some subtle but significant changes to the theory that underlies some of our most basic concepts in music.
 
@@ -85,7 +85,7 @@ I'll begin our tour by showing you the first level, which is my favorite way to 
 
 Before we go on, let's pause here so you have a chance to try it out. Because it's through the experience of playing that you'll really start to understand what Shapes is about.
 
-<a href="../player/a-shape" target="_blank">Go to the Level 1 Playlist</a> 
+<a href="../player/a-shape" target="_blank">Go to the Level 1 Playlist</a>
 
 <br><br>
 
@@ -116,7 +116,7 @@ The shape is also a diagram on an instrument, and so the path continues through 
 
 And like so, this path winds around again and again through the lands of Symbols, Instruments, and Imagination until eventually it falls clear off the edge of the map, and you'll have to go find a different world to explore.
 
-But before then, you will have weaved your way through five distinct sequences of levels, and I’d like to tell you a little about what you'll find in each. These sequences are:
+But before then, you will have weaved your way through five distinct skills, and I’d like to tell you a little about what you'll find in each. They are:
 
 - Playing With Songs
 - Tactile Reading
@@ -126,11 +126,11 @@ But before then, you will have weaved your way through five distinct sequences o
 
 <br>
 
-There are a few things worth mentioning about these sequences while we're still looking at them from above:
+There are a few things worth mentioning about these skill series while we're still looking at them from above:
 
 First, that the path spirals through them all, rather than progressing through each in order. This means the focus is on neither a particular concept or a particular skill, but on how the concept develops through different ways of using it, and how different experiences can develop from the same concept.
 
-Second, the spiraling path means that the boundaries between these sequences are porous, and the skills are integrated. The Chord & Key Levels sequence, for example, is also very much about Playing With Songs. 
+Second, the spiraling path means that the boundaries between these series are porous, and the skills are integrated. The Chord & Key Levels skill, for example, is also very much about Playing With Songs.
 
 And Third, there are short commentaries scattered along the path, in between levels. This is because the levels focus as closely and concisely as possible on setting up musical experiences, and so any thoughts *about* those experiences are left to the commentaries.
 
@@ -142,77 +142,47 @@ But then, an overview is delightful in its own way, so we'll continue our tour.
 
 #### Playing With Songs
 
-You've already watched and tried Level 1, so you know how a shape fits with a song. This sequence develops the experience of playing, and focuses on internalizing the shapes. It gradually draws you into more nuanced listening, and begins to incorporate ways to make your playing feel less random.
-
-<br>
-
-In this sequence:
-
-<a href="../levels/01-a-shape" target="_blank">Level 1</a> introduces a shape. <a href="../levels/02-different-shapes" target="_blank">Level 2</a> and <a href="../levels/03-a-group" target="_blank">3</a> expand to a full group of shapes and give them names. <a href="../levels/06-playing-with-the-anchor" target="_blank">Level 6</a> introduces the anchor note as a way to structure what you play. <a href="../levels/08-matching-a-shape" target="_blank">Level 8</a> shows you how to figure out the shape on your own. <a href="../levels/09-notes-in-time" target="_blank">Level 9</a> introduces music notation. And <a href="../levels/11-groups-of-shapes" target="_blank">Level 11</a> introduces three additional groups of shapes that will occasionally show up in songs.
+You've already watched and tried Level 1, so you know how a shape fits with a song. This skill series develops the experience of playing, and focuses on internalizing the shapes. It gradually draws you into more nuanced listening, and begins to incorporate ways to make your playing feel less random.
 
 <br><br>
 
 #### Tactile Reading
 
-This sequence introduces a guideline for how your hands meet the keys, and uses that guideline as a basis for instrumental technique, and for reading at the keyboard.
+This series introduces a guideline for how your hands meet the keys, and uses that guideline as a basis for instrumental technique, and for reading at the keyboard.
 
 Working with a fingering guideline is similar to bringing structure to your playing. It supports and enhances the feeling of playing intuitively, and it makes you feel more connected to the instrument.
 
-Reading music is mobilized here as a way to take the fingering pattern through all of the shapes, and so to get to know the instrument tactilely. 
+Reading music is mobilized here as a way to take the fingering pattern through all of the shapes, and so to get to know the instrument tactilely.
 
 The notation gives you exact notes to play, but you can play these same notes with any song, at any point in the song. So it still has the feeling of more freely *playing with* the song. This also allows the notation to focus on reading and tactile concepts without having to represent any particular song. The approach is very efficient for developing reading and instrumental skill.
-
-<br>
-
-In this sequence:
-
-<a href="../levels/04-shape-fingerings" target="_blank">Level 4</a> introduces a single fingering pattern that allows you to play hands together in any shape, starting on any note. <a href="../levels/12-reading-by-touch" target="_blank">Level 12</a> uses this pattern to begin reading a relative notation along with songs, in a way that feels like playing a rhythm game. <a href="../levels/18-reading-by-touch-2" target="_blank">Level 18</a> and <a href="../levels/23-reading-by-touch-3" target="_blank">23</a> expand the range of shapes and add features to the notation. <a href="../levels/27-making-time-relative" target="_blank">Level 27</a> replaces pulse dots with rhythmic note symbols. And <a href="../levels/30-incidentals" target="_blank">Level 30</a> gives a way to notate outside the shape.
 
 <br><br>
 
 #### Chord & Key Levels
 
-In one sense, this is part of the playing sequence. But it is really the theoretical heart of the method. It shows that the shape and anchor work at two different levels of perception, and so need to be two separate concepts, rather than a hybrid concept like "key."
-
-<br>
-
-In this sequence:
-
-<a href="../levels/05-the-anchor-note" target="_blank">Level 5</a> introduces the anchor note as a way of structuring the other notes of the shape. <a href="../levels/07-bass-notes" target="_blank">Level 7</a> shows that changing bass notes along with any other notes of a shape create the recognizable framework for a song. And <a href="../levels/10-changes" target="_blank">Level 10</a> introduces changing shapes, anchors, and bass notes.
+In one sense, this is part of the playing series. But it is really the theoretical heart of the method. It shows that the shape and anchor work at two different levels of perception, and so need to be two separate concepts, rather than a hybrid concept like "key."
 
 <br><br>
 
 #### Tonescapes & Tensions
 
-This sequence introduces a tonescape. A tonescape represents a shape abstracted from an instrument. As such, it is internalized, and generalized to apply to any potential instrument. 
+This series introduces a tonescape. A tonescape represents a shape abstracted from an instrument. As such, it is internalized, and generalized to apply to any potential instrument.
 
 The tonescape is also an audible sound. It is the sound of a complete tonal context, a field of potential notes, experienced all at once. This raises questions about the temporality of a musical concept that is also an audible experience.
 
 A tonescape serves the role of an instrument. You can use it as a tool to work with the individual notes it contains, and to do so without separating those individual notes from their context. It also helps develop recognition of tensions to the anchor, and of moods (the combination of shape and anchor).
 
-The Tonescapes and Imagery sequences are designed to work together as a standalone ear training resource.
-
-<br>
-
-In this sequence:
-
-<a href="../levels/13-a-tonescape-and-tensions" target="_blank">Level 13</a> introduces a tonescape, and recognition of the anchor, one note higher, and one note lower within the tonescape. <a href="../levels/15-two-higher-and-lower" target="_blank">Level 15</a> expands to two notes higher and lower. <a href="../levels/17-switch-to-number-names" target="_blank">Level 17</a> brings in octave equivalence and switches from higher/lower names to number names. <a href="../levels/19-moods" target="_blank">Level 19</a> and <a href="../levels/21-light-and-heavy-tensions" target="_blank">21</a> introduce different moods that result from the sum of tensions to the anchor. <a href="../levels/24-moods-and-tensions-together" target="_blank">Level 24</a>, <a href="../levels/25-getting-inside-of-moods" target="_blank">25</a>, and <a href="../levels/28-all-moods-and-tensions" target="_blank">28</a> expand to recognition of all moods and all tensions. And <a href="../levels/31-independent-solfege" target="_blank">Level 31</a> removes the tonescape.
+The Tonescapes and Imagery series are designed to work together as a standalone ear training resource.
 
 <br><br>
 
 #### Reading Imagery
 
-This sequence shows you how to actively imagine sounds in a tonescape. The tonescape is a complex sound that you intuitively begin trying to parse. This is experienced as changes of various kinds in an unchanging sound.
+This series shows you how to actively imagine sounds in a tonescape. The tonescape is a complex sound that you intuitively begin trying to parse. This is experienced as changes of various kinds in an unchanging sound.
 
-Beginning to identify and then to actively control these changes develops the skill of imagining sounds clearly in your mind's ear. So this sequence is about using the tonescape to build a playable internal instrument.
+Beginning to identify and then to actively control these changes develops the skill of imagining sounds clearly in your mind's ear. So this series is about using the tonescape to build a playable internal instrument.
 
 Reading is used here to represent which sounds to actively imagine in the tonescape. It develops the skill of silently reading to yourself, and reinforces the staff as representing a mood (a combination of shape and anchor).
-
-<br>
-
-In this sequence:
-
-<a href="../levels/14-imagination-as-an-instrument" target="_blank">Level 14</a> introduces imagery, <a href="../levels/16-reading-by-ear" target="_blank">Level 16</a> uses notation to draw two additional notes out of the tonescape. <a href="../levels/20-reading-by-ear-2" target="_blank">Level 20</a> expands to three moods. <a href="../levels/22-reading-by-ear-3" target="_blank">Level 22</a>, <a href="../levels/26-reading-by-ear-4" target="_blank">26</a>, and <a href="../levels/29-mood-notes" target="_blank">29</a> expand to hearing all tensions in all moods. And <a href="../levels/32-free-play" target="_blank">Level 32</a> is free play imagery in all moods.
 
 <br><br>
 
@@ -228,7 +198,7 @@ But in either of these scenarios, a note that fits and the sound that fits are d
 
 The reason I mention all of this is because, as someone who has decided to begin refining your musical intuitions, having to choose how and with what tools to begin can feel overwhelming. And sometimes the options available don't feel entirely relevant to your specific musical interests. But if you can focus on learning to listen carefully to those intuitions, rather than on trying to learn any particular musical tool or technique for its own sake, then *any* place you start will quickly open into the other domains of music that matter most to you, and you will be playful and creative in your approach to learning.
 
-I also mention this as a way of calling attention to some of the other avenues that Shapes in particular connects to, which may not be immediately apparent. When I said during our tour that the sequence on Chord and Key Levels was at the theoretical heart of this project, that's because Shapes began with a question about what, exactly, a chord is meant to represent. And yet, pursuing that question has ended up including, among other surprising things, the project of building a web app.
+I also mention this as a way of calling attention to some of the other avenues that Shapes in particular connects to, which may not be immediately apparent. When I said during our tour that the series on Chord and Key Levels was at the theoretical heart of this project, that's because Shapes began with a question about what, exactly, a chord is meant to represent. And yet, pursuing that question has ended up including, among other surprising things, the project of building a web app.
 
 This is because building the medium to express Shapes turns out to be deeply connected to developing the method itself. At the most practical level, playing along with songs means there needs to be a source of songs, information about those songs, an instrument, and a sound source, all in the same place. Putting all these ingredients in a web browser is not the only solution, but it is a solution that allows you to focus right away on the experience, rather than on what would otherwise be a complicated technical setup that could prevent you from trying Shapes at all.
 
@@ -236,9 +206,8 @@ But there are also practical concerns of the medium itself. Songs in the playlis
 
 From this process, a [data model](https://github.com/shapesmusic/shapes-backend/blob/main/db/data-model.md) arises, which, in its strange way, is also a theoretical expression of the ideas at the heart of Shapes, only in different and perhaps unexpected musical and extra-musical domains. It is a set of concepts, that also imply techniques, that are ultimately also generated by and remain connected to musical intuitions.
 
-The point is that entering into these new domains are very much a part of exploring and learning about the original question. And they open new and unexpected questions in turn. You might assume, for example, that a song's shape or anchor can be detected automatically, but this isn't so straightforward. Say a song uses only *some* of the notes of its shape. In such a song, there isn't enough information in the audio file for a pitchmark detection algorithm to narrow the options to the single shape that fits best with the song. It is *you* who intuitively fills in the missing notes, and when you begin to ask into how, exactly, you can do such a thing, you start to understand what kind of detection algorithm&mdash;a much more sophisticated one&mdash;might also be capable of matching a shape. 
+The point is that entering into these new domains are very much a part of exploring and learning about the original question. And they open new and unexpected questions in turn. You might assume, for example, that a song's shape or anchor can be detected automatically, but this isn't so straightforward. Say a song uses only *some* of the notes of its shape. In such a song, there isn't enough information in the audio file for a pitchmark detection algorithm to narrow the options to the single shape that fits best with the song. It is *you* who intuitively fills in the missing notes, and when you begin to ask into how, exactly, you can do such a thing, you start to understand what kind of detection algorithm&mdash;a much more sophisticated one&mdash;might also be capable of matching a shape.
 
 But far more interesting than that, the act of *imagining* the technology is also a way to reflect yourself off of something external, and in doing so, to understand something new about yourself. A shape, or a tonescape, or a scale, key, chord, or an instrument are all technologies. And a technology is meaningless without&mdash;and therefore inextricable from&mdash;a technique, a method, a thoughtful way of engaging it, of using it to create an experience that's deeply and satisfyingly human.
 
 The tool and the method of using it arise together from an otherwise inarticulable realm of intuitions. And the opportunity to turn our attention directly to the skill of *playing with* these intuitions, using the tools and techniques they lead us to articulate, in a way that feels like they fit together and add a layer to the world around us&mdash;is a profound gift that music offers us, right from the beginning.
-

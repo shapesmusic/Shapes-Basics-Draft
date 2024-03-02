@@ -25,10 +25,15 @@
 </div>
 
 
+🚧🚜 This is under construction: Rebuilding a shorter, reorganized version of [this talk](https://www.youtube.com/watch?v=2hPk2oMUgcs). 🚧
+
 ### Chapter Outline
 
 - [Intro: Playing With a Shape](#intro-playing-with-a-shape)
 - [Theory and Philosophy](#theory-and-philosophy)
+  - Problem & Responses
+  - Method Organization
+
 - [Demo: Keyboard and Notation](#demo-keyboard-and-notation)
 - [Demo: Chord and Key](#demo-chord-and-key)
 - [Demo: Tonescapes](#demo-tonescapes)
@@ -39,13 +44,134 @@
 
 Shapes is a music method that begins by showing you how to play along with any song you hear, right away, even if you've never touched an instrument before. It taps in to the same kind of intuition that an experienced musician has once they've internalized all the ideas they've learned, and then gradually builds more traditional ideas out of that feeling.
 
-Shapes does this both by presenting traditional ideas in a slightly different way, and also by making some subtle but significant changes to the theory that underlies some of our most basic concepts in music.
+Shapes does this both by presenting traditional ideas in a slightly different way, and also by making some subtle but significant [design] changes to the theory that underlies some of our most basic concepts in music.
 
-So in this video, I'll give you a brief demo of how it works, then talk about some of the theory and philosophy behind this approach, and finally, to show you some of the more advanced places Shapes can take you.
+So in this video, I'll give you a brief demo of how it works, then talk about some of the theory and philosophy behind this approach, and finally, I'll show you some of the more advanced places Shapes can take you.
+
+
+
+11:17 Demo: Playing With a Shape
+
+- also define "intuition" here.
+- through a little about the experience this creates. end at 15:56
 
 
 
 ### Theory and Philosophy
+
+**Central Idea**
+
+is to capture (the feeling of) musical fluency. 
+
+**fluency** = effortless connection between: 
+
+​	your **intuitions** (dynamic) - things you know by living in the world
+
+​	musical **concepts** (fixed) - things that are built, like an instrument, or the idea of a "note."
+
+1:10 language analogy (the goal, the feeling when this is working)
+
+**Problem 1: Distance** is too great. A pedagogical problem. The concept *would* work if you could access it.
+
+​	intuition no longer gives access to the concept 
+
+​	or concepts doesn't describe the intuition
+
+is how to close the gap between something **emerging** (intuitive, dynamic), and something **established** (fixed, constructed)
+
+​	the distance (tension) between these is where learning (and also invention) takes place. "Learning Space." 
+
+​	but it has to be the right distance. "**Fluency Space**." 
+
+or **Problem 2: Scope**. A design problem. The concept, even when accessible, does not describe the intuition.
+
+​	the concept doesn't describe my intuition (intuition is not satisfyingly connected to the concept)
+
+4:40 or "the concept doesn't represent what's intuitively relevant to me"
+
+if either grows too big:
+
+- 3:40 "I can read, but I can't play by ear" (or vice versa)
+- 6:15 "i can play but I don't know what I'm doing"
+  - which is also a way of saying "i feel that there's something more i need to learn, that I don't know how to teach myself, and I can't seem to find access to it..."
+
+these problems come up (in varying degrees) in any formal learning. not entirely problems, more like "design space..."
+
+**Some Responses**
+
+so what tends to happen in response to a problem? innovations!
+
+- And we have cultural ideas about what kinds of concepts you would expect to encounter while studying music. Notes, scales, chords, keys... more than quantization, filter, envelope...
+
+3:00 **Traditional methods** innovate in presentation, but tend to take the concepts for granted. Creating access to a stable concept.
+
+- suzuki method (overlays a philosophy)
+- 5:12 cat keyboard (framing around a traditional concept, feels fun and approachable)
+
+**Musicians and products** build to the emerging intuition, but dispense with the tradition
+
+- A self-taught musician who develops their own style and technique (Joni Mitchell...)
+- 5:24 Launchpad, Push, etc. (or at least shift the focus to less traditional domains of music, which 7:07 have their own tradition)
+  - also shifting the focus to a **different tradition** (of the step sequencer, beat machine, synthesizer...) 
+
+But while these responses work with the problems, they don't really address them.
+
+So what we need is both:
+
+​	a willingness to be flexible and creative with our established concepts
+
+​	and intention and thoughtfulness about how innovations connect to the tradition.
+
+**Shapes's Response**
+
+- think of a current learner
+- open flexibility in the concept
+- keep a clear (narrative) connection to tradition(s)
+
+Shapes tries first to think of (8:18) who might say "I want to learn music" today:
+
+​	Trad inst, DJ, producer, sound designer, algorithm designer...
+
+To design experiences that that stay in that fluency space, that leverage the connection to intuition...
+
+7:55 While opening up (not only an openness to new concepts, but) a radical flexibility in the more traditional concepts. Exposing their layers, making them modular, so that each layer feels like a new concept. building things around those aspects that align more closely with intuitions. 
+
+This lets us stay connected to the established ideas, while also being able to rebuild those ideas, or to connect them to other ideas that may not seem so obviously related.
+
+so the experience / presentation / access becomes **involved in the design** of the concept
+
+the experience of the resulting concept is very different
+and the most powerful examples are the most basic concepts we take for granted.
+
+
+
+4:04 **Music notation** is an especially interesting example.
+
+​	it's extremely intuitive and useful for someone who's become fluent in it
+
+​	but a beginner can only see its surface layer.
+
+[intro writing: notation] ...this means that the symbols, tools, and techniques we work with at first will have to look a little different than you might expect... Shapes is an example of how to approach musical basics in this way.
+
+
+
+9:10 **Method Organization**
+
+a series of short lessons, focused on what, not why. understanding through experience. progressive disclosure.
+
+3 levels of organization
+
+- path of lessons
+- through 3 regions
+- skill series (broad summary of progression of skills)
+
+Our first skill was Playing With Songs. So let's get a little deeper into what's going on here.
+
+- Pick up from 15:56, this moment before you have names --> pythagoras
+  - mention the question of tradition and pythagoras as the origin myth of thinking about music. his experience is still relevant to us, even though the way we think changes, we're not exactly concerned with ratios anymore...
+- show the whole group of shapes here. like a set of harmonicas.
+
+​	
 
 
 

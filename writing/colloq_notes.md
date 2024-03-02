@@ -61,16 +61,17 @@ so what happens? innovation! grid! or joni mitchell!
 but then still wants connection to tradition
 "i can play but don't know what i'm doing" (it's not real)
 missing narrative connection to deep tradition
+
 here's where shapes is concerned (the challenge):
 think of a current learner…
 keep the connection to intuition, stay in the fluency space.
 while reamaining connected to the tradition
 example: experience of notation vs of an aspect of notation.
-simplified vs aspect of the conplex whole (contour, etc)
+simplified vs aspect of the complex whole (contour, etc)
 open radical flexibility in the concept, appears as a new concept.
 opens a connection beyond notation, but without losing the connection to notation
 can also rebuild the traditional concept. or something else. modularized
-so the experience / presentation / access becomes in volved in the design of the concept
+so the experience / presentation / access becomes involved in the design of the concept
 the experience of the resulting concept is very different
 and the most powerful examples are the most basic concepts we take for granted.
 
@@ -146,8 +147,6 @@ builds an internal instrument you can apply to any instrument.
 
 
 **Structure of this talk?** so i'm going to start by giving a little (theory-forward) framing, then four short demos with questions these bring up for me, then i'm hoping we can have a conversation.
-
-
 
 ### Intro / Framing
 

@@ -26,6 +26,20 @@
 
 
 
+### Tonescape Exercises
+
+Anchor, 2nd, 7th
+
+<audio controls src="../media/tonescapes_4.mp3"></audio>
+
+
+
+Anchor, 2nd, 3rd, 7th, 6th
+
+<audio controls src="../media/tonescapes_5.mp3"></audio>
+
+
+
 ### Transcript
 
 So far in the tonescape, you've learned to recognize the anchor, one and two higher, and one and two lower. 
@@ -77,17 +91,3 @@ Once you can do this with the 2nd and 7th, the next exercise adds the 3rd and 6t
 Before long, you'll start to hear whether each note is an anchor, 2nd, 3rd, 7th, or 6th, regardless of its octave. And you'll also start to recognize the note *without* having to hum it first.
 
 So give it a try. Feel free to experment and come up with your own techniques to help recognize each note you hear. And when you're comfortable naming each note *without* having to hum it first, that's when you're ready to come back for more.
-
-
-
-### Tonescapes Exercises
-
-Anchor, 2nd, 7th
-
-<audio controls src="../media/tonescapes_4.mp3"></audio>
-
-
-
-Anchor, 2nd, 3rd, 7th, 6th
-
-<audio controls src="../media/tonescapes_5.mp3"></audio>

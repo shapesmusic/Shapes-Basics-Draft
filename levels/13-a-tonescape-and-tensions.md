@@ -26,6 +26,20 @@
 
 
 
+### Tonescape Exercises
+
+A Tonescape Alone
+
+<audio controls src="../media/group_1_neutral.mp3"></audio>
+
+
+
+Anchor, Higher, Lower
+
+<audio controls src="../media/tonescapes_1.mp3"></audio>
+
+
+
 ### Transcript
 
 Imagine you could take *all* the music that fits with a single shape, put it into a big pot and melt it together into a kind of music soup. It might sound something like this:
@@ -67,18 +81,3 @@ And remember, if you start to feel lost, you can always just stop and listen, th
 Listening in this way is like building a muscle, so you don't want to overdo it. Try listening regularly, once or twice a day for a short time, just about five minutes, and not for more than fifteen minutes at a time. Pay attention to when you feel yourself starting to get tired, or losing focus, and that means it's time to take a break.
 
 So experiment with this, and once you feel confident naming each note you hear, that's when you're ready to come back for more.
-
-
-
-### Tonescape Exercises
-
-A Tonescape Alone
-
-<audio controls src="../media/group_1_neutral.mp3"></audio>
-
-
-
-Anchor, Higher, Lower
-
-<audio controls src="../media/tonescapes_1.mp3"></audio>
-

@@ -26,6 +26,14 @@
 
 
 
+### Tonescape Exercise
+
+Anchor, Two Higher, Two Lower
+
+<audio controls src="../media/tonescapes_2.mp3"></audio>
+
+
+
 ### Transcript
 
 Now that you've gotten the hang of the anchor, higher, and lower, you're ready to add the notes "two higher" and "two lower." 
@@ -59,11 +67,3 @@ It sounds cool, and it shows you each of the notes that are in the tonescape. Th
 So practice this at least once every day, but not for more than 15 minutes at a time. What matters most is that you listen regularly. Remember that this is like building a muscle, and you don't want to overdo it. Try to find the best time during the day when your focus is right for this kind of listening, and be sensitive to when you start to get tired.
 
 Then, once you feel confident naming each note you hear in the tonescape, that's when you're ready to come back for more.
-
-
-
-### Tonescape Exercises
-
-Anchor, Two Higher, Two Lower
-
-<audio controls src="../media/tonescapes_2.mp3"></audio>

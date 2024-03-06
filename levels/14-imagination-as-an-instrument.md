@@ -26,6 +26,26 @@
 
 
 
+### Tonescape Exercises
+
+A Tonescape Alone
+
+<audio controls src="../media/group_1_neutral.mp3"></audio>
+
+
+
+Inside a Tonescape (Simulation)
+
+<audio controls src="../media/inside_a_tonescape.mp3"></audio>
+
+
+
+Active: Anchor, Higher, Lower
+
+<audio controls src="../media/tonescapes_3.mp3"></audio>
+
+
+
 ### Transcript
 
 You've started to recognize some notes that are part of the tonescape, so you're beginning to get inside of this wash of sound. 
@@ -81,24 +101,3 @@ Once you've done this a bit, you can try listening a familar song, one that you 
 Remember to listen regularly, every day, but not for too long. When you feel yourself getting tired, take a break.
 
 And when you feel like you've started to get the hang of drawing these three notes out of the tonescape, that's when you're ready to come back for more.
-
-
-
-
-### Tonescape Exercises
-
-A Tonescape Alone
-
-<audio controls src="../media/group_1_neutral.mp3"></audio>
-
-
-
-Inside a Tonescape (Simulation)
-
-<audio controls src="../media/inside_a_tonescape.mp3"></audio>
-
-
-
-Active: Anchor, Higher, Lower
-
-<audio controls src="../media/tonescapes_3.mp3"></audio>

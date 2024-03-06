@@ -21,8 +21,14 @@
   }
 </style>
 <div class='embed-container'>
-  <iframe src='https://www.youtube.com/embed/d7obs-3YdOo?rel=0' frameborder='0' allowfullscreen></iframe>
+  <iframe src='https://www.youtube.com/embed/d7obs-3YdOo?rel=0&cc_load_policy=1' frameborder='0' allowfullscreen></iframe>
 </div>
+
+
+
+### Playlist
+
+<a href="../player/a-group" target="_blank">Level 3 Playlist</a>
 
 
 
@@ -100,9 +106,3 @@ Just like before, don't be shy to play with songs you aren't familiar with.
 And also, you don't need to try to memorize the shapes. You'll get to know them gradually, just by playing with them.
 
 So see what you come up with, and when you feel comfortable naming and playing with each new shape that shows up, that's when you're ready to come back for more.
-
-
-
-### Playlist
-
-<a href="../player/a-group" target="_blank">Level 3 Playlist</a>

@@ -21,8 +21,14 @@
   }
 </style>
 <div class='embed-container'>
-  <iframe src='https://www.youtube.com/embed/rvDND8zNJfw?rel=0' frameborder='0' allowfullscreen></iframe>
+  <iframe src='https://www.youtube.com/embed/rvDND8zNJfw?rel=0&cc_load_policy=1' frameborder='0' allowfullscreen></iframe>
 </div>
+
+
+
+### Playlist
+
+<a href="../player/a-group" target="_blank">Level 2 Playlist</a>
 
 
 
@@ -49,9 +55,3 @@ You can remember any one of these shapes pretty much right away, and then you ca
 So go ahead and play around with these new shapes a little bit.
 
 You'll get to know the shapes gradually just by playing with them, so when each new shape that pops up starts to feel like it's one you've maybe seen before, that's when you're ready to move on.
-
-
-
-### Playlist
-
-<a href="../player/a-group" target="_blank">Level 2 Playlist</a>

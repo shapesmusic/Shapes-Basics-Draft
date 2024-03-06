@@ -21,8 +21,14 @@
   }
 </style>
 <div class='embed-container'>
-  <iframe src='https://www.youtube.com/embed/J1Ks_ve2h1I?rel=0' frameborder='0' allowfullscreen></iframe>
+  <iframe src='https://www.youtube.com/embed/J1Ks_ve2h1I?rel=0&cc_load_policy=1' frameborder='0' allowfullscreen></iframe>
 </div>
+
+
+
+### Playlist
+
+<a href="../player/a-shape" target="_blank">Level 1 Playlist</a>
 
 
 
@@ -78,9 +84,3 @@ And finally, how do you know you've "got it" and are ready to move on?
 I'd say at the very least, try finding 3 different songs in the playlist that you like, play through the length of the whole song, and really let yourself get into it.
 
 From there, you might decide to keep going, or stop, but ask yourself if you feel comfortable playing with the shape, and when you mostly do, that's when you're ready to move on.
-
-
-
-### Playlist
-
-<a href="../player/a-shape" target="_blank">Level 1 Playlist</a>

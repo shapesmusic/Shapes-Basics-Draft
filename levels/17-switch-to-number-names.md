@@ -58,7 +58,7 @@ Notes that have this relationship&mdash;of feeling like higher and lower *versio
 
 [tonescape starts]
 
-In the tonescape, each eighth note has this quality of feeling like a version of the same note. So we have [sings 1-8]. And then again, [sing higher 1-8], which is a little high for my voice to sing.
+In the tonescape, each eighth note has this quality of feeling like a version of the same note. So we have [sing 1-8]. And then again, [sing higher 1-8], which is a little high for my voice to sing
 
 Note number 1, *and* note number 8 are both versions of the anchor. And this gives us a new way to name our notes, using numbers that repeat each time we reach an anchor. So we have [sing: Anchor, 2nd, 3rd... Anchor]. And then again, [sing: higher Anchor, 2nd, 3rd... Anchor].
 

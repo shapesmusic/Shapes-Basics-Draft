@@ -72,10 +72,10 @@ Skills:
 
 <a href="../levels/05-the-anchor-note" target="_blank">Level 5</a> introduces the anchor note as a way of structuring the other notes of the shape. <a href="../levels/07-bass-notes" target="_blank">Level 7</a> shows that changing bass notes along with any other notes of a shape create the recognizable framework for a song. And <a href="../levels/10-changes" target="_blank">Level 10</a> introduces changing shapes, anchors, and bass notes.
 
-<strong style="color: green;">Tonescapes & Tensions</strong>
+<strong style="color: green;">Tonescapes & Tensions</strong> (audio)
 
 <a href="../levels/13-a-tonescape-and-tensions" target="_blank">Level 13</a> introduces a tonescape, and recognition of the anchor, one note higher, and one note lower within the tonescape. <a href="../levels/15-two-higher-and-lower" target="_blank">Level 15</a> expands to two notes higher and lower. <a href="../levels/17-switch-to-number-names" target="_blank">Level 17</a> brings in octave equivalence and switches from higher/lower names to number names. <a href="../levels/19-moods" target="_blank">Level 19</a> and <a href="../levels/21-light-and-heavy-tensions" target="_blank">21</a> introduce different moods that result from the sum of tensions to the anchor. <a href="../levels/24-moods-and-tensions-together" target="_blank">Level 24</a>, <a href="../levels/25-getting-inside-of-moods" target="_blank">25</a>, and <a href="../levels/28-all-moods-and-tensions" target="_blank">28</a> expand to recognition of all moods and all tensions. And <a href="../levels/31-independent-solfege" target="_blank">Level 31</a> removes the tonescape.
 
-<strong style="color: orange;">Reading Imagery</strong>
+<strong style="color: orange;">Reading Imagery</strong> (audio)
 
 <a href="../levels/14-imagination-as-an-instrument" target="_blank">Level 14</a> introduces imagery, <a href="../levels/16-reading-by-ear" target="_blank">Level 16</a> uses notation to draw two additional notes out of the tonescape. <a href="../levels/20-reading-by-ear-2" target="_blank">Level 20</a> expands to three moods. <a href="../levels/22-reading-by-ear-3" target="_blank">Level 22</a>, <a href="../levels/26-reading-by-ear-4" target="_blank">26</a>, and <a href="../levels/29-mood-notes" target="_blank">29</a> expand to hearing all tensions in all moods. And <a href="../levels/32-free-play" target="_blank">Level 32</a> is free play imagery in all moods.

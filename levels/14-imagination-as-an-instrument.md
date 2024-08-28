@@ -76,7 +76,7 @@ Now, you can *passively* hear all kinds of sounds inside the tonescape. But you 
 
 By focusing your attention on individual notes that are part of the tonescape, you can start to hear those notes inside the sound, almost as though the volume was turned up on the note you're focused on, and turned down on the other notes.
 
-Here's a simulation of what it might sound like when you shift your focus between two different notes in the tonescape. You'll hear two alternating notes, first the anchor and one note higher, then a pause, then the anchor and one note lower. During the pause, see if you can keep the alternating notes going in your imagination, by moving your attention between the two notes.
+Here's a simulation of what it might sound like when you shift your focus between two different notes in the tonescape. You'll hear two alternating notes, first the anchor and one note higher, then a pause, and then the anchor and one note lower. During the pause, see if you can keep the alternating notes going in your imagination, by moving your attention between the two notes.
 
 [simulation]
 

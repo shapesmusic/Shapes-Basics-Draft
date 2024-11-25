@@ -1,10 +1,10 @@
-*A Music Method for the Expert Beginner*
+### The Shapes Basics Course
 
-<img src="map/map.png" alt="shapes method map" style="display: block; margin: 0 auto; width: 100%; height: auto;">
+<img src="../map/map.png" alt="shapes method map" style="display: block; margin: 0 auto; width: 100%; height: auto;">
 
-### Contents
+Shapes Basics is a self-study course that gives you a foundation in all the basic skills and concepts in Shapes.
 
-[About Shapes](writing/about)  
+
 
 Skills:  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: purple;"><strong>&bull;</strong> Playing With Songs</em>  

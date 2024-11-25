@@ -40,6 +40,26 @@
 
 
 
+### Links / Resources
+
+- https://shapesmusic.com/lessons/03-a-group
+- https://shapesmusic.com/player/a-shape
+- https://shapesmusic.com/player/a-group
+- https://shapesmusic.com/player/reading-1
+- https://shapesmusic.com/player/reading-3
+- https://shapesmusic.com/lessons/08-matching-a-shape
+- https://www.youtube.com/watch?v=JXgV1rXUoME
+- https://www.youtube.com/watch?v=Zc3cxj5pDIs
+- https://www.youtube.com/watch?v=DEzREJbln-o
+- https://shapesmusic.com/lessons/13-a-tonescape-and-tensions
+- https://shapesmusic.com/lessons/14-imagination-as-an-instrument
+- https://shapesmusic.com/player/24-exercises
+- https://shapesmusic.com/player/32-exercises
+- https://shapesmusic.com/writing/shape-and-standard-notation
+- https://shapesmusic.github.io/Player-Sketch/current/
+
+
+
 ### Intro: Playing With a Shape
 
 Shapes is a music method that begins by showing you how to play along with any song you hear, right away, even if you've never touched an instrument before. It taps in to the same kind of intuition that an experienced musician has once they've internalized all the ideas they've learned, and then gradually builds more traditional ideas out of that feeling.

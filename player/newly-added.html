@@ -28,7 +28,7 @@
     var currentVideo = -1;
 
     // Fetch the videos from the database
-    const VIDEOS_ENDPOINT = 'https://api-9q2sw.ondigitalocean.app/current';
+    const VIDEOS_ENDPOINT = 'https://api-9q2sw.ondigitalocean.app/newly-added';
     let promise = fetch(VIDEOS_ENDPOINT)
       .then(response => response.json())
       .then(data => {

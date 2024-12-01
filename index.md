@@ -1,67 +1,50 @@
 *A Music Method for the Expert Beginner*
 
-<img src="" alt="What single image best captures a first impression for Shapes? May 2018 CoLab pic?" style="display: block; margin: 0 auto; width: 100%; height: auto;">
+<img src="./media/banner.png" alt="Draft banner image: A Centered Keyboard and a Shape in a music video-as-world." style="display: block; margin: 0 auto; width: 100%; height: auto;">
 
 
 
-#### Hello
+#### Welcome to Shapes
 
-Shapes offers a way to quickly begin connecting your musical intuition with the wide world of musical tools, instruments, and concepts. 
+Shapes is a music learning method that zooms out from traditional ideas like chord, scale, and key, and introduces a different kind of concept—a Shape—that lets you immediately start playing along with any song you hear. It taps into the feeling an experienced musician has once they've internalized years of study,  and reimagines the notion of musical "basics" from the top down.
 
-It zooms out from traditional ideas like chord, scale, and key, and introduces a different kind of concept—a Shape—that lets you immediately play along with any song you hear. Playing with a Shape taps into the same feeling an experienced musician has once they've internalized years of learning. 
+While most methods are concerned with how to present established musical concepts, Shapes is concerned with the design of the concepts themselves. A Shape presents an idea that doesn't quite exist in standard music theory&mdash;it's much like a key signature, but it works at the level of a song's chords. This subtle shift opens the door to entirely new possibilities for learning music, and to a different way of understanding traditional musical concepts.
 
-And from this intuitive experience of playing, Shapes rebuilds…
-
-
-
----
-
-You can try the Basics Course, the best way to learn about Shapes
-
-You can sign up for a workshop. Explore a range of subjects if you want to learn or teach Shapes
-
-​	suggest a workshop?
-
-You can subscribe to the *Shapes Notebook*, 
-
-
+More broadly, Shapes offers a vision for how a concept can work: not as a prescription for what to do, but as an environment to playfully explore and refine your intuitions. This positions music learning as a valuable model for other areas of learning, and for living creatively in a world that's both highly rational and endlessly mysterious.
 
 
 
 ---
 
+#### The Shapes Basics Course
+
+The best way to get to know Shapes is to dive into the Shapes Basics self-learning course. This series of short videos, activities, and writings is the result of nearly two decades of lessons and workshops, and was developed as a PhD thesis at Harvard University.
+
+Watch the first level video to get a feel for how it works:
+
+<style>
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+  iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+<div class='embed-container'>
+  <iframe src='https://www.youtube.com/embed/J1Ks_ve2h1I?rel=0&cc_load_policy=1' frameborder='0' allowfullscreen></iframe>
+</div>
+And if that seems interesting, [check out the full course](./basics/index.md).
 
 
 
+---
 
-Welcome to Shapes! a music method that gives access to a deeper level than what's usually possible. lets you play with songs, imagine sounds, and see music notation in a different way. it has developed through hundreds of lessons, and workshops in ASAS, etc. The best way to start getting to know Shapes is by getting into the self-learning course, which was developed as part of a PhD thesis at Harvard University. although it looks very different from traditional music learning, it's designed to enrich your experience of both established and emerging ideas in music, and to provide a foundation for the various music-learning opportunities you encounter throughout your life. 
-
-- check out the Basics course
-
-- learn more about the philosophy and theory behind Shapes
-
-- Join the growing community of Shapes learners and teachers
-
-
-
-Shapes is...
-
-this should be a video, really, with minimal text surrounding it.
-
-​	possibly several videos: an overview and some deeper cuts. modular dissertation talk /writing/about.md. 
-
-and description of the structure of products. clear options for what to do here, not just information on what it's about.
-
-roles: learner, teacher... a teacher is just a more experienced learner
-
-- for the beginner it lets you access the intuition of an expert. for the expert it lets you reassess/rediscover the things you know as a beginner
-- start with a very clear statement: it's a music method that lets you
-  - play along with any song
-  - rethink the way you read music
-  - (and something about ears)
-- it's unique in terms of its philosophy, theory, and methodology.
-- the best way to get to know Shapes is to dive into a very comprehensive self-study course that's just openly available. it takes some self-starting, but gives you a lot of content to work with.
-- shapes creates a foundation that gives you a big advantage in studying any other music learning resource (that idea, anyway)
-- give real content in the first impression, though. not just some vague big picture stuff that could apply to any method.
-- What Eyal noticed, it’s a way of focusing on something deeper, not just the surface layer, from the beginning. Giving beginners access to something deeper. and also its value as a compositional tool
-- and: have you tried it with actual students...?
+🚧 This is a draft. More soon... 🚧

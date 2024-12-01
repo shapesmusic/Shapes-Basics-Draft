@@ -2,16 +2,19 @@
 
 <img src="../map/map.png" alt="shapes method map" style="display: block; margin: 0 auto; width: 100%; height: auto;">
 
-Shapes Basics is a self-study course that gives you a foundation in all the basic skills and concepts in Shapes.
+**Shapes Basics** is a self-study course that introduces you to the basic skills and concepts in Shapes.
 
+It's organized as a progression of bite-sized videos and activities around the following skill sets:  
 
-
-Skills:  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: purple;"><strong>&bull;</strong> Playing With Songs</em>  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: blue;"><strong>&bull;</strong> Tactile Reading</em>  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: red;"><strong>&bull;</strong> Chord & Key Levels</em>  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: green;"><strong>&bull;</strong> Tonescapes & Tensions</em>  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: orange;"><strong>&bull;</strong> Reading Imagery</em>
+
+
+
+### Levels:
 
 <strong style="color: purple;">&bull;</strong> [Level 1: A Shape](levels/01-a-shape)  
 &nbsp;&nbsp;&nbsp;[Commentary: Why Music Videos?](writing/why-music-videos)  
@@ -58,7 +61,7 @@ Skills:
 
 
 
-### By Skill Series
+### Skill Sets:
 
 <strong style="color: purple;">Playing With Songs</strong>
 

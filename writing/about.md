@@ -25,7 +25,7 @@
 </div>
 
 
-🚧🚜 This is under construction: Rebuilding a shorter, reorganized version of [this talk](https://www.youtube.com/watch?v=2hPk2oMUgcs). 🚧
+🚧🚜 This is under construction: Rebuilding a shorter, reorganized, modular version of [this talk](https://www.youtube.com/watch?v=2hPk2oMUgcs). 🚧
 
 ### Chapter Outline
 

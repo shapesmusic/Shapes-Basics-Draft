@@ -1,10 +1,10 @@
 ### The Shapes Basics Course
 
-<img src="../map/map.png" alt="shapes method map" style="display: block; margin: 0 auto; width: 100%; height: auto;">
+<img src="map/map.png" alt="shapes method map" style="display: block; margin: 0 auto; width: 100%; height: auto;">
 
 **Shapes Basics** is a self-study course that introduces you to the basic skills and concepts in Shapes.
 
-It's organized as a progression of bite-sized videos and activities around the following skill sets:  
+It's organized as a progression of short videos and activities around the following skill sets:  
 
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: purple;"><strong>&bull;</strong> Playing With Songs</em>  
 &nbsp;&nbsp;&nbsp;&nbsp;<em style="color: blue;"><strong>&bull;</strong> Tactile Reading</em>  

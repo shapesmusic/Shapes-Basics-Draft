@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <!-- moment -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-duration-format/1.3.0/moment-duration-format.min.js"></script>
+
+  <!-- the stylesheet -->
+  <link rel="stylesheet/less" type="text/css" href="styles.less" />
+  <!-- less.js (a CSS preprocessor) -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.0.0/less.min.js"></script>
+
+  <!-- jQuery -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+  <script>
+    // Load the IFrame Player API code asynchronously.
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+    // Define variables
+    var player;
+    var vids;
+    var currentVideo = -1;
+
+    // Fetch the videos from the database
+    const VIDEOS_ENDPOINT = 'https://api-9q2sw.ondigitalocean.app/current';
+    let promise = fetch(VIDEOS_ENDPOINT)
+      .then(response => response.json())
+      .then(data => {
+        vids = data;
+      });
+
+    function playFirstVideo() {
+      Promise.all([promise]).then(() => {
+        playNext();
+      });
+      player.mute();
+    }
+
+    let playerConfig = {
+      playerVars: {
+        controls: 0,
+        modestbranding: 0,
+        rel: 0,
+        disablekb: 1,
+        iv_load_policy: 3
+      },
+      events: {
+        'onReady': playFirstVideo,
+        'onStateChange': onPlayerStateChange
+      }
+    };
+
+    function onYouTubePlayerAPIReady() {
+      player = new YT.Player('player', playerConfig);
+    }
+
+    function onPlayerStateChange(event) {
+      if (event.data === YT.PlayerState.ENDED) {
+        playNext();
+      } else if (event.data === YT.PlayerState.PLAYING) {
+        $('#player').addClass('active');
+      } else if (event.data === YT.PlayerState.PAUSED) {
+        $('#player').removeClass('active');
+      }
+
+      $('.hinfo em:first-of-type').html(vids[currentVideo].title);
+      $('.hinfo em:nth-of-type(2)').html(vids[currentVideo].artist_name);
+      $('.hinfo em:nth-of-type(3)').html(moment(vids[currentVideo].publication_date, 'ddd, DD MMM YYYY HH:mm:ss GMT').format('MMM DD, YYYY'));
+    }
+
+    function loadVideo(videoIndex) {
+      loadDate = new Date();
+      loadStamp = loadDate.getTime();
+
+      videoId = vids[videoIndex].video_id;
+      startDur = vids[videoIndex].start_time;
+      endDur = vids[videoIndex].end_time;
+
+      startSeconds = moment.duration(startDur).format("s");
+      endSeconds = moment.duration(endDur).format("s");
+
+      player.loadVideoById({
+        videoId: videoId,
+        startSeconds: startSeconds,
+        endSeconds: endSeconds
+      });
+    }
+
+    function playNext() {
+      if (vids === undefined) return;
+      currentVideo = (currentVideo < vids.length - 1) ? currentVideo + 1 : 0;
+      loadVideo(currentVideo);
+    }
+
+    function playPrevious() {
+      if (vids === undefined) return;
+      currentVideo = (currentVideo > 0) ? currentVideo - 1 : vids.length - 1;
+      loadVideo(currentVideo);
+    }
+
+    $(window).on('load resize', function() {
+      var w = $(window).width() + 200,
+        h = $(window).height() + 200;
+
+      if (w / h > 16 / 9) {
+        player.setSize(w, w / 16 * 9);
+        $('.player .screen').css({ 'left': '0px' });
+      } else {
+        player.setSize(h / 9 * 16, h);
+        $('.player .screen').css({
+          'left': -($('.player .screen').outerWidth() - w) / 2
+        });
+      }
+    });
+  </script>
+
+</head>
+
+<body>
+
+  <div class="player">
+    <div class="screen mute" id="player"></div>
+  </div>
+
+  <div class="cover">
+    <div class="hinfo">
+      <em>A Song...</em><br>
+      by <em>An Artist...</em><br>
+      <em>MMM DD, YYYY</em><br>
+      <a href="javascript:void(0);" id="muteToggle">Unmute</a><br>
+
+      <br><button onclick="playNext()">Next Song</button>
+      <br><button onclick="playPrevious()">Go Back</button>
+    </div>
+  </div>
+
+  <script>
+    $('#muteToggle').on('click', function() {
+      $('#player').toggleClass('mute');
+      if ($('#player').hasClass('mute')) {
+        player.mute();
+        $(this).text('Unmute');
+      } else {
+        player.unMute();
+        $(this).text('Mute');
+      }
+    });
+  </script>
+
+</body>
+
+</html>

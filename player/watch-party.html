@@ -71,7 +71,8 @@
 
       $('.hinfo em:first-of-type').html(vids[currentVideo].title);
       $('.hinfo em:nth-of-type(2)').html(vids[currentVideo].artist_name);
-      $('.hinfo em:nth-of-type(3)').html(moment(vids[currentVideo].publication_date, 'ddd, DD MMM YYYY HH:mm:ss GMT').format('MMM DD, YYYY'));
+      $('.hinfo em:nth-of-type(3)').html(moment(vids[currentVideo].publication_date, 'ddd, DD MMM YYYY HH:mm:ss [GMT]').format('MMM DD, YYYY'));
+      $('.hinfo em:nth-of-type(4)').html(vids[currentVideo].id);
     }
 
     function loadVideo(videoIndex) {
@@ -132,10 +133,11 @@
     <div class="hinfo">
       <em>A Song...</em><br>
       by <em>An Artist...</em><br>
-      <em>MMM DD, YYYY</em><br>
+      <em>Publication Date</em><br>
+      <em>ID</em><br>
       <a href="javascript:void(0);" id="muteToggle">Unmute</a><br>
 
-      <br><button onclick="playNext()">Next Song</button>
+      <br><button onclick="playNext()">Try Another</button>
       <br><button onclick="playPrevious()">Go Back</button>
     </div>
   </div>

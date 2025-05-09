@@ -81,7 +81,7 @@ Have fun with this, and take your time. And when you feel comfortable reading th
 Notation: Original and Half Notes
 
 <embed
-	src="https://shapesmusic.com/media/reading_tactile_6.pdf"
+	src="https://shapesmusic.github.io/Shapes-Basics-Draft/media/reading_tactile_6.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"
@@ -91,7 +91,7 @@ Notation: Original and Half Notes
 Notation: Add Quarter Notes
 
 <embed
-	src="https://shapesmusic.com/media/reading_tactile_7.pdf"
+	src="https://shapesmusic.github.io/Shapes-Basics-Draft/media/reading_tactile_7.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"
@@ -101,7 +101,7 @@ Notation: Add Quarter Notes
 Notation: Add Eighth Notes
 
 <embed
-	src="https://shapesmusic.com/media/reading_tactile_8.pdf"
+	src="https://shapesmusic.github.io/Shapes-Basics-Draft/media/reading_tactile_8.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"

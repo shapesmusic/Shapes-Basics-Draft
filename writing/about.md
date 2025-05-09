@@ -42,20 +42,20 @@
 
 ### Links / Resources
 
-- https://shapesmusic.com/lessons/03-a-group
-- https://shapesmusic.com/player/a-shape
-- https://shapesmusic.com/player/a-group
-- https://shapesmusic.com/player/reading-1
-- https://shapesmusic.com/player/reading-3
-- https://shapesmusic.com/lessons/08-matching-a-shape
+- https://shapesmusic.github.io/Shapes-Basics-Draft/lessons/03-a-group
+- https://shapesmusic.github.io/Shapes-Basics-Draft/player/a-shape
+- https://shapesmusic.github.io/Shapes-Basics-Draft/player/a-group
+- https://shapesmusic.github.io/Shapes-Basics-Draft/player/reading-1
+- https://shapesmusic.github.io/Shapes-Basics-Draft/player/reading-3
+- https://shapesmusic.github.io/Shapes-Basics-Draft/lessons/08-matching-a-shape
 - https://www.youtube.com/watch?v=JXgV1rXUoME
 - https://www.youtube.com/watch?v=Zc3cxj5pDIs
 - https://www.youtube.com/watch?v=DEzREJbln-o
-- https://shapesmusic.com/lessons/13-a-tonescape-and-tensions
-- https://shapesmusic.com/lessons/14-imagination-as-an-instrument
-- https://shapesmusic.com/player/24-exercises
-- https://shapesmusic.com/player/32-exercises
-- https://shapesmusic.com/writing/shape-and-standard-notation
+- https://shapesmusic.github.io/Shapes-Basics-Draft/lessons/13-a-tonescape-and-tensions
+- https://shapesmusic.github.io/Shapes-Basics-Draft/lessons/14-imagination-as-an-instrument
+- https://shapesmusic.github.io/Shapes-Basics-Draft/player/24-exercises
+- https://shapesmusic.github.io/Shapes-Basics-Draft/player/32-exercises
+- https://shapesmusic.github.io/Shapes-Basics-Draft/writing/shape-and-standard-notation
 - https://shapesmusic.github.io/Player-Sketch/current/
 
 

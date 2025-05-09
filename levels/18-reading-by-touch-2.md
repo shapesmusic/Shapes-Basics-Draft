@@ -60,7 +60,7 @@ So give it a try. And when you feel comfortable reading the second notation in t
 Notation: Thumbs
 
 <embed
-	src="https://shapesmusic.com/media/reading_tactile_3.pdf"
+	src="https://shapesmusic.github.io/Shapes-Basics-Draft/media/reading_tactile_3.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"
@@ -71,7 +71,7 @@ Notation: Thumbs
 Notation: Pivot
 
 <embed
-	src="https://shapesmusic.com/media/reading_tactile_4.pdf"
+	src="https://shapesmusic.github.io/Shapes-Basics-Draft/media/reading_tactile_4.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"

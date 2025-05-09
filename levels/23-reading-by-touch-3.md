@@ -61,7 +61,7 @@ And when you feel comfortable reading in different shapes and anchors along with
 Notation: Moveable Anchor
 
 <embed
-	src="https://shapesmusic.com/media/reading_tactile_5.pdf"
+	src="https://shapesmusic.github.io/Shapes-Basics-Draft/media/reading_tactile_5.pdf"
 	type="application/pdf"
 	width="100%"
 	height="500px"

@@ -82,3 +82,63 @@ It's organized as a progression of short videos and activities around the follow
 <strong style="color: orange;">Reading Imagery</strong> (audio)
 
 [Level 14](levels/14-imagination-as-an-instrument) introduces imagery. [Level 16](levels/16-reading-by-ear) uses notation to draw two additional notes out of the tonescape. [Level 20](levels/20-reading-by-ear-2) expands to three moods. [Level 22](levels/22-reading-by-ear-3), [26](levels/26-reading-by-ear-4), and [29](levels/29-mood-notes) expand to hearing all tensions in all moods. And [Level 32](levels/32-free-play) is free play imagery in all moods.
+
+
+
+---
+
+### mini-courses
+
+
+
+### 0. Foundations
+
+[Level 1: A Shape](levels/01-a-shape)  
+📝 [Commentary: Why Music Videos?](writing/why-music-videos)  
+[Level 2: Different Shapes](levels/02-different-shapes)  
+📝 [Commentary: What Is a Shape?](writing/what-is-a-shape)  
+[Level 3: A Group of Shapes](levels/03-a-group)  
+📝 [Commentary: Is This the Circle of Fifths?](writing/circle-of-fifths)  
+[Level 4: Shape Fingerings](levels/04-shape-fingerings)  
+📝 [Commentary: The Centered Keyboard](writing/centered-keyboard)  
+[Level 5: The Anchor Note](levels/05-the-anchor-note)  
+📝 [Commentary: What is the Anchor?](writing/what-is-the-anchor)  
+
+
+
+### 1. Playing With Shapes
+
+[Level 6: Playing With the Anchor](levels/06-playing-with-the-anchor)  
+📝 [Commentary: Musical Structures](writing/musical-structures)  
+[Level 7: Bass Notes](levels/07-bass-notes)   
+[Level 8: Matching A Shape](levels/08-matching-a-shape)  
+[Level 10: Changes](levels/10-changes)  
+📝 [Commentary: Chord and Key Levels](writing/chord-and-key-levels)  
+[Level 11: Groups of Shapes](levels/11-groups-of-shapes)  
+
+
+
+### 2. Tonescapes Ear Opening
+
+[Level 13: A Tonescape and Tensions](levels/13-a-tonescape-and-tensions)  
+[Level 14: Imagination as an Instrument](levels/14-imagination-as-an-instrument)  
+[Level 15: Two Higher and Lower](levels/15-two-higher-and-lower)  
+📝 [Commentary: What is a Tonescape?](writing/what-is-a-tonescape)  
+[Level 16: Reading by Ear](levels/16-reading-by-ear)  
+[Level 17: Switch To Number Names](levels/17-switch-to-number-names)  
+[Level 19: Moods](levels/19-moods)  
+⚠️  [Level 20: Reading by Ear Part 2](levels/20-reading-by-ear-2)  
+[Level 21: Light and Heavy Tensions](levels/21-light-and-heavy-tensions)  
+⚠️  [Level 22: Reading by Ear Part 3](levels/22-reading-by-ear-3)  
+[Level 24: Moods and Tensions Together](levels/24-moods-and-tensions-together)  
+[Level 25: Getting Inside of Moods](levels/25-getting-inside-of-moods)  
+⚠️  [Level 26: Reading by Ear Part 4](levels/26-reading-by-ear-4)  
+[Level 28: All Moods and Tensions](levels/28-all-moods-and-tensions) 
+⚠️  [Level 29: Mood Notes](levels/29-mood-notes)  
+[ Level 31: Independent Solfege](levels/31-independent-solfege)  
+[Level 32: Free Play](levels/32-free-play)  
+
+
+
+### 3. Shapes Basics (adds notation)
+

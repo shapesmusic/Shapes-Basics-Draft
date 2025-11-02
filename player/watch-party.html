@@ -28,7 +28,7 @@
     var currentVideo = -1;
 
     // Fetch the videos from the database
-    const VIDEOS_ENDPOINT = 'https://api-9q2sw.ondigitalocean.app/current';
+    const VIDEOS_ENDPOINT = 'https://api-9q2sw.ondigitalocean.app/songs?nmt=latest';
     let promise = fetch(VIDEOS_ENDPOINT)
       .then(response => response.json())
       .then(data => {
@@ -71,7 +71,7 @@
 
       $('.hinfo em:first-of-type').html(vids[currentVideo].title);
       $('.hinfo em:nth-of-type(2)').html(vids[currentVideo].artist_name);
-      $('.hinfo em:nth-of-type(3)').html(moment(vids[currentVideo].publication_date, 'ddd, DD MMM YYYY HH:mm:ss [GMT]').format('MMM DD, YYYY'));
+      $('.hinfo em:nth-of-type(3)').html(moment(vids[currentVideo].publication_date).format('MMM DD, YYYY'));
       $('.hinfo em:nth-of-type(4)').html(vids[currentVideo].id);
     }
 

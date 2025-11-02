@@ -100,6 +100,7 @@ It's organized as a progression of short videos and activities around the follow
 [Level 3: A Group of Shapes](levels/03-a-group)  
 📝 [Commentary: Is This the Circle of Fifths?](writing/circle-of-fifths)  
 [Level 4: Shape Fingerings](levels/04-shape-fingerings)  
+	- this is really related to notation. because it gives you just the TOP shape, and it's the tactile sequence that builds it out.
 📝 [Commentary: The Centered Keyboard](writing/centered-keyboard)  
 [Level 5: The Anchor Note](levels/05-the-anchor-note)  
 📝 [Commentary: What is the Anchor?](writing/what-is-the-anchor)  
